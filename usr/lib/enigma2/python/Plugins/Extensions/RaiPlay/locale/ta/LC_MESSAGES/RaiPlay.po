@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:10+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <tamil@systemreboot.net>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z அனைத்து நிரல்களும்"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z வானொலி நிகழ்ச்சிகள்"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z டிவி நிகழ்ச்சிகள்"
+
+msgid "Activate Debug for messages developer."
+msgstr "செய்தி டெவலப்பருக்கான பிழைத்திருத்தத்தை செயல்படுத்தவும்."
+
+msgid "Active Debug"
+msgstr "செயலில் பிழைத்திருத்தம்"
+
+msgid "Added to queue: {}"
+msgstr "வரிசையில் சேர்க்கப்பட்டது: {}"
+
+msgid "All Programs"
+msgstr "அனைத்து நிகழ்ச்சிகளும்"
+
+msgid "Archive URL not found"
+msgstr "காப்பக URL கிடைக்கவில்லை"
+
+msgid "Back"
+msgstr "மீண்டும்"
+
+msgid "Barry Allen"
+msgstr "பேரி ஆலன்"
+
+msgid "Choose action for: {}"
+msgstr "இதற்கான செயலைத் தேர்வு செய்யவும்: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "நகல்களில் இருந்து வரிசையை சுத்தம் செய்யவும்"
+
+msgid "Content type not recognized"
+msgstr "உள்ளடக்க வகை அங்கீகரிக்கப்படவில்லை"
+
+msgid "Could not find video URL"
+msgstr "வீடியோ URL ஐக் கண்டுபிடிக்க முடியவில்லை"
+
+msgid "Could not load program content"
+msgstr "நிரல் உள்ளடக்கத்தை ஏற்ற முடியவில்லை"
+
+msgid "Crime"
+msgstr "குற்றம்"
+
+msgid "Crime Investigations"
+msgstr "குற்ற விசாரணைகள்"
+
+msgid "Default Folder"
+msgstr "இயல்புநிலை கோப்புறை"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "மூவி கோப்புகளைத் திறந்து சேமிப்பதற்கான இயல்புநிலை கோப்புறை"
+
+msgid "Documentaries"
+msgstr "ஆவணப்படங்கள்"
+
+msgid "Download"
+msgstr "பதிவிறக்கவும்"
+
+msgid "Download Manager"
+msgstr "பதிவிறக்க மேலாளர்"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "பதிவிறக்கம் அகற்றப்பட்டது: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "பதிவிறக்கம் தொடங்கியது: {}"
+
+msgid "Download stopped: {}"
+msgstr "பதிவிறக்கம் நிறுத்தப்பட்டது: {}"
+
+msgid "Enter search query"
+msgstr "தேடல் வினவலை உள்ளிடவும்"
+
+msgid "Entertainment"
+msgstr "பொழுதுபோக்கு"
+
+msgid "Error adding download"
+msgstr "பதிவிறக்கத்தைச் சேர்ப்பதில் பிழை"
+
+msgid "Error extracting video URL"
+msgstr "வீடியோ URL ஐ பிரித்தெடுப்பதில் பிழை"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A-Z நிரல்களை ஏற்றுவதில் பிழை: {}"
+
+msgid "Error loading archive data"
+msgstr "காப்பகத் தரவை ஏற்றுவதில் பிழை"
+
+msgid "Error loading archive data: {}"
+msgstr "காப்பகத் தரவை ஏற்றுவதில் பிழை: {}"
+
+msgid "Error loading content from API"
+msgstr "API இலிருந்து உள்ளடக்கத்தை ஏற்றுவதில் பிழை"
+
+msgid "Error loading data"
+msgstr "தரவை ஏற்றுவதில் பிழை"
+
+msgid "Error loading data: %s"
+msgstr "தரவை ஏற்றுவதில் பிழை: %s"
+
+msgid "Error loading data: {}"
+msgstr "தரவை ஏற்றுவதில் பிழை: {}"
+
+msgid "Error loading video data"
+msgstr "வீடியோ தரவை ஏற்றுவதில் பிழை"
+
+msgid "Error loading video page"
+msgstr "வீடியோ பக்கத்தை ஏற்றுவதில் பிழை"
+
+msgid "Error loading videos:"
+msgstr "வீடியோக்களை ஏற்றுவதில் பிழை:"
+
+msgid "Error parsing content"
+msgstr "உள்ளடக்கத்தை பாகுபடுத்துவதில் பிழை"
+
+msgid "Error parsing data"
+msgstr "தரவைப் பாகுபடுத்துவதில் பிழை"
+
+msgid "Error parsing video data: {}"
+msgstr "வீடியோ தரவை அலசுவதில் பிழை: {}"
+
+msgid "Error playing file: {}"
+msgstr "கோப்பை இயக்குவதில் பிழை: {}"
+
+msgid "Error playing stream: {}"
+msgstr "ஸ்ட்ரீம் விளையாடுவதில் பிழை: {}"
+
+msgid "Error playing video:"
+msgstr "வீடியோவை இயக்குவதில் பிழை:"
+
+msgid "Error processing archive"
+msgstr "காப்பகத்தை செயலாக்குவதில் பிழை"
+
+msgid "Error processing thematic content"
+msgstr "கருப்பொருள் உள்ளடக்கத்தை செயலாக்குவதில் பிழை"
+
+msgid "Error starting plugin"
+msgstr "செருகுநிரலைத் தொடங்குவதில் பிழை"
+
+msgid "Error: Could not load news data"
+msgstr "பிழை: செய்தித் தரவை ஏற்ற முடியவில்லை"
+
+msgid "Error: Download manager not available"
+msgstr "பிழை: பதிவிறக்க மேலாளர் கிடைக்கவில்லை"
+
+msgid "Exclusive Programs"
+msgstr "பிரத்தியேக நிகழ்ச்சிகள்"
+
+msgid "Extracting video URL..."
+msgstr "வீடியோ URL ஐ பிரித்தெடுக்கிறது..."
+
+msgid "File not found: {}"
+msgstr "கோப்பு கிடைக்கவில்லை: {}"
+
+msgid "Films"
+msgstr "திரைப்படங்கள்"
+
+msgid "Found {0} programs for: {1}"
+msgstr "இதற்கான {0} திட்டங்கள் உள்ளன: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "இலவச இடம்: {total} இல் {இலவசம்}"
+
+msgid "Games & Quizzes"
+msgstr "விளையாட்டு & வினாடி வினா"
+
+msgid "HDD Drive"
+msgstr "HDD இயக்ககம்"
+
+msgid "History & Art"
+msgstr "வரலாறு & கலை"
+
+msgid "Initializing..."
+msgstr "துவக்குகிறது..."
+
+msgid "International Series"
+msgstr "சர்வதேச தொடர்"
+
+msgid "Invalid video URL detected"
+msgstr "தவறான வீடியோ URL கண்டறியப்பட்டது"
+
+msgid "Italian Series"
+msgstr "இத்தாலிய தொடர்"
+
+msgid "Kids"
+msgstr "குழந்தைகள்"
+
+msgid "Learning"
+msgstr "கற்றல்"
+
+msgid "Lifestyle"
+msgstr "வாழ்க்கை முறை"
+
+msgid "Live Radio"
+msgstr "நேரடி வானொலி"
+
+msgid "Live TV"
+msgstr "நேரலை டிவி"
+
+msgid "Loading all programs..."
+msgstr "அனைத்து நிரல்களையும் ஏற்றுகிறது..."
+
+msgid "Loading all videos... Please wait"
+msgstr "அனைத்து வீடியோக்களையும் ஏற்றுகிறது... காத்திருக்கவும்"
+
+msgid "Loading archive data..."
+msgstr "காப்பகத் தரவை ஏற்றுகிறது..."
+
+msgid "Loading archive..."
+msgstr "காப்பகத்தை ஏற்றுகிறது..."
+
+msgid "Loading complete! Select an option"
+msgstr "ஏற்றுதல் முடிந்தது! ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Loading data... Please wait"
+msgstr "தரவை ஏற்றுகிறது... காத்திருக்கவும்"
+
+msgid "Loading news categories..."
+msgstr "செய்தி வகைகளை ஏற்றுகிறது..."
+
+msgid "Loading news items..."
+msgstr "செய்திகளை ஏற்றுகிறது..."
+
+msgid "Loading on-air programs..."
+msgstr "ஒளிபரப்பு நிகழ்ச்சிகளை ஏற்றுகிறது..."
+
+msgid "Loading program data"
+msgstr "நிரல் தரவை ஏற்றுகிறது"
+
+msgid "Loading program details..."
+msgstr "நிரல் விவரங்களை ஏற்றுகிறது..."
+
+msgid "Loading programs..."
+msgstr "நிரல்களை ஏற்றுகிறது..."
+
+msgid "Loading videos..."
+msgstr "வீடியோக்களை ஏற்றுகிறது..."
+
+msgid "Music"
+msgstr "இசை"
+
+msgid "Music & Theater"
+msgstr "இசை & தியேட்டர்"
+
+msgid "Music Classic"
+msgstr "இசை கிளாசிக்"
+
+msgid "Network Storage"
+msgstr "பிணைய சேமிப்பு"
+
+msgid "News & Documentaries"
+msgstr "செய்தி & ஆவணப்படங்கள்"
+
+msgid "News Categories"
+msgstr "செய்தி வகைகள்"
+
+msgid "Next page"
+msgstr "அடுத்த பக்கம்"
+
+msgid "No TV channels available"
+msgstr "டிவி சேனல்கள் இல்லை"
+
+msgid "No archive data found"
+msgstr "காப்பக தரவு எதுவும் இல்லை"
+
+msgid "No categories available"
+msgstr "வகைகள் இல்லை"
+
+msgid "No content available"
+msgstr "உள்ளடக்கம் இல்லை"
+
+msgid "No content found in this program"
+msgstr "இந்தத் திட்டத்தில் எந்த உள்ளடக்கமும் இல்லை"
+
+msgid "No downloads"
+msgstr "பதிவிறக்கங்கள் இல்லை"
+
+msgid "No downloads in queue"
+msgstr "வரிசையில் பதிவிறக்கங்கள் இல்லை"
+
+msgid "No editions available"
+msgstr "பதிப்புகள் இல்லை"
+
+msgid "No episodes available"
+msgstr "எபிசோடுகள் இல்லை"
+
+msgid "No items available"
+msgstr "பொருட்கள் எதுவும் கிடைக்கவில்லை"
+
+msgid "No items found"
+msgstr "பொருட்கள் எதுவும் கிடைக்கவில்லை"
+
+msgid "No items found in this archive"
+msgstr "இந்தக் காப்பகத்தில் உருப்படிகள் எதுவும் இல்லை"
+
+msgid "No items found in this category"
+msgstr "இந்த வகையில் உருப்படிகள் எதுவும் இல்லை"
+
+msgid "No main theme found"
+msgstr "முக்கிய தீம் எதுவும் இல்லை"
+
+msgid "No program URL available"
+msgstr "நிரல் URL இல்லை"
+
+msgid "No program categories available"
+msgstr "நிரல் வகைகள் இல்லை"
+
+msgid "No programs available for this day"
+msgstr "இந்த நாளுக்கான திட்டங்கள் எதுவும் இல்லை"
+
+msgid "No programs currently on air"
+msgstr "தற்போது எந்த நிகழ்ச்சிகளும் ஒளிபரப்பப்படவில்லை"
+
+msgid "No programs found for:"
+msgstr "இதற்கான திட்டங்கள் எதுவும் இல்லை:"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z பட்டியலில் எந்த நிரல்கள் இல்லை"
+
+msgid "No sports categories available"
+msgstr "விளையாட்டு வகைகள் இல்லை"
+
+msgid "No stream URL available"
+msgstr "ஸ்ட்ரீம் URL இல்லை"
+
+msgid "No video URL available"
+msgstr "வீடியோ URL இல்லை"
+
+msgid "No video URL found in the response"
+msgstr "பதிலில் வீடியோ URL எதுவும் இல்லை"
+
+msgid "No videos available"
+msgstr "வீடியோக்கள் இல்லை"
+
+msgid "No videos found"
+msgstr "வீடியோக்கள் எதுவும் இல்லை"
+
+msgid "No videos found in archive"
+msgstr "காப்பகத்தில் வீடியோக்கள் எதுவும் இல்லை"
+
+msgid "On Air Programs"
+msgstr "ஆன் ஏர் நிகழ்ச்சிகள்"
+
+msgid "On Demand"
+msgstr "ஆன் டிமாண்ட்"
+
+msgid "Originals"
+msgstr "அசல்"
+
+msgid "Page"
+msgstr "பக்கம்"
+
+msgid "Page with duplicate"
+msgstr "நகல் கொண்ட பக்கம்"
+
+msgid "Pagination not supported for this archive"
+msgstr "இந்த காப்பகத்திற்கு பேஜினேஷன் ஆதரிக்கப்படவில்லை"
+
+msgid "Play"
+msgstr "விளையாடு"
+
+msgid "Play & Download"
+msgstr "விளையாடவும் & பதிவிறக்கவும்"
+
+msgid "Play/pause not supported for this stream"
+msgstr "இந்த ஸ்ட்ரீமில் ப்ளே/இடைநிறுத்தம் ஆதரிக்கப்படவில்லை"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "நிரல் பட்டியல் இன்னும் ஏற்றப்படுகிறது. தயவுசெய்து காத்திருங்கள்..."
+
+msgid "Programs"
+msgstr "நிகழ்ச்சிகள்"
+
+msgid "Query too short (min 3 characters)"
+msgstr "வினவல் மிகவும் சிறியது (குறைந்தது 3 எழுத்துகள்)"
+
+msgid "Radio Programs A-Z"
+msgstr "வானொலி நிகழ்ச்சிகள் A-Z"
+
+msgid "Rai News"
+msgstr "ராய் செய்திகள்"
+
+msgid "Rai Play Live"
+msgstr "ராய் ப்ளே லைவ்"
+
+msgid "Rai Play Live Radio"
+msgstr "ராய் ப்ளே லைவ் ரேடியோ"
+
+msgid "Rai Play Main"
+msgstr "ராய் ப்ளே மெயின்"
+
+msgid "Rai Play On Demand"
+msgstr "ராய் ப்ளே ஆன் டிமாண்ட்"
+
+msgid "Rai Play Programs"
+msgstr "ராய் விளையாட்டு நிகழ்ச்சிகள்"
+
+msgid "Rai Play Replay TV"
+msgstr "ராய் ப்ளே ரீப்ளே டிவி"
+
+msgid "Rai Play Replay:"
+msgstr "ராய் ப்ளே ரீப்ளே:"
+
+msgid "Rai Play Search"
+msgstr "ராய் ப்ளே தேடல்"
+
+msgid "Rai Sport"
+msgstr "ராய் ஸ்போர்ட்ஸ்"
+
+msgid "Rai Sport - Categories"
+msgstr "ராய் விளையாட்டு - வகைகள்"
+
+msgid "Rai Sport - Subcategories"
+msgstr "ராய் விளையாட்டு - துணைப்பிரிவுகள்"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay அமைப்புகள்"
+
+msgid "Remove"
+msgstr "அகற்று"
+
+msgid "Remove download: {}?"
+msgstr "பதிவிறக்கத்தை அகற்று: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "வரிசையில் இருந்து அகற்றப்பட்டது: {}"
+
+msgid "Replay TV"
+msgstr "டிவியை மீண்டும் இயக்கவும்"
+
+msgid "Search"
+msgstr "தேடு"
+
+msgid "Search error. Please try again."
+msgstr "தேடல் பிழை. மீண்டும் முயற்சிக்கவும்."
+
+msgid "Searching through programs..."
+msgstr "திட்டங்கள் மூலம் தேடுகிறது..."
+
+msgid "Select a category"
+msgstr "ஒரு வகையைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select a video"
+msgstr "வீடியோவைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select block"
+msgstr "தொகுதியைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select category"
+msgstr "வகையைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select channel"
+msgstr "சேனலைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select content set"
+msgstr "உள்ளடக்கத் தொகுப்பைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select date"
+msgstr "தேதியைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select edition"
+msgstr "பதிப்பைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select episode"
+msgstr "அத்தியாயத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select item"
+msgstr "உருப்படியைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select letter"
+msgstr "கடிதத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select program"
+msgstr "நிரலைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select program to watch"
+msgstr "பார்க்க நிரலைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select subcategory"
+msgstr "துணைப்பிரிவைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Select video"
+msgstr "வீடியோவைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Society & Culture"
+msgstr "சமூகம் & கலாச்சாரம்"
+
+msgid "Sports"
+msgstr "விளையாட்டு"
+
+msgid "Start"
+msgstr "தொடங்கு"
+
+msgid "Stop"
+msgstr "நிறுத்து"
+
+msgid "Stop the download first before removing"
+msgstr "அகற்றும் முன் பதிவிறக்கத்தை நிறுத்தவும்"
+
+msgid "Sustainability"
+msgstr "நிலைத்தன்மை"
+
+msgid "TGR and Special Programs"
+msgstr "TGR மற்றும் சிறப்பு நிகழ்ச்சிகள்"
+
+msgid "TV News"
+msgstr "தொலைக்காட்சி செய்திகள்"
+
+msgid "TV Programs A-Z"
+msgstr "டிவி நிகழ்ச்சிகள் A-Z"
+
+msgid "Talk Shows"
+msgstr "பேச்சு நிகழ்ச்சிகள்"
+
+msgid "Tech & Learning"
+msgstr "தொழில்நுட்பம் & கற்றல்"
+
+msgid "Teens"
+msgstr "பதின்ம வயதினர்"
+
+msgid "Temporary"
+msgstr "தற்காலிகமானது"
+
+msgid "Test download added to queue"
+msgstr "சோதனைப் பதிவிறக்கம் வரிசையில் சேர்க்கப்பட்டது"
+
+msgid "Test download failed"
+msgstr "சோதனை பதிவிறக்கம் தோல்வியடைந்தது"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "மொத்தம்: {total} | செயலில்: {active} | வரிசையில்: {வரிசையில்} | நிறைவு: {முடிந்தது} | பிழைகள்: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "பயணம் & சாகசம்"
+
+msgid "USB Drive"
+msgstr "USB டிரைவ்"
+
+msgid "Unknown content type"
+msgstr "அறியப்படாத உள்ளடக்க வகை"
+
+msgid "Unknown data format"
+msgstr "அறியப்படாத தரவு வடிவம்"
+
+msgid "Unknown title"
+msgstr "தெரியாத தலைப்பு"
+
+msgid "Video URL not available"
+msgstr "வீடியோ URL கிடைக்கவில்லை"
+
+msgid "Video URL not found"
+msgstr "வீடியோ URL கிடைக்கவில்லை"
+
+msgid "Video not available"
+msgstr "வீடியோ கிடைக்கவில்லை"
+
+msgid "View Full Archive"
+msgstr "முழு காப்பகத்தையும் காண்க"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "லுலுல்லாவின் ராய் பிளே செருகுநிரல்களுக்கு வரவேற்கிறோம்"

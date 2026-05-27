@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:30+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Alle programmer"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z radioprogrammer"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z tv-shows"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktiver fejlfinding for meddelelsesudvikler."
+
+msgid "Active Debug"
+msgstr "Aktiv debug"
+
+msgid "Added to queue: {}"
+msgstr "Tilføjet til køen: {}"
+
+msgid "All Programs"
+msgstr "Alle programmer"
+
+msgid "Archive URL not found"
+msgstr "Arkivwebadresse blev ikke fundet"
+
+msgid "Back"
+msgstr "Tilbage"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Vælg handling for: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Rens køen for dubletter"
+
+msgid "Content type not recognized"
+msgstr "Indholdstypen genkendes ikke"
+
+msgid "Could not find video URL"
+msgstr "Videoens URL kunne ikke findes"
+
+msgid "Could not load program content"
+msgstr "Kunne ikke indlæse programindhold"
+
+msgid "Crime"
+msgstr "Forbrydelse"
+
+msgid "Crime Investigations"
+msgstr "Kriminalitetsundersøgelser"
+
+msgid "Default Folder"
+msgstr "Standardmappe"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Standardmappe til åbning og lagring af filmfiler"
+
+msgid "Documentaries"
+msgstr "Dokumentarfilm"
+
+msgid "Download"
+msgstr ""
+
+msgid "Download Manager"
+msgstr ""
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Download fjernet: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Download startede: {}"
+
+msgid "Download stopped: {}"
+msgstr "Download stoppet: {}"
+
+msgid "Enter search query"
+msgstr "Indtast søgeforespørgsel"
+
+msgid "Entertainment"
+msgstr "Underholdning"
+
+msgid "Error adding download"
+msgstr "Fejl ved tilføjelse af download"
+
+msgid "Error extracting video URL"
+msgstr "Fejl ved udpakning af video-URL"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Fejl ved indlæsning af A-Z-programmer: {}"
+
+msgid "Error loading archive data"
+msgstr "Fejl ved indlæsning af arkivdata"
+
+msgid "Error loading archive data: {}"
+msgstr "Fejl ved indlæsning af arkivdata: {}"
+
+msgid "Error loading content from API"
+msgstr "Fejl ved indlæsning af indhold fra API"
+
+msgid "Error loading data"
+msgstr "Fejl ved indlæsning af data"
+
+msgid "Error loading data: %s"
+msgstr "Fejl ved indlæsning af data: %s"
+
+msgid "Error loading data: {}"
+msgstr "Fejl ved indlæsning af data: {}"
+
+msgid "Error loading video data"
+msgstr "Fejl ved indlæsning af videodata"
+
+msgid "Error loading video page"
+msgstr "Fejl ved indlæsning af videoside"
+
+msgid "Error loading videos:"
+msgstr "Fejl ved indlæsning af videoer:"
+
+msgid "Error parsing content"
+msgstr "Fejl ved parsing af indhold"
+
+msgid "Error parsing data"
+msgstr "Fejl ved parsing af data"
+
+msgid "Error parsing video data: {}"
+msgstr "Fejl ved parsing af videodata: {}"
+
+msgid "Error playing file: {}"
+msgstr "Fejl ved afspilning af fil: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Fejl ved afspilning af stream: {}"
+
+msgid "Error playing video:"
+msgstr "Fejl ved afspilning af video:"
+
+msgid "Error processing archive"
+msgstr "Fejl ved behandling af arkiv"
+
+msgid "Error processing thematic content"
+msgstr "Fejl ved behandling af tematisk indhold"
+
+msgid "Error starting plugin"
+msgstr "Fejl ved start af plugin"
+
+msgid "Error: Could not load news data"
+msgstr "Fejl: Kunne ikke indlæse nyhedsdata"
+
+msgid "Error: Download manager not available"
+msgstr "Fejl: Downloadmanager er ikke tilgængelig"
+
+msgid "Exclusive Programs"
+msgstr "Eksklusive programmer"
+
+msgid "Extracting video URL..."
+msgstr "Udtrækker video-URL..."
+
+msgid "File not found: {}"
+msgstr "Filen blev ikke fundet: {}"
+
+msgid "Films"
+msgstr "Film"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Fandt {0} programmer til: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Ledig plads: {gratis} af {total}"
+
+msgid "Games & Quizzes"
+msgstr "Spil og quizzer"
+
+msgid "HDD Drive"
+msgstr "HDD-drev"
+
+msgid "History & Art"
+msgstr "Historie & Kunst"
+
+msgid "Initializing..."
+msgstr "Initialiserer..."
+
+msgid "International Series"
+msgstr "International serie"
+
+msgid "Invalid video URL detected"
+msgstr "Ugyldig video-URL fundet"
+
+msgid "Italian Series"
+msgstr "Italiensk serie"
+
+msgid "Kids"
+msgstr "Børn"
+
+msgid "Learning"
+msgstr "Læring"
+
+msgid "Lifestyle"
+msgstr "Livsstil"
+
+msgid "Live Radio"
+msgstr "Live radio"
+
+msgid "Live TV"
+msgstr "Live tv"
+
+msgid "Loading all programs..."
+msgstr "Indlæser alle programmer..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Indlæser alle videoer... Vent venligst"
+
+msgid "Loading archive data..."
+msgstr "Indlæser arkivdata..."
+
+msgid "Loading archive..."
+msgstr "Indlæser arkiv..."
+
+msgid "Loading complete! Select an option"
+msgstr "Indlæsningen er fuldført! Vælg en mulighed"
+
+msgid "Loading data... Please wait"
+msgstr "Indlæser data... Vent venligst"
+
+msgid "Loading news categories..."
+msgstr "Indlæser nyhedskategorier..."
+
+msgid "Loading news items..."
+msgstr "Indlæser nyheder..."
+
+msgid "Loading on-air programs..."
+msgstr "Indlæser on-air programmer..."
+
+msgid "Loading program data"
+msgstr "Indlæser programdata"
+
+msgid "Loading program details..."
+msgstr "Indlæser programoplysninger..."
+
+msgid "Loading programs..."
+msgstr "Indlæser programmer..."
+
+msgid "Loading videos..."
+msgstr "Indlæser videoer..."
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Music & Theater"
+msgstr "Musik & Teater"
+
+msgid "Music Classic"
+msgstr "Klassisk musik"
+
+msgid "Network Storage"
+msgstr "Netværkslagring"
+
+msgid "News & Documentaries"
+msgstr "Nyheder og dokumentarer"
+
+msgid "News Categories"
+msgstr "Nyhedskategorier"
+
+msgid "Next page"
+msgstr "Næste side"
+
+msgid "No TV channels available"
+msgstr "Ingen tilgængelige tv-kanaler"
+
+msgid "No archive data found"
+msgstr "Ingen arkivdata fundet"
+
+msgid "No categories available"
+msgstr "Ingen tilgængelige kategorier"
+
+msgid "No content available"
+msgstr "Intet indhold tilgængeligt"
+
+msgid "No content found in this program"
+msgstr "Intet indhold fundet i dette program"
+
+msgid "No downloads"
+msgstr "Ingen downloads"
+
+msgid "No downloads in queue"
+msgstr "Ingen downloads i kø"
+
+msgid "No editions available"
+msgstr "Ingen tilgængelige udgaver"
+
+msgid "No episodes available"
+msgstr "Ingen tilgængelige episoder"
+
+msgid "No items available"
+msgstr "Ingen tilgængelige varer"
+
+msgid "No items found"
+msgstr "Ingen varer fundet"
+
+msgid "No items found in this archive"
+msgstr "Ingen elementer fundet i dette arkiv"
+
+msgid "No items found in this category"
+msgstr "Ingen varer fundet i denne kategori"
+
+msgid "No main theme found"
+msgstr "Intet hovedtema fundet"
+
+msgid "No program URL available"
+msgstr "Ingen program-URL tilgængelig"
+
+msgid "No program categories available"
+msgstr "Ingen tilgængelige programkategorier"
+
+msgid "No programs available for this day"
+msgstr "Ingen tilgængelige programmer for denne dag"
+
+msgid "No programs currently on air"
+msgstr "Ingen programmer i luften i øjeblikket"
+
+msgid "No programs found for:"
+msgstr "Ingen programmer fundet for:"
+
+msgid "No programs found in A-Z list"
+msgstr "Ingen programmer fundet i A-Z listen"
+
+msgid "No sports categories available"
+msgstr "Ingen tilgængelige sportskategorier"
+
+msgid "No stream URL available"
+msgstr "Ingen tilgængelig stream-URL"
+
+msgid "No video URL available"
+msgstr "Ingen video-URL tilgængelig"
+
+msgid "No video URL found in the response"
+msgstr "Ingen video-URL fundet i svaret"
+
+msgid "No videos available"
+msgstr "Ingen tilgængelige videoer"
+
+msgid "No videos found"
+msgstr "Ingen videoer fundet"
+
+msgid "No videos found in archive"
+msgstr "Ingen videoer fundet i arkivet"
+
+msgid "On Air Programs"
+msgstr "On Air programmer"
+
+msgid "On Demand"
+msgstr ""
+
+msgid "Originals"
+msgstr "Originaler"
+
+msgid "Page"
+msgstr "Side"
+
+msgid "Page with duplicate"
+msgstr "Side med dublet"
+
+msgid "Pagination not supported for this archive"
+msgstr "Sideinddeling understøttes ikke for dette arkiv"
+
+msgid "Play"
+msgstr "Spil"
+
+msgid "Play & Download"
+msgstr "Spil og download"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Afspil/pause understøttes ikke for denne stream"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Programlisten indlæses stadig. Vent venligst..."
+
+msgid "Programs"
+msgstr "Programmer"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Forespørgsel for kort (min. 3 tegn)"
+
+msgid "Radio Programs A-Z"
+msgstr "Radioprogrammer A-Z"
+
+msgid "Rai News"
+msgstr "Rai nyheder"
+
+msgid "Rai Play Live"
+msgstr "Rai Spil Live"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Spil Live Radio"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Rai Play-programmer"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr "Rai Play Søg"
+
+msgid "Rai Sport"
+msgstr ""
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategorier"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Underkategorier"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay-indstillinger"
+
+msgid "Remove"
+msgstr "Fjerne"
+
+msgid "Remove download: {}?"
+msgstr "Fjern download: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Fjernet fra køen: {}"
+
+msgid "Replay TV"
+msgstr ""
+
+msgid "Search"
+msgstr "Søge"
+
+msgid "Search error. Please try again."
+msgstr "Søgefejl. Prøv venligst igen."
+
+msgid "Searching through programs..."
+msgstr "Søger gennem programmer..."
+
+msgid "Select a category"
+msgstr "Vælg en kategori"
+
+msgid "Select a video"
+msgstr "Vælg en video"
+
+msgid "Select block"
+msgstr "Vælg blok"
+
+msgid "Select category"
+msgstr "Vælg kategori"
+
+msgid "Select channel"
+msgstr "Vælg kanal"
+
+msgid "Select content set"
+msgstr "Vælg indholdssæt"
+
+msgid "Select date"
+msgstr "Vælg dato"
+
+msgid "Select edition"
+msgstr "Vælg udgave"
+
+msgid "Select episode"
+msgstr "Vælg episode"
+
+msgid "Select item"
+msgstr "Vælg element"
+
+msgid "Select letter"
+msgstr "Vælg bogstav"
+
+msgid "Select program"
+msgstr "Vælg program"
+
+msgid "Select program to watch"
+msgstr "Vælg program at se"
+
+msgid "Select subcategory"
+msgstr "Vælg underkategori"
+
+msgid "Select video"
+msgstr "Vælg video"
+
+msgid "Society & Culture"
+msgstr "Samfund & Kultur"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Start"
+msgstr "Starte"
+
+msgid "Stop"
+msgstr ""
+
+msgid "Stop the download first before removing"
+msgstr "Stop overførslen først, før du fjerner"
+
+msgid "Sustainability"
+msgstr "Bæredygtighed"
+
+msgid "TGR and Special Programs"
+msgstr "TGR og specialprogrammer"
+
+msgid "TV News"
+msgstr "TV Nyheder"
+
+msgid "TV Programs A-Z"
+msgstr "TV-programmer A-Z"
+
+msgid "Talk Shows"
+msgstr "Talkshows"
+
+msgid "Tech & Learning"
+msgstr "Teknologi og læring"
+
+msgid "Teens"
+msgstr "Teenagere"
+
+msgid "Temporary"
+msgstr "Midlertidig"
+
+msgid "Test download added to queue"
+msgstr "Testdownload tilføjet til køen"
+
+msgid "Test download failed"
+msgstr "Testoverførsel mislykkedes"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "I alt: {total} | Aktiv: {aktiv} | I kø: {kø} | Afsluttet: {fuldført} | Fejl: {fejl}"
+
+msgid "Travel & Adventure"
+msgstr "Rejser og eventyr"
+
+msgid "USB Drive"
+msgstr "USB-drev"
+
+msgid "Unknown content type"
+msgstr "Ukendt indholdstype"
+
+msgid "Unknown data format"
+msgstr "Ukendt dataformat"
+
+msgid "Unknown title"
+msgstr "Ukendt titel"
+
+msgid "Video URL not available"
+msgstr "Video-URL er ikke tilgængelig"
+
+msgid "Video URL not found"
+msgstr "Videoens URL blev ikke fundet"
+
+msgid "Video not available"
+msgstr "Video ikke tilgængelig"
+
+msgid "View Full Archive"
+msgstr "Se hele arkivet"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "VELKOMMEN TIL RAI PLAY PLUGINS AF LULULLA"

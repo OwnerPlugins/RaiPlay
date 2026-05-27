@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:43+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Central Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z កម្មវិធីទាំងអស់។"
+
+msgid "A-Z Radio Shows"
+msgstr "កម្មវិធីវិទ្យុ A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "កម្មវិធីទូរទស្សន៍ A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "បើកដំណើរការបំបាត់កំហុសសម្រាប់អ្នកបង្កើតសារ។"
+
+msgid "Active Debug"
+msgstr "បំបាត់កំហុសសកម្ម"
+
+msgid "Added to queue: {}"
+msgstr "បានបន្ថែមទៅជួរ៖ {}"
+
+msgid "All Programs"
+msgstr "កម្មវិធីទាំងអស់។"
+
+msgid "Archive URL not found"
+msgstr "រកមិនឃើញប័ណ្ណសារ URL ទេ។"
+
+msgid "Back"
+msgstr "ត្រឡប់មកវិញ"
+
+msgid "Barry Allen"
+msgstr "លោក Barry Allen"
+
+msgid "Choose action for: {}"
+msgstr "ជ្រើសរើសសកម្មភាពសម្រាប់៖ {}"
+
+msgid "Clean queue from duplicates"
+msgstr "សម្អាតជួរពីស្ទួន"
+
+msgid "Content type not recognized"
+msgstr "ប្រភេទមាតិកាមិនត្រូវបានទទួលស្គាល់ទេ។"
+
+msgid "Could not find video URL"
+msgstr "មិន​អាច​រក​ឃើញ URL វីដេអូ"
+
+msgid "Could not load program content"
+msgstr "មិនអាចផ្ទុកមាតិកាកម្មវិធីបានទេ។"
+
+msgid "Crime"
+msgstr "ឧក្រិដ្ឋកម្ម"
+
+msgid "Crime Investigations"
+msgstr "ការស៊ើបអង្កេតឧក្រិដ្ឋកម្ម"
+
+msgid "Default Folder"
+msgstr "ថតឯកសារលំនាំដើម"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "ថតឯកសារលំនាំដើមសម្រាប់បើក និងរក្សាទុកឯកសារភាពយន្ត"
+
+msgid "Documentaries"
+msgstr "ភាពយន្តឯកសារ"
+
+msgid "Download"
+msgstr "ទាញយក"
+
+msgid "Download Manager"
+msgstr "កម្មវិធីគ្រប់គ្រងការទាញយក"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ការទាញយកត្រូវបានដកចេញ៖ {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "ការទាញយកបានចាប់ផ្តើម៖ {}"
+
+msgid "Download stopped: {}"
+msgstr "ការទាញយកបានបញ្ឈប់៖ {}"
+
+msgid "Enter search query"
+msgstr "បញ្ចូលសំណួរស្វែងរក"
+
+msgid "Entertainment"
+msgstr "ការកំសាន្ត"
+
+msgid "Error adding download"
+msgstr "កំហុសក្នុងការបន្ថែមការទាញយក"
+
+msgid "Error extracting video URL"
+msgstr "មាន​បញ្ហា​ក្នុង​ការ​ស្រង់ URL វីដេអូ"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "កំហុសក្នុងការផ្ទុកកម្មវិធី A-Z៖ {}"
+
+msgid "Error loading archive data"
+msgstr "កំហុសក្នុងការផ្ទុកទិន្នន័យក្នុងប័ណ្ណសារ"
+
+msgid "Error loading archive data: {}"
+msgstr "កំហុសក្នុងការផ្ទុកទិន្នន័យក្នុងប័ណ្ណសារ៖ {}"
+
+msgid "Error loading content from API"
+msgstr "កំហុសក្នុងការផ្ទុកមាតិកាពី API"
+
+msgid "Error loading data"
+msgstr "កំហុសក្នុងការផ្ទុកទិន្នន័យ"
+
+msgid "Error loading data: %s"
+msgstr "កំហុសក្នុងការផ្ទុកទិន្នន័យ៖ %s"
+
+msgid "Error loading data: {}"
+msgstr "កំហុសក្នុងការផ្ទុកទិន្នន័យ៖ {}"
+
+msgid "Error loading video data"
+msgstr "កំហុសក្នុងការផ្ទុកទិន្នន័យវីដេអូ"
+
+msgid "Error loading video page"
+msgstr "កំហុសក្នុងការផ្ទុកទំព័រវីដេអូ"
+
+msgid "Error loading videos:"
+msgstr "កំហុសក្នុងការផ្ទុកវីដេអូ៖"
+
+msgid "Error parsing content"
+msgstr "កំហុសក្នុងការញែកមាតិកា"
+
+msgid "Error parsing data"
+msgstr "កំហុសក្នុងការវិភាគទិន្នន័យ"
+
+msgid "Error parsing video data: {}"
+msgstr "កំហុសក្នុងការវិភាគទិន្នន័យវីដេអូ៖ {}"
+
+msgid "Error playing file: {}"
+msgstr "កំហុសក្នុងការចាក់ឯកសារ៖ {}"
+
+msgid "Error playing stream: {}"
+msgstr "កំហុសក្នុងការចាក់ផ្សាយ៖ {}"
+
+msgid "Error playing video:"
+msgstr "កំហុសក្នុងការចាក់វីដេអូ៖"
+
+msgid "Error processing archive"
+msgstr "មាន​បញ្ហា​ក្នុង​ការ​ដំណើរការ​បណ្ណសារ"
+
+msgid "Error processing thematic content"
+msgstr "កំហុសក្នុងដំណើរការមាតិកាប្រធានបទ"
+
+msgid "Error starting plugin"
+msgstr "កំហុសក្នុងការចាប់ផ្តើមកម្មវិធីជំនួយ"
+
+msgid "Error: Could not load news data"
+msgstr "កំហុស៖ មិនអាចផ្ទុកទិន្នន័យព័ត៌មានបានទេ។"
+
+msgid "Error: Download manager not available"
+msgstr "កំហុស៖ កម្មវិធីគ្រប់គ្រងការទាញយកមិនមានទេ។"
+
+msgid "Exclusive Programs"
+msgstr "កម្មវិធីផ្តាច់មុខ"
+
+msgid "Extracting video URL..."
+msgstr "កំពុង​ស្រង់ URL វីដេអូ..."
+
+msgid "File not found: {}"
+msgstr "រកមិនឃើញឯកសារ៖ {}"
+
+msgid "Films"
+msgstr "ភាពយន្ត"
+
+msgid "Found {0} programs for: {1}"
+msgstr "បានរកឃើញកម្មវិធី {0} សម្រាប់៖ {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "ទំហំទំនេរ៖ {free} នៃ {total}"
+
+msgid "Games & Quizzes"
+msgstr "ហ្គេម និងកម្រងសំណួរ"
+
+msgid "HDD Drive"
+msgstr "ថាស HDD"
+
+msgid "History & Art"
+msgstr "ប្រវត្តិ និងសិល្បៈ"
+
+msgid "Initializing..."
+msgstr "កំពុងចាប់ផ្តើម..."
+
+msgid "International Series"
+msgstr "ស៊េរីអន្តរជាតិ"
+
+msgid "Invalid video URL detected"
+msgstr "បានរកឃើញ URL វីដេអូមិនត្រឹមត្រូវ"
+
+msgid "Italian Series"
+msgstr "ស៊េរីអ៊ីតាលី"
+
+msgid "Kids"
+msgstr "កុមារ"
+
+msgid "Learning"
+msgstr "ការរៀន"
+
+msgid "Lifestyle"
+msgstr "របៀបរស់នៅ"
+
+msgid "Live Radio"
+msgstr "វិទ្យុផ្សាយផ្ទាល់"
+
+msgid "Live TV"
+msgstr "ទូរទស្សន៍ផ្សាយបន្តផ្ទាល់"
+
+msgid "Loading all programs..."
+msgstr "កំពុងផ្ទុកកម្មវិធីទាំងអស់..."
+
+msgid "Loading all videos... Please wait"
+msgstr "កំពុងផ្ទុកវីដេអូទាំងអស់... សូមរង់ចាំ"
+
+msgid "Loading archive data..."
+msgstr "កំពុងផ្ទុកទិន្នន័យក្នុងប័ណ្ណសារ..."
+
+msgid "Loading archive..."
+msgstr "កំពុង​ផ្ទុក​បណ្ណសារ..."
+
+msgid "Loading complete! Select an option"
+msgstr "ការ​ផ្ទុក​បាន​បញ្ចប់! ជ្រើសរើសជម្រើសមួយ។"
+
+msgid "Loading data... Please wait"
+msgstr "កំពុងផ្ទុកទិន្នន័យ... សូមរង់ចាំ"
+
+msgid "Loading news categories..."
+msgstr "កំពុង​ផ្ទុក​ប្រភេទ​ព័ត៌មាន..."
+
+msgid "Loading news items..."
+msgstr "កំពុងផ្ទុកធាតុព័ត៌មាន..."
+
+msgid "Loading on-air programs..."
+msgstr "កំពុងផ្ទុកកម្មវិធីនៅលើអាកាស..."
+
+msgid "Loading program data"
+msgstr "កំពុងផ្ទុកទិន្នន័យកម្មវិធី"
+
+msgid "Loading program details..."
+msgstr "កំពុងផ្ទុកព័ត៌មានលម្អិតកម្មវិធី..."
+
+msgid "Loading programs..."
+msgstr "កំពុងផ្ទុកកម្មវិធី..."
+
+msgid "Loading videos..."
+msgstr "កំពុង​ផ្ទុក​វីដេអូ..."
+
+msgid "Music"
+msgstr "តន្ត្រី"
+
+msgid "Music & Theater"
+msgstr "តន្ត្រី និងល្ខោន"
+
+msgid "Music Classic"
+msgstr "តន្ត្រីបុរាណ"
+
+msgid "Network Storage"
+msgstr "ការផ្ទុកបណ្តាញ"
+
+msgid "News & Documentaries"
+msgstr "ព័ត៌មាន និងឯកសារ"
+
+msgid "News Categories"
+msgstr "ប្រភេទព័ត៌មាន"
+
+msgid "Next page"
+msgstr "ទំព័របន្ទាប់"
+
+msgid "No TV channels available"
+msgstr "មិនមានប៉ុស្តិ៍ទូរទស្សន៍ទេ។"
+
+msgid "No archive data found"
+msgstr "រកមិនឃើញទិន្នន័យប័ណ្ណសារទេ។"
+
+msgid "No categories available"
+msgstr "មិនមានប្រភេទទេ។"
+
+msgid "No content available"
+msgstr "មិនមានខ្លឹមសារទេ។"
+
+msgid "No content found in this program"
+msgstr "រកមិនឃើញខ្លឹមសារនៅក្នុងកម្មវិធីនេះទេ។"
+
+msgid "No downloads"
+msgstr "គ្មានការទាញយកទេ។"
+
+msgid "No downloads in queue"
+msgstr "គ្មានការទាញយកនៅក្នុងជួរទេ។"
+
+msgid "No editions available"
+msgstr "មិនមានការបោះពុម្ពទេ។"
+
+msgid "No episodes available"
+msgstr "មិនមានភាគដែលអាចប្រើបានទេ។"
+
+msgid "No items available"
+msgstr "មិនមានធាតុដែលអាចប្រើបានទេ។"
+
+msgid "No items found"
+msgstr "រកមិនឃើញធាតុទេ។"
+
+msgid "No items found in this archive"
+msgstr "រកមិនឃើញធាតុនៅក្នុងបណ្ណសារនេះទេ។"
+
+msgid "No items found in this category"
+msgstr "រកមិនឃើញធាតុនៅក្នុងប្រភេទនេះទេ។"
+
+msgid "No main theme found"
+msgstr "រកមិនឃើញប្រធានបទសំខាន់ទេ។"
+
+msgid "No program URL available"
+msgstr "មិនមាន URL កម្មវិធីទេ។"
+
+msgid "No program categories available"
+msgstr "មិនមានប្រភេទកម្មវិធីទេ។"
+
+msgid "No programs available for this day"
+msgstr "មិនមានកម្មវិធីសម្រាប់ថ្ងៃនេះទេ។"
+
+msgid "No programs currently on air"
+msgstr "មិនមានកម្មវិធីកំពុងចាក់ផ្សាយទេ។"
+
+msgid "No programs found for:"
+msgstr "រកមិនឃើញកម្មវិធីសម្រាប់៖"
+
+msgid "No programs found in A-Z list"
+msgstr "រកមិនឃើញកម្មវិធីនៅក្នុងបញ្ជី A-Z ទេ។"
+
+msgid "No sports categories available"
+msgstr "មិនមានប្រភេទកីឡាទេ។"
+
+msgid "No stream URL available"
+msgstr "គ្មាន URL ស្ទ្រីមអាចប្រើបានទេ។"
+
+msgid "No video URL available"
+msgstr "គ្មាន URL វីដេអូដែលអាចប្រើបានទេ។"
+
+msgid "No video URL found in the response"
+msgstr "រកមិនឃើញ URL វីដេអូនៅក្នុងការឆ្លើយតបទេ។"
+
+msgid "No videos available"
+msgstr "មិនមានវីដេអូទេ។"
+
+msgid "No videos found"
+msgstr "រកមិនឃើញវីដេអូទេ។"
+
+msgid "No videos found in archive"
+msgstr "រកមិនឃើញវីដេអូក្នុងប័ណ្ណសារទេ។"
+
+msgid "On Air Programs"
+msgstr "កម្មវិធីនៅលើអាកាស"
+
+msgid "On Demand"
+msgstr "តាមតម្រូវការ"
+
+msgid "Originals"
+msgstr "ដើម"
+
+msgid "Page"
+msgstr "ទំព័រ"
+
+msgid "Page with duplicate"
+msgstr "ទំព័រដែលមានស្ទួន"
+
+msgid "Pagination not supported for this archive"
+msgstr "ទំព័រមិនគាំទ្រសម្រាប់បណ្ណសារនេះទេ។"
+
+msgid "Play"
+msgstr "លេង"
+
+msgid "Play & Download"
+msgstr "លេង និងទាញយក"
+
+msgid "Play/pause not supported for this stream"
+msgstr "មិនគាំទ្រការលេង/ផ្អាកសម្រាប់ការផ្សាយនេះទេ។"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "បញ្ជីកម្មវិធីនៅតែដំណើរការ។ សូមរង់ចាំ..."
+
+msgid "Programs"
+msgstr "កម្មវិធី"
+
+msgid "Query too short (min 3 characters)"
+msgstr "សំណួរខ្លីពេក (យ៉ាងហោចណាស់ 3 តួអក្សរ)"
+
+msgid "Radio Programs A-Z"
+msgstr "កម្មវិធីវិទ្យុ A-Z"
+
+msgid "Rai News"
+msgstr "ព័ត៌មាន រ៉ៃ"
+
+msgid "Rai Play Live"
+msgstr "Rai លេងផ្ទាល់"
+
+msgid "Rai Play Live Radio"
+msgstr "រ៉ាយ លេងវិទ្យុផ្ទាល់"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr "Rai លេងតាមតម្រូវការ"
+
+msgid "Rai Play Programs"
+msgstr "កម្មវិធី Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr "ទូរទស្សន៍ Rai Play ចាក់ឡើងវិញ"
+
+msgid "Rai Play Replay:"
+msgstr "Rai Play ចាក់ឡើងវិញ៖"
+
+msgid "Rai Play Search"
+msgstr "Rai Play ស្វែងរក"
+
+msgid "Rai Sport"
+msgstr "រ៉ៃកីឡា"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - ប្រភេទ"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - ប្រភេទរង"
+
+msgid "RaiPlay Settings"
+msgstr "ការកំណត់ RaiPlay"
+
+msgid "Remove"
+msgstr "ដកចេញ"
+
+msgid "Remove download: {}?"
+msgstr "លុបការទាញយក៖ {}?"
+
+msgid "Removed from queue: {}"
+msgstr "ដកចេញពីជួរ៖ {}"
+
+msgid "Replay TV"
+msgstr "ចាក់ទូរទស្សន៍ឡើងវិញ"
+
+msgid "Search"
+msgstr "ស្វែងរក"
+
+msgid "Search error. Please try again."
+msgstr "កំហុសក្នុងការស្វែងរក។ សូមព្យាយាមម្តងទៀត។"
+
+msgid "Searching through programs..."
+msgstr "ស្វែងរកតាមកម្មវិធី..."
+
+msgid "Select a category"
+msgstr "ជ្រើសរើសប្រភេទមួយ។"
+
+msgid "Select a video"
+msgstr "ជ្រើសរើសវីដេអូ"
+
+msgid "Select block"
+msgstr "ជ្រើសរើសប្លុក"
+
+msgid "Select category"
+msgstr "ជ្រើសរើសប្រភេទ"
+
+msgid "Select channel"
+msgstr "ជ្រើសរើសឆានែល"
+
+msgid "Select content set"
+msgstr "ជ្រើសរើសសំណុំមាតិកា"
+
+msgid "Select date"
+msgstr "ជ្រើសរើសកាលបរិច្ឆេទ"
+
+msgid "Select edition"
+msgstr "ជ្រើសរើសការបោះពុម្ព"
+
+msgid "Select episode"
+msgstr "ជ្រើសរើសភាគ"
+
+msgid "Select item"
+msgstr "ជ្រើសរើសធាតុ"
+
+msgid "Select letter"
+msgstr "ជ្រើសរើសអក្សរ"
+
+msgid "Select program"
+msgstr "ជ្រើសរើសកម្មវិធី"
+
+msgid "Select program to watch"
+msgstr "ជ្រើសរើសកម្មវិធីដើម្បីមើល"
+
+msgid "Select subcategory"
+msgstr "ជ្រើសរើសប្រភេទរង"
+
+msgid "Select video"
+msgstr "ជ្រើសរើសវីដេអូ"
+
+msgid "Society & Culture"
+msgstr "សង្គម និងវប្បធម៌"
+
+msgid "Sports"
+msgstr "កីឡា"
+
+msgid "Start"
+msgstr "ចាប់ផ្តើម"
+
+msgid "Stop"
+msgstr "ឈប់"
+
+msgid "Stop the download first before removing"
+msgstr "បញ្ឈប់ការទាញយកជាមុនសិន មុននឹងលុបចេញ"
+
+msgid "Sustainability"
+msgstr "និរន្តរភាព"
+
+msgid "TGR and Special Programs"
+msgstr "TGR និងកម្មវិធីពិសេស"
+
+msgid "TV News"
+msgstr "ព័ត៌មានទូរទស្សន៍"
+
+msgid "TV Programs A-Z"
+msgstr "កម្មវិធីទូរទស្សន៍ A-Z"
+
+msgid "Talk Shows"
+msgstr "កម្មវិធីជជែក"
+
+msgid "Tech & Learning"
+msgstr "បច្ចេកវិទ្យា និងការរៀន"
+
+msgid "Teens"
+msgstr "ក្មេងជំទង់"
+
+msgid "Temporary"
+msgstr "បណ្ដោះអាសន្ន"
+
+msgid "Test download added to queue"
+msgstr "ការទាញយកសាកល្បងត្រូវបានបន្ថែមទៅជួរ"
+
+msgid "Test download failed"
+msgstr "ការទាញយកសាកល្បងបានបរាជ័យ"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "សរុប៖ {total} | សកម្ម៖ {សកម្ម} | តម្រង់ជួរ៖ {Queued} | បានបញ្ចប់៖ {completed} | កំហុស៖ {errors}"
+
+msgid "Travel & Adventure"
+msgstr "ការធ្វើដំណើរ និងដំណើរផ្សងព្រេង"
+
+msgid "USB Drive"
+msgstr "ដ្រាយ USB"
+
+msgid "Unknown content type"
+msgstr "ប្រភេទមាតិកាមិនស្គាល់"
+
+msgid "Unknown data format"
+msgstr "ទម្រង់ទិន្នន័យមិនស្គាល់"
+
+msgid "Unknown title"
+msgstr "មិនស្គាល់ចំណងជើង"
+
+msgid "Video URL not available"
+msgstr "URL វីដេអូមិនមានទេ។"
+
+msgid "Video URL not found"
+msgstr "រកមិនឃើញ URL វីដេអូ"
+
+msgid "Video not available"
+msgstr "វីដេអូមិនមានទេ។"
+
+msgid "View Full Archive"
+msgstr "មើលបណ្ណសារពេញ"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "សូមស្វាគមន៍មកកាន់កម្មវិធី RAI PLAY Plugins ដោយ LULULLA"

@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Բոլոր ծրագրերը"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z ռադիո շոուներ"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z հեռուստաշոուներ"
+
+msgid "Activate Debug for messages developer."
+msgstr "Ակտիվացրեք վրիպազերծումը հաղորդագրությունների մշակողի համար:"
+
+msgid "Active Debug"
+msgstr "Ակտիվ վրիպազերծում"
+
+msgid "Added to queue: {}"
+msgstr "Ավելացվեց հերթում՝ {}"
+
+msgid "All Programs"
+msgstr "Բոլոր ծրագրերը"
+
+msgid "Archive URL not found"
+msgstr "Արխիվի URL-ը չի գտնվել"
+
+msgid "Back"
+msgstr "Ետ"
+
+msgid "Barry Allen"
+msgstr "Բարրի Ալեն"
+
+msgid "Choose action for: {}"
+msgstr "Ընտրեք գործողություն հետևյալի համար՝ {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Մաքրել հերթը կրկնօրինակներից"
+
+msgid "Content type not recognized"
+msgstr "Բովանդակության տեսակը չի ճանաչվել"
+
+msgid "Could not find video URL"
+msgstr "Չհաջողվեց գտնել տեսանյութի URL"
+
+msgid "Could not load program content"
+msgstr "Չհաջողվեց բեռնել ծրագրի բովանդակությունը"
+
+msgid "Crime"
+msgstr "Հանցագործություն"
+
+msgid "Crime Investigations"
+msgstr "Հանցագործության հետաքննություն"
+
+msgid "Default Folder"
+msgstr "Կանխադրված թղթապանակ"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Ֆիլմի ֆայլերը բացելու և պահելու համար կանխադրված թղթապանակ"
+
+msgid "Documentaries"
+msgstr "վավերագրական ֆիլմեր"
+
+msgid "Download"
+msgstr "Բեռնել"
+
+msgid "Download Manager"
+msgstr "Ներբեռնման մենեջեր"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Ներբեռնումը հեռացվեց՝ {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Ներբեռնումը սկսվել է՝ {}"
+
+msgid "Download stopped: {}"
+msgstr "Ներբեռնումը դադարեցվել է՝ {}"
+
+msgid "Enter search query"
+msgstr "Մուտքագրեք որոնման հարցումը"
+
+msgid "Entertainment"
+msgstr "Ժամանց"
+
+msgid "Error adding download"
+msgstr "Ներբեռնումը ավելացնելիս սխալ առաջացավ"
+
+msgid "Error extracting video URL"
+msgstr "Չհաջողվեց հանել տեսանյութի URL-ը"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A-Z ծրագրերը բեռնելիս սխալ՝ {}"
+
+msgid "Error loading archive data"
+msgstr "Սխալ՝ արխիվի տվյալները բեռնելիս"
+
+msgid "Error loading archive data: {}"
+msgstr "Սխալ՝ արխիվի տվյալները բեռնելիս՝ {}"
+
+msgid "Error loading content from API"
+msgstr "API-ից բովանդակությունը բեռնելիս սխալ առաջացավ"
+
+msgid "Error loading data"
+msgstr "Չհաջողվեց բեռնել տվյալները"
+
+msgid "Error loading data: %s"
+msgstr "Տվյալների բեռնման սխալ՝ %s"
+
+msgid "Error loading data: {}"
+msgstr "Տվյալների բեռնման սխալ՝ {}"
+
+msgid "Error loading video data"
+msgstr "Չհաջողվեց բեռնել տեսանյութի տվյալները"
+
+msgid "Error loading video page"
+msgstr "Չհաջողվեց բեռնել տեսանյութի էջը"
+
+msgid "Error loading videos:"
+msgstr "Չհաջողվեց բեռնել տեսանյութերը."
+
+msgid "Error parsing content"
+msgstr "Բովանդակության վերլուծության սխալ"
+
+msgid "Error parsing data"
+msgstr "Չհաջողվեց վերլուծել տվյալները"
+
+msgid "Error parsing video data: {}"
+msgstr "Տեսանյութի տվյալների վերլուծության սխալ՝ {}"
+
+msgid "Error playing file: {}"
+msgstr "Ֆայլի նվագարկման սխալ՝ {}"
+
+msgid "Error playing stream: {}"
+msgstr "Չհաջողվեց նվագարկել հոսքը՝ {}"
+
+msgid "Error playing video:"
+msgstr "Չհաջողվեց նվագարկել տեսանյութը."
+
+msgid "Error processing archive"
+msgstr "Արխիվի մշակման սխալ"
+
+msgid "Error processing thematic content"
+msgstr "Թեմատիկ բովանդակության մշակման սխալ"
+
+msgid "Error starting plugin"
+msgstr "Չհաջողվեց սկսել plugin-ը"
+
+msgid "Error: Could not load news data"
+msgstr "Սխալ. չհաջողվեց բեռնել նորությունների տվյալները"
+
+msgid "Error: Download manager not available"
+msgstr "Սխալ. Ներբեռնման կառավարիչը հասանելի չէ"
+
+msgid "Exclusive Programs"
+msgstr "Բացառիկ ծրագրեր"
+
+msgid "Extracting video URL..."
+msgstr "Տեսանյութի URL-ի արդյունահանում..."
+
+msgid "File not found: {}"
+msgstr "Ֆայլը չի ​​գտնվել՝ {}"
+
+msgid "Films"
+msgstr "Ֆիլմեր"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Գտնվել է {0} ծրագիր՝ {1}-ի համար"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Ազատ տարածք՝ {free} {total}-ից"
+
+msgid "Games & Quizzes"
+msgstr "Խաղեր և վիկտորինաներ"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Պատմություն և արվեստ"
+
+msgid "Initializing..."
+msgstr "Նախաձեռնվում է..."
+
+msgid "International Series"
+msgstr "Միջազգային շարք"
+
+msgid "Invalid video URL detected"
+msgstr "Հայտնաբերվել է անվավեր տեսանյութի URL"
+
+msgid "Italian Series"
+msgstr "Իտալական Սերիա"
+
+msgid "Kids"
+msgstr "Երեխաներ"
+
+msgid "Learning"
+msgstr "Ուսուցում"
+
+msgid "Lifestyle"
+msgstr "Ապրելակերպ"
+
+msgid "Live Radio"
+msgstr "Ուղիղ ռադիո"
+
+msgid "Live TV"
+msgstr "Ուղիղ հեռուստատեսություն"
+
+msgid "Loading all programs..."
+msgstr "Բոլոր ծրագրերը բեռնվում են..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Բոլոր տեսանյութերը բեռնվում են... Խնդրում ենք սպասել"
+
+msgid "Loading archive data..."
+msgstr "Արխիվային տվյալների բեռնում..."
+
+msgid "Loading archive..."
+msgstr "Արխիվը բեռնվում է..."
+
+msgid "Loading complete! Select an option"
+msgstr "Բեռնումն ավարտված է: Ընտրեք տարբերակ"
+
+msgid "Loading data... Please wait"
+msgstr "Տվյալների բեռնում... Խնդրում ենք սպասել"
+
+msgid "Loading news categories..."
+msgstr "Նորությունների կատեգորիաների բեռնում..."
+
+msgid "Loading news items..."
+msgstr "Նորությունների բեռնում..."
+
+msgid "Loading on-air programs..."
+msgstr "Եթերային ծրագրերի բեռնում..."
+
+msgid "Loading program data"
+msgstr "Ծրագրի տվյալների բեռնում"
+
+msgid "Loading program details..."
+msgstr "Ծրագրի մանրամասների բեռնում..."
+
+msgid "Loading programs..."
+msgstr "Ծրագրերի բեռնում..."
+
+msgid "Loading videos..."
+msgstr "Տեսանյութերի բեռնում..."
+
+msgid "Music"
+msgstr "Երաժշտություն"
+
+msgid "Music & Theater"
+msgstr "Երաժշտություն և թատրոն"
+
+msgid "Music Classic"
+msgstr "Դասական երաժշտություն"
+
+msgid "Network Storage"
+msgstr "Ցանցային պահեստավորում"
+
+msgid "News & Documentaries"
+msgstr "Նորություններ և վավերագրական ֆիլմեր"
+
+msgid "News Categories"
+msgstr "Նորությունների կատեգորիաներ"
+
+msgid "Next page"
+msgstr "Հաջորդ էջը"
+
+msgid "No TV channels available"
+msgstr "Հեռուստաալիքներ չկան"
+
+msgid "No archive data found"
+msgstr "Արխիվային տվյալներ չեն գտնվել"
+
+msgid "No categories available"
+msgstr "Առկա կատեգորիաներ չկան"
+
+msgid "No content available"
+msgstr "Հասանելի բովանդակություն չկա"
+
+msgid "No content found in this program"
+msgstr "Այս ծրագրում բովանդակություն չի գտնվել"
+
+msgid "No downloads"
+msgstr "Ներբեռնումներ չկան"
+
+msgid "No downloads in queue"
+msgstr "Հերթում ներբեռնումներ չկան"
+
+msgid "No editions available"
+msgstr "Հրատարակություններ չկան"
+
+msgid "No episodes available"
+msgstr "Դրվագներ չկան"
+
+msgid "No items available"
+msgstr "Նյութեր չկան"
+
+msgid "No items found"
+msgstr "Նյութեր չեն գտնվել"
+
+msgid "No items found in this archive"
+msgstr "Այս արխիվում որևէ նյութ չի գտնվել"
+
+msgid "No items found in this category"
+msgstr "Այս կատեգորիայում ապրանքներ չեն գտնվել"
+
+msgid "No main theme found"
+msgstr "Հիմնական թեմա չի գտնվել"
+
+msgid "No program URL available"
+msgstr "Ծրագրի URL հասանելի չէ"
+
+msgid "No program categories available"
+msgstr "Ծրագրերի կատեգորիաներ չկան"
+
+msgid "No programs available for this day"
+msgstr "Այս օրվա համար հասանելի ծրագրեր չկան"
+
+msgid "No programs currently on air"
+msgstr "Այս պահին եթերում հաղորդումներ չկան"
+
+msgid "No programs found for:"
+msgstr "Ծրագրեր չեն գտնվել՝"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z ցուցակում ծրագրեր չեն գտնվել"
+
+msgid "No sports categories available"
+msgstr "Սպորտային կատեգորիաներ չկան"
+
+msgid "No stream URL available"
+msgstr "Հոսքի URL հասանելի չէ"
+
+msgid "No video URL available"
+msgstr "Տեսանյութի URL հասանելի չէ"
+
+msgid "No video URL found in the response"
+msgstr "Պատասխանում տեսանյութի URL չի գտնվել"
+
+msgid "No videos available"
+msgstr "Հասանելի տեսանյութեր չկան"
+
+msgid "No videos found"
+msgstr "Տեսանյութեր չեն գտնվել"
+
+msgid "No videos found in archive"
+msgstr "Արխիվում տեսանյութեր չեն գտնվել"
+
+msgid "On Air Programs"
+msgstr "Եթերային ծրագրեր"
+
+msgid "On Demand"
+msgstr "Պահանջով"
+
+msgid "Originals"
+msgstr "Բնօրինակներ"
+
+msgid "Page"
+msgstr "Էջ"
+
+msgid "Page with duplicate"
+msgstr "Էջ կրկնօրինակով"
+
+msgid "Pagination not supported for this archive"
+msgstr "Էջավորումն այս արխիվի համար չի աջակցվում"
+
+msgid "Play"
+msgstr "Խաղալ"
+
+msgid "Play & Download"
+msgstr "Խաղալ և ներբեռնել"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Նվագարկել/դադարեցնել այս հեռարձակումը չի աջակցվում"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Ծրագրերի ցանկը դեռ բեռնվում է: Խնդրում ենք սպասել..."
+
+msgid "Programs"
+msgstr "Ծրագրեր"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Հարցումը չափազանց կարճ է (նվազագույնը 3 նիշ)"
+
+msgid "Radio Programs A-Z"
+msgstr "Ռադիոհաղորդումներ A-Z"
+
+msgid "Rai News"
+msgstr ""
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr "Rai Play Հիմնական"
+
+msgid "Rai Play On Demand"
+msgstr "Rai խաղալ ըստ պահանջի"
+
+msgid "Rai Play Programs"
+msgstr "Rai Play ծրագրեր"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr "Rai Play Որոնում"
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Կատեգորիաներ"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Ենթակատեգորիաներ"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay-ի կարգավորումներ"
+
+msgid "Remove"
+msgstr "Հեռացնել"
+
+msgid "Remove download: {}?"
+msgstr "Հեռացնե՞լ ներբեռնումը. {}:"
+
+msgid "Removed from queue: {}"
+msgstr "Հեռացվել է հերթից՝ {}"
+
+msgid "Replay TV"
+msgstr ""
+
+msgid "Search"
+msgstr "Որոնում"
+
+msgid "Search error. Please try again."
+msgstr "Որոնման սխալ. Խնդրում ենք կրկին փորձել:"
+
+msgid "Searching through programs..."
+msgstr "Ծրագրերի որոնում..."
+
+msgid "Select a category"
+msgstr "Ընտրեք կատեգորիա"
+
+msgid "Select a video"
+msgstr "Ընտրեք տեսանյութ"
+
+msgid "Select block"
+msgstr "Ընտրեք բլոկ"
+
+msgid "Select category"
+msgstr "Ընտրեք կատեգորիա"
+
+msgid "Select channel"
+msgstr "Ընտրեք ալիքը"
+
+msgid "Select content set"
+msgstr "Ընտրեք բովանդակության հավաքածու"
+
+msgid "Select date"
+msgstr "Ընտրեք ամսաթիվը"
+
+msgid "Select edition"
+msgstr "Ընտրեք հրատարակությունը"
+
+msgid "Select episode"
+msgstr "Ընտրեք դրվագ"
+
+msgid "Select item"
+msgstr "Ընտրեք տարրը"
+
+msgid "Select letter"
+msgstr "Ընտրեք տառը"
+
+msgid "Select program"
+msgstr "Ընտրեք ծրագիր"
+
+msgid "Select program to watch"
+msgstr "Ընտրեք դիտելու ծրագիր"
+
+msgid "Select subcategory"
+msgstr "Ընտրեք ենթակատեգորիա"
+
+msgid "Select video"
+msgstr "Ընտրեք տեսանյութ"
+
+msgid "Society & Culture"
+msgstr "Հասարակություն և մշակույթ"
+
+msgid "Sports"
+msgstr "Սպորտ"
+
+msgid "Start"
+msgstr "Սկսել"
+
+msgid "Stop"
+msgstr "Դադարեցրեք"
+
+msgid "Stop the download first before removing"
+msgstr "Նախքան հեռացնելը, նախ դադարեցրեք ներբեռնումը"
+
+msgid "Sustainability"
+msgstr "Կայունություն"
+
+msgid "TGR and Special Programs"
+msgstr "TGR և հատուկ ծրագրեր"
+
+msgid "TV News"
+msgstr ""
+
+msgid "TV Programs A-Z"
+msgstr "Հեռուստատեսային հաղորդումներ A-Z"
+
+msgid "Talk Shows"
+msgstr "Թոք շոուներ"
+
+msgid "Tech & Learning"
+msgstr "Տեխնիկա և ուսուցում"
+
+msgid "Teens"
+msgstr "Դեռահասներ"
+
+msgid "Temporary"
+msgstr "Ժամանակավոր"
+
+msgid "Test download added to queue"
+msgstr "Փորձնական ներբեռնումն ավելացվեց հերթում"
+
+msgid "Test download failed"
+msgstr "Փորձնական ներբեռնումը ձախողվեց"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Ընդհանուր՝ {ընդհանուր} | Ակտիվ՝ {active} | Հերթագրված՝ {հերթագրված} | Ավարտված՝ {լրացված} | Սխալներ՝ {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Ճամփորդություն և արկածներ"
+
+msgid "USB Drive"
+msgstr "USB կրիչ"
+
+msgid "Unknown content type"
+msgstr "Բովանդակության անհայտ տեսակ"
+
+msgid "Unknown data format"
+msgstr "Անհայտ տվյալների ձևաչափ"
+
+msgid "Unknown title"
+msgstr "Անհայտ վերնագիր"
+
+msgid "Video URL not available"
+msgstr "Տեսանյութի URL-ը հասանելի չէ"
+
+msgid "Video URL not found"
+msgstr "Տեսանյութի URL-ը չի գտնվել"
+
+msgid "Video not available"
+msgstr "Տեսանյութը հասանելի չէ"
+
+msgid "View Full Archive"
+msgstr "Դիտել ամբողջ արխիվը"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "Բարի գալուստ RAI PLAY PLUGINS BY LULULLA-ի կողմից"

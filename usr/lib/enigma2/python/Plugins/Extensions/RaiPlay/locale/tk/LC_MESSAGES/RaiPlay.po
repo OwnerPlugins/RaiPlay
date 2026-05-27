@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Turkmen\n"
+"Language: tk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Allhli programmalar"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z radio görkezişleri"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z teleýaýlymlary"
+
+msgid "Activate Debug for messages developer."
+msgstr "Habarlary dörediji üçin düzeltmegi işjeňleşdiriň."
+
+msgid "Active Debug"
+msgstr "Işjeň düzediş"
+
+msgid "Added to queue: {}"
+msgstr "Nobata goşuldy: {}"
+
+msgid "All Programs"
+msgstr "Allhli programmalar"
+
+msgid "Archive URL not found"
+msgstr "Arhiw URL tapylmady"
+
+msgid "Back"
+msgstr "Yzyna"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Hereket saýlaň: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Dublikatlardan nobaty arassalaň"
+
+msgid "Content type not recognized"
+msgstr "Mazmunyň görnüşi tanalmaýar"
+
+msgid "Could not find video URL"
+msgstr "Wideo URL tapyp bilmedim"
+
+msgid "Could not load program content"
+msgstr "Programmanyň mazmunyny ýükläp bolmady"
+
+msgid "Crime"
+msgstr "Jenaýat"
+
+msgid "Crime Investigations"
+msgstr "Jenaýat derňewleri"
+
+msgid "Default Folder"
+msgstr "Bellenen bukja"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Kino faýllaryny açmak we ýatda saklamak üçin deslapky bukja"
+
+msgid "Documentaries"
+msgstr "Dokumental filmler"
+
+msgid "Download"
+msgstr "Göçürip al"
+
+msgid "Download Manager"
+msgstr "Managerükleme dolandyryjysy"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Göçürip aldy: {str (element ['title'])}"
+
+msgid "Download started: {}"
+msgstr "Downloadüklemek başlandy: {}"
+
+msgid "Download stopped: {}"
+msgstr "Downloadüklemek bes edildi: {}"
+
+msgid "Enter search query"
+msgstr "Gözleg talaplaryny giriziň"
+
+msgid "Entertainment"
+msgstr "Güýmenje"
+
+msgid "Error adding download"
+msgstr "Göçürip almakda säwlik"
+
+msgid "Error extracting video URL"
+msgstr "Wideo URL-ni çykarmakda säwlik"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A-Z programmalaryny ýüklemekde säwlik: {}"
+
+msgid "Error loading archive data"
+msgstr "Arhiw maglumatlaryny ýüklemekde säwlik"
+
+msgid "Error loading archive data: {}"
+msgstr "Arhiw maglumatlaryny ýüklemekde säwlik: {}"
+
+msgid "Error loading content from API"
+msgstr "API-den mazmuny ýüklemekde säwlik"
+
+msgid "Error loading data"
+msgstr "Maglumat ýüklemekde säwlik"
+
+msgid "Error loading data: %s"
+msgstr "Maglumat ýüklemekde säwlik:% s"
+
+msgid "Error loading data: {}"
+msgstr "Maglumat ýüklemekde säwlik: {}"
+
+msgid "Error loading video data"
+msgstr "Wideo maglumatlary ýüklemekde säwlik"
+
+msgid "Error loading video page"
+msgstr "Wideo sahypasyny ýüklemekde säwlik"
+
+msgid "Error loading videos:"
+msgstr "Wideo ýüklemekde säwlik:"
+
+msgid "Error parsing content"
+msgstr "Mazmuny derňemekde säwlik"
+
+msgid "Error parsing data"
+msgstr "Maglumatlary derňemekde säwlik"
+
+msgid "Error parsing video data: {}"
+msgstr "Wideo maglumatlary derňemekde säwlik: {}"
+
+msgid "Error playing file: {}"
+msgstr "Faýl oýnamakda säwlik: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Akym oýnamakda säwlik: {}"
+
+msgid "Error playing video:"
+msgstr "Wideo görkezmekde säwlik:"
+
+msgid "Error processing archive"
+msgstr "Arhiwde ýalňyşlyk"
+
+msgid "Error processing thematic content"
+msgstr "Tematiki mazmuny gaýtadan işlemekde säwlik"
+
+msgid "Error starting plugin"
+msgstr "Plagini başlamakda säwlik"
+
+msgid "Error: Could not load news data"
+msgstr "Roralňyşlyk: Habar maglumatlary ýükläp bolmady"
+
+msgid "Error: Download manager not available"
+msgstr "Roralňyşlyk: Managerüklemek menejeri elýeterli däl"
+
+msgid "Exclusive Programs"
+msgstr "Aýratyn programmalar"
+
+msgid "Extracting video URL..."
+msgstr "Wideo URL-ni çykarmak ..."
+
+msgid "File not found: {}"
+msgstr "Faýl tapylmady: {}"
+
+msgid "Films"
+msgstr "Filmler"
+
+msgid "Found {0} programs for: {1}"
+msgstr "{0} programmalary tapyldy: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Boş ýer: {jemi} {umumy}"
+
+msgid "Games & Quizzes"
+msgstr "Oýunlar we wiktorinalar"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Taryh we sungat"
+
+msgid "Initializing..."
+msgstr "Başlamak ..."
+
+msgid "International Series"
+msgstr "Halkara seriýalar"
+
+msgid "Invalid video URL detected"
+msgstr "Nädogry wideo URL tapyldy"
+
+msgid "Italian Series"
+msgstr "Italýan seriýasy"
+
+msgid "Kids"
+msgstr "Çagalar"
+
+msgid "Learning"
+msgstr "Okuw"
+
+msgid "Lifestyle"
+msgstr "Durmuş ýoly"
+
+msgid "Live Radio"
+msgstr "Göni radio"
+
+msgid "Live TV"
+msgstr "Göni telewizor"
+
+msgid "Loading all programs..."
+msgstr "Programshli programmalary ýüklemek ..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Videohli wideolary ýükleýär ... Garaşyň"
+
+msgid "Loading archive data..."
+msgstr "Arhiw maglumatlary ýüklemek ..."
+
+msgid "Loading archive..."
+msgstr "Arhiw ýüklenýär ..."
+
+msgid "Loading complete! Select an option"
+msgstr "Adingüklenýär! Bir warianty saýlaň"
+
+msgid "Loading data... Please wait"
+msgstr "Maglumat ýüklenýär ... Garaşyň"
+
+msgid "Loading news categories..."
+msgstr "Habar kategoriýalaryny ýüklemek ..."
+
+msgid "Loading news items..."
+msgstr "Habar habarlaryny ýüklemek ..."
+
+msgid "Loading on-air programs..."
+msgstr "Efirde programmalary ýüklemek ..."
+
+msgid "Loading program data"
+msgstr "Programma maglumatlaryny ýüklemek"
+
+msgid "Loading program details..."
+msgstr "Programma maglumatlaryny ýüklemek ..."
+
+msgid "Loading programs..."
+msgstr "Programmalary ýüklemek ..."
+
+msgid "Loading videos..."
+msgstr "Wideo ýüklemek ..."
+
+msgid "Music"
+msgstr "Saz"
+
+msgid "Music & Theater"
+msgstr "Saz we teatr"
+
+msgid "Music Classic"
+msgstr "Saz klassiki"
+
+msgid "Network Storage"
+msgstr "Tor ammary"
+
+msgid "News & Documentaries"
+msgstr "Habarlar we dokumental filmler"
+
+msgid "News Categories"
+msgstr "Habar kategoriýalary"
+
+msgid "Next page"
+msgstr "Indiki sahypa"
+
+msgid "No TV channels available"
+msgstr "Teleýaýlym ýok"
+
+msgid "No archive data found"
+msgstr "Arhiw maglumatlary tapylmady"
+
+msgid "No categories available"
+msgstr "Hiç hili kategoriýa ýok"
+
+msgid "No content available"
+msgstr "Mazmun ýok"
+
+msgid "No content found in this program"
+msgstr "Bu programmada mazmun tapylmady"
+
+msgid "No downloads"
+msgstr ".Üklemeler ýok"
+
+msgid "No downloads in queue"
+msgstr "Nobatda göçürip almak ýok"
+
+msgid "No editions available"
+msgstr "Neşir ýok"
+
+msgid "No episodes available"
+msgstr "Bölüm ýok"
+
+msgid "No items available"
+msgstr "Hiç zat ýok"
+
+msgid "No items found"
+msgstr "Hiç zat tapylmady"
+
+msgid "No items found in this archive"
+msgstr "Bu arhiwde hiç zat tapylmady"
+
+msgid "No items found in this category"
+msgstr "Bu kategoriýada hiç zat tapylmady"
+
+msgid "No main theme found"
+msgstr "Esasy tema tapylmady"
+
+msgid "No program URL available"
+msgstr "Programma URL ýok"
+
+msgid "No program categories available"
+msgstr "Programma kategoriýalary ýok"
+
+msgid "No programs available for this day"
+msgstr "Bu gün üçin programma ýok"
+
+msgid "No programs currently on air"
+msgstr "Häzirki wagtda efirde hiç hili programma ýok"
+
+msgid "No programs found for:"
+msgstr "Programmalar tapylmady:"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z sanawynda hiç hili programma tapylmady"
+
+msgid "No sports categories available"
+msgstr "Sport kategoriýalary ýok"
+
+msgid "No stream URL available"
+msgstr "Akym URL ýok"
+
+msgid "No video URL available"
+msgstr "Wideo URL ýok"
+
+msgid "No video URL found in the response"
+msgstr "Jogapda wideo URL tapylmady"
+
+msgid "No videos available"
+msgstr "Wideo ýok"
+
+msgid "No videos found"
+msgstr "Wideo tapylmady"
+
+msgid "No videos found in archive"
+msgstr "Arhiwde wideo ýok"
+
+msgid "On Air Programs"
+msgstr "Howa programmalarynda"
+
+msgid "On Demand"
+msgstr "Talap boýunça"
+
+msgid "Originals"
+msgstr "Asyl nusgalary"
+
+msgid "Page"
+msgstr "Sahypa"
+
+msgid "Page with duplicate"
+msgstr "Dublikat bilen sahypa"
+
+msgid "Pagination not supported for this archive"
+msgstr "Sahypa bu arhiw üçin goldanylmaýar"
+
+msgid "Play"
+msgstr "Oýna"
+
+msgid "Play & Download"
+msgstr "Oýna we göçürip al"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Bu akym üçin goldanok / duruzyň"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Programma sanawy henizem ýüklenýär. Garaşmagyňyzy haýyş edýäris ..."
+
+msgid "Programs"
+msgstr "Programmalar"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Talap gaty gysga (min 3 simwol)"
+
+msgid "Radio Programs A-Z"
+msgstr "Radio programmalary A-Z"
+
+msgid "Rai News"
+msgstr "Rai habarlary"
+
+msgid "Rai Play Live"
+msgstr "Rai göni ýaýlymda oýnaň"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai göni ýaýlymda oýna"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr "Rai isleg boýunça oýna"
+
+msgid "Rai Play Programs"
+msgstr "Rai oýnamak programmalary"
+
+msgid "Rai Play Replay TV"
+msgstr "“Rai” telewizoryny gaýtalaň"
+
+msgid "Rai Play Replay:"
+msgstr "Rai oýnamak:"
+
+msgid "Rai Play Search"
+msgstr "Rai oýnamak"
+
+msgid "Rai Sport"
+msgstr "“Rai Sports”"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategoriýalar"
+
+msgid "Rai Sport - Subcategories"
+msgstr "“Rai Sport” - kiçi kategoriýalar"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay sazlamalary"
+
+msgid "Remove"
+msgstr "Aýyr"
+
+msgid "Remove download: {}?"
+msgstr "Göçürip al: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Nobatdan aýryldy: {}"
+
+msgid "Replay TV"
+msgstr "Telewizory gaýtalaň"
+
+msgid "Search"
+msgstr "Gözlemek"
+
+msgid "Search error. Please try again."
+msgstr "Gözleg ýalňyşlygy. Gaýtadan synanyşmagyňyzy haýyş edýäris."
+
+msgid "Searching through programs..."
+msgstr "Programmalar arkaly gözlemek ..."
+
+msgid "Select a category"
+msgstr "Kategoriýa saýlaň"
+
+msgid "Select a video"
+msgstr "Wideo saýlaň"
+
+msgid "Select block"
+msgstr "Blok saýlaň"
+
+msgid "Select category"
+msgstr "Kategoriýany saýlaň"
+
+msgid "Select channel"
+msgstr "Kanal saýlaň"
+
+msgid "Select content set"
+msgstr "Mazmun toplumyny saýlaň"
+
+msgid "Select date"
+msgstr "Sene saýlaň"
+
+msgid "Select edition"
+msgstr "Neşir saýlaň"
+
+msgid "Select episode"
+msgstr "Bölümi saýlaň"
+
+msgid "Select item"
+msgstr "Haryt saýlaň"
+
+msgid "Select letter"
+msgstr "Harp saýlaň"
+
+msgid "Select program"
+msgstr "Programmany saýlaň"
+
+msgid "Select program to watch"
+msgstr "Görmek üçin programma saýlaň"
+
+msgid "Select subcategory"
+msgstr "Kiçi kategoriýany saýlaň"
+
+msgid "Select video"
+msgstr "Wideo saýlaň"
+
+msgid "Society & Culture"
+msgstr "Jemgyýet we Medeniýet"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Start"
+msgstr "Başla"
+
+msgid "Stop"
+msgstr "Dur"
+
+msgid "Stop the download first before removing"
+msgstr "Aýyrmazdan ozal göçürip almagy bes ediň"
+
+msgid "Sustainability"
+msgstr "Durnuklylyk"
+
+msgid "TGR and Special Programs"
+msgstr "TGR we ýörite programmalar"
+
+msgid "TV News"
+msgstr "Teleýaýlym habarlary"
+
+msgid "TV Programs A-Z"
+msgstr "Teleýaýlym programmalary A-Z"
+
+msgid "Talk Shows"
+msgstr "Gepleşikler"
+
+msgid "Tech & Learning"
+msgstr "Tehnologiýa we okuw"
+
+msgid "Teens"
+msgstr "Ensetginjekler"
+
+msgid "Temporary"
+msgstr "Wagtlaýyn"
+
+msgid "Test download added to queue"
+msgstr "Synag ýüklemesi nobata goşuldy"
+
+msgid "Test download failed"
+msgstr "Synag ýüklemek şowsuz boldy"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Jemi: {jemi} | Işjeň: {işjeň} | Nobat: {nobat} | Tamamlandy: {tamamlandy} | Rorsalňyşlyklar: {ýalňyşlar}"
+
+msgid "Travel & Adventure"
+msgstr "Syýahat we başdan geçirmeler"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "Näbelli mazmun görnüşi"
+
+msgid "Unknown data format"
+msgstr "Näbelli maglumat formaty"
+
+msgid "Unknown title"
+msgstr "Näbelli at"
+
+msgid "Video URL not available"
+msgstr "Wideo URL elýeterli däl"
+
+msgid "Video URL not found"
+msgstr "Wideo URL tapylmady"
+
+msgid "Video not available"
+msgstr "Wideo elýeterli däl"
+
+msgid "View Full Archive"
+msgstr "Doly arhiwi gör"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "LULULLA BILEN RAI O PLUNLARA GEL. .N"

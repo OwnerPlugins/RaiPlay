@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:51+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kurdish <translation-team-ku (at) ferheng.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Hemû Bername"
+
+msgid "A-Z Radio Shows"
+msgstr "Pêşandanên Radyoya A-Z"
+
+msgid "A-Z TV Shows"
+msgstr ""
+
+msgid "Activate Debug for messages developer."
+msgstr "Ji bo pêşdebirê peyaman Debug çalak bikin."
+
+msgid "Active Debug"
+msgstr "Debug Active"
+
+msgid "Added to queue: {}"
+msgstr "Li dorê hat zêdekirin: {}"
+
+msgid "All Programs"
+msgstr "Hemû Bername"
+
+msgid "Archive URL not found"
+msgstr "URL-ya arşîvê nehat dîtin"
+
+msgid "Back"
+msgstr "Paş"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Çalakiyê hilbijêre ji bo: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Rêza ji dubareyan paqij bike"
+
+msgid "Content type not recognized"
+msgstr "Cureyê naverokê nayê naskirin"
+
+msgid "Could not find video URL"
+msgstr "URL-ya vîdyoyê nehat dîtin"
+
+msgid "Could not load program content"
+msgstr "Nekarî naveroka bernameyê bar bike"
+
+msgid "Crime"
+msgstr "Nebaşî"
+
+msgid "Crime Investigations"
+msgstr "Lêkolînên Sûc"
+
+msgid "Default Folder"
+msgstr "Peldanka xwerû"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Peldanka xwerû ji bo vekirina û hilanîna pelên Fîlmê"
+
+msgid "Documentaries"
+msgstr "Belgefîlman"
+
+msgid "Download"
+msgstr ""
+
+msgid "Download Manager"
+msgstr "Gerînendeyê Daxistinê"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Daxistin rakirin: {str(item['sernav'])}"
+
+msgid "Download started: {}"
+msgstr "Daxistin dest pê kir: {}"
+
+msgid "Download stopped: {}"
+msgstr "Daxistin rawestiya: {}"
+
+msgid "Enter search query"
+msgstr "Pirsa lêgerînê binivîse"
+
+msgid "Entertainment"
+msgstr "Axaftin"
+
+msgid "Error adding download"
+msgstr "Di lêzêdekirina dakêşanê de çewtî"
+
+msgid "Error extracting video URL"
+msgstr "Di derxistina URLa vîdyoyê de çewtî"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Di barkirina bernameyên A-Z de çewtî: {}"
+
+msgid "Error loading archive data"
+msgstr "Di barkirina daneyên arşîvê de çewtî"
+
+msgid "Error loading archive data: {}"
+msgstr "Di barkirina daneyên arşîvê de çewtî: {}"
+
+msgid "Error loading content from API"
+msgstr "Di barkirina naverokê ji API-ê de çewtî"
+
+msgid "Error loading data"
+msgstr "Di barkirina daneyan de çewtî"
+
+msgid "Error loading data: %s"
+msgstr "Di barkirina daneyan de çewtî: %s"
+
+msgid "Error loading data: {}"
+msgstr "Di barkirina daneyan de çewtî: {}"
+
+msgid "Error loading video data"
+msgstr "Di barkirina daneyên vîdyoyê de çewtî"
+
+msgid "Error loading video page"
+msgstr "Di barkirina rûpela vîdyoyê de çewtî"
+
+msgid "Error loading videos:"
+msgstr "Di barkirina vîdyoyan de çewtî:"
+
+msgid "Error parsing content"
+msgstr "Çewtiya parkirina naverokê"
+
+msgid "Error parsing data"
+msgstr "Çewtiya parkirina daneyan"
+
+msgid "Error parsing video data: {}"
+msgstr "Çewtiya parkirina daneya vîdyoyê: {}"
+
+msgid "Error playing file: {}"
+msgstr "Di lîstika pelê de çewtî: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Çewtiya lîstina weşanê: {}"
+
+msgid "Error playing video:"
+msgstr "Di lîstika vîdyoyê de çewtî:"
+
+msgid "Error processing archive"
+msgstr "Çewtiya arşîva pêvajoyê"
+
+msgid "Error processing thematic content"
+msgstr "Di pêvajoya naveroka tematîk de çewtî"
+
+msgid "Error starting plugin"
+msgstr "Di destpêkirina pêvekê de çewtî"
+
+msgid "Error: Could not load news data"
+msgstr "Çewtî: Daneyên nûçeyan nehat barkirin"
+
+msgid "Error: Download manager not available"
+msgstr "Çewtî: Rêvebirê dakêşanê peyda nabe"
+
+msgid "Exclusive Programs"
+msgstr "Bernameyên Exclusive"
+
+msgid "Extracting video URL..."
+msgstr "Derxistina URLa vîdyoyê..."
+
+msgid "File not found: {}"
+msgstr "Pelê nehat dîtin: {}"
+
+msgid "Films"
+msgstr ""
+
+msgid "Found {0} programs for: {1}"
+msgstr "{0} bername hatin dîtin ji bo: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Cihê belaş: {belaş} ji {giştî}"
+
+msgid "Games & Quizzes"
+msgstr "Lîstikên & Quizzes"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Dîrok & Huner"
+
+msgid "Initializing..."
+msgstr "Destpêkirin..."
+
+msgid "International Series"
+msgstr "Rêzeya Navneteweyî"
+
+msgid "Invalid video URL detected"
+msgstr "URL-ya vîdyoyê nederbasdar hat dîtin"
+
+msgid "Italian Series"
+msgstr "Series Italian"
+
+msgid "Kids"
+msgstr ""
+
+msgid "Learning"
+msgstr "Fêrbûn"
+
+msgid "Lifestyle"
+msgstr ""
+
+msgid "Live Radio"
+msgstr "Radyoya Zindî"
+
+msgid "Live TV"
+msgstr "TV Zindî"
+
+msgid "Loading all programs..."
+msgstr "Hemû bername tên barkirin..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Hemû vîdyoyan tê barkirin... Ji kerema xwe li bendê bin"
+
+msgid "Loading archive data..."
+msgstr "Daneyên arşîvê tê barkirin..."
+
+msgid "Loading archive..."
+msgstr "Arşîv tê barkirin..."
+
+msgid "Loading complete! Select an option"
+msgstr "Barkirin qediya! Vebijêrkek hilbijêre"
+
+msgid "Loading data... Please wait"
+msgstr "Daneyên barkirin... Ji kerema xwe li bendê bin"
+
+msgid "Loading news categories..."
+msgstr "Barkirina kategoriyên nûçeyan..."
+
+msgid "Loading news items..."
+msgstr "Barkirina nûçeyan..."
+
+msgid "Loading on-air programs..."
+msgstr "Bernameyên li hewa bar dike..."
+
+msgid "Loading program data"
+msgstr "Daneyên bernameyê bar dike"
+
+msgid "Loading program details..."
+msgstr "Barkirina hûrguliyên bernameyê..."
+
+msgid "Loading programs..."
+msgstr "Bername tê barkirin..."
+
+msgid "Loading videos..."
+msgstr "Vîdyo tê barkirin..."
+
+msgid "Music"
+msgstr "Mûzîk"
+
+msgid "Music & Theater"
+msgstr "Muzîk & Şano"
+
+msgid "Music Classic"
+msgstr ""
+
+msgid "Network Storage"
+msgstr "Tora Storage"
+
+msgid "News & Documentaries"
+msgstr "Nûçe & Belgefîlm"
+
+msgid "News Categories"
+msgstr "Kategoriyên Nûçeyan"
+
+msgid "Next page"
+msgstr "Rûpelê pêştir"
+
+msgid "No TV channels available"
+msgstr "Qenalên televîzyonê tune"
+
+msgid "No archive data found"
+msgstr "Daneyên arşîvê nehat dîtin"
+
+msgid "No categories available"
+msgstr "Kategorî tune"
+
+msgid "No content available"
+msgstr "Naverok tune"
+
+msgid "No content found in this program"
+msgstr "Di vê bernameyê de naverok nehat dîtin"
+
+msgid "No downloads"
+msgstr "Daxistin tune"
+
+msgid "No downloads in queue"
+msgstr "Di dorê de daxistin tune"
+
+msgid "No editions available"
+msgstr "Weşan tune"
+
+msgid "No episodes available"
+msgstr "No episodes berdest in"
+
+msgid "No items available"
+msgstr "Tiştek tune"
+
+msgid "No items found"
+msgstr "Tiştek nehat dîtin"
+
+msgid "No items found in this archive"
+msgstr "Di vê arşîvê de tu tişt nehat dîtin"
+
+msgid "No items found in this category"
+msgstr "Di vê kategoriyê de tu tişt nehat dîtin"
+
+msgid "No main theme found"
+msgstr "Mijara sereke nehat dîtin"
+
+msgid "No program URL available"
+msgstr "URL-ya bernameyê tune"
+
+msgid "No program categories available"
+msgstr "Tu kategoriyên bernameyê tune"
+
+msgid "No programs available for this day"
+msgstr "Ji bo vê rojê tu bername tune"
+
+msgid "No programs currently on air"
+msgstr "Niha tu bername li ser weşanê tune"
+
+msgid "No programs found for:"
+msgstr "Ti bername ji bo:"
+
+msgid "No programs found in A-Z list"
+msgstr "Di lîsteya A-Z de bername nehat dîtin"
+
+msgid "No sports categories available"
+msgstr "Ne kategoriyên werzîşê hene"
+
+msgid "No stream URL available"
+msgstr "URLa weşanê tune"
+
+msgid "No video URL available"
+msgstr "URLa vîdyoyê tune"
+
+msgid "No video URL found in the response"
+msgstr "Di bersivê de URL-ya vîdyoyê nehat dîtin"
+
+msgid "No videos available"
+msgstr "Vîdyo tune"
+
+msgid "No videos found"
+msgstr "Vîdyoyek nehat dîtin"
+
+msgid "No videos found in archive"
+msgstr "Vîdyoyên di arşîvê de nehatin dîtin"
+
+msgid "On Air Programs"
+msgstr "Li ser bernameyên hewayî"
+
+msgid "On Demand"
+msgstr "Li ser Daxwazê"
+
+msgid "Originals"
+msgstr ""
+
+msgid "Page"
+msgstr "Rûpel"
+
+msgid "Page with duplicate"
+msgstr "Rûpel bi dubare"
+
+msgid "Pagination not supported for this archive"
+msgstr "Pagasyon ji bo vê arşîvê nayê piştgirî kirin"
+
+msgid "Play"
+msgstr "Bazî"
+
+msgid "Play & Download"
+msgstr ""
+
+msgid "Play/pause not supported for this stream"
+msgstr "Ji bo vê weşanê lîstin/raweste nayê piştgirî kirin"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Lîsteya bernameyê hîn jî tê barkirin. Ji kerema xwe bisekinin..."
+
+msgid "Programs"
+msgstr ""
+
+msgid "Query too short (min 3 characters)"
+msgstr "Pirs pir kurt (kêm 3 karakter)"
+
+msgid "Radio Programs A-Z"
+msgstr "Bernameyên Radyo A-Z"
+
+msgid "Rai News"
+msgstr ""
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr "Rai Play Li Ser Demand"
+
+msgid "Rai Play Programs"
+msgstr "Bernameyên Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategorî"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Binkategorî"
+
+msgid "RaiPlay Settings"
+msgstr "Mîhengên RaiPlay"
+
+msgid "Remove"
+msgstr "Dûrxistin"
+
+msgid "Remove download: {}?"
+msgstr "Daxistinê jê bibe: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Ji rêzê hat rakirin: {}"
+
+msgid "Replay TV"
+msgstr ""
+
+msgid "Search"
+msgstr "Gerr"
+
+msgid "Search error. Please try again."
+msgstr "Çewtiya lêgerînê. Ji kerema xwe dîsa biceribîne."
+
+msgid "Searching through programs..."
+msgstr "Li bernameyan digere..."
+
+msgid "Select a category"
+msgstr "Kategoriyek hilbijêrin"
+
+msgid "Select a video"
+msgstr "Vîdyoyek hilbijêrin"
+
+msgid "Select block"
+msgstr "Block hilbijêre"
+
+msgid "Select category"
+msgstr "Kategorî hilbijêre"
+
+msgid "Select channel"
+msgstr "Kanal hilbijêrin"
+
+msgid "Select content set"
+msgstr "Set naverokê hilbijêre"
+
+msgid "Select date"
+msgstr "Dîrokê hilbijêre"
+
+msgid "Select edition"
+msgstr "Weşana hilbijêre"
+
+msgid "Select episode"
+msgstr "episode hilbijêre"
+
+msgid "Select item"
+msgstr "Tiştek hilbijêre"
+
+msgid "Select letter"
+msgstr "Name hilbijêrin"
+
+msgid "Select program"
+msgstr "Bernameyê hilbijêre"
+
+msgid "Select program to watch"
+msgstr "Bernameya ji bo temaşekirinê hilbijêrin"
+
+msgid "Select subcategory"
+msgstr "Binkategorî hilbijêre"
+
+msgid "Select video"
+msgstr "Vîdyoyê hilbijêre"
+
+msgid "Society & Culture"
+msgstr "Civak û Çand"
+
+msgid "Sports"
+msgstr ""
+
+msgid "Start"
+msgstr "Destpêkirin"
+
+msgid "Stop"
+msgstr "Rawestan"
+
+msgid "Stop the download first before removing"
+msgstr "Berî rakirinê pêşî dakêşanê rawestînin"
+
+msgid "Sustainability"
+msgstr ""
+
+msgid "TGR and Special Programs"
+msgstr "TGR û Bernameyên Taybet"
+
+msgid "TV News"
+msgstr "Nûçeyên TV"
+
+msgid "TV Programs A-Z"
+msgstr "Bernameyên TV A-Z"
+
+msgid "Talk Shows"
+msgstr "Nîqaş Shows"
+
+msgid "Tech & Learning"
+msgstr "Teknolojî & Fêrbûn"
+
+msgid "Teens"
+msgstr ""
+
+msgid "Temporary"
+msgstr "Derbasî"
+
+msgid "Test download added to queue"
+msgstr "Daxistina testê li dorê hat zêdekirin"
+
+msgid "Test download failed"
+msgstr "Daxistina testê têk çû"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Bi tevahî: {giştî} | Çalak: {çalak} | Di rêzê de: {qewet kirin} | Temam kirin: {qedandin} | Çewtî: {çewtiyên}"
+
+msgid "Travel & Adventure"
+msgstr "Rêwîtî & Serpêhatî"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "Cureyê naverokê nenas"
+
+msgid "Unknown data format"
+msgstr "Forma daneya nenas"
+
+msgid "Unknown title"
+msgstr "Sernav nenas"
+
+msgid "Video URL not available"
+msgstr "URLa vîdyoyê peyda nabe"
+
+msgid "Video URL not found"
+msgstr "URLa vîdyoyê nehat dîtin"
+
+msgid "Video not available"
+msgstr "Vîdyo peyda nabe"
+
+msgid "View Full Archive"
+msgstr ""
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "PÊŞXWAZIN PÊZÊKÊN RAI PLAY BY LULULLA"

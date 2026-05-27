@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:46+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Basque <translation-team-eu@googlegroups.com>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Programa guztiak"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z Irrati saioak"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z Telesailak"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktibatu Debug mezuen garatzailearentzat."
+
+msgid "Active Debug"
+msgstr "Arazte aktiboa"
+
+msgid "Added to queue: {}"
+msgstr "Ilaran gehitu da: {}"
+
+msgid "All Programs"
+msgstr "Programa guztiak"
+
+msgid "Archive URL not found"
+msgstr "Ez da aurkitu artxiboaren URLa"
+
+msgid "Back"
+msgstr "Itzuli"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Aukeratu ekintza honetarako: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Garbitu ilara bikoiztuetatik"
+
+msgid "Content type not recognized"
+msgstr "Ez da eduki mota ezagutzen"
+
+msgid "Could not find video URL"
+msgstr "Ezin izan da bideoaren URLa aurkitu"
+
+msgid "Could not load program content"
+msgstr "Ezin izan da programaren edukia kargatu"
+
+msgid "Crime"
+msgstr "Krimena"
+
+msgid "Crime Investigations"
+msgstr "Delituen Ikerketak"
+
+msgid "Default Folder"
+msgstr "Karpeta lehenetsia"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Filmaren fitxategiak irekitzeko eta gordetzeko karpeta lehenetsia"
+
+msgid "Documentaries"
+msgstr "Dokumentalak"
+
+msgid "Download"
+msgstr "Deskargatu"
+
+msgid "Download Manager"
+msgstr "Deskarga kudeatzailea"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Deskarga kendu da: {str(elementua['titulua'])}"
+
+msgid "Download started: {}"
+msgstr "Deskarga hasi da: {}"
+
+msgid "Download stopped: {}"
+msgstr "Deskarga gelditu da: {}"
+
+msgid "Enter search query"
+msgstr "Sartu bilaketa-kontsulta"
+
+msgid "Entertainment"
+msgstr "Entretenimendua"
+
+msgid "Error adding download"
+msgstr "Errore bat gertatu da deskarga gehitzean"
+
+msgid "Error extracting video URL"
+msgstr "Errore bat gertatu da bideoaren URLa erauztean"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Errore bat gertatu da A-Z programak kargatzean: {}"
+
+msgid "Error loading archive data"
+msgstr "Errore bat gertatu da artxiboko datuak kargatzean"
+
+msgid "Error loading archive data: {}"
+msgstr "Errore bat gertatu da artxiboko datuak kargatzean: {}"
+
+msgid "Error loading content from API"
+msgstr "Errore bat gertatu da APIko edukia kargatzean"
+
+msgid "Error loading data"
+msgstr "Errore bat gertatu da datuak kargatzean"
+
+msgid "Error loading data: %s"
+msgstr "Errorea datuak kargatzean: %s"
+
+msgid "Error loading data: {}"
+msgstr "Errore bat gertatu da datuak kargatzean: {}"
+
+msgid "Error loading video data"
+msgstr "Errore bat gertatu da bideoaren datuak kargatzean"
+
+msgid "Error loading video page"
+msgstr "Errore bat gertatu da bideo orria kargatzean"
+
+msgid "Error loading videos:"
+msgstr "Errore bat gertatu da bideoak kargatzean:"
+
+msgid "Error parsing content"
+msgstr "Errore bat gertatu da edukia analizatzean"
+
+msgid "Error parsing data"
+msgstr "Errore bat gertatu da datuak analizatzean"
+
+msgid "Error parsing video data: {}"
+msgstr "Errore bat gertatu da bideoaren datuak analizatzean: {}"
+
+msgid "Error playing file: {}"
+msgstr "Errore bat gertatu da fitxategia erreproduzitzen: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Errore bat gertatu da korrontea erreproduzitzean: {}"
+
+msgid "Error playing video:"
+msgstr "Errore bat gertatu da bideoa erreproduzitzean:"
+
+msgid "Error processing archive"
+msgstr "Errore bat gertatu da artxiboa prozesatzen"
+
+msgid "Error processing thematic content"
+msgstr "Errore bat gertatu da gaikako edukia prozesatzen"
+
+msgid "Error starting plugin"
+msgstr "Errore bat gertatu da plugina abiarazteko"
+
+msgid "Error: Could not load news data"
+msgstr "Errorea: ezin izan dira kargatu albisteen datuak"
+
+msgid "Error: Download manager not available"
+msgstr "Errorea: deskarga-kudeatzailea ez dago erabilgarri"
+
+msgid "Exclusive Programs"
+msgstr "Programa esklusiboak"
+
+msgid "Extracting video URL..."
+msgstr "Bideoaren URLa ateratzen..."
+
+msgid "File not found: {}"
+msgstr "Ez da aurkitu fitxategia: {}"
+
+msgid "Films"
+msgstr "Filmak"
+
+msgid "Found {0} programs for: {1}"
+msgstr "{0} programa aurkitu dira: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Espazio librea: {free}/{total}"
+
+msgid "Games & Quizzes"
+msgstr "Jokoak eta galdetegiak"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Historia eta Artea"
+
+msgid "Initializing..."
+msgstr "Hasieratzen..."
+
+msgid "International Series"
+msgstr "Nazioarteko Seriea"
+
+msgid "Invalid video URL detected"
+msgstr "Bideoaren URL baliogabea detektatu da"
+
+msgid "Italian Series"
+msgstr "Italiako Seriea"
+
+msgid "Kids"
+msgstr "Haurrak"
+
+msgid "Learning"
+msgstr "Ikasten"
+
+msgid "Lifestyle"
+msgstr "Bizimodua"
+
+msgid "Live Radio"
+msgstr "Zuzeneko Irratia"
+
+msgid "Live TV"
+msgstr "Zuzeneko telebista"
+
+msgid "Loading all programs..."
+msgstr "Programa guztiak kargatzen..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Bideo guztiak kargatzen... Itxaron mesedez"
+
+msgid "Loading archive data..."
+msgstr "Artxiboko datuak kargatzen..."
+
+msgid "Loading archive..."
+msgstr "Artxiboa kargatzen..."
+
+msgid "Loading complete! Select an option"
+msgstr "Kargatu da! Hautatu aukera bat"
+
+msgid "Loading data... Please wait"
+msgstr "Datuak kargatzen... Itxaron mesedez"
+
+msgid "Loading news categories..."
+msgstr "Albisteen kategoriak kargatzen..."
+
+msgid "Loading news items..."
+msgstr "Albisteak kargatzen..."
+
+msgid "Loading on-air programs..."
+msgstr "Aireko programak kargatzen..."
+
+msgid "Loading program data"
+msgstr "Programaren datuak kargatzen"
+
+msgid "Loading program details..."
+msgstr "Programaren xehetasunak kargatzen..."
+
+msgid "Loading programs..."
+msgstr "Programak kargatzen..."
+
+msgid "Loading videos..."
+msgstr "Bideoak kargatzen..."
+
+msgid "Music"
+msgstr "Musika"
+
+msgid "Music & Theater"
+msgstr "Musika eta Antzerkia"
+
+msgid "Music Classic"
+msgstr "Musika Klasikoa"
+
+msgid "Network Storage"
+msgstr "Sareko biltegiratzea"
+
+msgid "News & Documentaries"
+msgstr "Albisteak eta Dokumentalak"
+
+msgid "News Categories"
+msgstr "Albiste Kategoriak"
+
+msgid "Next page"
+msgstr "Hurrengo orrialdea"
+
+msgid "No TV channels available"
+msgstr "Ez dago telebista katerik"
+
+msgid "No archive data found"
+msgstr "Ez da artxiboko daturik aurkitu"
+
+msgid "No categories available"
+msgstr "Ez dago kategoriarik erabilgarri"
+
+msgid "No content available"
+msgstr "Ez dago edukirik eskuragarri"
+
+msgid "No content found in this program"
+msgstr "Ez da edukirik aurkitu programa honetan"
+
+msgid "No downloads"
+msgstr "Ez dago deskargarik"
+
+msgid "No downloads in queue"
+msgstr "Ez dago deskargarik ilaran"
+
+msgid "No editions available"
+msgstr "Ez dago ediziorik eskuragarri"
+
+msgid "No episodes available"
+msgstr "Ez dago atal erabilgarririk"
+
+msgid "No items available"
+msgstr "Ez dago elementurik eskuragarri"
+
+msgid "No items found"
+msgstr "Ez da elementurik aurkitu"
+
+msgid "No items found in this archive"
+msgstr "Ez da artxibo honetan aurkitu elementurik"
+
+msgid "No items found in this category"
+msgstr "Ez da elementurik aurkitu kategoria honetan"
+
+msgid "No main theme found"
+msgstr "Ez da gai nagusirik aurkitu"
+
+msgid "No program URL available"
+msgstr "Ez dago programaren URLrik eskuragarri"
+
+msgid "No program categories available"
+msgstr "Ez dago programa-kategoriarik eskuragarri"
+
+msgid "No programs available for this day"
+msgstr "Ez dago programarik erabilgarri egun honetarako"
+
+msgid "No programs currently on air"
+msgstr "Une honetan ez dago programarik airean"
+
+msgid "No programs found for:"
+msgstr "Ez da aurkitu programarik:"
+
+msgid "No programs found in A-Z list"
+msgstr "Ez da programarik aurkitu A-Z zerrendan"
+
+msgid "No sports categories available"
+msgstr "Ez dago kirol kategoriarik erabilgarri"
+
+msgid "No stream URL available"
+msgstr "Ez dago korrontearen URLrik eskuragarri"
+
+msgid "No video URL available"
+msgstr "Ez dago bideoaren URLrik eskuragarri"
+
+msgid "No video URL found in the response"
+msgstr "Ez da bideoaren URLrik aurkitu erantzunean"
+
+msgid "No videos available"
+msgstr "Ez dago bideorik eskuragarri"
+
+msgid "No videos found"
+msgstr "Ez da bideorik aurkitu"
+
+msgid "No videos found in archive"
+msgstr "Ez da bideorik aurkitu artxiboan"
+
+msgid "On Air Programs"
+msgstr "On Air Programak"
+
+msgid "On Demand"
+msgstr "Eskaera"
+
+msgid "Originals"
+msgstr "Jatorrizkoak"
+
+msgid "Page"
+msgstr "Orria"
+
+msgid "Page with duplicate"
+msgstr "Bikoiztutako orrialdea"
+
+msgid "Pagination not supported for this archive"
+msgstr "Ez da orria artxibo honetan onartzen"
+
+msgid "Play"
+msgstr "Jolastu"
+
+msgid "Play & Download"
+msgstr "Erreproduzitu eta deskargatu"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Erreproduzitu/pausatu ezin da korronte honetan"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Programa-zerrenda oraindik kargatzen ari da. Mesedez, itxaron..."
+
+msgid "Programs"
+msgstr "Programak"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Kontsulta laburregia (gutxienez 3 karaktere)"
+
+msgid "Radio Programs A-Z"
+msgstr "Irratsaioak A-Z"
+
+msgid "Rai News"
+msgstr "Rai Berriak"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play Zuzeneko Irratia"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Rai Play Programak"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai Kirolak"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategoriak"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Azpikategoriak"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay ezarpenak"
+
+msgid "Remove"
+msgstr "Kendu"
+
+msgid "Remove download: {}?"
+msgstr "Deskarga kendu: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Ilaratik kendu da: {}"
+
+msgid "Replay TV"
+msgstr "Erreproduzitu telebista"
+
+msgid "Search"
+msgstr "Bilatu"
+
+msgid "Search error. Please try again."
+msgstr "Bilaketa-errorea. Mesedez, saiatu berriro."
+
+msgid "Searching through programs..."
+msgstr "Programen bidez bilatzen..."
+
+msgid "Select a category"
+msgstr "Hautatu kategoria bat"
+
+msgid "Select a video"
+msgstr "Hautatu bideo bat"
+
+msgid "Select block"
+msgstr "Hautatu blokea"
+
+msgid "Select category"
+msgstr "Hautatu kategoria"
+
+msgid "Select channel"
+msgstr "Hautatu kanala"
+
+msgid "Select content set"
+msgstr "Hautatu eduki multzoa"
+
+msgid "Select date"
+msgstr "Hautatu data"
+
+msgid "Select edition"
+msgstr "Hautatu edizioa"
+
+msgid "Select episode"
+msgstr "Hautatu atala"
+
+msgid "Select item"
+msgstr "Hautatu elementua"
+
+msgid "Select letter"
+msgstr "Hautatu letra"
+
+msgid "Select program"
+msgstr "Hautatu programa"
+
+msgid "Select program to watch"
+msgstr "Hautatu ikusteko programa"
+
+msgid "Select subcategory"
+msgstr "Hautatu azpikategoria"
+
+msgid "Select video"
+msgstr "Hautatu bideoa"
+
+msgid "Society & Culture"
+msgstr "Gizartea eta Kultura"
+
+msgid "Sports"
+msgstr "Kirolak"
+
+msgid "Start"
+msgstr "Hasi"
+
+msgid "Stop"
+msgstr "Gelditu"
+
+msgid "Stop the download first before removing"
+msgstr "Gelditu deskarga kendu aurretik"
+
+msgid "Sustainability"
+msgstr "Iraunkortasuna"
+
+msgid "TGR and Special Programs"
+msgstr "TGR eta Programa Bereziak"
+
+msgid "TV News"
+msgstr "Telebistako Albisteak"
+
+msgid "TV Programs A-Z"
+msgstr "Telebistako programak A-Z"
+
+msgid "Talk Shows"
+msgstr ""
+
+msgid "Tech & Learning"
+msgstr "Teknologia eta Ikaskuntza"
+
+msgid "Teens"
+msgstr "Nerabeak"
+
+msgid "Temporary"
+msgstr "Behin-behinekoa"
+
+msgid "Test download added to queue"
+msgstr "Proba deskarga gehitu da ilaran"
+
+msgid "Test download failed"
+msgstr "Proba deskargatu huts egin du"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Guztira: {guztira} | Aktiboa: {aktiboa} | Ilaran jarrita: {ilaran} | Osatua: {osatua} | Akatsak: {erroreak}"
+
+msgid "Travel & Adventure"
+msgstr "Bidaiak eta Abentura"
+
+msgid "USB Drive"
+msgstr "USB unitatea"
+
+msgid "Unknown content type"
+msgstr "Eduki mota ezezaguna"
+
+msgid "Unknown data format"
+msgstr "Datuen formatu ezezaguna"
+
+msgid "Unknown title"
+msgstr "Izenburu ezezaguna"
+
+msgid "Video URL not available"
+msgstr "Bideoaren URLa ez dago erabilgarri"
+
+msgid "Video URL not found"
+msgstr "Ez da bideoaren URLa aurkitu"
+
+msgid "Video not available"
+msgstr "Bideoa ez dago eskuragarri"
+
+msgid "View Full Archive"
+msgstr "Ikusi artxibo osoa"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "ONGI ETORRI LULULLAREN RAI PLAY PLUGINSERA"

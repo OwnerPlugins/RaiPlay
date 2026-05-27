@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tagalog\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Lahat ng Programa"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z Mga Palabas sa Radyo"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z Mga Palabas sa TV"
+
+msgid "Activate Debug for messages developer."
+msgstr "I-activate ang Debug para sa developer ng mga mensahe."
+
+msgid "Active Debug"
+msgstr "Aktibong Pag-debug"
+
+msgid "Added to queue: {}"
+msgstr "Idinagdag sa queue: {}"
+
+msgid "All Programs"
+msgstr "Lahat ng Programa"
+
+msgid "Archive URL not found"
+msgstr "Hindi nahanap ang URL ng archive"
+
+msgid "Back"
+msgstr "Bumalik"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Pumili ng aksyon para sa: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Linisin ang pila mula sa mga duplicate"
+
+msgid "Content type not recognized"
+msgstr "Hindi nakilala ang uri ng nilalaman"
+
+msgid "Could not find video URL"
+msgstr "Hindi mahanap ang URL ng video"
+
+msgid "Could not load program content"
+msgstr "Hindi ma-load ang nilalaman ng programa"
+
+msgid "Crime"
+msgstr "Krimen"
+
+msgid "Crime Investigations"
+msgstr "Mga Pagsisiyasat sa Krimen"
+
+msgid "Default Folder"
+msgstr "Default na Folder"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Default na folder para sa pagbubukas at pag-save ng mga file ng Pelikula"
+
+msgid "Documentaries"
+msgstr "Mga dokumentaryo"
+
+msgid "Download"
+msgstr "I-download"
+
+msgid "Download Manager"
+msgstr ""
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Inalis ang pag-download: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Nagsimula ang pag-download: {}"
+
+msgid "Download stopped: {}"
+msgstr "Huminto ang pag-download: {}"
+
+msgid "Enter search query"
+msgstr "Ipasok ang query sa paghahanap"
+
+msgid "Entertainment"
+msgstr "Libangan"
+
+msgid "Error adding download"
+msgstr "Error sa pagdaragdag ng pag-download"
+
+msgid "Error extracting video URL"
+msgstr "Error sa pag-extract ng URL ng video"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Error sa paglo-load ng mga A-Z program: {}"
+
+msgid "Error loading archive data"
+msgstr "Error sa paglo-load ng data ng archive"
+
+msgid "Error loading archive data: {}"
+msgstr "Error sa paglo-load ng data ng archive: {}"
+
+msgid "Error loading content from API"
+msgstr "Error sa paglo-load ng content mula sa API"
+
+msgid "Error loading data"
+msgstr "Error sa paglo-load ng data"
+
+msgid "Error loading data: %s"
+msgstr "Error sa paglo-load ng data: %s"
+
+msgid "Error loading data: {}"
+msgstr "Error sa paglo-load ng data: {}"
+
+msgid "Error loading video data"
+msgstr "Error sa paglo-load ng data ng video"
+
+msgid "Error loading video page"
+msgstr "Error sa paglo-load ng pahina ng video"
+
+msgid "Error loading videos:"
+msgstr "Error sa paglo-load ng mga video:"
+
+msgid "Error parsing content"
+msgstr "Error sa pag-parse ng content"
+
+msgid "Error parsing data"
+msgstr "Error sa pag-parse ng data"
+
+msgid "Error parsing video data: {}"
+msgstr "Error sa pag-parse ng data ng video: {}"
+
+msgid "Error playing file: {}"
+msgstr "Error sa paglalaro ng file: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Error sa paglalaro ng stream: {}"
+
+msgid "Error playing video:"
+msgstr "Error sa paglalaro ng video:"
+
+msgid "Error processing archive"
+msgstr "Error sa pagproseso ng archive"
+
+msgid "Error processing thematic content"
+msgstr "Error sa pagproseso ng pampakay na nilalaman"
+
+msgid "Error starting plugin"
+msgstr "Error sa pagsisimula ng plugin"
+
+msgid "Error: Could not load news data"
+msgstr "Error: Hindi ma-load ang data ng balita"
+
+msgid "Error: Download manager not available"
+msgstr "Error: Hindi available ang download manager"
+
+msgid "Exclusive Programs"
+msgstr "Mga Eksklusibong Programa"
+
+msgid "Extracting video URL..."
+msgstr "Kinukuha ang URL ng video..."
+
+msgid "File not found: {}"
+msgstr "Hindi nahanap ang file: {}"
+
+msgid "Films"
+msgstr "Mga pelikula"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Nakahanap ng {0} na mga programa para sa: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Libreng Space: {libre} ng {total}"
+
+msgid "Games & Quizzes"
+msgstr "Mga Laro at Pagsusulit"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Kasaysayan at Sining"
+
+msgid "Initializing..."
+msgstr "Sinisimulan..."
+
+msgid "International Series"
+msgstr "Internasyonal na Serye"
+
+msgid "Invalid video URL detected"
+msgstr "May nakitang di-wastong URL ng video"
+
+msgid "Italian Series"
+msgstr "Serye ng Italyano"
+
+msgid "Kids"
+msgstr "Mga bata"
+
+msgid "Learning"
+msgstr "Pag-aaral"
+
+msgid "Lifestyle"
+msgstr "Pamumuhay"
+
+msgid "Live Radio"
+msgstr "Live na Radyo"
+
+msgid "Live TV"
+msgstr "Live na TV"
+
+msgid "Loading all programs..."
+msgstr "Nilo-load ang lahat ng program..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Nilo-load ang lahat ng mga video... Mangyaring maghintay"
+
+msgid "Loading archive data..."
+msgstr "Nilo-load ang data ng archive..."
+
+msgid "Loading archive..."
+msgstr "Nilo-load ang archive..."
+
+msgid "Loading complete! Select an option"
+msgstr "Kumpleto na ang paglo-load! Pumili ng opsyon"
+
+msgid "Loading data... Please wait"
+msgstr "Naglo-load ng data... Mangyaring maghintay"
+
+msgid "Loading news categories..."
+msgstr "Naglo-load ng mga kategorya ng balita..."
+
+msgid "Loading news items..."
+msgstr "Nilo-load ang mga item ng balita..."
+
+msgid "Loading on-air programs..."
+msgstr "Naglo-load ng mga on-air na programa..."
+
+msgid "Loading program data"
+msgstr "Nilo-load ang data ng programa"
+
+msgid "Loading program details..."
+msgstr "Nilo-load ang mga detalye ng programa..."
+
+msgid "Loading programs..."
+msgstr "Naglo-load ng mga program..."
+
+msgid "Loading videos..."
+msgstr "Naglo-load ng mga video..."
+
+msgid "Music"
+msgstr "Musika"
+
+msgid "Music & Theater"
+msgstr "Musika at Teatro"
+
+msgid "Music Classic"
+msgstr "Musika Classic"
+
+msgid "Network Storage"
+msgstr "Imbakan ng Network"
+
+msgid "News & Documentaries"
+msgstr "Balita at Dokumentaryo"
+
+msgid "News Categories"
+msgstr "Mga Kategorya ng Balita"
+
+msgid "Next page"
+msgstr "Susunod na pahina"
+
+msgid "No TV channels available"
+msgstr "Walang available na mga channel sa TV"
+
+msgid "No archive data found"
+msgstr "Walang nakitang archive data"
+
+msgid "No categories available"
+msgstr "Walang available na kategorya"
+
+msgid "No content available"
+msgstr "Walang available na content"
+
+msgid "No content found in this program"
+msgstr "Walang nakitang content sa program na ito"
+
+msgid "No downloads"
+msgstr "Walang mga download"
+
+msgid "No downloads in queue"
+msgstr "Walang mga pag-download sa pila"
+
+msgid "No editions available"
+msgstr "Walang available na edisyon"
+
+msgid "No episodes available"
+msgstr "Walang available na mga episode"
+
+msgid "No items available"
+msgstr "Walang available na item"
+
+msgid "No items found"
+msgstr "Walang nakitang mga item"
+
+msgid "No items found in this archive"
+msgstr "Walang nakitang mga item sa archive na ito"
+
+msgid "No items found in this category"
+msgstr "Walang nakitang mga item sa kategoryang ito"
+
+msgid "No main theme found"
+msgstr "Walang nakitang pangunahing tema"
+
+msgid "No program URL available"
+msgstr "Walang available na URL ng programa"
+
+msgid "No program categories available"
+msgstr "Walang magagamit na mga kategorya ng programa"
+
+msgid "No programs available for this day"
+msgstr "Walang available na programa para sa araw na ito"
+
+msgid "No programs currently on air"
+msgstr "Walang mga programang kasalukuyang on air"
+
+msgid "No programs found for:"
+msgstr "Walang nakitang mga programa para sa:"
+
+msgid "No programs found in A-Z list"
+msgstr "Walang nakitang mga programa sa listahan ng A-Z"
+
+msgid "No sports categories available"
+msgstr "Walang available na mga kategorya ng sports"
+
+msgid "No stream URL available"
+msgstr "Walang available na URL ng stream"
+
+msgid "No video URL available"
+msgstr "Walang available na URL ng video"
+
+msgid "No video URL found in the response"
+msgstr "Walang nakitang URL ng video sa tugon"
+
+msgid "No videos available"
+msgstr "Walang available na video"
+
+msgid "No videos found"
+msgstr "Walang nakitang mga video"
+
+msgid "No videos found in archive"
+msgstr "Walang nakitang mga video sa archive"
+
+msgid "On Air Programs"
+msgstr ""
+
+msgid "On Demand"
+msgstr ""
+
+msgid "Originals"
+msgstr "Mga orihinal"
+
+msgid "Page"
+msgstr "Pahina"
+
+msgid "Page with duplicate"
+msgstr "Pahina na may duplicate"
+
+msgid "Pagination not supported for this archive"
+msgstr "Hindi suportado ang pagbilang ng pahina para sa archive na ito"
+
+msgid "Play"
+msgstr "Maglaro"
+
+msgid "Play & Download"
+msgstr "I-play at I-download"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Hindi sinusuportahan ang pag-play/pause para sa stream na ito"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Naglo-load pa rin ang listahan ng program. Mangyaring maghintay..."
+
+msgid "Programs"
+msgstr "Mga programa"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Masyadong maikli ang query (min 3 character)"
+
+msgid "Radio Programs A-Z"
+msgstr "Mga Programa sa Radyo A-Z"
+
+msgid "Rai News"
+msgstr "Balita ni Rai"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr ""
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "Replay ng Rai Play:"
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Mga Kategorya"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Mga subcategory"
+
+msgid "RaiPlay Settings"
+msgstr "Mga Setting ng RaiPlay"
+
+msgid "Remove"
+msgstr "Alisin"
+
+msgid "Remove download: {}?"
+msgstr "Alisin ang pag-download: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Inalis sa queue: {}"
+
+msgid "Replay TV"
+msgstr "I-replay ang TV"
+
+msgid "Search"
+msgstr "Maghanap"
+
+msgid "Search error. Please try again."
+msgstr "Error sa paghahanap. Pakisubukang muli."
+
+msgid "Searching through programs..."
+msgstr "Naghahanap sa pamamagitan ng mga programa..."
+
+msgid "Select a category"
+msgstr "Pumili ng kategorya"
+
+msgid "Select a video"
+msgstr "Pumili ng video"
+
+msgid "Select block"
+msgstr "Piliin ang block"
+
+msgid "Select category"
+msgstr "Pumili ng kategorya"
+
+msgid "Select channel"
+msgstr "Pumili ng channel"
+
+msgid "Select content set"
+msgstr "Pumili ng set ng nilalaman"
+
+msgid "Select date"
+msgstr "Pumili ng petsa"
+
+msgid "Select edition"
+msgstr "Pumili ng edisyon"
+
+msgid "Select episode"
+msgstr "Pumili ng episode"
+
+msgid "Select item"
+msgstr "Pumili ng item"
+
+msgid "Select letter"
+msgstr "Pumili ng titik"
+
+msgid "Select program"
+msgstr "Pumili ng programa"
+
+msgid "Select program to watch"
+msgstr "Piliin ang programang papanoorin"
+
+msgid "Select subcategory"
+msgstr "Pumili ng subcategory"
+
+msgid "Select video"
+msgstr "Pumili ng video"
+
+msgid "Society & Culture"
+msgstr "Lipunan at Kultura"
+
+msgid "Sports"
+msgstr "Palakasan"
+
+msgid "Start"
+msgstr "Magsimula"
+
+msgid "Stop"
+msgstr "Tumigil ka"
+
+msgid "Stop the download first before removing"
+msgstr "Itigil muna ang pag-download bago alisin"
+
+msgid "Sustainability"
+msgstr ""
+
+msgid "TGR and Special Programs"
+msgstr "TGR at Mga Espesyal na Programa"
+
+msgid "TV News"
+msgstr "Balita sa TV"
+
+msgid "TV Programs A-Z"
+msgstr "Mga Programa sa TV A-Z"
+
+msgid "Talk Shows"
+msgstr "Mga Talk Show"
+
+msgid "Tech & Learning"
+msgstr ""
+
+msgid "Teens"
+msgstr "Mga kabataan"
+
+msgid "Temporary"
+msgstr "Pansamantala"
+
+msgid "Test download added to queue"
+msgstr "Idinagdag ang pag-download ng pagsubok sa pila"
+
+msgid "Test download failed"
+msgstr "Nabigo ang pag-download ng pagsubok"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Kabuuan: {kabuuan} | Aktibo: {aktibo} | Nakapila: {queued} | Nakumpleto: {completed} | Mga error: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Paglalakbay at Pakikipagsapalaran"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "Hindi kilalang uri ng nilalaman"
+
+msgid "Unknown data format"
+msgstr "Hindi kilalang format ng data"
+
+msgid "Unknown title"
+msgstr "Hindi kilalang pamagat"
+
+msgid "Video URL not available"
+msgstr "Hindi available ang URL ng video"
+
+msgid "Video URL not found"
+msgstr "Hindi nakita ang URL ng video"
+
+msgid "Video not available"
+msgstr "Hindi available ang video"
+
+msgid "View Full Archive"
+msgstr "Tingnan ang Buong Archive"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "WELCOME SA RAI PLAY PLUGINS NI LULULLA"

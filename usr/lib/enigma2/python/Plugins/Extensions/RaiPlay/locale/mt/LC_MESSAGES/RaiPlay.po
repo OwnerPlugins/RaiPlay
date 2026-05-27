@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:13+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Maltese <translation-team-mt@lists.sourceforge.net>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr ""
+
+msgid "A-Z Radio Shows"
+msgstr "Wirjiet tar-Radju A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Shows tat-TV A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Attiva Debug għall-iżviluppatur tal-messaġġi."
+
+msgid "Active Debug"
+msgstr "Debug Attiv"
+
+msgid "Added to queue: {}"
+msgstr "Miżjud mal-kju: {}"
+
+msgid "All Programs"
+msgstr "Il-Programmi kollha"
+
+msgid "Archive URL not found"
+msgstr "URL tal-arkivju ma nstabx"
+
+msgid "Back"
+msgstr "Lura"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Agħżel azzjoni għal: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Naddaf kju minn duplikati"
+
+msgid "Content type not recognized"
+msgstr "Tip ta' kontenut mhux rikonoxxut"
+
+msgid "Could not find video URL"
+msgstr ""
+
+msgid "Could not load program content"
+msgstr "Ma setax jgħabbi l-kontenut tal-programm"
+
+msgid "Crime"
+msgstr "Kriminalità"
+
+msgid "Crime Investigations"
+msgstr ""
+
+msgid "Default Folder"
+msgstr "Folder Default"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Folder default għall-ftuħ u l-iffrankar tal-fajls tal-films"
+
+msgid "Documentaries"
+msgstr "Dokumentarji"
+
+msgid "Download"
+msgstr "Niżżel"
+
+msgid "Download Manager"
+msgstr "Niżżel il-Maniġer"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Niżżel imneħħi: {str(oġġett['titlu'])}"
+
+msgid "Download started: {}"
+msgstr "Niżżel beda: {}"
+
+msgid "Download stopped: {}"
+msgstr "It-tniżżil waqaf: {}"
+
+msgid "Enter search query"
+msgstr "Daħħal it-tfittxija"
+
+msgid "Entertainment"
+msgstr "Divertiment"
+
+msgid "Error adding download"
+msgstr "Żball li żżid it-tniżżil"
+
+msgid "Error extracting video URL"
+msgstr ""
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Żball fit-tagħbija tal-programmi A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Żball fit-tagħbija tad-dejta tal-arkivju"
+
+msgid "Error loading archive data: {}"
+msgstr "Żball fit-tagħbija tad-dejta tal-arkivju: {}"
+
+msgid "Error loading content from API"
+msgstr "Żball fit-tagħbija tal-kontenut mill-API"
+
+msgid "Error loading data"
+msgstr "Żball fit-tagħbija tad-dejta"
+
+msgid "Error loading data: %s"
+msgstr "Żball fit-tagħbija tad-dejta: %s"
+
+msgid "Error loading data: {}"
+msgstr "Żball fit-tagħbija tad-dejta: {}"
+
+msgid "Error loading video data"
+msgstr "Żball fit-tagħbija tad-dejta tal-vidjo"
+
+msgid "Error loading video page"
+msgstr "Żball fit-tagħbija tal-paġna tal-vidjo"
+
+msgid "Error loading videos:"
+msgstr "Żball fit-tagħbija tal-vidjows:"
+
+msgid "Error parsing content"
+msgstr "Żball fl-analiżi tal-kontenut"
+
+msgid "Error parsing data"
+msgstr "Żball fl-analiżi tad-dejta"
+
+msgid "Error parsing video data: {}"
+msgstr "Żball fl-analiżi tad-dejta tal-vidjo: {}"
+
+msgid "Error playing file: {}"
+msgstr "Żball fil-logħob tal-fajl: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Żball tilgħab stream: {}"
+
+msgid "Error playing video:"
+msgstr "Żball fil-logħob tal-vidjo:"
+
+msgid "Error processing archive"
+msgstr "Żball fl-ipproċessar tal-arkivju"
+
+msgid "Error processing thematic content"
+msgstr "Żball fl-ipproċessar tal-kontenut tematiku"
+
+msgid "Error starting plugin"
+msgstr "Żball fil-bidu tal-plugin"
+
+msgid "Error: Could not load news data"
+msgstr "Żball: Ma setgħetx tagħbija data tal-aħbarijiet"
+
+msgid "Error: Download manager not available"
+msgstr "Żball: Il-maniġer tat-tniżżil mhux disponibbli"
+
+msgid "Exclusive Programs"
+msgstr "Programmi Esklussivi"
+
+msgid "Extracting video URL..."
+msgstr "L-estrazzjoni tal-URL tal-vidjo..."
+
+msgid "File not found: {}"
+msgstr "Fajl ma nstabx: {}"
+
+msgid "Films"
+msgstr ""
+
+msgid "Found {0} programs for: {1}"
+msgstr "Sabu {0} programmi għal: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Spazju Ħieles: {free} minn {total}"
+
+msgid "Games & Quizzes"
+msgstr "Logħob u Kwizzijiet"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Storja u Arti"
+
+msgid "Initializing..."
+msgstr "Inizjalizzazzjoni..."
+
+msgid "International Series"
+msgstr "Serje Internazzjonali"
+
+msgid "Invalid video URL detected"
+msgstr "Instab URL tal-vidjo invalidu"
+
+msgid "Italian Series"
+msgstr "Serje Taljan"
+
+msgid "Kids"
+msgstr ""
+
+msgid "Learning"
+msgstr "Tagħlim"
+
+msgid "Lifestyle"
+msgstr "Stil tal-ħajja"
+
+msgid "Live Radio"
+msgstr "Radju Live"
+
+msgid "Live TV"
+msgstr ""
+
+msgid "Loading all programs..."
+msgstr "Tagħbija l-programmi kollha..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Tagħbija l-vidjows kollha... Jekk jogħġbok stenna"
+
+msgid "Loading archive data..."
+msgstr "Tagħbija tad-dejta tal-arkivju..."
+
+msgid "Loading archive..."
+msgstr "Tagħbija arkivju..."
+
+msgid "Loading complete! Select an option"
+msgstr "Tagħbija kompluta! Agħżel għażla"
+
+msgid "Loading data... Please wait"
+msgstr "Tagħbija tad-dejta... Jekk jogħġbok stenna"
+
+msgid "Loading news categories..."
+msgstr "Tagħbija kategoriji ta' aħbarijiet..."
+
+msgid "Loading news items..."
+msgstr "Qed jitgħabbew l-aħbarijiet..."
+
+msgid "Loading on-air programs..."
+msgstr "Tagħbija programmi fuq l-arja..."
+
+msgid "Loading program data"
+msgstr "Tagħbija tad-dejta tal-programm"
+
+msgid "Loading program details..."
+msgstr "Tagħbija d-dettalji tal-programm..."
+
+msgid "Loading programs..."
+msgstr "Tagħbija programmi..."
+
+msgid "Loading videos..."
+msgstr "Tagħbija vidjows..."
+
+msgid "Music"
+msgstr "Mużika"
+
+msgid "Music & Theater"
+msgstr "Mużika u Teatru"
+
+msgid "Music Classic"
+msgstr "Mużika Klassika"
+
+msgid "Network Storage"
+msgstr "Ħażna tan-Netwerk"
+
+msgid "News & Documentaries"
+msgstr "Aħbarijiet u Dokumentarji"
+
+msgid "News Categories"
+msgstr "Kategoriji tal-Aħbarijiet"
+
+msgid "Next page"
+msgstr "Il-paġna li jmiss"
+
+msgid "No TV channels available"
+msgstr "L-ebda stazzjonijiet tat-TV disponibbli"
+
+msgid "No archive data found"
+msgstr "Ma nstabet l-ebda dejta tal-arkivju"
+
+msgid "No categories available"
+msgstr "Ebda kategoriji disponibbli"
+
+msgid "No content available"
+msgstr "Ebda kontenut disponibbli"
+
+msgid "No content found in this program"
+msgstr "L-ebda kontenut ma nstab f'dan il-programm"
+
+msgid "No downloads"
+msgstr "Ebda downloads"
+
+msgid "No downloads in queue"
+msgstr "Ebda downloads fil-kju"
+
+msgid "No editions available"
+msgstr "Ebda edizzjonijiet disponibbli"
+
+msgid "No episodes available"
+msgstr "Ebda episodji disponibbli"
+
+msgid "No items available"
+msgstr "Ebda oġġetti disponibbli"
+
+msgid "No items found"
+msgstr "L-ebda oġġett ma nstab"
+
+msgid "No items found in this archive"
+msgstr "L-ebda oġġett ma nstab f'dan l-arkivju"
+
+msgid "No items found in this category"
+msgstr "L-ebda oġġett ma nstab f'din il-kategorija"
+
+msgid "No main theme found"
+msgstr "Ma nstabet l-ebda tema prinċipali"
+
+msgid "No program URL available"
+msgstr "Ebda URL tal-programm disponibbli"
+
+msgid "No program categories available"
+msgstr "Ebda kategorija ta' programmi disponibbli"
+
+msgid "No programs available for this day"
+msgstr "Ebda programmi disponibbli għal din il-ġurnata"
+
+msgid "No programs currently on air"
+msgstr "Ebda programmi bħalissa fuq l-arja"
+
+msgid "No programs found for:"
+msgstr "Ma nstab l-ebda programm għal:"
+
+msgid "No programs found in A-Z list"
+msgstr "Ebda programmi misjuba fil-lista A-Z"
+
+msgid "No sports categories available"
+msgstr "Ebda kategoriji sportivi disponibbli"
+
+msgid "No stream URL available"
+msgstr "L-ebda URL tal-fluss disponibbli"
+
+msgid "No video URL available"
+msgstr "Ebda URL tal-vidjo disponibbli"
+
+msgid "No video URL found in the response"
+msgstr "L-ebda URL tal-vidjo ma nstab fit-tweġiba"
+
+msgid "No videos available"
+msgstr "Ebda vidjows disponibbli"
+
+msgid "No videos found"
+msgstr "Ma nstab l-ebda vidjows"
+
+msgid "No videos found in archive"
+msgstr "Ma nstab l-ebda vidjows fl-arkivju"
+
+msgid "On Air Programs"
+msgstr "Programmi On Air"
+
+msgid "On Demand"
+msgstr "Fuq Talba"
+
+msgid "Originals"
+msgstr "Oriġinali"
+
+msgid "Page"
+msgstr "Paġna"
+
+msgid "Page with duplicate"
+msgstr "Paġna b'duplikat"
+
+msgid "Pagination not supported for this archive"
+msgstr "Paġnar mhux appoġġjat għal dan l-arkivju"
+
+msgid "Play"
+msgstr ""
+
+msgid "Play & Download"
+msgstr "Ilgħab u Niżżel"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Play/pawsa mhux appoġġjat għal dan il-fluss"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Il-lista tal-programmi għadha qed titgħabbi. Jekk jogħġbok stenna..."
+
+msgid "Programs"
+msgstr "Programmi"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Mistoqsija qasira wisq (min 3 karattri)"
+
+msgid "Radio Programs A-Z"
+msgstr "Programmi tar-Radju A-Z"
+
+msgid "Rai News"
+msgstr "Aħbarijiet Rai"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play Live Radju"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr ""
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr "Rai Play Fittex"
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategoriji"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Sottokategoriji"
+
+msgid "RaiPlay Settings"
+msgstr "Settings RaiPlay"
+
+msgid "Remove"
+msgstr "Neħħi"
+
+msgid "Remove download: {}?"
+msgstr "Neħħi t-tniżżil: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Imneħħija mill-kju: {}"
+
+msgid "Replay TV"
+msgstr ""
+
+msgid "Search"
+msgstr "Fittex"
+
+msgid "Search error. Please try again."
+msgstr "Żball fit-tfittxija. Jekk jogħġbok erġa' pprova."
+
+msgid "Searching through programs..."
+msgstr "Tiftix permezz ta' programmi..."
+
+msgid "Select a category"
+msgstr "Agħżel kategorija"
+
+msgid "Select a video"
+msgstr "Agħżel vidjo"
+
+msgid "Select block"
+msgstr "Agħżel blokk"
+
+msgid "Select category"
+msgstr "Agħżel il-kategorija"
+
+msgid "Select channel"
+msgstr "Agħżel kanal"
+
+msgid "Select content set"
+msgstr "Agħżel is-sett tal-kontenut"
+
+msgid "Select date"
+msgstr "Agħżel id-data"
+
+msgid "Select edition"
+msgstr "Agħżel l-edizzjoni"
+
+msgid "Select episode"
+msgstr "Agħżel episodju"
+
+msgid "Select item"
+msgstr "Agħżel l-oġġett"
+
+msgid "Select letter"
+msgstr "Agħżel l-ittra"
+
+msgid "Select program"
+msgstr "Agħżel il-programm"
+
+msgid "Select program to watch"
+msgstr "Agħżel il-programm biex tara"
+
+msgid "Select subcategory"
+msgstr "Agħżel is-sottokategorija"
+
+msgid "Select video"
+msgstr "Agħżel il-vidjo"
+
+msgid "Society & Culture"
+msgstr "Soċjetà u Kultura"
+
+msgid "Sports"
+msgstr ""
+
+msgid "Start"
+msgstr "Ibda"
+
+msgid "Stop"
+msgstr "Waqqaf"
+
+msgid "Stop the download first before removing"
+msgstr "Waqqaf it-tniżżil l-ewwel qabel ma tneħħi"
+
+msgid "Sustainability"
+msgstr "Sostenibbiltà"
+
+msgid "TGR and Special Programs"
+msgstr "TGR u Programmi Speċjali"
+
+msgid "TV News"
+msgstr "Aħbarijiet televiżivi"
+
+msgid "TV Programs A-Z"
+msgstr "Programmi tat-TV A-Z"
+
+msgid "Talk Shows"
+msgstr ""
+
+msgid "Tech & Learning"
+msgstr "Teknoloġija u Tagħlim"
+
+msgid "Teens"
+msgstr "Żagħżagħ"
+
+msgid "Temporary"
+msgstr "Temporanju"
+
+msgid "Test download added to queue"
+msgstr "Tniżżil tat-test miżjud mal-kju"
+
+msgid "Test download failed"
+msgstr "It-tniżżil tat-test falla"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Total: {total} | Attiv: {attiv} | Fil-kju: {fil-kju} | Imlesta: {lest} | Żbalji: {żbalji}"
+
+msgid "Travel & Adventure"
+msgstr "Ivvjaġġar u Avventura"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "Tip ta' kontenut mhux magħruf"
+
+msgid "Unknown data format"
+msgstr "Format tad-dejta mhux magħruf"
+
+msgid "Unknown title"
+msgstr "Titolu mhux magħruf"
+
+msgid "Video URL not available"
+msgstr "URL tal-vidjo mhux disponibbli"
+
+msgid "Video URL not found"
+msgstr "Il-URL tal-vidjo ma nstabx"
+
+msgid "Video not available"
+msgstr "Vidjow mhux disponibbli"
+
+msgid "View Full Archive"
+msgstr "Ara l-Arkivju Sħiħ"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "MERĦBA GĦAR-RAI PLAY PLUGINS MINN LULULLA"

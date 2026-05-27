@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:11+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Telugu <(nothing)>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z అన్ని ప్రోగ్రామ్‌లు"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z రేడియో షోలు"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z టీవీ షోలు"
+
+msgid "Activate Debug for messages developer."
+msgstr "సందేశాల డెవలపర్ కోసం డీబగ్‌ని సక్రియం చేయండి."
+
+msgid "Active Debug"
+msgstr "క్రియాశీల డీబగ్"
+
+msgid "Added to queue: {}"
+msgstr "క్యూలో జోడించబడింది: {}"
+
+msgid "All Programs"
+msgstr "అన్ని కార్యక్రమాలు"
+
+msgid "Archive URL not found"
+msgstr "ఆర్కైవ్ URL కనుగొనబడలేదు"
+
+msgid "Back"
+msgstr "వెనుకకు"
+
+msgid "Barry Allen"
+msgstr "బారీ అలెన్"
+
+msgid "Choose action for: {}"
+msgstr "దీని కోసం చర్యను ఎంచుకోండి: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "నకిలీల నుండి క్యూని శుభ్రపరచండి"
+
+msgid "Content type not recognized"
+msgstr "కంటెంట్ రకం గుర్తించబడలేదు"
+
+msgid "Could not find video URL"
+msgstr "వీడియో URLని కనుగొనడం సాధ్యపడలేదు"
+
+msgid "Could not load program content"
+msgstr "ప్రోగ్రామ్ కంటెంట్‌ను లోడ్ చేయడం సాధ్యపడలేదు"
+
+msgid "Crime"
+msgstr "నేరం"
+
+msgid "Crime Investigations"
+msgstr "నేర పరిశోధనలు"
+
+msgid "Default Folder"
+msgstr "డిఫాల్ట్ ఫోల్డర్"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "మూవీ ఫైల్‌లను తెరవడానికి మరియు సేవ్ చేయడానికి డిఫాల్ట్ ఫోల్డర్"
+
+msgid "Documentaries"
+msgstr "డాక్యుమెంటరీలు"
+
+msgid "Download"
+msgstr "డౌన్‌లోడ్ చేయండి"
+
+msgid "Download Manager"
+msgstr "డౌన్‌లోడ్ మేనేజర్"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "డౌన్‌లోడ్ తీసివేయబడింది: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "డౌన్‌లోడ్ ప్రారంభమైంది: {}"
+
+msgid "Download stopped: {}"
+msgstr "డౌన్‌లోడ్ ఆగిపోయింది: {}"
+
+msgid "Enter search query"
+msgstr "శోధన ప్రశ్నను నమోదు చేయండి"
+
+msgid "Entertainment"
+msgstr "వినోదం"
+
+msgid "Error adding download"
+msgstr "డౌన్‌లోడ్‌ని జోడించడంలో లోపం"
+
+msgid "Error extracting video URL"
+msgstr "వీడియో URLని సంగ్రహించడంలో లోపం"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A-Z ప్రోగ్రామ్‌లను లోడ్ చేయడంలో లోపం: {}"
+
+msgid "Error loading archive data"
+msgstr "ఆర్కైవ్ డేటాను లోడ్ చేయడంలో లోపం"
+
+msgid "Error loading archive data: {}"
+msgstr "ఆర్కైవ్ డేటాను లోడ్ చేయడంలో లోపం: {}"
+
+msgid "Error loading content from API"
+msgstr "API నుండి కంటెంట్‌ని లోడ్ చేయడంలో లోపం"
+
+msgid "Error loading data"
+msgstr "డేటాను లోడ్ చేయడంలో లోపం"
+
+msgid "Error loading data: %s"
+msgstr "డేటాను లోడ్ చేయడంలో లోపం: %s"
+
+msgid "Error loading data: {}"
+msgstr "డేటాను లోడ్ చేయడంలో లోపం: {}"
+
+msgid "Error loading video data"
+msgstr "వీడియో డేటాను లోడ్ చేయడంలో లోపం"
+
+msgid "Error loading video page"
+msgstr "వీడియో పేజీని లోడ్ చేయడంలో లోపం"
+
+msgid "Error loading videos:"
+msgstr "వీడియోలను లోడ్ చేయడంలో లోపం:"
+
+msgid "Error parsing content"
+msgstr "కంటెంట్‌ని అన్వయించడంలో లోపం"
+
+msgid "Error parsing data"
+msgstr "డేటాను అన్వయించడంలో లోపం"
+
+msgid "Error parsing video data: {}"
+msgstr "వీడియో డేటాను అన్వయించడంలో లోపం: {}"
+
+msgid "Error playing file: {}"
+msgstr "ఫైల్ ప్లే చేయడంలో లోపం: {}"
+
+msgid "Error playing stream: {}"
+msgstr "స్ట్రీమ్ ప్లే చేయడంలో లోపం: {}"
+
+msgid "Error playing video:"
+msgstr "వీడియో ప్లే చేయడంలో లోపం:"
+
+msgid "Error processing archive"
+msgstr "ఆర్కైవ్‌ను ప్రాసెస్ చేయడంలో లోపం"
+
+msgid "Error processing thematic content"
+msgstr "నేపథ్య కంటెంట్‌ని ప్రాసెస్ చేయడంలో లోపం"
+
+msgid "Error starting plugin"
+msgstr "ప్లగిన్‌ను ప్రారంభించడంలో లోపం"
+
+msgid "Error: Could not load news data"
+msgstr "లోపం: వార్తల డేటాను లోడ్ చేయడం సాధ్యపడలేదు"
+
+msgid "Error: Download manager not available"
+msgstr "లోపం: డౌన్‌లోడ్ మేనేజర్ అందుబాటులో లేదు"
+
+msgid "Exclusive Programs"
+msgstr "ప్రత్యేక కార్యక్రమాలు"
+
+msgid "Extracting video URL..."
+msgstr "వీడియో URLని సంగ్రహిస్తోంది..."
+
+msgid "File not found: {}"
+msgstr "ఫైల్ కనుగొనబడలేదు: {}"
+
+msgid "Films"
+msgstr "సినిమాలు"
+
+msgid "Found {0} programs for: {1}"
+msgstr "దీని కోసం {0} ప్రోగ్రామ్‌లు కనుగొనబడ్డాయి: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "ఖాళీ స్థలం: {total}లో {free}"
+
+msgid "Games & Quizzes"
+msgstr "ఆటలు & క్విజ్‌లు"
+
+msgid "HDD Drive"
+msgstr "HDD డ్రైవ్"
+
+msgid "History & Art"
+msgstr "చరిత్ర & కళ"
+
+msgid "Initializing..."
+msgstr "ప్రారంభిస్తోంది..."
+
+msgid "International Series"
+msgstr "అంతర్జాతీయ సిరీస్"
+
+msgid "Invalid video URL detected"
+msgstr "చెల్లని వీడియో URL కనుగొనబడింది"
+
+msgid "Italian Series"
+msgstr "ఇటాలియన్ సిరీస్"
+
+msgid "Kids"
+msgstr "పిల్లలు"
+
+msgid "Learning"
+msgstr "నేర్చుకోవడం"
+
+msgid "Lifestyle"
+msgstr "జీవనశైలి"
+
+msgid "Live Radio"
+msgstr "ప్రత్యక్ష రేడియో"
+
+msgid "Live TV"
+msgstr "ప్రత్యక్ష టీవీ"
+
+msgid "Loading all programs..."
+msgstr "అన్ని ప్రోగ్రామ్‌లను లోడ్ చేస్తోంది..."
+
+msgid "Loading all videos... Please wait"
+msgstr "అన్ని వీడియోలను లోడ్ చేస్తోంది... దయచేసి వేచి ఉండండి"
+
+msgid "Loading archive data..."
+msgstr "ఆర్కైవ్ డేటా లోడ్ అవుతోంది..."
+
+msgid "Loading archive..."
+msgstr "ఆర్కైవ్ లోడ్ అవుతోంది..."
+
+msgid "Loading complete! Select an option"
+msgstr "లోడ్ చేయడం పూర్తయింది! ఒక ఎంపికను ఎంచుకోండి"
+
+msgid "Loading data... Please wait"
+msgstr "డేటా లోడ్ అవుతోంది... దయచేసి వేచి ఉండండి"
+
+msgid "Loading news categories..."
+msgstr "వార్తల వర్గాలను లోడ్ చేస్తోంది..."
+
+msgid "Loading news items..."
+msgstr "వార్తా అంశాలను లోడ్ చేస్తోంది..."
+
+msgid "Loading on-air programs..."
+msgstr "ప్రసార ప్రోగ్రామ్‌లను లోడ్ చేస్తోంది..."
+
+msgid "Loading program data"
+msgstr "ప్రోగ్రామ్ డేటా లోడ్ అవుతోంది"
+
+msgid "Loading program details..."
+msgstr "ప్రోగ్రామ్ వివరాలను లోడ్ చేస్తోంది..."
+
+msgid "Loading programs..."
+msgstr "ప్రోగ్రామ్‌లను లోడ్ చేస్తోంది..."
+
+msgid "Loading videos..."
+msgstr "వీడియోలను లోడ్ చేస్తోంది..."
+
+msgid "Music"
+msgstr "సంగీతం"
+
+msgid "Music & Theater"
+msgstr "సంగీతం & థియేటర్"
+
+msgid "Music Classic"
+msgstr "సంగీతం క్లాసిక్"
+
+msgid "Network Storage"
+msgstr "నెట్‌వర్క్ నిల్వ"
+
+msgid "News & Documentaries"
+msgstr "వార్తలు & డాక్యుమెంటరీలు"
+
+msgid "News Categories"
+msgstr "వార్తల వర్గాలు"
+
+msgid "Next page"
+msgstr "తదుపరి పేజీ"
+
+msgid "No TV channels available"
+msgstr "టీవీ ఛానెల్‌లు అందుబాటులో లేవు"
+
+msgid "No archive data found"
+msgstr "ఆర్కైవ్ డేటా ఏదీ కనుగొనబడలేదు"
+
+msgid "No categories available"
+msgstr "ఏ వర్గాలు అందుబాటులో లేవు"
+
+msgid "No content available"
+msgstr "కంటెంట్ అందుబాటులో లేదు"
+
+msgid "No content found in this program"
+msgstr "ఈ ప్రోగ్రామ్‌లో కంటెంట్ ఏదీ కనుగొనబడలేదు"
+
+msgid "No downloads"
+msgstr "డౌన్‌లోడ్‌లు లేవు"
+
+msgid "No downloads in queue"
+msgstr "క్యూలో డౌన్‌లోడ్‌లు లేవు"
+
+msgid "No editions available"
+msgstr "ఎడిషన్‌లు ఏవీ అందుబాటులో లేవు"
+
+msgid "No episodes available"
+msgstr "ఎపిసోడ్‌లు ఏవీ అందుబాటులో లేవు"
+
+msgid "No items available"
+msgstr "ఏ వస్తువులు అందుబాటులో లేవు"
+
+msgid "No items found"
+msgstr "అంశాలు ఏవీ కనుగొనబడలేదు"
+
+msgid "No items found in this archive"
+msgstr "ఈ ఆర్కైవ్‌లో అంశాలు ఏవీ కనుగొనబడలేదు"
+
+msgid "No items found in this category"
+msgstr "ఈ వర్గంలో అంశాలు ఏవీ కనుగొనబడలేదు"
+
+msgid "No main theme found"
+msgstr "ప్రధాన థీమ్ కనుగొనబడలేదు"
+
+msgid "No program URL available"
+msgstr "ప్రోగ్రామ్ URL అందుబాటులో లేదు"
+
+msgid "No program categories available"
+msgstr "ప్రోగ్రామ్ కేటగిరీలు అందుబాటులో లేవు"
+
+msgid "No programs available for this day"
+msgstr "ఈ రోజు కోసం ప్రోగ్రామ్‌లు ఏవీ అందుబాటులో లేవు"
+
+msgid "No programs currently on air"
+msgstr "ప్రస్తుతం ప్రసారమయ్యే ప్రోగ్రామ్‌లు ఏవీ లేవు"
+
+msgid "No programs found for:"
+msgstr "దీని కోసం ప్రోగ్రామ్‌లు ఏవీ కనుగొనబడలేదు:"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z జాబితాలో ప్రోగ్రామ్‌లు ఏవీ కనుగొనబడలేదు"
+
+msgid "No sports categories available"
+msgstr "క్రీడా వర్గాలు అందుబాటులో లేవు"
+
+msgid "No stream URL available"
+msgstr "స్ట్రీమ్ URL అందుబాటులో లేదు"
+
+msgid "No video URL available"
+msgstr "వీడియో URL అందుబాటులో లేదు"
+
+msgid "No video URL found in the response"
+msgstr "ప్రతిస్పందనలో వీడియో URL ఏదీ కనుగొనబడలేదు"
+
+msgid "No videos available"
+msgstr "వీడియోలు ఏవీ అందుబాటులో లేవు"
+
+msgid "No videos found"
+msgstr "వీడియోలు ఏవీ కనుగొనబడలేదు"
+
+msgid "No videos found in archive"
+msgstr "ఆర్కైవ్‌లో వీడియోలు ఏవీ కనుగొనబడలేదు"
+
+msgid "On Air Programs"
+msgstr "ఆన్ ఎయిర్ ప్రోగ్రామ్‌లు"
+
+msgid "On Demand"
+msgstr "ఆన్ డిమాండ్"
+
+msgid "Originals"
+msgstr "అసలైనవి"
+
+msgid "Page"
+msgstr "పేజీ"
+
+msgid "Page with duplicate"
+msgstr "నకిలీతో పేజీ"
+
+msgid "Pagination not supported for this archive"
+msgstr "ఈ ఆర్కైవ్‌కు పేజీకి మద్దతు లేదు"
+
+msgid "Play"
+msgstr "ఆడండి"
+
+msgid "Play & Download"
+msgstr "ప్లే & డౌన్‌లోడ్ చేయండి"
+
+msgid "Play/pause not supported for this stream"
+msgstr "ఈ స్ట్రీమ్‌కు ప్లే/పాజ్ మద్దతు లేదు"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "ప్రోగ్రామ్ జాబితా ఇప్పటికీ లోడ్ అవుతోంది. దయచేసి వేచి ఉండండి..."
+
+msgid "Programs"
+msgstr "కార్యక్రమాలు"
+
+msgid "Query too short (min 3 characters)"
+msgstr "ప్రశ్న చాలా చిన్నది (నిమి 3 అక్షరాలు)"
+
+msgid "Radio Programs A-Z"
+msgstr "రేడియో కార్యక్రమాలు A-Z"
+
+msgid "Rai News"
+msgstr "రాయ్ న్యూస్"
+
+msgid "Rai Play Live"
+msgstr "రాయ్ లైవ్ ప్లే చేయండి"
+
+msgid "Rai Play Live Radio"
+msgstr "రాయ్ ప్లే లైవ్ రేడియో"
+
+msgid "Rai Play Main"
+msgstr "రాయ్ ప్లే మెయిన్"
+
+msgid "Rai Play On Demand"
+msgstr "రాయ్ ప్లే ఆన్ డిమాండ్"
+
+msgid "Rai Play Programs"
+msgstr "రాయ్ ప్లే ప్రోగ్రామ్‌లు"
+
+msgid "Rai Play Replay TV"
+msgstr "రాయ్ ప్లే రీప్లే టీవీ"
+
+msgid "Rai Play Replay:"
+msgstr "రాయ్ ప్లే రీప్లే:"
+
+msgid "Rai Play Search"
+msgstr "రాయ్ ప్లే శోధన"
+
+msgid "Rai Sport"
+msgstr "రాయ్ స్పోర్ట్స్"
+
+msgid "Rai Sport - Categories"
+msgstr "రాయ్ స్పోర్ట్ - వర్గాలు"
+
+msgid "Rai Sport - Subcategories"
+msgstr "రాయ్ స్పోర్ట్ - ఉపవర్గాలు"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay సెట్టింగ్‌లు"
+
+msgid "Remove"
+msgstr "తొలగించు"
+
+msgid "Remove download: {}?"
+msgstr "డౌన్‌లోడ్‌ని తీసివేయండి: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "క్యూ నుండి తీసివేయబడింది: {}"
+
+msgid "Replay TV"
+msgstr "టీవీని రీప్లే చేయండి"
+
+msgid "Search"
+msgstr "శోధించండి"
+
+msgid "Search error. Please try again."
+msgstr "శోధన లోపం. దయచేసి మళ్లీ ప్రయత్నించండి."
+
+msgid "Searching through programs..."
+msgstr "ప్రోగ్రామ్‌ల ద్వారా శోధిస్తోంది..."
+
+msgid "Select a category"
+msgstr "వర్గాన్ని ఎంచుకోండి"
+
+msgid "Select a video"
+msgstr "వీడియోను ఎంచుకోండి"
+
+msgid "Select block"
+msgstr "బ్లాక్ ఎంచుకోండి"
+
+msgid "Select category"
+msgstr "వర్గాన్ని ఎంచుకోండి"
+
+msgid "Select channel"
+msgstr "ఛానెల్‌ని ఎంచుకోండి"
+
+msgid "Select content set"
+msgstr "కంటెంట్ సెట్‌ని ఎంచుకోండి"
+
+msgid "Select date"
+msgstr "తేదీని ఎంచుకోండి"
+
+msgid "Select edition"
+msgstr "ఎడిషన్‌ని ఎంచుకోండి"
+
+msgid "Select episode"
+msgstr "ఎపిసోడ్‌ని ఎంచుకోండి"
+
+msgid "Select item"
+msgstr "అంశాన్ని ఎంచుకోండి"
+
+msgid "Select letter"
+msgstr "అక్షరాన్ని ఎంచుకోండి"
+
+msgid "Select program"
+msgstr "ప్రోగ్రామ్‌ని ఎంచుకోండి"
+
+msgid "Select program to watch"
+msgstr "చూడటానికి ప్రోగ్రామ్‌ని ఎంచుకోండి"
+
+msgid "Select subcategory"
+msgstr "ఉపవర్గాన్ని ఎంచుకోండి"
+
+msgid "Select video"
+msgstr "వీడియోను ఎంచుకోండి"
+
+msgid "Society & Culture"
+msgstr "సమాజం & సంస్కృతి"
+
+msgid "Sports"
+msgstr "క్రీడలు"
+
+msgid "Start"
+msgstr "ప్రారంభించండి"
+
+msgid "Stop"
+msgstr "ఆపు"
+
+msgid "Stop the download first before removing"
+msgstr "తీసివేయడానికి ముందు డౌన్‌లోడ్‌ను ఆపివేయండి"
+
+msgid "Sustainability"
+msgstr "సుస్థిరత"
+
+msgid "TGR and Special Programs"
+msgstr "TGR మరియు ప్రత్యేక కార్యక్రమాలు"
+
+msgid "TV News"
+msgstr "టీవీ వార్తలు"
+
+msgid "TV Programs A-Z"
+msgstr "టీవీ కార్యక్రమాలు A-Z"
+
+msgid "Talk Shows"
+msgstr "టాక్ షోలు"
+
+msgid "Tech & Learning"
+msgstr "టెక్ & లెర్నింగ్"
+
+msgid "Teens"
+msgstr "టీనేజ్"
+
+msgid "Temporary"
+msgstr "తాత్కాలికం"
+
+msgid "Test download added to queue"
+msgstr "టెస్ట్ డౌన్‌లోడ్ క్యూలో జోడించబడింది"
+
+msgid "Test download failed"
+msgstr "పరీక్ష డౌన్‌లోడ్ విఫలమైంది"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "మొత్తం: {మొత్తం} | సక్రియం: {యాక్టివ్} | వరుసలో ఉంది: {క్యూలో} | పూర్తయింది: {పూర్తయింది} | లోపాలు: {ఎర్రర్స్}"
+
+msgid "Travel & Adventure"
+msgstr "ప్రయాణం & సాహసం"
+
+msgid "USB Drive"
+msgstr "USB డ్రైవ్"
+
+msgid "Unknown content type"
+msgstr "తెలియని కంటెంట్ రకం"
+
+msgid "Unknown data format"
+msgstr "తెలియని డేటా ఫార్మాట్"
+
+msgid "Unknown title"
+msgstr "తెలియని శీర్షిక"
+
+msgid "Video URL not available"
+msgstr "వీడియో URL అందుబాటులో లేదు"
+
+msgid "Video URL not found"
+msgstr "వీడియో URL కనుగొనబడలేదు"
+
+msgid "Video not available"
+msgstr "వీడియో అందుబాటులో లేదు"
+
+msgid "View Full Archive"
+msgstr "పూర్తి ఆర్కైవ్‌ని వీక్షించండి"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "లులుల్లా ద్వారా రాయ్ ప్లే ప్లగిన్‌లకు స్వాగతం"

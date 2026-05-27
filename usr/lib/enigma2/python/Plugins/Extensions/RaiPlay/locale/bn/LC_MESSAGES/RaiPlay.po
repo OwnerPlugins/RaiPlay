@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bengali <(nothing)>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z সমস্ত প্রোগ্রাম"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z রেডিও শো"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z টিভি শো"
+
+msgid "Activate Debug for messages developer."
+msgstr "বার্তা বিকাশকারীর জন্য ডিবাগ সক্রিয় করুন।"
+
+msgid "Active Debug"
+msgstr "সক্রিয় ডিবাগ"
+
+msgid "Added to queue: {}"
+msgstr "সারিতে যোগ করা হয়েছে: {}"
+
+msgid "All Programs"
+msgstr "সমস্ত প্রোগ্রাম"
+
+msgid "Archive URL not found"
+msgstr "সংরক্ষণাগার URL পাওয়া যায়নি"
+
+msgid "Back"
+msgstr "ব্যাক"
+
+msgid "Barry Allen"
+msgstr "ব্যারি অ্যালেন"
+
+msgid "Choose action for: {}"
+msgstr "এর জন্য পদক্ষেপ চয়ন করুন: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "ডুপ্লিকেট থেকে সারি পরিষ্কার করুন"
+
+msgid "Content type not recognized"
+msgstr "বিষয়বস্তুর প্রকার স্বীকৃত নয়"
+
+msgid "Could not find video URL"
+msgstr "ভিডিও URL খুঁজে পাওয়া যায়নি"
+
+msgid "Could not load program content"
+msgstr "প্রোগ্রাম বিষয়বস্তু লোড করা যায়নি"
+
+msgid "Crime"
+msgstr "অপরাধ"
+
+msgid "Crime Investigations"
+msgstr "অপরাধ তদন্ত"
+
+msgid "Default Folder"
+msgstr "ডিফল্ট ফোল্ডার"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "মুভি ফাইল খোলা এবং সংরক্ষণের জন্য ডিফল্ট ফোল্ডার"
+
+msgid "Documentaries"
+msgstr "তথ্যচিত্র"
+
+msgid "Download"
+msgstr "ডাউনলোড করুন"
+
+msgid "Download Manager"
+msgstr "ডাউনলোড ম্যানেজার"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ডাউনলোড সরানো হয়েছে: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "ডাউনলোড শুরু হয়েছে: {}"
+
+msgid "Download stopped: {}"
+msgstr "ডাউনলোড বন্ধ হয়েছে: {}"
+
+msgid "Enter search query"
+msgstr "অনুসন্ধান ক্যোয়ারী লিখুন"
+
+msgid "Entertainment"
+msgstr "বিনোদন"
+
+msgid "Error adding download"
+msgstr "ডাউনলোড যোগ করার সময় ত্রুটি৷"
+
+msgid "Error extracting video URL"
+msgstr "ভিডিও URL বের করার সময় ত্রুটি৷"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A-Z প্রোগ্রাম লোড করার সময় ত্রুটি: {}"
+
+msgid "Error loading archive data"
+msgstr "সংরক্ষণাগার ডেটা লোড করার সময় ত্রুটি৷"
+
+msgid "Error loading archive data: {}"
+msgstr "সংরক্ষণাগার ডেটা লোড করার সময় ত্রুটি: {}"
+
+msgid "Error loading content from API"
+msgstr "API থেকে সামগ্রী লোড করার সময় ত্রুটি৷"
+
+msgid "Error loading data"
+msgstr "ডেটা লোড করার সময় ত্রুটি৷"
+
+msgid "Error loading data: %s"
+msgstr "ডেটা লোড করার সময় ত্রুটি: %s"
+
+msgid "Error loading data: {}"
+msgstr "ডেটা লোড করার সময় ত্রুটি: {}"
+
+msgid "Error loading video data"
+msgstr "ভিডিও ডেটা লোড করার সময় ত্রুটি৷"
+
+msgid "Error loading video page"
+msgstr "ভিডিও পৃষ্ঠা লোড করার সময় ত্রুটি৷"
+
+msgid "Error loading videos:"
+msgstr "ভিডিও লোড করার সময় ত্রুটি:"
+
+msgid "Error parsing content"
+msgstr "বিষয়বস্তু পার্সিং ত্রুটি"
+
+msgid "Error parsing data"
+msgstr "ডেটা পার্স করার সময় ত্রুটি৷"
+
+msgid "Error parsing video data: {}"
+msgstr "ভিডিও ডেটা পার্স করার সময় ত্রুটি: {}"
+
+msgid "Error playing file: {}"
+msgstr "ফাইল চালাতে ত্রুটি: {}"
+
+msgid "Error playing stream: {}"
+msgstr "স্ট্রিম চালাতে ত্রুটি: {}"
+
+msgid "Error playing video:"
+msgstr "ভিডিও চালানোর ত্রুটি:"
+
+msgid "Error processing archive"
+msgstr "সংরক্ষণাগার প্রক্রিয়াকরণে ত্রুটি৷"
+
+msgid "Error processing thematic content"
+msgstr "বিষয়ভিত্তিক বিষয়বস্তু প্রক্রিয়াকরণে ত্রুটি"
+
+msgid "Error starting plugin"
+msgstr "প্লাগইন শুরু করতে ত্রুটি৷"
+
+msgid "Error: Could not load news data"
+msgstr "ত্রুটি: সংবাদ ডেটা লোড করা যায়নি"
+
+msgid "Error: Download manager not available"
+msgstr "ত্রুটি: ডাউনলোড ম্যানেজার উপলব্ধ নেই৷"
+
+msgid "Exclusive Programs"
+msgstr "এক্সক্লুসিভ প্রোগ্রাম"
+
+msgid "Extracting video URL..."
+msgstr "ভিডিও URL বের করা হচ্ছে..."
+
+msgid "File not found: {}"
+msgstr "ফাইল পাওয়া যায়নি: {}"
+
+msgid "Films"
+msgstr "ছায়াছবি"
+
+msgid "Found {0} programs for: {1}"
+msgstr "এর জন্য {0}টি প্রোগ্রাম পাওয়া গেছে: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "ফাঁকা স্থান: {total} এর মধ্যে {মুক্ত}"
+
+msgid "Games & Quizzes"
+msgstr "গেম এবং কুইজ"
+
+msgid "HDD Drive"
+msgstr "এইচডিডি ড্রাইভ"
+
+msgid "History & Art"
+msgstr "ইতিহাস ও শিল্প"
+
+msgid "Initializing..."
+msgstr "শুরু করা হচ্ছে..."
+
+msgid "International Series"
+msgstr "আন্তর্জাতিক সিরিজ"
+
+msgid "Invalid video URL detected"
+msgstr "অবৈধ ভিডিও URL সনাক্ত করা হয়েছে"
+
+msgid "Italian Series"
+msgstr "ইতালীয় সিরিজ"
+
+msgid "Kids"
+msgstr "বাচ্চাদের"
+
+msgid "Learning"
+msgstr "শেখা"
+
+msgid "Lifestyle"
+msgstr "জীবনধারা"
+
+msgid "Live Radio"
+msgstr "লাইভ রেডিও"
+
+msgid "Live TV"
+msgstr "লাইভ টিভি"
+
+msgid "Loading all programs..."
+msgstr "সমস্ত প্রোগ্রাম লোড হচ্ছে..."
+
+msgid "Loading all videos... Please wait"
+msgstr "সমস্ত ভিডিও লোড হচ্ছে... অনুগ্রহ করে অপেক্ষা করুন৷"
+
+msgid "Loading archive data..."
+msgstr "সংরক্ষণাগার ডেটা লোড হচ্ছে..."
+
+msgid "Loading archive..."
+msgstr "সংরক্ষণাগার লোড হচ্ছে..."
+
+msgid "Loading complete! Select an option"
+msgstr "লোডিং সম্পূর্ণ! একটি বিকল্প নির্বাচন করুন"
+
+msgid "Loading data... Please wait"
+msgstr "ডেটা লোড হচ্ছে... অনুগ্রহ করে অপেক্ষা করুন"
+
+msgid "Loading news categories..."
+msgstr "খবরের বিভাগ লোড হচ্ছে..."
+
+msgid "Loading news items..."
+msgstr "সংবাদ আইটেম লোড হচ্ছে..."
+
+msgid "Loading on-air programs..."
+msgstr "অন-এয়ার প্রোগ্রাম লোড হচ্ছে..."
+
+msgid "Loading program data"
+msgstr "প্রোগ্রাম ডেটা লোড হচ্ছে"
+
+msgid "Loading program details..."
+msgstr "প্রোগ্রামের বিশদ বিবরণ লোড হচ্ছে..."
+
+msgid "Loading programs..."
+msgstr "প্রোগ্রাম লোড হচ্ছে..."
+
+msgid "Loading videos..."
+msgstr "ভিডিও লোড হচ্ছে..."
+
+msgid "Music"
+msgstr "সঙ্গীত"
+
+msgid "Music & Theater"
+msgstr "সঙ্গীত ও থিয়েটার"
+
+msgid "Music Classic"
+msgstr "মিউজিক ক্লাসিক"
+
+msgid "Network Storage"
+msgstr "নেটওয়ার্ক স্টোরেজ"
+
+msgid "News & Documentaries"
+msgstr "সংবাদ ও তথ্যচিত্র"
+
+msgid "News Categories"
+msgstr "খবর বিভাগ"
+
+msgid "Next page"
+msgstr "পরবর্তী পৃষ্ঠা"
+
+msgid "No TV channels available"
+msgstr "কোনো টিভি চ্যানেল উপলব্ধ নেই৷"
+
+msgid "No archive data found"
+msgstr "কোনো সংরক্ষণাগার তথ্য পাওয়া যায়নি"
+
+msgid "No categories available"
+msgstr "কোন বিভাগ উপলব্ধ"
+
+msgid "No content available"
+msgstr "কোন বিষয়বস্তু উপলব্ধ"
+
+msgid "No content found in this program"
+msgstr "এই প্রোগ্রামে কোন বিষয়বস্তু পাওয়া যায়নি"
+
+msgid "No downloads"
+msgstr "কোন ডাউনলোড নেই"
+
+msgid "No downloads in queue"
+msgstr "সারিতে কোনো ডাউনলোড নেই"
+
+msgid "No editions available"
+msgstr "কোনো সংস্করণ উপলব্ধ নেই৷"
+
+msgid "No episodes available"
+msgstr "কোন পর্ব উপলব্ধ নেই"
+
+msgid "No items available"
+msgstr "কোন আইটেম উপলব্ধ"
+
+msgid "No items found"
+msgstr "কোন আইটেম পাওয়া যায়নি"
+
+msgid "No items found in this archive"
+msgstr "এই আর্কাইভে কোন আইটেম পাওয়া যায়নি"
+
+msgid "No items found in this category"
+msgstr "এই বিভাগে কোন আইটেম পাওয়া যায়নি"
+
+msgid "No main theme found"
+msgstr "কোনো মূল থিম পাওয়া যায়নি"
+
+msgid "No program URL available"
+msgstr "কোন প্রোগ্রাম URL উপলব্ধ নেই"
+
+msgid "No program categories available"
+msgstr "কোন প্রোগ্রাম বিভাগ উপলব্ধ"
+
+msgid "No programs available for this day"
+msgstr "এই দিনের জন্য কোন প্রোগ্রাম উপলব্ধ"
+
+msgid "No programs currently on air"
+msgstr "বর্তমানে সম্প্রচারিত কোন প্রোগ্রাম"
+
+msgid "No programs found for:"
+msgstr "এর জন্য কোন প্রোগ্রাম পাওয়া যায়নি:"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z তালিকায় কোনো প্রোগ্রাম পাওয়া যায়নি"
+
+msgid "No sports categories available"
+msgstr "কোন ক্রীড়া বিভাগ উপলব্ধ"
+
+msgid "No stream URL available"
+msgstr "কোনো স্ট্রিম URL উপলব্ধ নেই৷"
+
+msgid "No video URL available"
+msgstr "কোনো ভিডিও URL উপলব্ধ নেই৷"
+
+msgid "No video URL found in the response"
+msgstr "প্রতিক্রিয়াতে কোনো ভিডিও URL পাওয়া যায়নি"
+
+msgid "No videos available"
+msgstr "কোনো ভিডিও উপলব্ধ নেই৷"
+
+msgid "No videos found"
+msgstr "কোন ভিডিও পাওয়া যায়নি"
+
+msgid "No videos found in archive"
+msgstr "আর্কাইভে কোন ভিডিও পাওয়া যায়নি"
+
+msgid "On Air Programs"
+msgstr "অন ​​এয়ার প্রোগ্রাম"
+
+msgid "On Demand"
+msgstr "অন ​​ডিমান্ড"
+
+msgid "Originals"
+msgstr "অরিজিনাল"
+
+msgid "Page"
+msgstr "পাতা"
+
+msgid "Page with duplicate"
+msgstr "ডুপ্লিকেট সহ পৃষ্ঠা"
+
+msgid "Pagination not supported for this archive"
+msgstr "এই আর্কাইভের জন্য পেজিনেশন সমর্থিত নয়"
+
+msgid "Play"
+msgstr "খেলা"
+
+msgid "Play & Download"
+msgstr "খেলুন এবং ডাউনলোড করুন"
+
+msgid "Play/pause not supported for this stream"
+msgstr "এই স্ট্রীমের জন্য প্লে/পজ সমর্থিত নয়"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "প্রোগ্রাম তালিকা এখনও লোড হচ্ছে. অনুগ্রহ করে অপেক্ষা করুন..."
+
+msgid "Programs"
+msgstr "প্রোগ্রাম"
+
+msgid "Query too short (min 3 characters)"
+msgstr "ক্যোয়ারী খুব ছোট (মিনিট 3 অক্ষর)"
+
+msgid "Radio Programs A-Z"
+msgstr "রেডিও প্রোগ্রাম A-Z"
+
+msgid "Rai News"
+msgstr "রাই নিউজ"
+
+msgid "Rai Play Live"
+msgstr "রাই লাইভ খেলুন"
+
+msgid "Rai Play Live Radio"
+msgstr "রাই লাইভ রেডিও চালান"
+
+msgid "Rai Play Main"
+msgstr "রাই প্লে মেন"
+
+msgid "Rai Play On Demand"
+msgstr "রাই প্লে অন ডিমান্ড"
+
+msgid "Rai Play Programs"
+msgstr "রাই প্লে প্রোগ্রাম"
+
+msgid "Rai Play Replay TV"
+msgstr "রাই প্লে রিপ্লে টিভি"
+
+msgid "Rai Play Replay:"
+msgstr "রাই প্লে রিপ্লে:"
+
+msgid "Rai Play Search"
+msgstr "রাই প্লে সার্চ"
+
+msgid "Rai Sport"
+msgstr "রাই স্পোর্টস"
+
+msgid "Rai Sport - Categories"
+msgstr "রাই খেলাধুলা - বিভাগ"
+
+msgid "Rai Sport - Subcategories"
+msgstr "রাই খেলাধুলা - উপশ্রেণিসমূহ"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay সেটিংস"
+
+msgid "Remove"
+msgstr "সরান"
+
+msgid "Remove download: {}?"
+msgstr "ডাউনলোড সরান: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "সারি থেকে সরানো হয়েছে: {}"
+
+msgid "Replay TV"
+msgstr "টিভি রিপ্লে করুন"
+
+msgid "Search"
+msgstr "অনুসন্ধান করুন"
+
+msgid "Search error. Please try again."
+msgstr "অনুসন্ধান ত্রুটি. আবার চেষ্টা করুন."
+
+msgid "Searching through programs..."
+msgstr "প্রোগ্রামের মাধ্যমে অনুসন্ধান করা হচ্ছে..."
+
+msgid "Select a category"
+msgstr "একটি বিভাগ নির্বাচন করুন"
+
+msgid "Select a video"
+msgstr "একটি ভিডিও নির্বাচন করুন"
+
+msgid "Select block"
+msgstr "ব্লক নির্বাচন করুন"
+
+msgid "Select category"
+msgstr "বিভাগ নির্বাচন করুন"
+
+msgid "Select channel"
+msgstr "চ্যানেল নির্বাচন করুন"
+
+msgid "Select content set"
+msgstr "বিষয়বস্তু সেট নির্বাচন করুন"
+
+msgid "Select date"
+msgstr "তারিখ নির্বাচন করুন"
+
+msgid "Select edition"
+msgstr "সংস্করণ নির্বাচন করুন"
+
+msgid "Select episode"
+msgstr "পর্ব নির্বাচন করুন"
+
+msgid "Select item"
+msgstr "আইটেম নির্বাচন করুন"
+
+msgid "Select letter"
+msgstr "চিঠি নির্বাচন করুন"
+
+msgid "Select program"
+msgstr "প্রোগ্রাম নির্বাচন করুন"
+
+msgid "Select program to watch"
+msgstr "দেখার জন্য প্রোগ্রাম নির্বাচন করুন"
+
+msgid "Select subcategory"
+msgstr "উপশ্রেণী নির্বাচন করুন"
+
+msgid "Select video"
+msgstr "ভিডিও নির্বাচন করুন"
+
+msgid "Society & Culture"
+msgstr "সমাজ ও সংস্কৃতি"
+
+msgid "Sports"
+msgstr "খেলাধুলা"
+
+msgid "Start"
+msgstr "শুরু করুন"
+
+msgid "Stop"
+msgstr "থামো"
+
+msgid "Stop the download first before removing"
+msgstr "অপসারণের আগে প্রথমে ডাউনলোড বন্ধ করুন"
+
+msgid "Sustainability"
+msgstr "স্থায়িত্ব"
+
+msgid "TGR and Special Programs"
+msgstr "TGR এবং বিশেষ প্রোগ্রাম"
+
+msgid "TV News"
+msgstr "টিভি সংবাদ"
+
+msgid "TV Programs A-Z"
+msgstr "টিভি প্রোগ্রাম A-Z"
+
+msgid "Talk Shows"
+msgstr "টক শো"
+
+msgid "Tech & Learning"
+msgstr "প্রযুক্তি ও শিক্ষা"
+
+msgid "Teens"
+msgstr "কিশোর"
+
+msgid "Temporary"
+msgstr "অস্থায়ী"
+
+msgid "Test download added to queue"
+msgstr "টেস্ট ডাউনলোড সারিতে যোগ করা হয়েছে"
+
+msgid "Test download failed"
+msgstr "টেস্ট ডাউনলোড ব্যর্থ হয়েছে৷"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "মোট: {টোটাল} | সক্রিয়: {সক্রিয়} | সারিবদ্ধ: {সারিবদ্ধ} | সম্পূর্ণ: {সম্পূর্ণ} | ত্রুটি: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "ভ্রমণ এবং অ্যাডভেঞ্চার"
+
+msgid "USB Drive"
+msgstr "ইউএসবি ড্রাইভ"
+
+msgid "Unknown content type"
+msgstr "অজানা বিষয়বস্তুর প্রকার"
+
+msgid "Unknown data format"
+msgstr "অজানা তথ্য বিন্যাস"
+
+msgid "Unknown title"
+msgstr "অজানা শিরোনাম"
+
+msgid "Video URL not available"
+msgstr "ভিডিও URL উপলব্ধ নেই"
+
+msgid "Video URL not found"
+msgstr "ভিডিও URL পাওয়া যায়নি"
+
+msgid "Video not available"
+msgstr "ভিডিও উপলব্ধ নেই"
+
+msgid "View Full Archive"
+msgstr "সম্পূর্ণ আর্কাইভ দেখুন"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "লুলুল্লার রাই প্লে প্লাগইনগুলিতে স্বাগতম৷"

@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:12+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tajik <rkovacs@khujand.org>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Ҳама барномаҳо"
+
+msgid "A-Z Radio Shows"
+msgstr "Намоишҳои радиои A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Намоишҳои телевизионии A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Debug барои таҳиягари паёмҳо фаъол созед."
+
+msgid "Active Debug"
+msgstr "Debug фаъол"
+
+msgid "Added to queue: {}"
+msgstr "Ба навбат илова карда шуд: {}"
+
+msgid "All Programs"
+msgstr "Ҳама Барномаҳо"
+
+msgid "Archive URL not found"
+msgstr "URL-и бойгонӣ ёфт нашуд"
+
+msgid "Back"
+msgstr "Бозгашт"
+
+msgid "Barry Allen"
+msgstr "Барри Аллен"
+
+msgid "Choose action for: {}"
+msgstr "Амалиётро барои: {} интихоб кунед"
+
+msgid "Clean queue from duplicates"
+msgstr "Навбатро аз нусхаҳои такрорӣ тоза кунед"
+
+msgid "Content type not recognized"
+msgstr "Навъи мундариҷа эътироф нашудааст"
+
+msgid "Could not find video URL"
+msgstr "URL-и видео ёфт нашуд"
+
+msgid "Could not load program content"
+msgstr "Мундариҷаи барномаро бор карда натавонист"
+
+msgid "Crime"
+msgstr "Ҷиноят"
+
+msgid "Crime Investigations"
+msgstr "Тафтиши ҷиноятҳо"
+
+msgid "Default Folder"
+msgstr "Папкаи пешфарз"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Папкаи пешфарз барои кушодан ва захира кардани файлҳои филм"
+
+msgid "Documentaries"
+msgstr "Филмҳои ҳуҷҷатӣ"
+
+msgid "Download"
+msgstr "Зеркашӣ кунед"
+
+msgid "Download Manager"
+msgstr "Менеҷери зеркашӣ"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Зеркашӣ хориҷ карда шуд: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Зеркашӣ оғоз шуд: {}"
+
+msgid "Download stopped: {}"
+msgstr "Зеркашӣ қатъ шуд: {}"
+
+msgid "Enter search query"
+msgstr "Дархости ҷустуҷӯро ворид кунед"
+
+msgid "Entertainment"
+msgstr "Вақтхушӣ"
+
+msgid "Error adding download"
+msgstr "Хатогӣ ҳангоми илова кардани зеркашӣ"
+
+msgid "Error extracting video URL"
+msgstr "Хатогӣ ҳангоми истихроҷи URL-и видео"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Хатогӣ ҳангоми боркунии барномаҳои A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Хатогӣ ҳангоми боркунии маълумоти бойгонӣ"
+
+msgid "Error loading archive data: {}"
+msgstr "Хатогӣ ҳангоми боркунии маълумот бойгонӣ: {}"
+
+msgid "Error loading content from API"
+msgstr "Хатогии боркунии мундариҷа аз API"
+
+msgid "Error loading data"
+msgstr "Хатогӣ ҳангоми боркунии маълумот"
+
+msgid "Error loading data: %s"
+msgstr "Хатогӣ ҳангоми боркунии маълумот: %s"
+
+msgid "Error loading data: {}"
+msgstr "Хатогӣ ҳангоми боркунии маълумот: {}"
+
+msgid "Error loading video data"
+msgstr "Хатогӣ ҳангоми боркунии маълумоти видео"
+
+msgid "Error loading video page"
+msgstr "Хатогӣ ҳангоми боркунии саҳифаи видео"
+
+msgid "Error loading videos:"
+msgstr "Хатогии боркунии видеоҳо:"
+
+msgid "Error parsing content"
+msgstr "Хатогии таҳлили мундариҷа"
+
+msgid "Error parsing data"
+msgstr "Хатогии таҳлили маълумот"
+
+msgid "Error parsing video data: {}"
+msgstr "Хатогии таҳлили маълумоти видео: {}"
+
+msgid "Error playing file: {}"
+msgstr "Хатогӣ дар бозӣ файл: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Хатогӣ ҳангоми навозиш: {}"
+
+msgid "Error playing video:"
+msgstr "Хатогӣ дар навозиш видео:"
+
+msgid "Error processing archive"
+msgstr "Хатогӣ дар коркарди архив"
+
+msgid "Error processing thematic content"
+msgstr "Хатогӣ дар коркарди мундариҷаи мавзӯӣ"
+
+msgid "Error starting plugin"
+msgstr "Хатогӣ дар оғози плагин"
+
+msgid "Error: Could not load news data"
+msgstr "Хатогӣ: Маълумоти ахбор бор карда нашуд"
+
+msgid "Error: Download manager not available"
+msgstr "Хатогӣ: Менеҷери зеркашӣ дастрас нест"
+
+msgid "Exclusive Programs"
+msgstr "Барномаҳои истисноӣ"
+
+msgid "Extracting video URL..."
+msgstr "Истихроҷи URL-и видео..."
+
+msgid "File not found: {}"
+msgstr "Парванда дарёфт нашуд: {}"
+
+msgid "Films"
+msgstr "Филмҳо"
+
+msgid "Found {0} programs for: {1}"
+msgstr "{0} барнома ёфт: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Фазои озод: {озод} аз {total}"
+
+msgid "Games & Quizzes"
+msgstr "Бозиҳо ва викторинаҳо"
+
+msgid "HDD Drive"
+msgstr "Диски HDD"
+
+msgid "History & Art"
+msgstr "Таърих ва санъат"
+
+msgid "Initializing..."
+msgstr "Оғози кор..."
+
+msgid "International Series"
+msgstr "Силсилаи байналмилалӣ"
+
+msgid "Invalid video URL detected"
+msgstr "URL-и видеои нодуруст муайян карда шуд"
+
+msgid "Italian Series"
+msgstr "Силсилаи Италия"
+
+msgid "Kids"
+msgstr "Кӯдакон"
+
+msgid "Learning"
+msgstr "Омӯзиш"
+
+msgid "Lifestyle"
+msgstr "Тарзи ҳаёт"
+
+msgid "Live Radio"
+msgstr "Радиои зинда"
+
+msgid "Live TV"
+msgstr "Телевизиони зинда"
+
+msgid "Loading all programs..."
+msgstr "Ҳама барномаҳо бор карда мешаванд..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Loading all videos... Лутфан интизор шавед"
+
+msgid "Loading archive data..."
+msgstr "Боркунии маълумоти бойгонӣ..."
+
+msgid "Loading archive..."
+msgstr "Архив бор карда мешавад..."
+
+msgid "Loading complete! Select an option"
+msgstr "Боркунӣ анҷом ёфт! Интихоберо интихоб кунед"
+
+msgid "Loading data... Please wait"
+msgstr "Маълумот бор карда мешавад... Лутфан интизор шавед"
+
+msgid "Loading news categories..."
+msgstr "Боркунии категорияҳои хабарҳо..."
+
+msgid "Loading news items..."
+msgstr "Боркунии хабарҳо..."
+
+msgid "Loading on-air programs..."
+msgstr "Боркунии барномаҳои эфирӣ..."
+
+msgid "Loading program data"
+msgstr "Боркунии маълумотҳои барнома"
+
+msgid "Loading program details..."
+msgstr "Тафсилоти барнома бор карда мешавад..."
+
+msgid "Loading programs..."
+msgstr "Боркунии барномаҳо..."
+
+msgid "Loading videos..."
+msgstr "Боркунии видеоҳо..."
+
+msgid "Music"
+msgstr "Мусиқӣ"
+
+msgid "Music & Theater"
+msgstr "Мусиқӣ ва Театр"
+
+msgid "Music Classic"
+msgstr "Мусиқии классикӣ"
+
+msgid "Network Storage"
+msgstr "Захираи шабака"
+
+msgid "News & Documentaries"
+msgstr "Ахбор ва Филмҳои Ҳуҷҷатӣ"
+
+msgid "News Categories"
+msgstr "Категорияҳои ахбор"
+
+msgid "Next page"
+msgstr "Саҳифаи оянда"
+
+msgid "No TV channels available"
+msgstr "Шабакаҳои телевизионӣ дастрас нестанд"
+
+msgid "No archive data found"
+msgstr "Ягон маълумоти бойгонӣ ёфт нашуд"
+
+msgid "No categories available"
+msgstr "Ягон категория дастрас нест"
+
+msgid "No content available"
+msgstr "Мундариҷа дастрас нест"
+
+msgid "No content found in this program"
+msgstr "Дар ин барнома ягон мундариҷа ёфт нашуд"
+
+msgid "No downloads"
+msgstr "Не зеркашиҳо"
+
+msgid "No downloads in queue"
+msgstr "Ҳеҷ зеркашиҳо дар навбат нестанд"
+
+msgid "No editions available"
+msgstr "Нашрия дастрас нест"
+
+msgid "No episodes available"
+msgstr "Ягон эпизод дастрас нест"
+
+msgid "No items available"
+msgstr "Ягон ашё дастрас нест"
+
+msgid "No items found"
+msgstr "Ягон ашё ёфт нашуд"
+
+msgid "No items found in this archive"
+msgstr "Дар ин бойгон ягон ашё ёфт нашуд"
+
+msgid "No items found in this category"
+msgstr "Дар ин гурӯҳ ягон ашё ёфт нашуд"
+
+msgid "No main theme found"
+msgstr "Ягон мавзӯи асосӣ ёфт нашуд"
+
+msgid "No program URL available"
+msgstr "Ягон URL-и барнома дастрас нест"
+
+msgid "No program categories available"
+msgstr "Ягон категорияи барнома дастрас нест"
+
+msgid "No programs available for this day"
+msgstr "Барои ин рӯз ягон барнома дастрас нест"
+
+msgid "No programs currently on air"
+msgstr "Дар айни замон ягон барнома дар эфир нест"
+
+msgid "No programs found for:"
+msgstr "Барои: ягон барнома ёфт нашуд:"
+
+msgid "No programs found in A-Z list"
+msgstr "Дар рӯйхати A-Z ягон барнома ёфт нашуд"
+
+msgid "No sports categories available"
+msgstr "Ягон категорияи варзиш дастрас нест"
+
+msgid "No stream URL available"
+msgstr "Ягон URL-и ҷараён дастрас нест"
+
+msgid "No video URL available"
+msgstr "Ягон URL-и видео дастрас нест"
+
+msgid "No video URL found in the response"
+msgstr "Дар посух ягон URL-и видео ёфт нашуд"
+
+msgid "No videos available"
+msgstr "Ягон видео дастрас нест"
+
+msgid "No videos found"
+msgstr "Ягон видео ёфт нашуд"
+
+msgid "No videos found in archive"
+msgstr "Дар бойгонӣ ягон видео ёфт нашуд"
+
+msgid "On Air Programs"
+msgstr "Барномаҳои ҳавоӣ"
+
+msgid "On Demand"
+msgstr "Дархостӣ"
+
+msgid "Originals"
+msgstr "Аслиҳо"
+
+msgid "Page"
+msgstr "Саҳифа"
+
+msgid "Page with duplicate"
+msgstr "Саҳифа бо нусхаи такрорӣ"
+
+msgid "Pagination not supported for this archive"
+msgstr "Саҳифагузорӣ барои ин бойгонӣ дастгирӣ намешавад"
+
+msgid "Play"
+msgstr "Бозӣ"
+
+msgid "Play & Download"
+msgstr "Бозӣ ва зеркашӣ"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Бозӣ/таваффақ барои ин ҷараён дастгирӣ намешавад"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Рӯйхати барномаҳо ҳоло ҳам бор карда мешавад. Илтимос истед..."
+
+msgid "Programs"
+msgstr "Барномаҳо"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Пурсиш хеле кӯтоҳ (ҳадди ақал 3 аломат)"
+
+msgid "Radio Programs A-Z"
+msgstr "Барномахои радио аз А то З"
+
+msgid "Rai News"
+msgstr "Хабарҳои Rai"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play Radio Live"
+
+msgid "Rai Play Main"
+msgstr "Рай бозии асосӣ"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Бозӣ аз рӯи талабот"
+
+msgid "Rai Play Programs"
+msgstr "Барномаҳои Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Play Бозии телевизион"
+
+msgid "Rai Play Replay:"
+msgstr "Бозии такрории Rai:"
+
+msgid "Rai Play Search"
+msgstr "Ҷустуҷӯи Rai Play"
+
+msgid "Rai Sport"
+msgstr "Варзиш Рай"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Категорияҳо"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Зеркатегорияҳо"
+
+msgid "RaiPlay Settings"
+msgstr "Танзимоти RaiPlay"
+
+msgid "Remove"
+msgstr "Хориҷ кунед"
+
+msgid "Remove download: {}?"
+msgstr "Хориҷ кардани зеркашӣ: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Аз навбат хориҷ карда шуд: {}"
+
+msgid "Replay TV"
+msgstr "Бозии телевизион"
+
+msgid "Search"
+msgstr "Ҷустуҷӯ"
+
+msgid "Search error. Please try again."
+msgstr "Хатогии ҷустуҷӯ. Лутфан бори дигар кӯшиш кунед."
+
+msgid "Searching through programs..."
+msgstr "Ҷустуҷӯ тавассути барномаҳо..."
+
+msgid "Select a category"
+msgstr "Категорияро интихоб кунед"
+
+msgid "Select a video"
+msgstr "Видеоро интихоб кунед"
+
+msgid "Select block"
+msgstr "Блокро интихоб кунед"
+
+msgid "Select category"
+msgstr "Категорияро интихоб кунед"
+
+msgid "Select channel"
+msgstr "Каналро интихоб кунед"
+
+msgid "Select content set"
+msgstr "Маҷмӯи мундариҷаро интихоб кунед"
+
+msgid "Select date"
+msgstr "Сана интихоб кунед"
+
+msgid "Select edition"
+msgstr "Нашри интихоб кунед"
+
+msgid "Select episode"
+msgstr "Эпизодро интихоб кунед"
+
+msgid "Select item"
+msgstr "Элементро интихоб кунед"
+
+msgid "Select letter"
+msgstr "Ҳарфро интихоб кунед"
+
+msgid "Select program"
+msgstr "Барномаро интихоб кунед"
+
+msgid "Select program to watch"
+msgstr "Барномаро барои тамошо интихоб кунед"
+
+msgid "Select subcategory"
+msgstr "Зеркатегорияро интихоб кунед"
+
+msgid "Select video"
+msgstr "Видеоро интихоб кунед"
+
+msgid "Society & Culture"
+msgstr "Ҷомеа ва фарҳанг"
+
+msgid "Sports"
+msgstr "Варзиш"
+
+msgid "Start"
+msgstr "Оғоз"
+
+msgid "Stop"
+msgstr "Ист"
+
+msgid "Stop the download first before removing"
+msgstr "Пеш аз нест кардан, зеркашӣро қатъ кунед"
+
+msgid "Sustainability"
+msgstr "Устуворӣ"
+
+msgid "TGR and Special Programs"
+msgstr "TGR ва Барномаҳои махсус"
+
+msgid "TV News"
+msgstr "Ахбори телевизион"
+
+msgid "TV Programs A-Z"
+msgstr "Барномахои телевизионии А-З"
+
+msgid "Talk Shows"
+msgstr "Ток-шоуҳо"
+
+msgid "Tech & Learning"
+msgstr "Технология ва омӯзиш"
+
+msgid "Teens"
+msgstr "Сину соли баччагона"
+
+msgid "Temporary"
+msgstr "Муваққатӣ"
+
+msgid "Test download added to queue"
+msgstr "Зеркашии санҷишӣ ба навбат илова карда шуд"
+
+msgid "Test download failed"
+msgstr "Зеркашии санҷиш муваффақ нашуд"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Ҳамагӣ: {ҳамагӣ} | Фаъол: {фаъол} | Дар навбат: {навбат} | Анҷом ёфт: {анҷом ёфт} | Хатогиҳо: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Саёҳат ва саргузашт"
+
+msgid "USB Drive"
+msgstr "Диски USB"
+
+msgid "Unknown content type"
+msgstr "Навъи мундариҷаи номаълум"
+
+msgid "Unknown data format"
+msgstr "Формати маълумотҳои номаълум"
+
+msgid "Unknown title"
+msgstr "Унвони номаълум"
+
+msgid "Video URL not available"
+msgstr "URL-и видео дастрас нест"
+
+msgid "Video URL not found"
+msgstr "URL-и видео ёфт нашуд"
+
+msgid "Video not available"
+msgstr "Видео дастрас нест"
+
+msgid "View Full Archive"
+msgstr "Архиви пурраро бинед"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "Хуш омадед ба плагинҳои RAI PLAY аз ҷониби LULULLA"

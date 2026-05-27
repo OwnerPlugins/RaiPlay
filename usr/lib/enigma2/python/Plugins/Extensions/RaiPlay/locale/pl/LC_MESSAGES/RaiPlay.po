@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:36+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Wszystkie programy"
+
+msgid "A-Z Radio Shows"
+msgstr "Programy radiowe A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Programy telewizyjne od A do Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktywuj debugowanie dla programisty wiadomości."
+
+msgid "Active Debug"
+msgstr "Aktywne debugowanie"
+
+msgid "Added to queue: {}"
+msgstr "Dodano do kolejki: {}"
+
+msgid "All Programs"
+msgstr "Wszystkie programy"
+
+msgid "Archive URL not found"
+msgstr "Nie znaleziono adresu URL archiwum"
+
+msgid "Back"
+msgstr "Z powrotem"
+
+msgid "Barry Allen"
+msgstr "Barry'ego Allena"
+
+msgid "Choose action for: {}"
+msgstr "Wybierz akcję dla: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Wyczyść kolejkę z duplikatów"
+
+msgid "Content type not recognized"
+msgstr "Nie rozpoznano typu zawartości"
+
+msgid "Could not find video URL"
+msgstr "Nie można znaleźć adresu URL filmu"
+
+msgid "Could not load program content"
+msgstr "Nie można załadować zawartości programu"
+
+msgid "Crime"
+msgstr "Przestępczość"
+
+msgid "Crime Investigations"
+msgstr "Badania kryminalne"
+
+msgid "Default Folder"
+msgstr "Domyślny folder"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Domyślny folder do otwierania i zapisywania plików filmowych"
+
+msgid "Documentaries"
+msgstr "Filmy dokumentalne"
+
+msgid "Download"
+msgstr "Pobierać"
+
+msgid "Download Manager"
+msgstr "Menedżer pobierania"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Pobieranie zostało usunięte: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Pobieranie rozpoczęte: {}"
+
+msgid "Download stopped: {}"
+msgstr "Pobieranie zatrzymane: {}"
+
+msgid "Enter search query"
+msgstr "Wpisz zapytanie"
+
+msgid "Entertainment"
+msgstr "Rozrywka"
+
+msgid "Error adding download"
+msgstr "Błąd podczas dodawania pobierania"
+
+msgid "Error extracting video URL"
+msgstr "Błąd podczas wyodrębniania adresu URL filmu"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Błąd podczas ładowania programów A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Błąd ładowania danych archiwalnych"
+
+msgid "Error loading archive data: {}"
+msgstr "Błąd ładowania danych archiwalnych: {}"
+
+msgid "Error loading content from API"
+msgstr "Błąd podczas ładowania treści z API"
+
+msgid "Error loading data"
+msgstr "Błąd ładowania danych"
+
+msgid "Error loading data: %s"
+msgstr "Błąd ładowania danych: %s"
+
+msgid "Error loading data: {}"
+msgstr "Błąd podczas ładowania danych: {}"
+
+msgid "Error loading video data"
+msgstr "Błąd ładowania danych wideo"
+
+msgid "Error loading video page"
+msgstr "Błąd ładowania strony wideo"
+
+msgid "Error loading videos:"
+msgstr "Błąd podczas ładowania filmów:"
+
+msgid "Error parsing content"
+msgstr "Błąd podczas analizowania treści"
+
+msgid "Error parsing data"
+msgstr "Błąd podczas analizowania danych"
+
+msgid "Error parsing video data: {}"
+msgstr "Błąd podczas analizowania danych wideo: {}"
+
+msgid "Error playing file: {}"
+msgstr "Błąd podczas odtwarzania pliku: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Błąd podczas odtwarzania transmisji: {}"
+
+msgid "Error playing video:"
+msgstr "Błąd podczas odtwarzania wideo:"
+
+msgid "Error processing archive"
+msgstr "Błąd przetwarzania archiwum"
+
+msgid "Error processing thematic content"
+msgstr "Błąd podczas przetwarzania treści tematycznych"
+
+msgid "Error starting plugin"
+msgstr "Błąd podczas uruchamiania wtyczki"
+
+msgid "Error: Could not load news data"
+msgstr "Błąd: nie można załadować danych wiadomości"
+
+msgid "Error: Download manager not available"
+msgstr "Błąd: Menedżer pobierania jest niedostępny"
+
+msgid "Exclusive Programs"
+msgstr "Ekskluzywne programy"
+
+msgid "Extracting video URL..."
+msgstr "Wyodrębnianie adresu URL filmu..."
+
+msgid "File not found: {}"
+msgstr "Nie znaleziono pliku: {}"
+
+msgid "Films"
+msgstr "Filmy"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Znaleziono {0} programów dla: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Wolne miejsce: {wolne} z {total}"
+
+msgid "Games & Quizzes"
+msgstr "Gry i quizy"
+
+msgid "HDD Drive"
+msgstr "Dysk twardy"
+
+msgid "History & Art"
+msgstr "Historia i sztuka"
+
+msgid "Initializing..."
+msgstr "Inicjowanie..."
+
+msgid "International Series"
+msgstr "Seria międzynarodowa"
+
+msgid "Invalid video URL detected"
+msgstr "Wykryto nieprawidłowy adres URL filmu"
+
+msgid "Italian Series"
+msgstr "Seria włoska"
+
+msgid "Kids"
+msgstr "Dzieci"
+
+msgid "Learning"
+msgstr "Nauka"
+
+msgid "Lifestyle"
+msgstr "Styl życia"
+
+msgid "Live Radio"
+msgstr "Radio na żywo"
+
+msgid "Live TV"
+msgstr "Telewizja na żywo"
+
+msgid "Loading all programs..."
+msgstr "Ładowanie wszystkich programów..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Ładowanie wszystkich filmów... Proszę czekać"
+
+msgid "Loading archive data..."
+msgstr "Ładowanie danych archiwalnych..."
+
+msgid "Loading archive..."
+msgstr "Ładowanie archiwum..."
+
+msgid "Loading complete! Select an option"
+msgstr "Ładowanie zakończone! Wybierz opcję"
+
+msgid "Loading data... Please wait"
+msgstr "Ładowanie danych... Proszę czekać"
+
+msgid "Loading news categories..."
+msgstr "Ładowanie kategorii wiadomości..."
+
+msgid "Loading news items..."
+msgstr "Ładowanie wiadomości..."
+
+msgid "Loading on-air programs..."
+msgstr "Ładowanie programów nadawanych na antenie..."
+
+msgid "Loading program data"
+msgstr "Ładowanie danych programu"
+
+msgid "Loading program details..."
+msgstr "Ładowanie szczegółów programu..."
+
+msgid "Loading programs..."
+msgstr "Ładowanie programów..."
+
+msgid "Loading videos..."
+msgstr "Ładowanie filmów..."
+
+msgid "Music"
+msgstr "Muzyka"
+
+msgid "Music & Theater"
+msgstr "Muzyka i teatr"
+
+msgid "Music Classic"
+msgstr "Klasyka muzyki"
+
+msgid "Network Storage"
+msgstr "Pamięć sieciowa"
+
+msgid "News & Documentaries"
+msgstr "Wiadomości i filmy dokumentalne"
+
+msgid "News Categories"
+msgstr "Kategorie wiadomości"
+
+msgid "Next page"
+msgstr "Następna strona"
+
+msgid "No TV channels available"
+msgstr "Brak dostępnych kanałów telewizyjnych"
+
+msgid "No archive data found"
+msgstr "Nie znaleziono danych archiwalnych"
+
+msgid "No categories available"
+msgstr "Brak dostępnych kategorii"
+
+msgid "No content available"
+msgstr "Brak dostępnych treści"
+
+msgid "No content found in this program"
+msgstr "W tym programie nie znaleziono żadnych treści"
+
+msgid "No downloads"
+msgstr "Brak plików do pobrania"
+
+msgid "No downloads in queue"
+msgstr "Brak plików do pobrania w kolejce"
+
+msgid "No editions available"
+msgstr "Brak dostępnych wydań"
+
+msgid "No episodes available"
+msgstr "Brak dostępnych odcinków"
+
+msgid "No items available"
+msgstr "Brak dostępnych elementów"
+
+msgid "No items found"
+msgstr "Nie znaleziono żadnych elementów"
+
+msgid "No items found in this archive"
+msgstr "W tym archiwum nie znaleziono żadnych elementów"
+
+msgid "No items found in this category"
+msgstr "Nie znaleziono żadnych przedmiotów w tej kategorii"
+
+msgid "No main theme found"
+msgstr "Nie znaleziono głównego tematu"
+
+msgid "No program URL available"
+msgstr "Brak dostępnego adresu URL programu"
+
+msgid "No program categories available"
+msgstr "Brak dostępnych kategorii programów"
+
+msgid "No programs available for this day"
+msgstr "Brak dostępnych programów na ten dzień"
+
+msgid "No programs currently on air"
+msgstr "Obecnie nie są nadawane żadne programy"
+
+msgid "No programs found for:"
+msgstr "Nie znaleziono programów dla:"
+
+msgid "No programs found in A-Z list"
+msgstr "Nie znaleziono programów na liście A-Z"
+
+msgid "No sports categories available"
+msgstr "Brak dostępnych kategorii sportowych"
+
+msgid "No stream URL available"
+msgstr "Brak dostępnego adresu URL strumienia"
+
+msgid "No video URL available"
+msgstr "Brak dostępnego adresu URL filmu"
+
+msgid "No video URL found in the response"
+msgstr "W odpowiedzi nie znaleziono adresu URL filmu"
+
+msgid "No videos available"
+msgstr "Brak dostępnych filmów"
+
+msgid "No videos found"
+msgstr "Nie znaleziono filmów"
+
+msgid "No videos found in archive"
+msgstr "W archiwum nie znaleziono filmów"
+
+msgid "On Air Programs"
+msgstr "Programy na antenie"
+
+msgid "On Demand"
+msgstr "Na żądanie"
+
+msgid "Originals"
+msgstr "Oryginały"
+
+msgid "Page"
+msgstr "Strona"
+
+msgid "Page with duplicate"
+msgstr "Strona z duplikatem"
+
+msgid "Pagination not supported for this archive"
+msgstr "W tym archiwum nie jest obsługiwana paginacja"
+
+msgid "Play"
+msgstr "Grać"
+
+msgid "Play & Download"
+msgstr "Graj i pobieraj"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Odtwarzanie/pauza nie jest obsługiwana w przypadku tego strumienia"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Lista programów wciąż się ładuje. Proszę czekać..."
+
+msgid "Programs"
+msgstr "Programy"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Zapytanie jest za krótkie (min. 3 znaki)"
+
+msgid "Radio Programs A-Z"
+msgstr "Programy radiowe A-Z"
+
+msgid "Rai News"
+msgstr "Wiadomości Rai"
+
+msgid "Rai Play Live"
+msgstr "Rai Graj na żywo"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play Radio na żywo"
+
+msgid "Rai Play Main"
+msgstr "Rai Play Główny"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Graj na żądanie"
+
+msgid "Rai Play Programs"
+msgstr "Programy Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Play Powtórka TV"
+
+msgid "Rai Play Replay:"
+msgstr "Powtórka gry Rai:"
+
+msgid "Rai Play Search"
+msgstr "Szukaj gry Rai"
+
+msgid "Rai Sport"
+msgstr "Sport Rai"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategorie"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Podkategorie"
+
+msgid "RaiPlay Settings"
+msgstr "Ustawienia RaiPlay"
+
+msgid "Remove"
+msgstr "Usunąć"
+
+msgid "Remove download: {}?"
+msgstr "Usunąć pobieranie: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Usunięto z kolejki: {}"
+
+msgid "Replay TV"
+msgstr "Powtórz telewizję"
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "Search error. Please try again."
+msgstr "Błąd wyszukiwania. Spróbuj ponownie."
+
+msgid "Searching through programs..."
+msgstr "Przeszukiwanie programów..."
+
+msgid "Select a category"
+msgstr "Wybierz kategorię"
+
+msgid "Select a video"
+msgstr "Wybierz film"
+
+msgid "Select block"
+msgstr "Wybierz blok"
+
+msgid "Select category"
+msgstr "Wybierz kategorię"
+
+msgid "Select channel"
+msgstr "Wybierz kanał"
+
+msgid "Select content set"
+msgstr "Wybierz zestaw treści"
+
+msgid "Select date"
+msgstr "Wybierz datę"
+
+msgid "Select edition"
+msgstr "Wybierz wydanie"
+
+msgid "Select episode"
+msgstr "Wybierz odcinek"
+
+msgid "Select item"
+msgstr "Wybierz element"
+
+msgid "Select letter"
+msgstr "Wybierz literę"
+
+msgid "Select program"
+msgstr "Wybierz program"
+
+msgid "Select program to watch"
+msgstr "Wybierz program do obejrzenia"
+
+msgid "Select subcategory"
+msgstr "Wybierz podkategorię"
+
+msgid "Select video"
+msgstr "Wybierz wideo"
+
+msgid "Society & Culture"
+msgstr "Społeczeństwo i kultura"
+
+msgid "Sports"
+msgstr "Lekkoatletyka"
+
+msgid "Start"
+msgstr ""
+
+msgid "Stop"
+msgstr "Zatrzymywać się"
+
+msgid "Stop the download first before removing"
+msgstr "Przed usunięciem najpierw zatrzymaj pobieranie"
+
+msgid "Sustainability"
+msgstr "Zrównoważony rozwój"
+
+msgid "TGR and Special Programs"
+msgstr "TGR i programy specjalne"
+
+msgid "TV News"
+msgstr "Wiadomości telewizyjne"
+
+msgid "TV Programs A-Z"
+msgstr "Programy telewizyjne od A do Z"
+
+msgid "Talk Shows"
+msgstr "Talk-show"
+
+msgid "Tech & Learning"
+msgstr "Technologia i nauka"
+
+msgid "Teens"
+msgstr "Wiek dojrzewania"
+
+msgid "Temporary"
+msgstr "Tymczasowy"
+
+msgid "Test download added to queue"
+msgstr "Pobieranie testowe dodane do kolejki"
+
+msgid "Test download failed"
+msgstr "Pobieranie testowe nie powiodło się"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Razem: {razem} | Aktywny: {aktywny} | W kolejce: {w kolejce} | Ukończono: {ukończono} | Błędy: {błędy}"
+
+msgid "Travel & Adventure"
+msgstr "Podróże i przygody"
+
+msgid "USB Drive"
+msgstr "Napęd USB"
+
+msgid "Unknown content type"
+msgstr "Nieznany typ treści"
+
+msgid "Unknown data format"
+msgstr "Nieznany format danych"
+
+msgid "Unknown title"
+msgstr "Nieznany tytuł"
+
+msgid "Video URL not available"
+msgstr "Adres URL filmu jest niedostępny"
+
+msgid "Video URL not found"
+msgstr "Nie znaleziono adresu URL filmu"
+
+msgid "Video not available"
+msgstr "Film niedostępny"
+
+msgid "View Full Archive"
+msgstr "Zobacz pełne archiwum"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "WITAJ W WTYCZKACH RAI PLAY TWORZONEJ PRZEZ LULULLĘ"

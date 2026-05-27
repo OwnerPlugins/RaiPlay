@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bosnian <mtodorov@alu.hr>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Svi programi"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z radio emisije"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z TV emisije"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktivirajte Debug za programere poruka."
+
+msgid "Active Debug"
+msgstr ""
+
+msgid "Added to queue: {}"
+msgstr "Dodano u red čekanja: {}"
+
+msgid "All Programs"
+msgstr "Svi programi"
+
+msgid "Archive URL not found"
+msgstr "URL arhive nije pronađen"
+
+msgid "Back"
+msgstr "Nazad"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Odaberite akciju za: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Očistite red čekanja od duplikata"
+
+msgid "Content type not recognized"
+msgstr "Vrsta sadržaja nije prepoznata"
+
+msgid "Could not find video URL"
+msgstr "Nije moguće pronaći URL videozapisa"
+
+msgid "Could not load program content"
+msgstr "Nije moguće učitati sadržaj programa"
+
+msgid "Crime"
+msgstr "Kriminal"
+
+msgid "Crime Investigations"
+msgstr ""
+
+msgid "Default Folder"
+msgstr ""
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Podrazumevana fascikla za otvaranje i čuvanje filmskih datoteka"
+
+msgid "Documentaries"
+msgstr "Dokumentarci"
+
+msgid "Download"
+msgstr "Preuzmi"
+
+msgid "Download Manager"
+msgstr ""
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Preuzimanje je uklonjeno: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Preuzimanje je počelo: {}"
+
+msgid "Download stopped: {}"
+msgstr "Preuzimanje zaustavljeno: {}"
+
+msgid "Enter search query"
+msgstr "Unesite upit za pretragu"
+
+msgid "Entertainment"
+msgstr "Zabava"
+
+msgid "Error adding download"
+msgstr "Greška pri dodavanju preuzimanja"
+
+msgid "Error extracting video URL"
+msgstr "Greška pri izdvajanju URL-a videozapisa"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Greška pri učitavanju A-Z programa: {}"
+
+msgid "Error loading archive data"
+msgstr "Greška pri učitavanju arhivskih podataka"
+
+msgid "Error loading archive data: {}"
+msgstr "Greška pri učitavanju arhivskih podataka: {}"
+
+msgid "Error loading content from API"
+msgstr "Greška pri učitavanju sadržaja iz API-ja"
+
+msgid "Error loading data"
+msgstr "Greška pri učitavanju podataka"
+
+msgid "Error loading data: %s"
+msgstr "Greška pri učitavanju podataka: %s"
+
+msgid "Error loading data: {}"
+msgstr "Greška pri učitavanju podataka: {}"
+
+msgid "Error loading video data"
+msgstr "Greška pri učitavanju video podataka"
+
+msgid "Error loading video page"
+msgstr "Greška pri učitavanju video stranice"
+
+msgid "Error loading videos:"
+msgstr "Greška pri učitavanju videozapisa:"
+
+msgid "Error parsing content"
+msgstr "Greška pri raščlanjivanju sadržaja"
+
+msgid "Error parsing data"
+msgstr "Greška pri raščlanjivanju podataka"
+
+msgid "Error parsing video data: {}"
+msgstr "Greška pri raščlanjivanju video podataka: {}"
+
+msgid "Error playing file: {}"
+msgstr "Greška pri reprodukciji fajla: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Greška pri reprodukciji prijenosa: {}"
+
+msgid "Error playing video:"
+msgstr "Greška pri reprodukciji videa:"
+
+msgid "Error processing archive"
+msgstr "Greška pri obradi arhive"
+
+msgid "Error processing thematic content"
+msgstr "Greška pri obradi tematskog sadržaja"
+
+msgid "Error starting plugin"
+msgstr "Greška pri pokretanju dodatka"
+
+msgid "Error: Could not load news data"
+msgstr "Greška: Nije moguće učitati podatke vijesti"
+
+msgid "Error: Download manager not available"
+msgstr "Greška: Menadžer preuzimanja nije dostupan"
+
+msgid "Exclusive Programs"
+msgstr "Ekskluzivni programi"
+
+msgid "Extracting video URL..."
+msgstr "Ekstrahiranje URL videozapisa..."
+
+msgid "File not found: {}"
+msgstr "Fajl nije pronađen: {}"
+
+msgid "Films"
+msgstr "Filmovi"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Pronađeno {0} programa za: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Slobodni prostor: {free} od {total}"
+
+msgid "Games & Quizzes"
+msgstr "Igre i kvizovi"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Istorija i umjetnost"
+
+msgid "Initializing..."
+msgstr "Inicijalizacija..."
+
+msgid "International Series"
+msgstr ""
+
+msgid "Invalid video URL detected"
+msgstr "Otkriven je nevažeći URL videozapisa"
+
+msgid "Italian Series"
+msgstr ""
+
+msgid "Kids"
+msgstr "Djeca"
+
+msgid "Learning"
+msgstr "Učenje"
+
+msgid "Lifestyle"
+msgstr ""
+
+msgid "Live Radio"
+msgstr "Radio uživo"
+
+msgid "Live TV"
+msgstr "TV uživo"
+
+msgid "Loading all programs..."
+msgstr "Učitavanje svih programa..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Učitavanje svih video zapisa... Molimo pričekajte"
+
+msgid "Loading archive data..."
+msgstr "Učitavanje arhivskih podataka..."
+
+msgid "Loading archive..."
+msgstr "Učitavanje arhive..."
+
+msgid "Loading complete! Select an option"
+msgstr "Učitavanje završeno! Odaberite opciju"
+
+msgid "Loading data... Please wait"
+msgstr "Učitavanje podataka... Molimo pričekajte"
+
+msgid "Loading news categories..."
+msgstr "Učitavanje kategorija vijesti..."
+
+msgid "Loading news items..."
+msgstr "Učitavanje vijesti..."
+
+msgid "Loading on-air programs..."
+msgstr "Učitavanje emisija u eteru..."
+
+msgid "Loading program data"
+msgstr "Učitavanje podataka programa"
+
+msgid "Loading program details..."
+msgstr "Učitavanje detalja o programu..."
+
+msgid "Loading programs..."
+msgstr "Učitavanje programa..."
+
+msgid "Loading videos..."
+msgstr "Učitavanje videozapisa..."
+
+msgid "Music"
+msgstr "Muzika"
+
+msgid "Music & Theater"
+msgstr "Muzika i pozorište"
+
+msgid "Music Classic"
+msgstr ""
+
+msgid "Network Storage"
+msgstr "Mrežna pohrana"
+
+msgid "News & Documentaries"
+msgstr "Vijesti i dokumentarni filmovi"
+
+msgid "News Categories"
+msgstr "Kategorije vijesti"
+
+msgid "Next page"
+msgstr "Sledeća stranica"
+
+msgid "No TV channels available"
+msgstr "Nema dostupnih TV kanala"
+
+msgid "No archive data found"
+msgstr "Nisu pronađeni arhivski podaci"
+
+msgid "No categories available"
+msgstr "Nema dostupnih kategorija"
+
+msgid "No content available"
+msgstr "Nema dostupnog sadržaja"
+
+msgid "No content found in this program"
+msgstr "Nema sadržaja u ovom programu"
+
+msgid "No downloads"
+msgstr "Nema preuzimanja"
+
+msgid "No downloads in queue"
+msgstr "Nema preuzimanja u redu čekanja"
+
+msgid "No editions available"
+msgstr "Nema dostupnih izdanja"
+
+msgid "No episodes available"
+msgstr "Nema dostupnih epizoda"
+
+msgid "No items available"
+msgstr "Nema dostupnih artikala"
+
+msgid "No items found"
+msgstr "Nema pronađenih stavki"
+
+msgid "No items found in this archive"
+msgstr "Nema pronađenih stavki u ovoj arhivi"
+
+msgid "No items found in this category"
+msgstr "Nema pronađenih artikala u ovoj kategoriji"
+
+msgid "No main theme found"
+msgstr "Nije pronađena glavna tema"
+
+msgid "No program URL available"
+msgstr "URL programa nije dostupan"
+
+msgid "No program categories available"
+msgstr "Nema dostupnih kategorija programa"
+
+msgid "No programs available for this day"
+msgstr "Nema dostupnih programa za ovaj dan"
+
+msgid "No programs currently on air"
+msgstr "Trenutno nema programa"
+
+msgid "No programs found for:"
+msgstr "Nisu pronađeni programi za:"
+
+msgid "No programs found in A-Z list"
+msgstr "Nijedan program nije pronađen na A-Z listi"
+
+msgid "No sports categories available"
+msgstr "Nema dostupnih sportskih kategorija"
+
+msgid "No stream URL available"
+msgstr "URL prijenosa nije dostupan"
+
+msgid "No video URL available"
+msgstr "URL videozapisa nije dostupan"
+
+msgid "No video URL found in the response"
+msgstr "U odgovoru nije pronađen URL videozapisa"
+
+msgid "No videos available"
+msgstr "Nema dostupnih videozapisa"
+
+msgid "No videos found"
+msgstr "Nema pronađenih videozapisa"
+
+msgid "No videos found in archive"
+msgstr "Nema pronađenih videozapisa u arhivi"
+
+msgid "On Air Programs"
+msgstr "On Air Programi"
+
+msgid "On Demand"
+msgstr "Na zahtjev"
+
+msgid "Originals"
+msgstr ""
+
+msgid "Page"
+msgstr "Stranica"
+
+msgid "Page with duplicate"
+msgstr "Stranica sa duplikatom"
+
+msgid "Pagination not supported for this archive"
+msgstr "Paginacija nije podržana za ovu arhivu"
+
+msgid "Play"
+msgstr "Igraj"
+
+msgid "Play & Download"
+msgstr "Igraj i preuzmi"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Reprodukcija/pauziranje nije podržano za ovaj prijenos"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Lista programa se još uvijek učitava. Pričekajte..."
+
+msgid "Programs"
+msgstr "Programi"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Upit je prekratak (min. 3 znaka)"
+
+msgid "Radio Programs A-Z"
+msgstr "Radio programi A-Z"
+
+msgid "Rai News"
+msgstr ""
+
+msgid "Rai Play Live"
+msgstr "Rai Igraj uživo"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play Radio uživo"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr "Rai igra na zahtjev"
+
+msgid "Rai Play Programs"
+msgstr "Rai Play Programi"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategorije"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Potkategorije"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay postavke"
+
+msgid "Remove"
+msgstr "Ukloni"
+
+msgid "Remove download: {}?"
+msgstr "Ukloniti preuzimanje: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Uklonjeno iz reda čekanja: {}"
+
+msgid "Replay TV"
+msgstr ""
+
+msgid "Search"
+msgstr "Traži"
+
+msgid "Search error. Please try again."
+msgstr "Greška pretrage. Molimo pokušajte ponovo."
+
+msgid "Searching through programs..."
+msgstr "Pretraživanje kroz programe..."
+
+msgid "Select a category"
+msgstr "Odaberite kategoriju"
+
+msgid "Select a video"
+msgstr "Odaberite video zapis"
+
+msgid "Select block"
+msgstr "Odaberite blok"
+
+msgid "Select category"
+msgstr "Odaberite kategoriju"
+
+msgid "Select channel"
+msgstr "Odaberite kanal"
+
+msgid "Select content set"
+msgstr "Odaberite skup sadržaja"
+
+msgid "Select date"
+msgstr "Odaberite datum"
+
+msgid "Select edition"
+msgstr "Odaberite izdanje"
+
+msgid "Select episode"
+msgstr "Odaberite epizodu"
+
+msgid "Select item"
+msgstr "Odaberite stavku"
+
+msgid "Select letter"
+msgstr "Odaberite slovo"
+
+msgid "Select program"
+msgstr "Odaberite program"
+
+msgid "Select program to watch"
+msgstr "Odaberite program za gledanje"
+
+msgid "Select subcategory"
+msgstr "Odaberite podkategoriju"
+
+msgid "Select video"
+msgstr "Odaberite video"
+
+msgid "Society & Culture"
+msgstr "Društvo i kultura"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Start"
+msgstr "Počni"
+
+msgid "Stop"
+msgstr "Stani"
+
+msgid "Stop the download first before removing"
+msgstr "Prvo zaustavite preuzimanje prije uklanjanja"
+
+msgid "Sustainability"
+msgstr "Održivost"
+
+msgid "TGR and Special Programs"
+msgstr "TGR i specijalni programi"
+
+msgid "TV News"
+msgstr "TV vijesti"
+
+msgid "TV Programs A-Z"
+msgstr "TV programi A-Z"
+
+msgid "Talk Shows"
+msgstr ""
+
+msgid "Tech & Learning"
+msgstr "Tehnologija i učenje"
+
+msgid "Teens"
+msgstr "Tinejdžeri"
+
+msgid "Temporary"
+msgstr "Privremeno"
+
+msgid "Test download added to queue"
+msgstr "Probno preuzimanje je dodano u red čekanja"
+
+msgid "Test download failed"
+msgstr "Probno preuzimanje nije uspjelo"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Ukupno: {ukupno} | Aktivan: {aktivan} | U redu čekanja: {queued} | Završeno: {završeno} | Greške: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Putovanja i avanture"
+
+msgid "USB Drive"
+msgstr "USB disk"
+
+msgid "Unknown content type"
+msgstr "Nepoznata vrsta sadržaja"
+
+msgid "Unknown data format"
+msgstr "Nepoznati format podataka"
+
+msgid "Unknown title"
+msgstr "Nepoznat naslov"
+
+msgid "Video URL not available"
+msgstr "URL videozapisa nije dostupan"
+
+msgid "Video URL not found"
+msgstr "URL videozapisa nije pronađen"
+
+msgid "Video not available"
+msgstr "Video nije dostupan"
+
+msgid "View Full Archive"
+msgstr "Pogledaj punu arhivu"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "DOBRO DOŠLI U RAI PLAY PLUGINS OD LULULLA"

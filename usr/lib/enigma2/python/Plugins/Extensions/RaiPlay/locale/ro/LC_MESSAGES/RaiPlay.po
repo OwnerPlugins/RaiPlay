@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:44+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Toate programele"
+
+msgid "A-Z Radio Shows"
+msgstr "Emisiuni radio A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Emisiuni TV A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Activați Debug for messages developer."
+
+msgid "Active Debug"
+msgstr "Depanare activă"
+
+msgid "Added to queue: {}"
+msgstr "Adăugat la coadă: {}"
+
+msgid "All Programs"
+msgstr "Toate programele"
+
+msgid "Archive URL not found"
+msgstr "Adresa URL a arhivei nu a fost găsită"
+
+msgid "Back"
+msgstr "Spate"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Alegeți o acțiune pentru: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Curățați coada de dubluri"
+
+msgid "Content type not recognized"
+msgstr "Tipul de conținut nu este recunoscut"
+
+msgid "Could not find video URL"
+msgstr "Nu s-a putut găsi adresa URL a videoclipului"
+
+msgid "Could not load program content"
+msgstr "Nu s-a putut încărca conținutul programului"
+
+msgid "Crime"
+msgstr "Crima"
+
+msgid "Crime Investigations"
+msgstr "Investigații criminale"
+
+msgid "Default Folder"
+msgstr "Folder implicit"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Dosar implicit pentru deschiderea și salvarea fișierelor de film"
+
+msgid "Documentaries"
+msgstr "Documentare"
+
+msgid "Download"
+msgstr "Descărcați"
+
+msgid "Download Manager"
+msgstr "Manager de descărcare"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Descărcarea a fost eliminată: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Descărcarea a început: {}"
+
+msgid "Download stopped: {}"
+msgstr "Descărcarea oprită: {}"
+
+msgid "Enter search query"
+msgstr "Introduceți interogarea de căutare"
+
+msgid "Entertainment"
+msgstr "Divertisment"
+
+msgid "Error adding download"
+msgstr "Eroare la adăugarea descărcarii"
+
+msgid "Error extracting video URL"
+msgstr "Eroare la extragerea adresei URL a videoclipului"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Eroare la încărcarea programelor A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Eroare la încărcarea datelor arhivei"
+
+msgid "Error loading archive data: {}"
+msgstr "Eroare la încărcarea datelor arhivei: {}"
+
+msgid "Error loading content from API"
+msgstr "Eroare la încărcarea conținutului din API"
+
+msgid "Error loading data"
+msgstr "Eroare la încărcarea datelor"
+
+msgid "Error loading data: %s"
+msgstr "Eroare la încărcarea datelor: %s"
+
+msgid "Error loading data: {}"
+msgstr "Eroare la încărcarea datelor: {}"
+
+msgid "Error loading video data"
+msgstr "Eroare la încărcarea datelor video"
+
+msgid "Error loading video page"
+msgstr "Eroare la încărcarea paginii video"
+
+msgid "Error loading videos:"
+msgstr "Eroare la încărcarea videoclipurilor:"
+
+msgid "Error parsing content"
+msgstr "Eroare la analizarea conținutului"
+
+msgid "Error parsing data"
+msgstr "Eroare la analizarea datelor"
+
+msgid "Error parsing video data: {}"
+msgstr "Eroare la analizarea datelor video: {}"
+
+msgid "Error playing file: {}"
+msgstr "Eroare la redarea fișierului: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Eroare la redarea fluxului: {}"
+
+msgid "Error playing video:"
+msgstr "Eroare la redarea videoclipului:"
+
+msgid "Error processing archive"
+msgstr "Eroare la procesarea arhivei"
+
+msgid "Error processing thematic content"
+msgstr "Eroare la procesarea conținutului tematic"
+
+msgid "Error starting plugin"
+msgstr "Eroare la pornirea pluginului"
+
+msgid "Error: Could not load news data"
+msgstr "Eroare: nu s-au putut încărca datele de știri"
+
+msgid "Error: Download manager not available"
+msgstr "Eroare: Managerul de descărcare nu este disponibil"
+
+msgid "Exclusive Programs"
+msgstr "Programe exclusive"
+
+msgid "Extracting video URL..."
+msgstr "Se extrage adresa URL a videoclipului..."
+
+msgid "File not found: {}"
+msgstr "Fișierul nu a fost găsit: {}"
+
+msgid "Films"
+msgstr "Filme"
+
+msgid "Found {0} programs for: {1}"
+msgstr "S-au găsit {0} programe pentru: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Spațiu liber: {free} din {total}"
+
+msgid "Games & Quizzes"
+msgstr "Jocuri și chestionare"
+
+msgid "HDD Drive"
+msgstr "Unitatea HDD"
+
+msgid "History & Art"
+msgstr "Istorie și artă"
+
+msgid "Initializing..."
+msgstr "Se inițializează..."
+
+msgid "International Series"
+msgstr "Seria internațională"
+
+msgid "Invalid video URL detected"
+msgstr "Adresă URL a videoclipului nevalidă a fost detectată"
+
+msgid "Italian Series"
+msgstr "Seria Italiană"
+
+msgid "Kids"
+msgstr "Copii"
+
+msgid "Learning"
+msgstr "Învăţare"
+
+msgid "Lifestyle"
+msgstr "Stil de viață"
+
+msgid "Live Radio"
+msgstr "Radio live"
+
+msgid "Live TV"
+msgstr "TV în direct"
+
+msgid "Loading all programs..."
+msgstr "Se încarcă toate programele..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Se încarcă toate videoclipurile... Vă rugăm să așteptați"
+
+msgid "Loading archive data..."
+msgstr "Se încarcă datele de arhivă..."
+
+msgid "Loading archive..."
+msgstr "Se încarcă arhiva..."
+
+msgid "Loading complete! Select an option"
+msgstr "Încărcare finalizată! Selectați o opțiune"
+
+msgid "Loading data... Please wait"
+msgstr "Se încarcă datele... Vă rugăm să așteptați"
+
+msgid "Loading news categories..."
+msgstr "Se încarcă categoriile de știri..."
+
+msgid "Loading news items..."
+msgstr "Se încarcă știrile..."
+
+msgid "Loading on-air programs..."
+msgstr "Se încarcă programele în direct..."
+
+msgid "Loading program data"
+msgstr "Se încarcă datele programului"
+
+msgid "Loading program details..."
+msgstr "Se încarcă detaliile programului..."
+
+msgid "Loading programs..."
+msgstr "Se încarcă programele..."
+
+msgid "Loading videos..."
+msgstr "Se încarcă videoclipuri..."
+
+msgid "Music"
+msgstr "Muzică"
+
+msgid "Music & Theater"
+msgstr "Muzică și teatru"
+
+msgid "Music Classic"
+msgstr "Muzică clasică"
+
+msgid "Network Storage"
+msgstr "Stocare în rețea"
+
+msgid "News & Documentaries"
+msgstr "Știri și documentare"
+
+msgid "News Categories"
+msgstr "Categorii de știri"
+
+msgid "Next page"
+msgstr "Pagina următoare"
+
+msgid "No TV channels available"
+msgstr "Nu există canale TV disponibile"
+
+msgid "No archive data found"
+msgstr "Nu s-au găsit date de arhivă"
+
+msgid "No categories available"
+msgstr "Nu există categorii disponibile"
+
+msgid "No content available"
+msgstr "Nu există conținut disponibil"
+
+msgid "No content found in this program"
+msgstr "Nu s-a găsit conținut în acest program"
+
+msgid "No downloads"
+msgstr "Fără descărcări"
+
+msgid "No downloads in queue"
+msgstr "Fără descărcări în coadă"
+
+msgid "No editions available"
+msgstr "Nu există ediții disponibile"
+
+msgid "No episodes available"
+msgstr "Nu există episoade disponibile"
+
+msgid "No items available"
+msgstr "Nu există articole disponibile"
+
+msgid "No items found"
+msgstr "Nu s-au găsit articole"
+
+msgid "No items found in this archive"
+msgstr "Nu s-au găsit articole în această arhivă"
+
+msgid "No items found in this category"
+msgstr "Nu s-au găsit articole în această categorie"
+
+msgid "No main theme found"
+msgstr "Nu a fost găsită nicio temă principală"
+
+msgid "No program URL available"
+msgstr "Nicio adresă URL a programului disponibilă"
+
+msgid "No program categories available"
+msgstr "Nu sunt disponibile categorii de programe"
+
+msgid "No programs available for this day"
+msgstr "Nu există programe disponibile pentru această zi"
+
+msgid "No programs currently on air"
+msgstr "Nu există programe în prezent"
+
+msgid "No programs found for:"
+msgstr "Nu s-au găsit programe pentru:"
+
+msgid "No programs found in A-Z list"
+msgstr "Nu s-au găsit programe în lista de la A la Z"
+
+msgid "No sports categories available"
+msgstr "Nu sunt disponibile categorii sportive"
+
+msgid "No stream URL available"
+msgstr "Nu este disponibilă nicio adresă URL a fluxului"
+
+msgid "No video URL available"
+msgstr "Nu este disponibilă nicio adresă URL a videoclipului"
+
+msgid "No video URL found in the response"
+msgstr "Nu a fost găsită nicio adresă URL a videoclipului în răspuns"
+
+msgid "No videos available"
+msgstr "Nu există videoclipuri disponibile"
+
+msgid "No videos found"
+msgstr "Nu s-au găsit videoclipuri"
+
+msgid "No videos found in archive"
+msgstr "Nu s-au găsit videoclipuri în arhivă"
+
+msgid "On Air Programs"
+msgstr "Programe On Air"
+
+msgid "On Demand"
+msgstr "La cerere"
+
+msgid "Originals"
+msgstr "Originale"
+
+msgid "Page"
+msgstr "Pagină"
+
+msgid "Page with duplicate"
+msgstr "Pagina cu duplicat"
+
+msgid "Pagination not supported for this archive"
+msgstr "Paginarea nu este acceptată pentru această arhivă"
+
+msgid "Play"
+msgstr "Juca"
+
+msgid "Play & Download"
+msgstr "Redați și descărcați"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Redarea/pauză nu este acceptată pentru acest flux"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Lista de programe încă se încarcă. Va rugam asteptati..."
+
+msgid "Programs"
+msgstr "Programe"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Interogarea este prea scurtă (min 3 caractere)"
+
+msgid "Radio Programs A-Z"
+msgstr "Programe radio A-Z"
+
+msgid "Rai News"
+msgstr "Știrile Rai"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Programe Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Categorii"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Subcategorii"
+
+msgid "RaiPlay Settings"
+msgstr "Setări RaiPlay"
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "Remove download: {}?"
+msgstr "Eliminați descărcarea: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Eliminat din coadă: {}"
+
+msgid "Replay TV"
+msgstr "Reluați televizorul"
+
+msgid "Search"
+msgstr "Căutare"
+
+msgid "Search error. Please try again."
+msgstr "Eroare de căutare. Vă rugăm să încercați din nou."
+
+msgid "Searching through programs..."
+msgstr "Caut prin programe..."
+
+msgid "Select a category"
+msgstr "Selectați o categorie"
+
+msgid "Select a video"
+msgstr "Selectați un videoclip"
+
+msgid "Select block"
+msgstr "Selectați bloc"
+
+msgid "Select category"
+msgstr "Selectați categoria"
+
+msgid "Select channel"
+msgstr "Selectați canalul"
+
+msgid "Select content set"
+msgstr "Selectați setul de conținut"
+
+msgid "Select date"
+msgstr "Selectați data"
+
+msgid "Select edition"
+msgstr "Selectați ediția"
+
+msgid "Select episode"
+msgstr "Selectați episodul"
+
+msgid "Select item"
+msgstr "Selectați elementul"
+
+msgid "Select letter"
+msgstr "Selectați litera"
+
+msgid "Select program"
+msgstr "Selectați programul"
+
+msgid "Select program to watch"
+msgstr "Selectați programul de vizionat"
+
+msgid "Select subcategory"
+msgstr "Selectați subcategoria"
+
+msgid "Select video"
+msgstr "Selectați videoclipul"
+
+msgid "Society & Culture"
+msgstr "Societate și cultură"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Start"
+msgstr "Început"
+
+msgid "Stop"
+msgstr ""
+
+msgid "Stop the download first before removing"
+msgstr "Opriți mai întâi descărcarea înainte de a elimina"
+
+msgid "Sustainability"
+msgstr "Sustenabilitate"
+
+msgid "TGR and Special Programs"
+msgstr "TGR și programe speciale"
+
+msgid "TV News"
+msgstr "Știri TV"
+
+msgid "TV Programs A-Z"
+msgstr "Programe TV A-Z"
+
+msgid "Talk Shows"
+msgstr ""
+
+msgid "Tech & Learning"
+msgstr "Tehnologie și învățare"
+
+msgid "Teens"
+msgstr "Adolescenţi"
+
+msgid "Temporary"
+msgstr "Temporar"
+
+msgid "Test download added to queue"
+msgstr "Descărcarea de test a fost adăugată la coadă"
+
+msgid "Test download failed"
+msgstr "Descărcarea testului a eșuat"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Total: {total} | Activ: {activ} | În coadă: {în coadă} | Finalizat: {finalizat} | Erori: {erori}"
+
+msgid "Travel & Adventure"
+msgstr "Călătorii și aventură"
+
+msgid "USB Drive"
+msgstr "Unitate USB"
+
+msgid "Unknown content type"
+msgstr "Tip de conținut necunoscut"
+
+msgid "Unknown data format"
+msgstr "Format de date necunoscut"
+
+msgid "Unknown title"
+msgstr "Titlu necunoscut"
+
+msgid "Video URL not available"
+msgstr "Adresa URL a videoclipului nu este disponibilă"
+
+msgid "Video URL not found"
+msgstr "Adresa URL a videoclipului nu a fost găsită"
+
+msgid "Video not available"
+msgstr "Videoclipul nu este disponibil"
+
+msgid "View Full Archive"
+msgstr "Vezi arhiva completă"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "Bine ați venit la RAI PLAY PLUGINS BY LULULLA"

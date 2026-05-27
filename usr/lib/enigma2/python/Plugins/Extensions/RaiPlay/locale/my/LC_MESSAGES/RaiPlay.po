@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Burmese\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z အစီအစဉ်များအားလုံး"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z ရေဒီယိုရှိုးများ"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z တီဗီရှိုးများ"
+
+msgid "Activate Debug for messages developer."
+msgstr "မက်ဆေ့ဂျ်ဆော့ဖ်ဝဲရေးသားသူအတွက် အမှားရှာပြင်ခြင်းကို အသက်သွင်းပါ။"
+
+msgid "Active Debug"
+msgstr "အသုံးပြုနေသော အမှားအယွင်း"
+
+msgid "Added to queue: {}"
+msgstr "တန်းစီရန် ထည့်ထားသည်- {}"
+
+msgid "All Programs"
+msgstr "အစီအစဉ်အားလုံး"
+
+msgid "Archive URL not found"
+msgstr "မှတ်တမ်း URL ကို ရှာမတွေ့ပါ။"
+
+msgid "Back"
+msgstr "ကျော"
+
+msgid "Barry Allen"
+msgstr "ဘယ်ရီအယ်လန်"
+
+msgid "Choose action for: {}"
+msgstr "လုပ်ဆောင်ချက်ကို ရွေးပါ- {}"
+
+msgid "Clean queue from duplicates"
+msgstr "ထပ်နေသည့် တန်းစီခြင်းကို ရှင်းပါ။"
+
+msgid "Content type not recognized"
+msgstr "အကြောင်းအရာအမျိုးအစားကို အသိအမှတ်မပြုပါ။"
+
+msgid "Could not find video URL"
+msgstr "ဗီဒီယို URL ကို ရှာမတွေ့ပါ။"
+
+msgid "Could not load program content"
+msgstr "ပရိုဂရမ်အကြောင်းအရာကို တင်၍မရပါ။"
+
+msgid "Crime"
+msgstr "မှုခင်း"
+
+msgid "Crime Investigations"
+msgstr "မှုခင်းစုံစမ်းစစ်ဆေးရေး"
+
+msgid "Default Folder"
+msgstr "ပုံသေ ဖိုင်တွဲ"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "ရုပ်ရှင်ဖိုင်များကို ဖွင့်ရန်နှင့် သိမ်းဆည်းရန်အတွက် မူရင်းဖိုင်တွဲ"
+
+msgid "Documentaries"
+msgstr "မှတ်တမ်းရုပ်ရှင်များ"
+
+msgid "Download"
+msgstr "ဒေါင်းလုဒ်လုပ်ပါ။"
+
+msgid "Download Manager"
+msgstr "ဒေါင်းလုဒ်မန်နေဂျာ"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ဒေါင်းလုဒ်ကို ဖယ်ရှားလိုက်သည်- {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "ဒေါင်းလုဒ်စတင်ပါပြီ- {}"
+
+msgid "Download stopped: {}"
+msgstr "ဒေါင်းလုဒ်ရပ်တန့်သွားသည်- {}"
+
+msgid "Enter search query"
+msgstr "ရှာဖွေမှုမေးခွန်းကို ထည့်သွင်းပါ။"
+
+msgid "Entertainment"
+msgstr "ဖျော်ဖြေရေး"
+
+msgid "Error adding download"
+msgstr "ဒေါင်းလုဒ်ထည့်ရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error extracting video URL"
+msgstr "ဗီဒီယို URL ကို ဖြည်ရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A-Z ပရိုဂရမ်များကို ဖွင့်ရာတွင် အမှားအယွင်းရှိနေသည်- {}"
+
+msgid "Error loading archive data"
+msgstr "မှတ်တမ်းဒေတာကို တင်ရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error loading archive data: {}"
+msgstr "မှတ်တမ်းဒေတာကို တင်ရာတွင် အမှားအယွင်းရှိပါသည်- {}"
+
+msgid "Error loading content from API"
+msgstr "API မှ အကြောင်းအရာကို တင်ရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error loading data"
+msgstr "ဒေတာဖွင့်ရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error loading data: %s"
+msgstr "ဒေတာဖွင့်ရာတွင် အမှားအယွင်းရှိသည်- %s"
+
+msgid "Error loading data: {}"
+msgstr "ဒေတာကို တင်ရာတွင် အမှားအယွင်းရှိပါသည်- {}"
+
+msgid "Error loading video data"
+msgstr "ဗီဒီယိုဒေတာကို တင်ရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error loading video page"
+msgstr "ဗီဒီယိုစာမျက်နှာကို ဖွင့်ရာတွင် အမှားအယွင်းရှိနေသည်။"
+
+msgid "Error loading videos:"
+msgstr "ဗီဒီယိုများကို တင်ရာတွင် အမှားအယွင်းရှိပါသည်-"
+
+msgid "Error parsing content"
+msgstr "အကြောင်းအရာကို ခွဲခြမ်းစိတ်ဖြာရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error parsing data"
+msgstr "ဒေတာခွဲခြမ်းစိတ်ဖြာမှု အမှားအယွင်း"
+
+msgid "Error parsing video data: {}"
+msgstr "ဗီဒီယိုဒေတာကို ခွဲခြမ်းစိတ်ဖြာရာတွင် အမှားအယွင်းရှိသည်- {}"
+
+msgid "Error playing file: {}"
+msgstr "ဖိုင်ကိုဖွင့်ရာတွင် အမှားအယွင်းရှိနေသည်- {}"
+
+msgid "Error playing stream: {}"
+msgstr "ထုတ်လွှင့်မှုကို ဖွင့်ရာတွင် အမှားအယွင်းရှိသည်- {}"
+
+msgid "Error playing video:"
+msgstr "ဗီဒီယိုဖွင့်ရာတွင် အမှားအယွင်းရှိနေသည်-"
+
+msgid "Error processing archive"
+msgstr "မှတ်တမ်းဟောင်းကို လုပ်ဆောင်ရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error processing thematic content"
+msgstr "အကြောင်းအရာအလိုက် လုပ်ဆောင်ရာတွင် အမှားအယွင်းရှိနေသည်။"
+
+msgid "Error starting plugin"
+msgstr "ပလပ်အင်စတင်ရာတွင် အမှားအယွင်းရှိသည်။"
+
+msgid "Error: Could not load news data"
+msgstr "အမှား- သတင်းဒေတာကို တင်၍မရပါ။"
+
+msgid "Error: Download manager not available"
+msgstr "အမှား- ဒေါင်းလုဒ်မန်နေဂျာ မရရှိနိုင်ပါ။"
+
+msgid "Exclusive Programs"
+msgstr "သီးသန့်အစီအစဉ်များ"
+
+msgid "Extracting video URL..."
+msgstr "ဗီဒီယို URL ကို ဖြည်နေသည်..."
+
+msgid "File not found: {}"
+msgstr "ဖိုင်မတွေ့ပါ- {}"
+
+msgid "Films"
+msgstr "ရုပ်ရှင်တွေ"
+
+msgid "Found {0} programs for: {1}"
+msgstr "{1} အတွက် ပရိုဂရမ် {0} ခု တွေ့သည်"
+
+msgid "Free Space: {free} of {total}"
+msgstr "နေရာလွတ်- {total} မှ {free}"
+
+msgid "Games & Quizzes"
+msgstr "ဂိမ်းများနှင့် ပဟေဋ္ဌိများ"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "သမိုင်း & အနုပညာ"
+
+msgid "Initializing..."
+msgstr "စတင်နေသည်..."
+
+msgid "International Series"
+msgstr "နိုင်ငံတကာ ဇာတ်လမ်းတွဲများ"
+
+msgid "Invalid video URL detected"
+msgstr "မမှန်ကန်သော ဗီဒီယို URL ကို တွေ့ရှိခဲ့သည်။"
+
+msgid "Italian Series"
+msgstr "အီတလီစီးရီး"
+
+msgid "Kids"
+msgstr "ကလေးတွေ"
+
+msgid "Learning"
+msgstr "သင်ယူခြင်း။"
+
+msgid "Lifestyle"
+msgstr "နေထိုင်မှုပုံစံ"
+
+msgid "Live Radio"
+msgstr "တိုက်ရိုက်ရေဒီယို"
+
+msgid "Live TV"
+msgstr "တိုက်ရိုက်တီဗီ"
+
+msgid "Loading all programs..."
+msgstr "ပရိုဂရမ်အားလုံးကို ဖွင့်နေသည်..."
+
+msgid "Loading all videos... Please wait"
+msgstr "ဗီဒီယိုအားလုံးကို တင်နေသည်... ကျေးဇူးပြု၍ ခဏစောင့်ပါ။"
+
+msgid "Loading archive data..."
+msgstr "မှတ်တမ်းဒေတာကို ဖွင့်နေသည်..."
+
+msgid "Loading archive..."
+msgstr "မှတ်တမ်းကို ဖွင့်နေသည်..."
+
+msgid "Loading complete! Select an option"
+msgstr "ဒေါင်းလုဒ် ပြီးပါပြီ။ ရွေးချယ်မှုတစ်ခုကို ရွေးချယ်ပါ။"
+
+msgid "Loading data... Please wait"
+msgstr "ဒေတာကို ဖွင့်နေသည်... ကျေးဇူးပြု၍ ခဏစောင့်ပါ။"
+
+msgid "Loading news categories..."
+msgstr "သတင်းအမျိုးအစားများကို ဖွင့်နေသည်..."
+
+msgid "Loading news items..."
+msgstr "သတင်းများကို တင်နေသည်..."
+
+msgid "Loading on-air programs..."
+msgstr "ရုပ်သံအစီအစဉ်များကို ဖွင့်နေသည်..."
+
+msgid "Loading program data"
+msgstr "ပရိုဂရမ်ဒေတာကို ဖွင့်နေသည်။"
+
+msgid "Loading program details..."
+msgstr "အစီအစဉ်အသေးစိတ်များကို ဖွင့်နေသည်..."
+
+msgid "Loading programs..."
+msgstr "ပရိုဂရမ်များကို ဖွင့်နေသည်..."
+
+msgid "Loading videos..."
+msgstr "ဗီဒီယိုများကို ဖွင့်နေသည်..."
+
+msgid "Music"
+msgstr "ဂီတ"
+
+msgid "Music & Theater"
+msgstr "ဂီတနှင့် ပြဇာတ်ရုံ"
+
+msgid "Music Classic"
+msgstr "ဂီတဂန္ထဝင်"
+
+msgid "Network Storage"
+msgstr "ကွန်ရက်သိုလှောင်မှု"
+
+msgid "News & Documentaries"
+msgstr "သတင်းနှင့် မှတ်တမ်းများ"
+
+msgid "News Categories"
+msgstr "သတင်းအမျိုးအစားများ"
+
+msgid "Next page"
+msgstr "နောက်စာမျက်နှာ"
+
+msgid "No TV channels available"
+msgstr "တီဗီချန်နယ်များ မရရှိနိုင်ပါ။"
+
+msgid "No archive data found"
+msgstr "မှတ်တမ်းဒေတာကို ရှာမတွေ့ပါ။"
+
+msgid "No categories available"
+msgstr "အမျိုးအစားများ မရရှိနိုင်ပါ။"
+
+msgid "No content available"
+msgstr "အကြောင်းအရာ မရှိပါ။"
+
+msgid "No content found in this program"
+msgstr "ဤပရိုဂရမ်တွင် မည်သည့်အကြောင်းအရာမျှ မတွေ့ပါ။"
+
+msgid "No downloads"
+msgstr "ဒေါင်းလုဒ်များမရှိပါ။"
+
+msgid "No downloads in queue"
+msgstr "တန်းစီရာတွင် ဒေါင်းလုဒ်များမရှိပါ။"
+
+msgid "No editions available"
+msgstr "ထုတ်ဝေမှုများ မရရှိနိုင်ပါ။"
+
+msgid "No episodes available"
+msgstr "အပိုင်းများ မရရှိနိုင်ပါ။"
+
+msgid "No items available"
+msgstr "ပစ္စည်းမရရှိနိုင်ပါ။"
+
+msgid "No items found"
+msgstr "မည်သည့်အရာမှ ရှာမတွေ့ပါ။"
+
+msgid "No items found in this archive"
+msgstr "ဤမှတ်တမ်းတွင် မည်သည့်အရာမျှ မတွေ့ပါ။"
+
+msgid "No items found in this category"
+msgstr "ဤအမျိုးအစားတွင် မည်သည့်အရာမျှ မတွေ့ပါ။"
+
+msgid "No main theme found"
+msgstr "အဓိကအကြောင်းအရာ မတွေ့ပါ။"
+
+msgid "No program URL available"
+msgstr "ပရိုဂရမ် URL မရနိုင်ပါ။"
+
+msgid "No program categories available"
+msgstr "အစီအစဉ်အမျိုးအစားများ မရရှိနိုင်ပါ။"
+
+msgid "No programs available for this day"
+msgstr "ယနေ့အတွက် အစီအစဉ်မရှိပါ။"
+
+msgid "No programs currently on air"
+msgstr "လတ်တလော ထုတ်လွှင့်နေသည့် အစီအစဉ်များ မရှိပါ။"
+
+msgid "No programs found for:"
+msgstr "အတွက် ပရိုဂရမ် မတွေ့ပါ"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z စာရင်းတွင် ပရိုဂရမ်များ မတွေ့ပါ။"
+
+msgid "No sports categories available"
+msgstr "အားကစားအမျိုးအစားများ မရရှိနိုင်ပါ။"
+
+msgid "No stream URL available"
+msgstr "တိုက်ရိုက်လွှင့် URL မရနိုင်ပါ။"
+
+msgid "No video URL available"
+msgstr "ဗီဒီယို URL မရနိုင်ပါ။"
+
+msgid "No video URL found in the response"
+msgstr "တုံ့ပြန်မှုတွင် ဗီဒီယို URL မတွေ့ပါ။"
+
+msgid "No videos available"
+msgstr "ဗီဒီယိုများ မရရှိနိုင်ပါ။"
+
+msgid "No videos found"
+msgstr "ဗီဒီယိုမတွေ့ပါ။"
+
+msgid "No videos found in archive"
+msgstr "မှတ်တမ်းတွင် ဗီဒီယိုများ မတွေ့ပါ။"
+
+msgid "On Air Programs"
+msgstr "လေကြောင်းလိုင်း အစီအစဉ်များ"
+
+msgid "On Demand"
+msgstr "တောင်းဆိုသည့်အခါ"
+
+msgid "Originals"
+msgstr "မူရင်းများ"
+
+msgid "Page"
+msgstr "စာမျက်နှာ"
+
+msgid "Page with duplicate"
+msgstr "ပွားထားသောစာမျက်နှာ"
+
+msgid "Pagination not supported for this archive"
+msgstr "ဤမှတ်တမ်းအတွက် Pagination ကို မပံ့ပိုးပါ။"
+
+msgid "Play"
+msgstr "ကစားပါ။"
+
+msgid "Play & Download"
+msgstr "ဖွင့် & ဒေါင်းလုဒ်လုပ်ပါ။"
+
+msgid "Play/pause not supported for this stream"
+msgstr "ဤထုတ်လွှင့်မှုအတွက် ဖွင့်/ခေတ္တရပ်ခြင်းကို မပံ့ပိုးပါ။"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "ပရိုဂရမ်စာရင်းကို ဖွင့်နေဆဲဖြစ်သည်။ ကျေးဇူးပြုပြီးခဏစောင့်ပါ..."
+
+msgid "Programs"
+msgstr "အစီအစဉ်များ"
+
+msgid "Query too short (min 3 characters)"
+msgstr "မေးခွန်းတိုလွန်းသည် (အနည်းဆုံး စာလုံး 3 လုံး)"
+
+msgid "Radio Programs A-Z"
+msgstr "ရေဒီယိုအစီအစဉ်များ A-Z"
+
+msgid "Rai News"
+msgstr "Rai သတင်း"
+
+msgid "Rai Play Live"
+msgstr "Rai တိုက်ရိုက်ဖွင့်ပါ။"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai တိုက်ရိုက်ရေဒီယို ဖွင့်ပါ။"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr "Rai Play သည် ဝယ်လိုအားရှိသည်။"
+
+msgid "Rai Play Programs"
+msgstr "Rai Play အစီအစဉ်များ"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "Rai Play ပြန်ဖွင့်သည်-"
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai အားကစား"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai အားကစား - အမျိုးအစားများ"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai အားကစား - အမျိုးအစားခွဲများ"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay ဆက်တင်များ"
+
+msgid "Remove"
+msgstr "ဖယ်ရှားပါ။"
+
+msgid "Remove download: {}?"
+msgstr "ဒေါင်းလုဒ်ကို ဖယ်ရှားရန်- {}?"
+
+msgid "Removed from queue: {}"
+msgstr "တန်းစီခြင်းမှ ဖယ်ရှားလိုက်သည်- {}"
+
+msgid "Replay TV"
+msgstr "တီဗီပြန်ဖွင့်ပါ။"
+
+msgid "Search"
+msgstr "ရှာရန်"
+
+msgid "Search error. Please try again."
+msgstr "ရှာဖွေမှု အမှား။ ထပ်စမ်းကြည့်ပါ။"
+
+msgid "Searching through programs..."
+msgstr "ပရိုဂရမ်များဖြင့် ရှာဖွေနေသည်..."
+
+msgid "Select a category"
+msgstr "အမျိုးအစားတစ်ခုကို ရွေးပါ။"
+
+msgid "Select a video"
+msgstr "ဗီဒီယိုတစ်ခုကို ရွေးပါ။"
+
+msgid "Select block"
+msgstr "ဘလောက်ကို ရွေးပါ။"
+
+msgid "Select category"
+msgstr "အမျိုးအစားကို ရွေးပါ။"
+
+msgid "Select channel"
+msgstr "ချန်နယ်ကို ရွေးပါ။"
+
+msgid "Select content set"
+msgstr "အကြောင်းအရာအစုံကို ရွေးပါ။"
+
+msgid "Select date"
+msgstr "ရက်စွဲကို ရွေးပါ။"
+
+msgid "Select edition"
+msgstr "ထုတ်ဝေမှုကို ရွေးပါ။"
+
+msgid "Select episode"
+msgstr "အပိုင်းကို ရွေးပါ။"
+
+msgid "Select item"
+msgstr "အကြောင်းအရာကို ရွေးပါ။"
+
+msgid "Select letter"
+msgstr "စာလုံးကိုရွေးပါ။"
+
+msgid "Select program"
+msgstr "အစီအစဉ်ကိုရွေးချယ်ပါ။"
+
+msgid "Select program to watch"
+msgstr "ကြည့်ရှုရန် အစီအစဉ်ကို ရွေးချယ်ပါ။"
+
+msgid "Select subcategory"
+msgstr "အမျိုးအစားခွဲကို ရွေးပါ။"
+
+msgid "Select video"
+msgstr "ဗီဒီယိုကို ရွေးပါ။"
+
+msgid "Society & Culture"
+msgstr "လူ့အဖွဲ့အစည်းနှင့် ယဉ်ကျေးမှု"
+
+msgid "Sports"
+msgstr "အားကစား"
+
+msgid "Start"
+msgstr "စတင်ပါ။"
+
+msgid "Stop"
+msgstr "ရပ်"
+
+msgid "Stop the download first before removing"
+msgstr "မဖယ်ရှားမီ ဒေါင်းလုဒ်ကို ဦးစွာရပ်ပါ။"
+
+msgid "Sustainability"
+msgstr "ညီလေး"
+
+msgid "TGR and Special Programs"
+msgstr "TGR နှင့် အထူးအစီအစဉ်များ"
+
+msgid "TV News"
+msgstr "တီဗွီသတင်း"
+
+msgid "TV Programs A-Z"
+msgstr "တီဗီအစီအစဉ်များ A-Z"
+
+msgid "Talk Shows"
+msgstr "ဟောပြောပွဲများ"
+
+msgid "Tech & Learning"
+msgstr "နည်းပညာနှင့် သင်ယူမှု"
+
+msgid "Teens"
+msgstr "ဆယ်ကျော်သက်များ"
+
+msgid "Temporary"
+msgstr "ယာယီ"
+
+msgid "Test download added to queue"
+msgstr "စမ်းသပ်ဒေါင်းလုဒ်ကို တန်းစီရန် ထည့်သွင်းထားသည်။"
+
+msgid "Test download failed"
+msgstr "စမ်းသပ်ဒေါင်းလုဒ် မအောင်မြင်ပါ။"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "စုစုပေါင်း- {total} | အသက်ဝင်သည်- {active} | တန်းစီသည်- {queued} | ပြီးပါပြီ- {completed} | အမှားများ- {errors}"
+
+msgid "Travel & Adventure"
+msgstr "ခရီးသွား & စွန့်စားမှု"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "အမည်မသိ အကြောင်းအရာအမျိုးအစား"
+
+msgid "Unknown data format"
+msgstr "အမည်မသိ ဒေတာဖော်မတ်"
+
+msgid "Unknown title"
+msgstr "အမည်မသိ ခေါင်းစဉ်"
+
+msgid "Video URL not available"
+msgstr "ဗီဒီယို URL မရနိုင်ပါ။"
+
+msgid "Video URL not found"
+msgstr "ဗီဒီယို URL မတွေ့ပါ။"
+
+msgid "Video not available"
+msgstr "ဗီဒီယို မရရှိနိုင်ပါ။"
+
+msgid "View Full Archive"
+msgstr "မှတ်တမ်းအပြည့်အစုံကို ကြည့်ပါ။"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "LULULLA မှ Rai PLAY ပလပ်အင်များကိုကြိုဆိုပါသည်။"

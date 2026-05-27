@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:25+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Semua Program"
+
+msgid "A-Z Radio Shows"
+msgstr "Acara Radio A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Acara TV A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktifkan Debug untuk pengembang pesan."
+
+msgid "Active Debug"
+msgstr "Debug Aktif"
+
+msgid "Added to queue: {}"
+msgstr "Ditambahkan ke antrean: {}"
+
+msgid "All Programs"
+msgstr "Semua Program"
+
+msgid "Archive URL not found"
+msgstr "URL arsip tidak ditemukan"
+
+msgid "Back"
+msgstr "Kembali"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Pilih tindakan untuk: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Bersihkan antrian dari duplikat"
+
+msgid "Content type not recognized"
+msgstr "Jenis konten tidak dikenali"
+
+msgid "Could not find video URL"
+msgstr "Tidak dapat menemukan URL video"
+
+msgid "Could not load program content"
+msgstr "Tidak dapat memuat konten program"
+
+msgid "Crime"
+msgstr "Kejahatan"
+
+msgid "Crime Investigations"
+msgstr "Investigasi Kejahatan"
+
+msgid "Default Folder"
+msgstr "Folder Bawaan"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Folder default untuk membuka dan menyimpan file Film"
+
+msgid "Documentaries"
+msgstr "Dokumenter"
+
+msgid "Download"
+msgstr "Unduh"
+
+msgid "Download Manager"
+msgstr "Pengelola Unduhan"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Unduhan dihapus: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Pengunduhan dimulai: {}"
+
+msgid "Download stopped: {}"
+msgstr "Pengunduhan terhenti: {}"
+
+msgid "Enter search query"
+msgstr "Masukkan permintaan pencarian"
+
+msgid "Entertainment"
+msgstr "Hiburan"
+
+msgid "Error adding download"
+msgstr "Terjadi kesalahan saat menambahkan unduhan"
+
+msgid "Error extracting video URL"
+msgstr "Terjadi kesalahan saat mengekstrak URL video"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Kesalahan saat memuat program A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Terjadi kesalahan saat memuat data arsip"
+
+msgid "Error loading archive data: {}"
+msgstr "Terjadi kesalahan saat memuat data arsip: {}"
+
+msgid "Error loading content from API"
+msgstr "Terjadi kesalahan saat memuat konten dari API"
+
+msgid "Error loading data"
+msgstr "Terjadi kesalahan saat memuat data"
+
+msgid "Error loading data: %s"
+msgstr "Kesalahan saat memuat data: %s"
+
+msgid "Error loading data: {}"
+msgstr "Terjadi kesalahan saat memuat data: {}"
+
+msgid "Error loading video data"
+msgstr "Terjadi kesalahan saat memuat data video"
+
+msgid "Error loading video page"
+msgstr "Terjadi kesalahan saat memuat halaman video"
+
+msgid "Error loading videos:"
+msgstr "Kesalahan saat memuat video:"
+
+msgid "Error parsing content"
+msgstr "Terjadi kesalahan saat mengurai konten"
+
+msgid "Error parsing data"
+msgstr "Terjadi kesalahan saat mengurai data"
+
+msgid "Error parsing video data: {}"
+msgstr "Kesalahan saat mengurai data video: {}"
+
+msgid "Error playing file: {}"
+msgstr "Terjadi kesalahan saat memutar file: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Terjadi kesalahan saat memutar streaming: {}"
+
+msgid "Error playing video:"
+msgstr "Kesalahan saat memutar video:"
+
+msgid "Error processing archive"
+msgstr "Terjadi kesalahan saat memproses arsip"
+
+msgid "Error processing thematic content"
+msgstr "Terjadi kesalahan saat memproses konten tematik"
+
+msgid "Error starting plugin"
+msgstr "Kesalahan saat memulai plugin"
+
+msgid "Error: Could not load news data"
+msgstr "Kesalahan: Tidak dapat memuat data berita"
+
+msgid "Error: Download manager not available"
+msgstr "Kesalahan: Pengelola unduhan tidak tersedia"
+
+msgid "Exclusive Programs"
+msgstr "Program Eksklusif"
+
+msgid "Extracting video URL..."
+msgstr "Mengekstrak URL video..."
+
+msgid "File not found: {}"
+msgstr "Berkas tidak ditemukan: {}"
+
+msgid "Films"
+msgstr "Film"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Ditemukan {0} program untuk: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Ruang Kosong: {gratis} dari {total}"
+
+msgid "Games & Quizzes"
+msgstr "Permainan & Kuis"
+
+msgid "HDD Drive"
+msgstr "Drive HDD"
+
+msgid "History & Art"
+msgstr "Sejarah & Seni"
+
+msgid "Initializing..."
+msgstr "Menginisialisasi..."
+
+msgid "International Series"
+msgstr "Seri Internasional"
+
+msgid "Invalid video URL detected"
+msgstr "URL video tidak valid terdeteksi"
+
+msgid "Italian Series"
+msgstr "Seri Italia"
+
+msgid "Kids"
+msgstr "Anak-anak"
+
+msgid "Learning"
+msgstr "Sedang belajar"
+
+msgid "Lifestyle"
+msgstr "Gaya hidup"
+
+msgid "Live Radio"
+msgstr "Radio Langsung"
+
+msgid "Live TV"
+msgstr "siaran langsung"
+
+msgid "Loading all programs..."
+msgstr "Memuat semua program..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Memuat semua video... Harap tunggu"
+
+msgid "Loading archive data..."
+msgstr "Memuat data arsip..."
+
+msgid "Loading archive..."
+msgstr "Memuat arsip..."
+
+msgid "Loading complete! Select an option"
+msgstr "Pemuatan selesai! Pilih sebuah opsi"
+
+msgid "Loading data... Please wait"
+msgstr "Memuat data... Harap tunggu"
+
+msgid "Loading news categories..."
+msgstr "Memuat kategori berita..."
+
+msgid "Loading news items..."
+msgstr "Memuat item berita..."
+
+msgid "Loading on-air programs..."
+msgstr "Memuat program siaran..."
+
+msgid "Loading program data"
+msgstr "Memuat data program"
+
+msgid "Loading program details..."
+msgstr "Memuat detail program..."
+
+msgid "Loading programs..."
+msgstr "Memuat program..."
+
+msgid "Loading videos..."
+msgstr "Memuat video..."
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Music & Theater"
+msgstr "Musik & Teater"
+
+msgid "Music Classic"
+msgstr "Musik Klasik"
+
+msgid "Network Storage"
+msgstr "Penyimpanan Jaringan"
+
+msgid "News & Documentaries"
+msgstr "Berita & Dokumenter"
+
+msgid "News Categories"
+msgstr "Kategori Berita"
+
+msgid "Next page"
+msgstr "Halaman berikutnya"
+
+msgid "No TV channels available"
+msgstr "Tidak ada saluran TV yang tersedia"
+
+msgid "No archive data found"
+msgstr "Tidak ada data arsip yang ditemukan"
+
+msgid "No categories available"
+msgstr "Tidak ada kategori yang tersedia"
+
+msgid "No content available"
+msgstr "Tidak ada konten yang tersedia"
+
+msgid "No content found in this program"
+msgstr "Tidak ada konten yang ditemukan dalam program ini"
+
+msgid "No downloads"
+msgstr "Tidak ada unduhan"
+
+msgid "No downloads in queue"
+msgstr "Tidak ada unduhan dalam antrian"
+
+msgid "No editions available"
+msgstr "Tidak ada edisi yang tersedia"
+
+msgid "No episodes available"
+msgstr "Tidak ada episode yang tersedia"
+
+msgid "No items available"
+msgstr "Tidak ada item yang tersedia"
+
+msgid "No items found"
+msgstr "Tidak ada item yang ditemukan"
+
+msgid "No items found in this archive"
+msgstr "Tidak ada item yang ditemukan dalam arsip ini"
+
+msgid "No items found in this category"
+msgstr "Tidak ada item yang ditemukan dalam kategori ini"
+
+msgid "No main theme found"
+msgstr "Tidak ada tema utama yang ditemukan"
+
+msgid "No program URL available"
+msgstr "Tidak ada URL program yang tersedia"
+
+msgid "No program categories available"
+msgstr "Tidak ada kategori program yang tersedia"
+
+msgid "No programs available for this day"
+msgstr "Tidak ada program yang tersedia untuk hari ini"
+
+msgid "No programs currently on air"
+msgstr "Tidak ada program yang sedang disiarkan"
+
+msgid "No programs found for:"
+msgstr "Tidak ada program yang ditemukan untuk:"
+
+msgid "No programs found in A-Z list"
+msgstr "Tidak ada program yang ditemukan dalam daftar A-Z"
+
+msgid "No sports categories available"
+msgstr "Tidak ada kategori olahraga yang tersedia"
+
+msgid "No stream URL available"
+msgstr "Tidak ada URL streaming yang tersedia"
+
+msgid "No video URL available"
+msgstr "Tidak ada URL video yang tersedia"
+
+msgid "No video URL found in the response"
+msgstr "Tidak ada URL video yang ditemukan dalam tanggapan"
+
+msgid "No videos available"
+msgstr "Tidak ada video yang tersedia"
+
+msgid "No videos found"
+msgstr "Tidak ada video yang ditemukan"
+
+msgid "No videos found in archive"
+msgstr "Tidak ada video yang ditemukan di arsip"
+
+msgid "On Air Programs"
+msgstr "Program Siaran"
+
+msgid "On Demand"
+msgstr "Sesuai Permintaan"
+
+msgid "Originals"
+msgstr "Asli"
+
+msgid "Page"
+msgstr "Halaman"
+
+msgid "Page with duplicate"
+msgstr "Halaman dengan duplikat"
+
+msgid "Pagination not supported for this archive"
+msgstr "Penomoran halaman tidak didukung untuk arsip ini"
+
+msgid "Play"
+msgstr "Bermain"
+
+msgid "Play & Download"
+msgstr "Mainkan & Unduh"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Putar/jeda tidak didukung untuk streaming ini"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Daftar program masih dimuat. Harap tunggu..."
+
+msgid "Programs"
+msgstr "Program"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Kueri terlalu pendek (minimal 3 karakter)"
+
+msgid "Radio Programs A-Z"
+msgstr "Program Radio A-Z"
+
+msgid "Rai News"
+msgstr "Berita Rai"
+
+msgid "Rai Play Live"
+msgstr "Rai Mainkan Langsung"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Mainkan Radio Langsung"
+
+msgid "Rai Play Main"
+msgstr "Rai Mainkan Utama"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Mainkan Sesuai Permintaan"
+
+msgid "Rai Play Programs"
+msgstr "Program Putar Rai"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Putar Ulang TV"
+
+msgid "Rai Play Replay:"
+msgstr "Tayangan Ulang Rai Play:"
+
+msgid "Rai Play Search"
+msgstr "Rai Mainkan Pencarian"
+
+msgid "Rai Sport"
+msgstr "Olahraga Rai"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Olahraga - Kategori"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Subkategori"
+
+msgid "RaiPlay Settings"
+msgstr "Pengaturan RaiPlay"
+
+msgid "Remove"
+msgstr "Menghapus"
+
+msgid "Remove download: {}?"
+msgstr "Hapus unduhan: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Dihapus dari antrean: {}"
+
+msgid "Replay TV"
+msgstr "Putar ulang TV"
+
+msgid "Search"
+msgstr "Mencari"
+
+msgid "Search error. Please try again."
+msgstr "Kesalahan pencarian. Silakan coba lagi."
+
+msgid "Searching through programs..."
+msgstr "Mencari melalui program..."
+
+msgid "Select a category"
+msgstr "Pilih kategori"
+
+msgid "Select a video"
+msgstr "Pilih video"
+
+msgid "Select block"
+msgstr "Pilih blok"
+
+msgid "Select category"
+msgstr "Pilih kategori"
+
+msgid "Select channel"
+msgstr "Pilih saluran"
+
+msgid "Select content set"
+msgstr "Pilih kumpulan konten"
+
+msgid "Select date"
+msgstr "Pilih tanggal"
+
+msgid "Select edition"
+msgstr "Pilih edisi"
+
+msgid "Select episode"
+msgstr "Pilih episode"
+
+msgid "Select item"
+msgstr "Pilih barang"
+
+msgid "Select letter"
+msgstr "Pilih huruf"
+
+msgid "Select program"
+msgstr "Pilih program"
+
+msgid "Select program to watch"
+msgstr "Pilih program yang ingin ditonton"
+
+msgid "Select subcategory"
+msgstr "Pilih subkategori"
+
+msgid "Select video"
+msgstr "Pilih video"
+
+msgid "Society & Culture"
+msgstr "Masyarakat & Budaya"
+
+msgid "Sports"
+msgstr "Olahraga"
+
+msgid "Start"
+msgstr "Awal"
+
+msgid "Stop"
+msgstr "Berhenti"
+
+msgid "Stop the download first before removing"
+msgstr "Hentikan pengunduhan terlebih dahulu sebelum menghapus"
+
+msgid "Sustainability"
+msgstr "Keberlanjutan"
+
+msgid "TGR and Special Programs"
+msgstr "TGR dan Program Khusus"
+
+msgid "TV News"
+msgstr "Berita TV"
+
+msgid "TV Programs A-Z"
+msgstr "Program TV A-Z"
+
+msgid "Talk Shows"
+msgstr "Acara Bincang-bincang"
+
+msgid "Tech & Learning"
+msgstr "Teknologi & Pembelajaran"
+
+msgid "Teens"
+msgstr "Remaja"
+
+msgid "Temporary"
+msgstr "Sementara"
+
+msgid "Test download added to queue"
+msgstr "Unduhan uji ditambahkan ke antrean"
+
+msgid "Test download failed"
+msgstr "Pengunduhan uji gagal"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Jumlah: {jumlah} | Aktif: {aktif} | Mengantri: {mengantri} | Selesai: {selesai} | Kesalahan: {kesalahan}"
+
+msgid "Travel & Adventure"
+msgstr "Perjalanan & Petualangan"
+
+msgid "USB Drive"
+msgstr "Drive USB"
+
+msgid "Unknown content type"
+msgstr "Jenis konten tidak diketahui"
+
+msgid "Unknown data format"
+msgstr "Format data tidak diketahui"
+
+msgid "Unknown title"
+msgstr "Judul tidak diketahui"
+
+msgid "Video URL not available"
+msgstr "URL video tidak tersedia"
+
+msgid "Video URL not found"
+msgstr "URL video tidak ditemukan"
+
+msgid "Video not available"
+msgstr "Video tidak tersedia"
+
+msgid "View Full Archive"
+msgstr "Lihat Arsip Lengkap"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "SELAMAT DATANG DI PLUGIN RAI PLAY OLEH LULULLA"

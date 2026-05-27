@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:50+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Persian <translation-team-fa@lists.sourceforge.net>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z همه برنامه ها"
+
+msgid "A-Z Radio Shows"
+msgstr "نمایش های رادیویی A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "برنامه های تلویزیونی A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Debug for messages developer را فعال کنید."
+
+msgid "Active Debug"
+msgstr "اشکال زدایی فعال"
+
+msgid "Added to queue: {}"
+msgstr "به صف اضافه شد: {}"
+
+msgid "All Programs"
+msgstr "همه برنامه ها"
+
+msgid "Archive URL not found"
+msgstr "URL آرشیو یافت نشد"
+
+msgid "Back"
+msgstr "برگشت"
+
+msgid "Barry Allen"
+msgstr "بری آلن"
+
+msgid "Choose action for: {}"
+msgstr "انتخاب اقدام برای: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "صف را از موارد تکراری پاک کنید"
+
+msgid "Content type not recognized"
+msgstr "نوع محتوا شناسایی نشد"
+
+msgid "Could not find video URL"
+msgstr "URL ویدیو پیدا نشد"
+
+msgid "Could not load program content"
+msgstr "محتوای برنامه بارگیری نشد"
+
+msgid "Crime"
+msgstr "جنایت"
+
+msgid "Crime Investigations"
+msgstr "تحقیقات جنایی"
+
+msgid "Default Folder"
+msgstr "پوشه پیش فرض"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "پوشه پیش فرض برای باز کردن و ذخیره فایل های فیلم"
+
+msgid "Documentaries"
+msgstr "فیلم های مستند"
+
+msgid "Download"
+msgstr "دانلود کنید"
+
+msgid "Download Manager"
+msgstr "دانلود منیجر"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "دانلود حذف شد: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "دانلود شروع شد: {}"
+
+msgid "Download stopped: {}"
+msgstr "دانلود متوقف شد: {}"
+
+msgid "Enter search query"
+msgstr "عبارت جستجو را وارد کنید"
+
+msgid "Entertainment"
+msgstr "سرگرمی"
+
+msgid "Error adding download"
+msgstr "خطا در افزودن دانلود"
+
+msgid "Error extracting video URL"
+msgstr "خطا در استخراج URL ویدیو"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "خطا در بارگیری برنامه های A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "خطا در بارگیری داده های بایگانی"
+
+msgid "Error loading archive data: {}"
+msgstr "خطا در بارگیری داده‌های بایگانی: {}"
+
+msgid "Error loading content from API"
+msgstr "خطا در بارگیری محتوا از API"
+
+msgid "Error loading data"
+msgstr "خطا در بارگیری داده ها"
+
+msgid "Error loading data: %s"
+msgstr "خطا در بارگیری داده ها: %s"
+
+msgid "Error loading data: {}"
+msgstr "خطا در بارگیری داده ها: {}"
+
+msgid "Error loading video data"
+msgstr "خطا در بارگیری داده های ویدیویی"
+
+msgid "Error loading video page"
+msgstr "خطا در بارگیری صفحه ویدیو"
+
+msgid "Error loading videos:"
+msgstr "خطا در بارگیری ویدیوها:"
+
+msgid "Error parsing content"
+msgstr "خطا در تجزیه محتوا"
+
+msgid "Error parsing data"
+msgstr "خطا در تجزیه داده ها"
+
+msgid "Error parsing video data: {}"
+msgstr "خطا در تجزیه داده‌های ویدیو: {}"
+
+msgid "Error playing file: {}"
+msgstr "خطا در پخش فایل: {}"
+
+msgid "Error playing stream: {}"
+msgstr "خطا در پخش جریان: {}"
+
+msgid "Error playing video:"
+msgstr "خطا در پخش ویدیو:"
+
+msgid "Error processing archive"
+msgstr "خطا در پردازش بایگانی"
+
+msgid "Error processing thematic content"
+msgstr "خطا در پردازش محتوای موضوعی"
+
+msgid "Error starting plugin"
+msgstr "خطا در راه اندازی افزونه"
+
+msgid "Error: Could not load news data"
+msgstr "خطا: داده های خبری بارگیری نشد"
+
+msgid "Error: Download manager not available"
+msgstr "خطا: مدیریت دانلود در دسترس نیست"
+
+msgid "Exclusive Programs"
+msgstr "برنامه های انحصاری"
+
+msgid "Extracting video URL..."
+msgstr "در حال استخراج URL ویدیو..."
+
+msgid "File not found: {}"
+msgstr "فایل یافت نشد: {}"
+
+msgid "Films"
+msgstr "فیلم ها"
+
+msgid "Found {0} programs for: {1}"
+msgstr "{0} برنامه برای: {1} پیدا شد"
+
+msgid "Free Space: {free} of {total}"
+msgstr "فضای آزاد: {رایگان} از {total}"
+
+msgid "Games & Quizzes"
+msgstr "بازی ها و آزمون ها"
+
+msgid "HDD Drive"
+msgstr "درایو HDD"
+
+msgid "History & Art"
+msgstr "تاریخ و هنر"
+
+msgid "Initializing..."
+msgstr "در حال شروع..."
+
+msgid "International Series"
+msgstr "سری بین المللی"
+
+msgid "Invalid video URL detected"
+msgstr "URL ویدیوی نامعتبر شناسایی شد"
+
+msgid "Italian Series"
+msgstr "سریال ایتالیایی"
+
+msgid "Kids"
+msgstr "بچه ها"
+
+msgid "Learning"
+msgstr "یادگیری"
+
+msgid "Lifestyle"
+msgstr "سبک زندگی"
+
+msgid "Live Radio"
+msgstr "رادیو زنده"
+
+msgid "Live TV"
+msgstr "تلویزیون زنده"
+
+msgid "Loading all programs..."
+msgstr "در حال بارگیری همه برنامه ها..."
+
+msgid "Loading all videos... Please wait"
+msgstr "در حال بارگیری همه ویدیوها... لطفاً صبر کنید"
+
+msgid "Loading archive data..."
+msgstr "در حال بارگیری داده های بایگانی..."
+
+msgid "Loading archive..."
+msgstr "در حال بارگیری بایگانی..."
+
+msgid "Loading complete! Select an option"
+msgstr "بارگیری کامل شد! یک گزینه را انتخاب کنید"
+
+msgid "Loading data... Please wait"
+msgstr "در حال بارگیری داده ها... لطفاً صبر کنید"
+
+msgid "Loading news categories..."
+msgstr "در حال بارگیری دسته های اخبار..."
+
+msgid "Loading news items..."
+msgstr "در حال بارگیری اخبار..."
+
+msgid "Loading on-air programs..."
+msgstr "در حال بارگیری برنامه های روی ایر..."
+
+msgid "Loading program data"
+msgstr "در حال بارگیری داده های برنامه"
+
+msgid "Loading program details..."
+msgstr "در حال بارگیری جزئیات برنامه..."
+
+msgid "Loading programs..."
+msgstr "در حال بارگیری برنامه ها..."
+
+msgid "Loading videos..."
+msgstr "در حال بارگیری ویدیوها..."
+
+msgid "Music"
+msgstr "موسیقی"
+
+msgid "Music & Theater"
+msgstr "موسیقی و تئاتر"
+
+msgid "Music Classic"
+msgstr "موسیقی کلاسیک"
+
+msgid "Network Storage"
+msgstr "ذخیره سازی شبکه"
+
+msgid "News & Documentaries"
+msgstr "اخبار و مستند"
+
+msgid "News Categories"
+msgstr "دسته بندی اخبار"
+
+msgid "Next page"
+msgstr "صفحه بعدی"
+
+msgid "No TV channels available"
+msgstr "هیچ کانال تلویزیونی در دسترس نیست"
+
+msgid "No archive data found"
+msgstr "هیچ داده بایگانی یافت نشد"
+
+msgid "No categories available"
+msgstr "هیچ دسته ای موجود نیست"
+
+msgid "No content available"
+msgstr "هیچ محتوایی در دسترس نیست"
+
+msgid "No content found in this program"
+msgstr "هیچ محتوایی در این برنامه یافت نشد"
+
+msgid "No downloads"
+msgstr "بدون دانلود"
+
+msgid "No downloads in queue"
+msgstr "بدون دانلود در صف"
+
+msgid "No editions available"
+msgstr "هیچ نسخه ای موجود نیست"
+
+msgid "No episodes available"
+msgstr "هیچ قسمتی در دسترس نیست"
+
+msgid "No items available"
+msgstr "هیچ موردی موجود نیست"
+
+msgid "No items found"
+msgstr "هیچ موردی یافت نشد"
+
+msgid "No items found in this archive"
+msgstr "هیچ موردی در این آرشیو یافت نشد"
+
+msgid "No items found in this category"
+msgstr "هیچ موردی در این دسته یافت نشد"
+
+msgid "No main theme found"
+msgstr "موضوع اصلی یافت نشد"
+
+msgid "No program URL available"
+msgstr "هیچ URL برنامه ای در دسترس نیست"
+
+msgid "No program categories available"
+msgstr "هیچ دسته برنامه ای موجود نیست"
+
+msgid "No programs available for this day"
+msgstr "هیچ برنامه ای برای این روز موجود نیست"
+
+msgid "No programs currently on air"
+msgstr "هیچ برنامه ای در حال حاضر پخش نمی شود"
+
+msgid "No programs found for:"
+msgstr "هیچ برنامه ای برای:"
+
+msgid "No programs found in A-Z list"
+msgstr "هیچ برنامه ای در لیست A-Z یافت نشد"
+
+msgid "No sports categories available"
+msgstr "هیچ دسته ورزشی موجود نیست"
+
+msgid "No stream URL available"
+msgstr "هیچ URL جریانی در دسترس نیست"
+
+msgid "No video URL available"
+msgstr "هیچ URL ویدیویی موجود نیست"
+
+msgid "No video URL found in the response"
+msgstr "هیچ URL ویدیویی در پاسخ یافت نشد"
+
+msgid "No videos available"
+msgstr "هیچ ویدیویی در دسترس نیست"
+
+msgid "No videos found"
+msgstr "هیچ ویدیویی پیدا نشد"
+
+msgid "No videos found in archive"
+msgstr "هیچ ویدیویی در بایگانی یافت نشد"
+
+msgid "On Air Programs"
+msgstr "برنامه های روی ایر"
+
+msgid "On Demand"
+msgstr "در صورت تقاضا"
+
+msgid "Originals"
+msgstr "اصل"
+
+msgid "Page"
+msgstr "صفحه"
+
+msgid "Page with duplicate"
+msgstr "صفحه با کپی"
+
+msgid "Pagination not supported for this archive"
+msgstr "صفحه بندی برای این بایگانی پشتیبانی نمی شود"
+
+msgid "Play"
+msgstr "بازی کنید"
+
+msgid "Play & Download"
+msgstr "پخش و دانلود کنید"
+
+msgid "Play/pause not supported for this stream"
+msgstr "پخش/مکث برای این جریان پشتیبانی نمی‌شود"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "لیست برنامه هنوز در حال بارگیری است. لطفا صبر کنید..."
+
+msgid "Programs"
+msgstr "برنامه ها"
+
+msgid "Query too short (min 3 characters)"
+msgstr "درخواست خیلی کوتاه (حداقل 3 نویسه)"
+
+msgid "Radio Programs A-Z"
+msgstr "برنامه های رادیویی A-Z"
+
+msgid "Rai News"
+msgstr "رای نیوز"
+
+msgid "Rai Play Live"
+msgstr "رای پخش زنده"
+
+msgid "Rai Play Live Radio"
+msgstr "رای پخش زنده رادیو"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "برنامه های Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "پخش Rai Play:"
+
+msgid "Rai Play Search"
+msgstr "جستجوی Rai Play"
+
+msgid "Rai Sport"
+msgstr "رای اسپورت"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - دسته بندی ها"
+
+msgid "Rai Sport - Subcategories"
+msgstr "رای اسپورت - زیر مجموعه ها"
+
+msgid "RaiPlay Settings"
+msgstr "تنظیمات RaiPlay"
+
+msgid "Remove"
+msgstr "حذف کنید"
+
+msgid "Remove download: {}?"
+msgstr "دانلود حذف شود: {}؟"
+
+msgid "Removed from queue: {}"
+msgstr "از صف حذف شد: {}"
+
+msgid "Replay TV"
+msgstr "پخش مجدد تلویزیون"
+
+msgid "Search"
+msgstr "جستجو کنید"
+
+msgid "Search error. Please try again."
+msgstr "خطای جستجو لطفا دوباره امتحان کنید."
+
+msgid "Searching through programs..."
+msgstr "جستجو در میان برنامه ها ..."
+
+msgid "Select a category"
+msgstr "یک دسته را انتخاب کنید"
+
+msgid "Select a video"
+msgstr "یک ویدیو را انتخاب کنید"
+
+msgid "Select block"
+msgstr "بلوک را انتخاب کنید"
+
+msgid "Select category"
+msgstr "دسته را انتخاب کنید"
+
+msgid "Select channel"
+msgstr "کانال را انتخاب کنید"
+
+msgid "Select content set"
+msgstr "مجموعه محتوا را انتخاب کنید"
+
+msgid "Select date"
+msgstr "تاریخ را انتخاب کنید"
+
+msgid "Select edition"
+msgstr "نسخه را انتخاب کنید"
+
+msgid "Select episode"
+msgstr "قسمت را انتخاب کنید"
+
+msgid "Select item"
+msgstr "مورد را انتخاب کنید"
+
+msgid "Select letter"
+msgstr "حرف را انتخاب کنید"
+
+msgid "Select program"
+msgstr "برنامه را انتخاب کنید"
+
+msgid "Select program to watch"
+msgstr "برنامه ای را برای تماشا انتخاب کنید"
+
+msgid "Select subcategory"
+msgstr "زیرمجموعه را انتخاب کنید"
+
+msgid "Select video"
+msgstr "ویدیو را انتخاب کنید"
+
+msgid "Society & Culture"
+msgstr "جامعه و فرهنگ"
+
+msgid "Sports"
+msgstr "ورزش"
+
+msgid "Start"
+msgstr "شروع کنید"
+
+msgid "Stop"
+msgstr "توقف کنید"
+
+msgid "Stop the download first before removing"
+msgstr "قبل از حذف ابتدا دانلود را متوقف کنید"
+
+msgid "Sustainability"
+msgstr "پایداری"
+
+msgid "TGR and Special Programs"
+msgstr "TGR و برنامه های ویژه"
+
+msgid "TV News"
+msgstr "اخبار تلویزیون"
+
+msgid "TV Programs A-Z"
+msgstr "برنامه های تلویزیونی A-Z"
+
+msgid "Talk Shows"
+msgstr "نمایش های گفتگو"
+
+msgid "Tech & Learning"
+msgstr "فناوری و یادگیری"
+
+msgid "Teens"
+msgstr "نوجوانان"
+
+msgid "Temporary"
+msgstr "موقت"
+
+msgid "Test download added to queue"
+msgstr "دانلود آزمایشی به صف اضافه شد"
+
+msgid "Test download failed"
+msgstr "دانلود آزمایشی انجام نشد"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "مجموع: {total} | فعال: {فعال} | در صف: {در صف} | تکمیل شد: {تکمیل} | خطاها: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "سفر و ماجراجویی"
+
+msgid "USB Drive"
+msgstr "درایو USB"
+
+msgid "Unknown content type"
+msgstr "نوع محتوای نامشخص"
+
+msgid "Unknown data format"
+msgstr "قالب داده ناشناخته"
+
+msgid "Unknown title"
+msgstr "عنوان نامعلوم"
+
+msgid "Video URL not available"
+msgstr "URL ویدیو در دسترس نیست"
+
+msgid "Video URL not found"
+msgstr "URL ویدیو پیدا نشد"
+
+msgid "Video not available"
+msgstr "ویدیو در دسترس نیست"
+
+msgid "View Full Archive"
+msgstr "مشاهده آرشیو کامل"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "به پلاگین های RAI PLAY BY LULULLA خوش آمدید"

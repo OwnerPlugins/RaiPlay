@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Tots els programes"
+
+msgid "A-Z Radio Shows"
+msgstr "Programes de ràdio A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Programes de televisió A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Activeu Debug per al desenvolupador de missatges."
+
+msgid "Active Debug"
+msgstr "Depuració activa"
+
+msgid "Added to queue: {}"
+msgstr "S'ha afegit a la cua: {}"
+
+msgid "All Programs"
+msgstr "Tots els programes"
+
+msgid "Archive URL not found"
+msgstr "No s'ha trobat l'URL de l'arxiu"
+
+msgid "Back"
+msgstr "Enrere"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Tria una acció per a: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Netegeu la cua de duplicats"
+
+msgid "Content type not recognized"
+msgstr "No es reconeix el tipus de contingut"
+
+msgid "Could not find video URL"
+msgstr "No s'ha pogut trobar l'URL del vídeo"
+
+msgid "Could not load program content"
+msgstr "No s'ha pogut carregar el contingut del programa"
+
+msgid "Crime"
+msgstr "Crim"
+
+msgid "Crime Investigations"
+msgstr "Investigacions de delictes"
+
+msgid "Default Folder"
+msgstr "Carpeta per defecte"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Carpeta predeterminada per obrir i desar fitxers de pel·lícules"
+
+msgid "Documentaries"
+msgstr "Documentals"
+
+msgid "Download"
+msgstr "Descarregar"
+
+msgid "Download Manager"
+msgstr "Gestor de descàrregues"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "S'ha eliminat la baixada: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "La baixada ha començat: {}"
+
+msgid "Download stopped: {}"
+msgstr "Descàrrega aturada: {}"
+
+msgid "Enter search query"
+msgstr "Introduïu la consulta de cerca"
+
+msgid "Entertainment"
+msgstr "Entreteniment"
+
+msgid "Error adding download"
+msgstr "S'ha produït un error en afegir la baixada"
+
+msgid "Error extracting video URL"
+msgstr "S'ha produït un error en extreure l'URL del vídeo"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Error en carregar els programes A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "S'ha produït un error en carregar les dades de l'arxiu"
+
+msgid "Error loading archive data: {}"
+msgstr "Error en carregar les dades de l'arxiu: {}"
+
+msgid "Error loading content from API"
+msgstr "S'ha produït un error en carregar el contingut de l'API"
+
+msgid "Error loading data"
+msgstr "S'ha produït un error en carregar les dades"
+
+msgid "Error loading data: %s"
+msgstr "Error en carregar les dades: %s"
+
+msgid "Error loading data: {}"
+msgstr "Error en carregar les dades: {}"
+
+msgid "Error loading video data"
+msgstr "S'ha produït un error en carregar les dades del vídeo"
+
+msgid "Error loading video page"
+msgstr "S'ha produït un error en carregar la pàgina de vídeo"
+
+msgid "Error loading videos:"
+msgstr "S'ha produït un error en carregar els vídeos:"
+
+msgid "Error parsing content"
+msgstr "S'ha produït un error en analitzar el contingut"
+
+msgid "Error parsing data"
+msgstr "S'ha produït un error en analitzar les dades"
+
+msgid "Error parsing video data: {}"
+msgstr "Error en analitzar les dades del vídeo: {}"
+
+msgid "Error playing file: {}"
+msgstr "S'ha produït un error en reproduir el fitxer: {}"
+
+msgid "Error playing stream: {}"
+msgstr "S'ha produït un error en reproduir la reproducció: {}"
+
+msgid "Error playing video:"
+msgstr "Error reproduint el vídeo:"
+
+msgid "Error processing archive"
+msgstr "Error en processar l'arxiu"
+
+msgid "Error processing thematic content"
+msgstr "S'ha produït un error en processar el contingut temàtic"
+
+msgid "Error starting plugin"
+msgstr "S'ha produït un error en iniciar el connector"
+
+msgid "Error: Could not load news data"
+msgstr "Error: no s'han pogut carregar les dades de notícies"
+
+msgid "Error: Download manager not available"
+msgstr "Error: el gestor de descàrregues no està disponible"
+
+msgid "Exclusive Programs"
+msgstr "Programes exclusius"
+
+msgid "Extracting video URL..."
+msgstr "S'està extreint l'URL del vídeo..."
+
+msgid "File not found: {}"
+msgstr "No s'ha trobat el fitxer: {}"
+
+msgid "Films"
+msgstr "Pel·lícules"
+
+msgid "Found {0} programs for: {1}"
+msgstr "S'han trobat {0} programes per a: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Espai lliure: {gratuït} de {total}"
+
+msgid "Games & Quizzes"
+msgstr "Jocs i qüestionaris"
+
+msgid "HDD Drive"
+msgstr "Unitat HDD"
+
+msgid "History & Art"
+msgstr "Història i Art"
+
+msgid "Initializing..."
+msgstr "Inicialitzant..."
+
+msgid "International Series"
+msgstr "Sèrie Internacional"
+
+msgid "Invalid video URL detected"
+msgstr "S'ha detectat un URL de vídeo no vàlid"
+
+msgid "Italian Series"
+msgstr "Sèrie italiana"
+
+msgid "Kids"
+msgstr "Nens"
+
+msgid "Learning"
+msgstr "Aprenentatge"
+
+msgid "Lifestyle"
+msgstr "Estil de vida"
+
+msgid "Live Radio"
+msgstr "Ràdio en directe"
+
+msgid "Live TV"
+msgstr "TV en directe"
+
+msgid "Loading all programs..."
+msgstr "S'estan carregant tots els programes..."
+
+msgid "Loading all videos... Please wait"
+msgstr "S'estan carregant tots els vídeos... Espereu"
+
+msgid "Loading archive data..."
+msgstr "S'estan carregant les dades de l'arxiu..."
+
+msgid "Loading archive..."
+msgstr "S'està carregant l'arxiu..."
+
+msgid "Loading complete! Select an option"
+msgstr "S'ha completat la càrrega! Seleccioneu una opció"
+
+msgid "Loading data... Please wait"
+msgstr "S'estan carregant les dades... Espereu"
+
+msgid "Loading news categories..."
+msgstr "S'estan carregant categories de notícies..."
+
+msgid "Loading news items..."
+msgstr "S'estan carregant notícies..."
+
+msgid "Loading on-air programs..."
+msgstr "S'estan carregant programes en directe..."
+
+msgid "Loading program data"
+msgstr "Carregant dades del programa"
+
+msgid "Loading program details..."
+msgstr "S'estan carregant els detalls del programa..."
+
+msgid "Loading programs..."
+msgstr "S'estan carregant programes..."
+
+msgid "Loading videos..."
+msgstr "S'estan carregant vídeos..."
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Music & Theater"
+msgstr "Música i Teatre"
+
+msgid "Music Classic"
+msgstr "Música clàssica"
+
+msgid "Network Storage"
+msgstr "Emmagatzematge en xarxa"
+
+msgid "News & Documentaries"
+msgstr "Notícies i documentals"
+
+msgid "News Categories"
+msgstr "Categories de notícies"
+
+msgid "Next page"
+msgstr "Pàgina següent"
+
+msgid "No TV channels available"
+msgstr "No hi ha canals de televisió disponibles"
+
+msgid "No archive data found"
+msgstr "No s'han trobat dades d'arxiu"
+
+msgid "No categories available"
+msgstr "No hi ha categories disponibles"
+
+msgid "No content available"
+msgstr "No hi ha contingut disponible"
+
+msgid "No content found in this program"
+msgstr "No s'ha trobat cap contingut en aquest programa"
+
+msgid "No downloads"
+msgstr "Sense descàrregues"
+
+msgid "No downloads in queue"
+msgstr "No hi ha descàrregues a la cua"
+
+msgid "No editions available"
+msgstr "No hi ha edicions disponibles"
+
+msgid "No episodes available"
+msgstr "No hi ha cap episodi disponible"
+
+msgid "No items available"
+msgstr "No hi ha articles disponibles"
+
+msgid "No items found"
+msgstr "No s'han trobat elements"
+
+msgid "No items found in this archive"
+msgstr "No s'han trobat elements en aquest arxiu"
+
+msgid "No items found in this category"
+msgstr "No s'han trobat articles en aquesta categoria"
+
+msgid "No main theme found"
+msgstr "No s'ha trobat cap tema principal"
+
+msgid "No program URL available"
+msgstr "No hi ha cap URL del programa disponible"
+
+msgid "No program categories available"
+msgstr "No hi ha categories de programes disponibles"
+
+msgid "No programs available for this day"
+msgstr "No hi ha programes disponibles per a aquest dia"
+
+msgid "No programs currently on air"
+msgstr "Actualment no hi ha cap programa en emissió"
+
+msgid "No programs found for:"
+msgstr "No s'han trobat programes per a:"
+
+msgid "No programs found in A-Z list"
+msgstr "No s'ha trobat cap programa a la llista A-Z"
+
+msgid "No sports categories available"
+msgstr "No hi ha categories esportives disponibles"
+
+msgid "No stream URL available"
+msgstr "No hi ha cap URL de reproducció disponible"
+
+msgid "No video URL available"
+msgstr "No hi ha cap URL de vídeo disponible"
+
+msgid "No video URL found in the response"
+msgstr "No s'ha trobat cap URL de vídeo a la resposta"
+
+msgid "No videos available"
+msgstr "No hi ha vídeos disponibles"
+
+msgid "No videos found"
+msgstr "No s'han trobat vídeos"
+
+msgid "No videos found in archive"
+msgstr "No s'han trobat vídeos a l'arxiu"
+
+msgid "On Air Programs"
+msgstr "Programes en directe"
+
+msgid "On Demand"
+msgstr "A demanda"
+
+msgid "Originals"
+msgstr ""
+
+msgid "Page"
+msgstr "Pàgina"
+
+msgid "Page with duplicate"
+msgstr "Pàgina amb duplicat"
+
+msgid "Pagination not supported for this archive"
+msgstr "La paginació no és compatible amb aquest arxiu"
+
+msgid "Play"
+msgstr "Jugar"
+
+msgid "Play & Download"
+msgstr "Jugar i descarregar"
+
+msgid "Play/pause not supported for this stream"
+msgstr "La reproducció/pausa no és compatible amb aquesta reproducció"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "La llista de programes encara s'està carregant. Si us plau, espereu..."
+
+msgid "Programs"
+msgstr "Programes"
+
+msgid "Query too short (min 3 characters)"
+msgstr "La consulta és massa curta (mínim 3 caràcters)"
+
+msgid "Radio Programs A-Z"
+msgstr "Programes de ràdio A-Z"
+
+msgid "Rai News"
+msgstr "Notícies Rai"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play Ràdio en directe"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Programes Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr ""
+
+msgid "Rai Sport - Subcategories"
+msgstr ""
+
+msgid "RaiPlay Settings"
+msgstr "Configuració de RaiPlay"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Remove download: {}?"
+msgstr "Eliminar la baixada: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "S'ha eliminat de la cua: {}"
+
+msgid "Replay TV"
+msgstr "Reprodueix la televisió"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Search error. Please try again."
+msgstr "Error de cerca. Si us plau, torna-ho a provar."
+
+msgid "Searching through programs..."
+msgstr "Cercant entre programes..."
+
+msgid "Select a category"
+msgstr "Seleccioneu una categoria"
+
+msgid "Select a video"
+msgstr "Seleccioneu un vídeo"
+
+msgid "Select block"
+msgstr "Seleccioneu el bloc"
+
+msgid "Select category"
+msgstr "Seleccioneu la categoria"
+
+msgid "Select channel"
+msgstr "Seleccioneu el canal"
+
+msgid "Select content set"
+msgstr "Seleccioneu el conjunt de continguts"
+
+msgid "Select date"
+msgstr "Seleccioneu la data"
+
+msgid "Select edition"
+msgstr "Seleccioneu l'edició"
+
+msgid "Select episode"
+msgstr "Seleccioneu l'episodi"
+
+msgid "Select item"
+msgstr "Seleccioneu l'element"
+
+msgid "Select letter"
+msgstr "Seleccioneu la lletra"
+
+msgid "Select program"
+msgstr "Seleccioneu el programa"
+
+msgid "Select program to watch"
+msgstr "Seleccioneu el programa per veure"
+
+msgid "Select subcategory"
+msgstr "Seleccioneu la subcategoria"
+
+msgid "Select video"
+msgstr "Seleccioneu el vídeo"
+
+msgid "Society & Culture"
+msgstr "Societat i Cultura"
+
+msgid "Sports"
+msgstr "Esports"
+
+msgid "Start"
+msgstr "Comença"
+
+msgid "Stop"
+msgstr "Atureu-vos"
+
+msgid "Stop the download first before removing"
+msgstr "Atureu la descàrrega primer abans d'eliminar-la"
+
+msgid "Sustainability"
+msgstr "Sostenibilitat"
+
+msgid "TGR and Special Programs"
+msgstr "TGR i Programes Especials"
+
+msgid "TV News"
+msgstr "Telenotícies"
+
+msgid "TV Programs A-Z"
+msgstr "Programes de televisió A-Z"
+
+msgid "Talk Shows"
+msgstr ""
+
+msgid "Tech & Learning"
+msgstr "Tecnologia i aprenentatge"
+
+msgid "Teens"
+msgstr "Adolescents"
+
+msgid "Temporary"
+msgstr "Temporal"
+
+msgid "Test download added to queue"
+msgstr "Descàrrega de prova s'ha afegit a la cua"
+
+msgid "Test download failed"
+msgstr "La prova de descàrrega ha fallat"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Total: {total} | Actiu: {actiu} | En cua: {a la cua} | Completat: {completat} | Errors: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Viatges i Aventura"
+
+msgid "USB Drive"
+msgstr "Unitat USB"
+
+msgid "Unknown content type"
+msgstr "Tipus de contingut desconegut"
+
+msgid "Unknown data format"
+msgstr "Format de dades desconegut"
+
+msgid "Unknown title"
+msgstr "Títol desconegut"
+
+msgid "Video URL not available"
+msgstr "L'URL del vídeo no està disponible"
+
+msgid "Video URL not found"
+msgstr "No s'ha trobat l'URL del vídeo"
+
+msgid "Video not available"
+msgstr "Vídeo no disponible"
+
+msgid "View Full Archive"
+msgstr "Veure arxiu complet"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "BENVINGUTS A RAI PLAY PLUGINS DE LULULLA"

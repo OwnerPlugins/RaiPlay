@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z すべてのプログラム"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z ラジオ番組"
+
+msgid "A-Z TV Shows"
+msgstr "テレビ番組 A ～ Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "メッセージ開発者のデバッグをアクティブ化します。"
+
+msgid "Active Debug"
+msgstr "アクティブなデバッグ"
+
+msgid "Added to queue: {}"
+msgstr "キューに追加されました: {}"
+
+msgid "All Programs"
+msgstr "すべてのプログラム"
+
+msgid "Archive URL not found"
+msgstr "アーカイブ URL が見つかりません"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Barry Allen"
+msgstr "バリー・アレン"
+
+msgid "Choose action for: {}"
+msgstr "次のアクションを選択してください: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "重複したキューを削除する"
+
+msgid "Content type not recognized"
+msgstr "コンテンツタイプが認識されません"
+
+msgid "Could not find video URL"
+msgstr "動画のURLが見つかりませんでした"
+
+msgid "Could not load program content"
+msgstr "プログラムコンテンツを読み込めませんでした"
+
+msgid "Crime"
+msgstr "犯罪"
+
+msgid "Crime Investigations"
+msgstr "犯罪捜査"
+
+msgid "Default Folder"
+msgstr "デフォルトのフォルダー"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "ムービー ファイルを開いて保存するためのデフォルトのフォルダー"
+
+msgid "Documentaries"
+msgstr "ドキュメンタリー"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Download Manager"
+msgstr "ダウンロードマネージャー"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ダウンロードが削除されました: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "ダウンロードが開始されました: {}"
+
+msgid "Download stopped: {}"
+msgstr "ダウンロードが停止しました: {}"
+
+msgid "Enter search query"
+msgstr "検索クエリを入力してください"
+
+msgid "Entertainment"
+msgstr "エンターテインメント"
+
+msgid "Error adding download"
+msgstr "ダウンロードの追加エラー"
+
+msgid "Error extracting video URL"
+msgstr "ビデオ URL の抽出中にエラーが発生しました"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A ～ Z のプログラムのロード中にエラーが発生しました: {}"
+
+msgid "Error loading archive data"
+msgstr "アーカイブ データのロード中にエラーが発生しました"
+
+msgid "Error loading archive data: {}"
+msgstr "アーカイブ データの読み込みエラー: {}"
+
+msgid "Error loading content from API"
+msgstr "APIからコンテンツをロード中にエラーが発生しました"
+
+msgid "Error loading data"
+msgstr "データのロード中にエラーが発生しました"
+
+msgid "Error loading data: %s"
+msgstr "データのロード中にエラーが発生しました: %s"
+
+msgid "Error loading data: {}"
+msgstr "データのロード中にエラーが発生しました: {}"
+
+msgid "Error loading video data"
+msgstr "ビデオデータのロード中にエラーが発生しました"
+
+msgid "Error loading video page"
+msgstr "動画ページの読み込みエラー"
+
+msgid "Error loading videos:"
+msgstr "ビデオの読み込みエラー:"
+
+msgid "Error parsing content"
+msgstr "コンテンツの解析エラー"
+
+msgid "Error parsing data"
+msgstr "データ解析エラー"
+
+msgid "Error parsing video data: {}"
+msgstr "ビデオ データの解析エラー: {}"
+
+msgid "Error playing file: {}"
+msgstr "ファイルの再生中にエラーが発生しました: {}"
+
+msgid "Error playing stream: {}"
+msgstr "ストリームの再生中にエラーが発生しました: {}"
+
+msgid "Error playing video:"
+msgstr "ビデオ再生エラー:"
+
+msgid "Error processing archive"
+msgstr "アーカイブ処理中にエラーが発生しました"
+
+msgid "Error processing thematic content"
+msgstr "テーマコンテンツの処理中にエラーが発生しました"
+
+msgid "Error starting plugin"
+msgstr "プラグインの起動エラー"
+
+msgid "Error: Could not load news data"
+msgstr "エラー: ニュース データを読み込めませんでした"
+
+msgid "Error: Download manager not available"
+msgstr "エラー: ダウンロード マネージャーが利用できません"
+
+msgid "Exclusive Programs"
+msgstr "限定プログラム"
+
+msgid "Extracting video URL..."
+msgstr "動画の URL を抽出しています..."
+
+msgid "File not found: {}"
+msgstr "ファイルが見つかりません： {}"
+
+msgid "Films"
+msgstr "映画"
+
+msgid "Found {0} programs for: {1}"
+msgstr "{0} 個のプログラムが見つかりました: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "空き容量: {total}中{free}"
+
+msgid "Games & Quizzes"
+msgstr "ゲームとクイズ"
+
+msgid "HDD Drive"
+msgstr "HDDドライブ"
+
+msgid "History & Art"
+msgstr "歴史と芸術"
+
+msgid "Initializing..."
+msgstr "初期化中..."
+
+msgid "International Series"
+msgstr "インターナショナルシリーズ"
+
+msgid "Invalid video URL detected"
+msgstr "無効なビデオ URL が検出されました"
+
+msgid "Italian Series"
+msgstr "イタリアンシリーズ"
+
+msgid "Kids"
+msgstr "キッズ"
+
+msgid "Learning"
+msgstr "学ぶ"
+
+msgid "Lifestyle"
+msgstr "ライフスタイル"
+
+msgid "Live Radio"
+msgstr "ライブラジオ"
+
+msgid "Live TV"
+msgstr "ライブテレビ"
+
+msgid "Loading all programs..."
+msgstr "すべてのプログラムをロードしています..."
+
+msgid "Loading all videos... Please wait"
+msgstr "すべてのビデオを読み込み中...お待ちください"
+
+msgid "Loading archive data..."
+msgstr "アーカイブ データをロードしています..."
+
+msgid "Loading archive..."
+msgstr "アーカイブを読み込んでいます..."
+
+msgid "Loading complete! Select an option"
+msgstr "読み込み完了！オプションを選択してください"
+
+msgid "Loading data... Please wait"
+msgstr "データをロードしています...お待ちください"
+
+msgid "Loading news categories..."
+msgstr "ニュース カテゴリを読み込んでいます..."
+
+msgid "Loading news items..."
+msgstr "ニュース項目を読み込んでいます..."
+
+msgid "Loading on-air programs..."
+msgstr "オンエア番組を読み込んでいます..."
+
+msgid "Loading program data"
+msgstr "プログラムデータのロード"
+
+msgid "Loading program details..."
+msgstr "プログラムの詳細を読み込んでいます..."
+
+msgid "Loading programs..."
+msgstr "プログラムをロード中..."
+
+msgid "Loading videos..."
+msgstr "動画を読み込んでいます..."
+
+msgid "Music"
+msgstr "音楽"
+
+msgid "Music & Theater"
+msgstr "音楽と演劇"
+
+msgid "Music Classic"
+msgstr "音楽クラシック"
+
+msgid "Network Storage"
+msgstr "ネットワークストレージ"
+
+msgid "News & Documentaries"
+msgstr "ニュースとドキュメンタリー"
+
+msgid "News Categories"
+msgstr "ニュースカテゴリ"
+
+msgid "Next page"
+msgstr "次のページ"
+
+msgid "No TV channels available"
+msgstr "利用可能なテレビチャンネルがありません"
+
+msgid "No archive data found"
+msgstr "アーカイブデータが見つかりません"
+
+msgid "No categories available"
+msgstr "利用可能なカテゴリがありません"
+
+msgid "No content available"
+msgstr "利用可能なコンテンツがありません"
+
+msgid "No content found in this program"
+msgstr "このプログラムにはコンテンツが見つかりませんでした"
+
+msgid "No downloads"
+msgstr "ダウンロードなし"
+
+msgid "No downloads in queue"
+msgstr "キューにダウンロードはありません"
+
+msgid "No editions available"
+msgstr "利用可能なエディションはありません"
+
+msgid "No episodes available"
+msgstr "利用できるエピソードはありません"
+
+msgid "No items available"
+msgstr "利用可能なアイテムはありません"
+
+msgid "No items found"
+msgstr "項目が見つかりませんでした"
+
+msgid "No items found in this archive"
+msgstr "このアーカイブにはアイテムが見つかりませんでした"
+
+msgid "No items found in this category"
+msgstr "このカテゴリにアイテムは見つかりませんでした"
+
+msgid "No main theme found"
+msgstr "メインテーマが見つかりません"
+
+msgid "No program URL available"
+msgstr "利用可能なプログラム URL がありません"
+
+msgid "No program categories available"
+msgstr "利用可能なプログラム カテゴリがありません"
+
+msgid "No programs available for this day"
+msgstr "この日は利用可能なプログラムはありません"
+
+msgid "No programs currently on air"
+msgstr "現在放送中の番組はありません"
+
+msgid "No programs found for:"
+msgstr "次のプログラムが見つかりません:"
+
+msgid "No programs found in A-Z list"
+msgstr "A ～ Z リストにプログラムが見つかりません"
+
+msgid "No sports categories available"
+msgstr "利用可能なスポーツ カテゴリはありません"
+
+msgid "No stream URL available"
+msgstr "利用可能なストリーム URL がありません"
+
+msgid "No video URL available"
+msgstr "利用可能なビデオ URL がありません"
+
+msgid "No video URL found in the response"
+msgstr "応答にビデオ URL が見つかりませんでした"
+
+msgid "No videos available"
+msgstr "利用できるビデオはありません"
+
+msgid "No videos found"
+msgstr "動画が見つかりませんでした"
+
+msgid "No videos found in archive"
+msgstr "アーカイブにビデオが見つかりません"
+
+msgid "On Air Programs"
+msgstr "オンエア番組"
+
+msgid "On Demand"
+msgstr "オンデマンド"
+
+msgid "Originals"
+msgstr "オリジナル"
+
+msgid "Page"
+msgstr "ページ"
+
+msgid "Page with duplicate"
+msgstr "重複のあるページ"
+
+msgid "Pagination not supported for this archive"
+msgstr "このアーカイブではページネーションがサポートされていません"
+
+msgid "Play"
+msgstr "遊ぶ"
+
+msgid "Play & Download"
+msgstr "プレイ＆ダウンロード"
+
+msgid "Play/pause not supported for this stream"
+msgstr "このストリームでは再生/一時停止がサポートされていません"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "プログラムリストはまだ読み込み中です。お待ちください..."
+
+msgid "Programs"
+msgstr "プログラム"
+
+msgid "Query too short (min 3 characters)"
+msgstr "クエリが短すぎます (最低 3 文字)"
+
+msgid "Radio Programs A-Z"
+msgstr "ラジオ番組 A ～ Z"
+
+msgid "Rai News"
+msgstr "ライニュース"
+
+msgid "Rai Play Live"
+msgstr "ライプレイライブ"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai プレイ ライブ ラジオ"
+
+msgid "Rai Play Main"
+msgstr "ライプレイメイン"
+
+msgid "Rai Play On Demand"
+msgstr "Rai プレイ オン デマンド"
+
+msgid "Rai Play Programs"
+msgstr "Rai プレイ プログラム"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai プレイ リプレイ TV"
+
+msgid "Rai Play Replay:"
+msgstr "Rai プレイ リプレイ:"
+
+msgid "Rai Play Search"
+msgstr "Rai Play サーチ"
+
+msgid "Rai Sport"
+msgstr "ライスポーツ"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - カテゴリ"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - サブカテゴリー"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay 設定"
+
+msgid "Remove"
+msgstr "取り除く"
+
+msgid "Remove download: {}?"
+msgstr "ダウンロードを削除します: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "キューから削除されました: {}"
+
+msgid "Replay TV"
+msgstr "テレビを再生する"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Search error. Please try again."
+msgstr "検索エラー。もう一度試してください。"
+
+msgid "Searching through programs..."
+msgstr "プログラムを検索しています..."
+
+msgid "Select a category"
+msgstr "カテゴリを選択してください"
+
+msgid "Select a video"
+msgstr "ビデオを選択してください"
+
+msgid "Select block"
+msgstr "ブロックを選択"
+
+msgid "Select category"
+msgstr "カテゴリを選択してください"
+
+msgid "Select channel"
+msgstr "チャンネルを選択する"
+
+msgid "Select content set"
+msgstr "コンテンツセットの選択"
+
+msgid "Select date"
+msgstr "日付を選択してください"
+
+msgid "Select edition"
+msgstr "エディションの選択"
+
+msgid "Select episode"
+msgstr "エピソードを選択"
+
+msgid "Select item"
+msgstr "項目を選択"
+
+msgid "Select letter"
+msgstr "文字を選択してください"
+
+msgid "Select program"
+msgstr "プログラムを選択する"
+
+msgid "Select program to watch"
+msgstr "視聴する番組を選択してください"
+
+msgid "Select subcategory"
+msgstr "サブカテゴリを選択してください"
+
+msgid "Select video"
+msgstr "ビデオを選択"
+
+msgid "Society & Culture"
+msgstr "社会と文化"
+
+msgid "Sports"
+msgstr "スポーツ"
+
+msgid "Start"
+msgstr "始める"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Stop the download first before removing"
+msgstr "削除する前に、まずダウンロードを停止してください"
+
+msgid "Sustainability"
+msgstr "持続可能性"
+
+msgid "TGR and Special Programs"
+msgstr "TGRと特別プログラム"
+
+msgid "TV News"
+msgstr "テレビニュース"
+
+msgid "TV Programs A-Z"
+msgstr "テレビ番組 A ～ Z"
+
+msgid "Talk Shows"
+msgstr "トークショー"
+
+msgid "Tech & Learning"
+msgstr "テクノロジーと学習"
+
+msgid "Teens"
+msgstr "十代の若者たち"
+
+msgid "Temporary"
+msgstr "一時的"
+
+msgid "Test download added to queue"
+msgstr "テストダウンロードがキューに追加されました"
+
+msgid "Test download failed"
+msgstr "テストダウンロードに失敗しました"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "合計: {合計} |アクティブ: {アクティブ} |キューに入れられました: {キューに入れられました} |完了: {完了} |エラー: {エラー}"
+
+msgid "Travel & Adventure"
+msgstr "旅行と冒険"
+
+msgid "USB Drive"
+msgstr "USBドライブ"
+
+msgid "Unknown content type"
+msgstr "不明なコンテンツ タイプ"
+
+msgid "Unknown data format"
+msgstr "不明なデータ形式"
+
+msgid "Unknown title"
+msgstr "タイトル不明"
+
+msgid "Video URL not available"
+msgstr "ビデオの URL が利用できません"
+
+msgid "Video URL not found"
+msgstr "動画のURLが見つかりません"
+
+msgid "Video not available"
+msgstr "ビデオは利用できません"
+
+msgid "View Full Archive"
+msgstr "アーカイブ全体を表示"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "LULULLA の RAI PLAY プラグインへようこそ"

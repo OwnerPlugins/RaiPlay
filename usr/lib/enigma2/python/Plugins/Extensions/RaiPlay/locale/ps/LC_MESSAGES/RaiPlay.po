@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 21:40+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Pashto\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z ټول پروګرامونه"
+
+msgid "A-Z Radio Shows"
+msgstr "د A-Z راډیو خپرونې"
+
+msgid "A-Z TV Shows"
+msgstr "د A-Z تلویزیون خپرونې"
+
+msgid "Activate Debug for messages developer."
+msgstr "د پیغامونو پراختیا کونکي لپاره ډیبګ فعال کړئ."
+
+msgid "Active Debug"
+msgstr "فعال Debug"
+
+msgid "Added to queue: {}"
+msgstr "په کتار کې اضافه شوی: {}"
+
+msgid "All Programs"
+msgstr "ټول پروګرامونه"
+
+msgid "Archive URL not found"
+msgstr "آرشیف URL ونه موندل شو"
+
+msgid "Back"
+msgstr "شاته"
+
+msgid "Barry Allen"
+msgstr "بیری الن"
+
+msgid "Choose action for: {}"
+msgstr "د دې لپاره عمل غوره کړئ: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "د نقلونو څخه پاک قطار"
+
+msgid "Content type not recognized"
+msgstr "د منځپانګې ډول نه دی پیژندل شوی"
+
+msgid "Could not find video URL"
+msgstr "د ویډیو URL ونه موندل شو"
+
+msgid "Could not load program content"
+msgstr "د پروګرام منځپانګه نشي پورته کولی"
+
+msgid "Crime"
+msgstr "جرم"
+
+msgid "Crime Investigations"
+msgstr "د جرمونو تحقیقات"
+
+msgid "Default Folder"
+msgstr "ډیفالټ فولډر"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "د فلم فایلونو خلاصولو او خوندي کولو لپاره ډیفالټ فولډر"
+
+msgid "Documentaries"
+msgstr "مستند فلمونه"
+
+msgid "Download"
+msgstr "ډاونلوډ کړئ"
+
+msgid "Download Manager"
+msgstr "ډاونلوډ مدیر"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ډاونلوډ لرې شوی: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "ډاونلوډ پیل شو: {}"
+
+msgid "Download stopped: {}"
+msgstr "ډاونلوډ ودرول شو: {}"
+
+msgid "Enter search query"
+msgstr "د لټون پوښتنې داخل کړئ"
+
+msgid "Entertainment"
+msgstr "تفریح"
+
+msgid "Error adding download"
+msgstr "د ډاونلوډ اضافه کولو کې تېروتنه"
+
+msgid "Error extracting video URL"
+msgstr "د ویډیو URL په استخراج کې تېروتنه"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "د A-Z پروګرامونو په بارولو کې تېروتنه: {}"
+
+msgid "Error loading archive data"
+msgstr "د آرشیف ډاټا بارولو کې تېروتنه"
+
+msgid "Error loading archive data: {}"
+msgstr "د ارشیف ډاټا بارولو کې تېروتنه: {}"
+
+msgid "Error loading content from API"
+msgstr "له API څخه د منځپانګې په پورته کولو کې تېروتنه"
+
+msgid "Error loading data"
+msgstr "د معلوماتو په بارولو کې تېروتنه"
+
+msgid "Error loading data: %s"
+msgstr "د معلوماتو په بارولو کې تېروتنه: %s"
+
+msgid "Error loading data: {}"
+msgstr "د معلوماتو په بارولو کې تېروتنه: {}"
+
+msgid "Error loading video data"
+msgstr "د ویډیو ډیټا په بارولو کې تېروتنه"
+
+msgid "Error loading video page"
+msgstr "د ویډیو پاڼې په پورته کولو کې تېروتنه"
+
+msgid "Error loading videos:"
+msgstr "د ویډیو په پورته کولو کې تېروتنه:"
+
+msgid "Error parsing content"
+msgstr "د منځپانګې په تجزیه کې تېروتنه"
+
+msgid "Error parsing data"
+msgstr "د معلوماتو تحلیل کولو کې تېروتنه"
+
+msgid "Error parsing video data: {}"
+msgstr "د ویډیو ډیټا په پارس کولو کې تېروتنه: {}"
+
+msgid "Error playing file: {}"
+msgstr "د دوتنې په پلی کولو کې تېروتنه: {}"
+
+msgid "Error playing stream: {}"
+msgstr "د جریان په پلی کولو کې تېروتنه: {}"
+
+msgid "Error playing video:"
+msgstr "د ویډیو په چلولو کې تېروتنه:"
+
+msgid "Error processing archive"
+msgstr "د آرشیف پروسس کولو کې تېروتنه"
+
+msgid "Error processing thematic content"
+msgstr "د موضوعي منځپانګې پروسس کولو کې تېروتنه"
+
+msgid "Error starting plugin"
+msgstr "د پلگ ان په پیل کې تېروتنه"
+
+msgid "Error: Could not load news data"
+msgstr "تېروتنه: د خبرونو ډاټا نشي پورته کولی"
+
+msgid "Error: Download manager not available"
+msgstr "تېروتنه: د ډاونلوډ مدیر شتون نلري"
+
+msgid "Exclusive Programs"
+msgstr "ځانګړي پروګرامونه"
+
+msgid "Extracting video URL..."
+msgstr "د ویډیو URL استخراج..."
+
+msgid "File not found: {}"
+msgstr "دوتنه ونه موندل شوه: {}"
+
+msgid "Films"
+msgstr "فلمونه"
+
+msgid "Found {0} programs for: {1}"
+msgstr "د دې لپاره {0} پروګرامونه وموندل: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "وړيا ځای: د {total} څخه {وړيا}"
+
+msgid "Games & Quizzes"
+msgstr "لوبې او پوښتنې"
+
+msgid "HDD Drive"
+msgstr "د HDD ډرایو"
+
+msgid "History & Art"
+msgstr "تاریخ او هنر"
+
+msgid "Initializing..."
+msgstr "پیل کول..."
+
+msgid "International Series"
+msgstr "نړیواله لړۍ"
+
+msgid "Invalid video URL detected"
+msgstr "ناسم ویډیو URL کشف شو"
+
+msgid "Italian Series"
+msgstr "د ایټالیا لړۍ"
+
+msgid "Kids"
+msgstr "ماشومان"
+
+msgid "Learning"
+msgstr "زده کړه"
+
+msgid "Lifestyle"
+msgstr "د ژوند طرز"
+
+msgid "Live Radio"
+msgstr "ژوندۍ راډیو"
+
+msgid "Live TV"
+msgstr "ژوندۍ تلویزیون"
+
+msgid "Loading all programs..."
+msgstr "ټول پروګرامونه پورته کول..."
+
+msgid "Loading all videos... Please wait"
+msgstr "ټولې ویډیوګانې پورته کیږي... مهرباني وکړئ انتظار وکړئ"
+
+msgid "Loading archive data..."
+msgstr "د ارشیف ډاټا بارول..."
+
+msgid "Loading archive..."
+msgstr "آرشیف پورته کول..."
+
+msgid "Loading complete! Select an option"
+msgstr "بار کول بشپړ شول! یو اختیار غوره کړئ"
+
+msgid "Loading data... Please wait"
+msgstr "د معلوماتو بارول... مهرباني وکړئ انتظار وکړئ"
+
+msgid "Loading news categories..."
+msgstr "د خبرونو کټګورۍ پورته کول..."
+
+msgid "Loading news items..."
+msgstr "د خبرونو توکي پورته کول..."
+
+msgid "Loading on-air programs..."
+msgstr "په هوا کې خپرونې پورته کول..."
+
+msgid "Loading program data"
+msgstr "د پروګرام ډاټا بار کول"
+
+msgid "Loading program details..."
+msgstr "د برنامه توضیحات پورته کول ..."
+
+msgid "Loading programs..."
+msgstr "پروګرامونه پورته کول..."
+
+msgid "Loading videos..."
+msgstr "ویډیوګانې پورته کیږي..."
+
+msgid "Music"
+msgstr "موسیقي"
+
+msgid "Music & Theater"
+msgstr "موسيقي او تياتر"
+
+msgid "Music Classic"
+msgstr "د موسیقۍ کلاسیک"
+
+msgid "Network Storage"
+msgstr "د شبکې ذخیره"
+
+msgid "News & Documentaries"
+msgstr "خبرونه او مستند فلمونه"
+
+msgid "News Categories"
+msgstr "د خبرونو کټګورۍ"
+
+msgid "Next page"
+msgstr "بل مخ"
+
+msgid "No TV channels available"
+msgstr "هیڅ تلویزیوني چینل شتون نلري"
+
+msgid "No archive data found"
+msgstr "هیڅ آرشیف ډاټا ونه موندل شوه"
+
+msgid "No categories available"
+msgstr "هیڅ کټګورۍ شتون نلري"
+
+msgid "No content available"
+msgstr "هیڅ منځپانګه شتون نلري"
+
+msgid "No content found in this program"
+msgstr "پدې برنامه کې هیڅ مینځپانګه ونه موندل شوه"
+
+msgid "No downloads"
+msgstr "هیڅ ډاونلوډ نه دی"
+
+msgid "No downloads in queue"
+msgstr "په کتار کې ډاونلوډونه نشته"
+
+msgid "No editions available"
+msgstr "هیڅ نسخه شتون نلري"
+
+msgid "No episodes available"
+msgstr "هیڅ قسط شتون نلري"
+
+msgid "No items available"
+msgstr "هیڅ توکي شتون نلري"
+
+msgid "No items found"
+msgstr "هیڅ توکي ونه موندل شول"
+
+msgid "No items found in this archive"
+msgstr "په دې آرشیف کې هیڅ توکي ونه موندل شول"
+
+msgid "No items found in this category"
+msgstr "په دې کټګورۍ کې هیڅ توکي ندي موندل شوي"
+
+msgid "No main theme found"
+msgstr "هیڅ اصلي موضوع ونه موندل شوه"
+
+msgid "No program URL available"
+msgstr "د پروګرام URL شتون نلري"
+
+msgid "No program categories available"
+msgstr "هیڅ پروګرام کټګورۍ شتون نلري"
+
+msgid "No programs available for this day"
+msgstr "د دې ورځې لپاره هیڅ پروګرام شتون نلري"
+
+msgid "No programs currently on air"
+msgstr "اوس مهال هیڅ پروګرام نه خپریږي"
+
+msgid "No programs found for:"
+msgstr "د دې لپاره هیڅ پروګرام ندی موندل شوی:"
+
+msgid "No programs found in A-Z list"
+msgstr "د A-Z په لیست کې هیڅ پروګرام ندی موندل شوی"
+
+msgid "No sports categories available"
+msgstr "هیڅ سپورت کټګورۍ شتون نلري"
+
+msgid "No stream URL available"
+msgstr "هیڅ جریان URL شتون نلري"
+
+msgid "No video URL available"
+msgstr "هیڅ ویډیو URL شتون نلري"
+
+msgid "No video URL found in the response"
+msgstr "په ځواب کې هیڅ ویډیو URL ونه موندل شو"
+
+msgid "No videos available"
+msgstr "هیڅ ویډیو شتون نلري"
+
+msgid "No videos found"
+msgstr "هیڅ ویډیو ونه موندل شوه"
+
+msgid "No videos found in archive"
+msgstr "په آرشیف کې هیڅ ویډیو ونه موندل شوه"
+
+msgid "On Air Programs"
+msgstr "په هوا کې پروګرامونه"
+
+msgid "On Demand"
+msgstr "په غوښتنه"
+
+msgid "Originals"
+msgstr "اصلي"
+
+msgid "Page"
+msgstr "پاڼه"
+
+msgid "Page with duplicate"
+msgstr "پاڼه د نقل سره"
+
+msgid "Pagination not supported for this archive"
+msgstr "د دې آرشیف لپاره د صفحې ملاتړ نه دی شوی"
+
+msgid "Play"
+msgstr "لوبه وکړئ"
+
+msgid "Play & Download"
+msgstr "پلی او ډاونلوډ کړئ"
+
+msgid "Play/pause not supported for this stream"
+msgstr "د دې جریان لپاره پلی/پاز ملاتړ نه کوي"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "د برنامه لیست لاهم پورته کیږي. مهرباني وکړئ انتظار وکړئ ..."
+
+msgid "Programs"
+msgstr "پروګرامونه"
+
+msgid "Query too short (min 3 characters)"
+msgstr "پوښتنه ډیره لنډه ده (لږ تر لږه 3 حروف)"
+
+msgid "Radio Programs A-Z"
+msgstr "د راډیو خپرونې A-Z"
+
+msgid "Rai News"
+msgstr "رای نیوز"
+
+msgid "Rai Play Live"
+msgstr "رای په ژوندۍ بڼه لوبه وکړئ"
+
+msgid "Rai Play Live Radio"
+msgstr "رای په ژوندۍ بڼه خپریږي"
+
+msgid "Rai Play Main"
+msgstr "رای پلی مین"
+
+msgid "Rai Play On Demand"
+msgstr "رای د غوښتنې پراساس پلی کیږي"
+
+msgid "Rai Play Programs"
+msgstr "د رای پلی پروګرامونه"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "د رای پلی ری پلی:"
+
+msgid "Rai Play Search"
+msgstr "رای پلی لټون"
+
+msgid "Rai Sport"
+msgstr "رای سپورت"
+
+msgid "Rai Sport - Categories"
+msgstr "رای سپورت - کټګورۍ"
+
+msgid "Rai Sport - Subcategories"
+msgstr "رای سپورت - فرعي کټګورۍ"
+
+msgid "RaiPlay Settings"
+msgstr "د RaiPlay ترتیبات"
+
+msgid "Remove"
+msgstr "لرې کړئ"
+
+msgid "Remove download: {}?"
+msgstr "ډاونلوډ لرې کړئ: {}؟"
+
+msgid "Removed from queue: {}"
+msgstr "له کتار څخه لرې شوی: {}"
+
+msgid "Replay TV"
+msgstr "تلویزیون بیا پیل کړئ"
+
+msgid "Search"
+msgstr "لټون"
+
+msgid "Search error. Please try again."
+msgstr "د لټون تېروتنه. مهرباني وکړئ بیا هڅه وکړئ."
+
+msgid "Searching through programs..."
+msgstr "د برنامو له لارې لټون کول ..."
+
+msgid "Select a category"
+msgstr "یوه کټګورۍ غوره کړئ"
+
+msgid "Select a video"
+msgstr "یو ویډیو غوره کړئ"
+
+msgid "Select block"
+msgstr "بلاک غوره کړئ"
+
+msgid "Select category"
+msgstr "کټګورۍ غوره کړئ"
+
+msgid "Select channel"
+msgstr "چینل غوره کړئ"
+
+msgid "Select content set"
+msgstr "د منځپانګې ترتیب غوره کړئ"
+
+msgid "Select date"
+msgstr "نیټه وټاکئ"
+
+msgid "Select edition"
+msgstr "نسخه غوره کړئ"
+
+msgid "Select episode"
+msgstr "قسط غوره کړئ"
+
+msgid "Select item"
+msgstr "توکي وټاکئ"
+
+msgid "Select letter"
+msgstr "لیک غوره کړئ"
+
+msgid "Select program"
+msgstr "برنامه غوره کړئ"
+
+msgid "Select program to watch"
+msgstr "د لیدو لپاره برنامه غوره کړئ"
+
+msgid "Select subcategory"
+msgstr "فرعي کټګورۍ غوره کړئ"
+
+msgid "Select video"
+msgstr "ویډیو غوره کړئ"
+
+msgid "Society & Culture"
+msgstr "ټولنه او کلتور"
+
+msgid "Sports"
+msgstr "سپورت"
+
+msgid "Start"
+msgstr "پیل"
+
+msgid "Stop"
+msgstr "ودریږئ"
+
+msgid "Stop the download first before removing"
+msgstr "د لرې کولو دمخه لومړی ډاونلوډ بند کړئ"
+
+msgid "Sustainability"
+msgstr "پایښت"
+
+msgid "TGR and Special Programs"
+msgstr "TGR او ځانګړي پروګرامونه"
+
+msgid "TV News"
+msgstr "تلویزیون خبرونه"
+
+msgid "TV Programs A-Z"
+msgstr "د تلویزیون پروګرامونه A-Z"
+
+msgid "Talk Shows"
+msgstr "خبرې اترې"
+
+msgid "Tech & Learning"
+msgstr "ټیکنالوژي او زده کړه"
+
+msgid "Teens"
+msgstr "تنکي"
+
+msgid "Temporary"
+msgstr "موقتي"
+
+msgid "Test download added to queue"
+msgstr "ټیسټ ډاونلوډ په قطار کې اضافه شوی"
+
+msgid "Test download failed"
+msgstr "ټیسټ ډاونلوډ ناکام شو"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "ټول: {ټول} | فعال: {فعال} | کتار: {قطار} | بشپړ شوی: {بشپړ شوی} | تېروتنې: {غلطۍ}"
+
+msgid "Travel & Adventure"
+msgstr "سفر او ساہسک"
+
+msgid "USB Drive"
+msgstr "USB ډرایو"
+
+msgid "Unknown content type"
+msgstr "د منځپانګې نامعلوم ډول"
+
+msgid "Unknown data format"
+msgstr "د نامعلومو معلوماتو بڼه"
+
+msgid "Unknown title"
+msgstr "نامعلوم سرلیک"
+
+msgid "Video URL not available"
+msgstr "د ویډیو URL شتون نلري"
+
+msgid "Video URL not found"
+msgstr "د ویډیو URL ونه موندل شو"
+
+msgid "Video not available"
+msgstr "ویډیو شتون نلري"
+
+msgid "View Full Archive"
+msgstr "بشپړ آرشیف وګورئ"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "د لولولا لخوا د RAI پلی پلگ انونو ته ښه راغلاست"

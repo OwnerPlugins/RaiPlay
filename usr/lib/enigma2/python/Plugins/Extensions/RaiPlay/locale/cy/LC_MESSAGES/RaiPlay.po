@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:27+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Pob Rhaglen"
+
+msgid "A-Z Radio Shows"
+msgstr "Sioeau Radio A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Sioeau Teledu A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Activate Debug ar gyfer datblygwr negeseuon."
+
+msgid "Active Debug"
+msgstr "Dadfygio Gweithredol"
+
+msgid "Added to queue: {}"
+msgstr "Wedi'i ychwanegu at y ciw: {}"
+
+msgid "All Programs"
+msgstr "Pob Rhaglen"
+
+msgid "Archive URL not found"
+msgstr "URL archif heb ei ganfod"
+
+msgid "Back"
+msgstr "Yn ol"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Dewiswch weithred ar gyfer: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Glanhau'r ciw o gopïau dyblyg"
+
+msgid "Content type not recognized"
+msgstr "Nid yw'r math o gynnwys yn cael ei gydnabod"
+
+msgid "Could not find video URL"
+msgstr "Methu dod o hyd i URL fideo"
+
+msgid "Could not load program content"
+msgstr "Methu llwytho cynnwys y rhaglen"
+
+msgid "Crime"
+msgstr "Trosedd"
+
+msgid "Crime Investigations"
+msgstr "Ymchwiliadau Trosedd"
+
+msgid "Default Folder"
+msgstr "Ffolder Diofyn"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Ffolder ddiofyn ar gyfer agor ac arbed ffeiliau Movie"
+
+msgid "Documentaries"
+msgstr "Rhaglenni dogfen"
+
+msgid "Download"
+msgstr "Lawrlwythwch"
+
+msgid "Download Manager"
+msgstr "Rheolwr Lawrlwytho"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Cafodd y lawrlwythiad ei dynnu: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Dechreuwyd llwytho i lawr: {}"
+
+msgid "Download stopped: {}"
+msgstr "Wedi stopio lawrlwytho: {}"
+
+msgid "Enter search query"
+msgstr "Rhowch ymholiad chwilio"
+
+msgid "Entertainment"
+msgstr "Adloniant"
+
+msgid "Error adding download"
+msgstr "Gwall wrth ychwanegu lawrlwythiad"
+
+msgid "Error extracting video URL"
+msgstr "Gwall wrth echdynnu URL fideo"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Gwall wrth lwytho rhaglenni A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Gwall wrth lwytho data archif"
+
+msgid "Error loading archive data: {}"
+msgstr "Gwall wrth lwytho data archif: {}"
+
+msgid "Error loading content from API"
+msgstr "Gwall wrth lwytho cynnwys o API"
+
+msgid "Error loading data"
+msgstr "Gwall wrth lwytho data"
+
+msgid "Error loading data: %s"
+msgstr "Gwall wrth lwytho data: %s"
+
+msgid "Error loading data: {}"
+msgstr "Gwall wrth lwytho data: {}"
+
+msgid "Error loading video data"
+msgstr "Gwall wrth lwytho data fideo"
+
+msgid "Error loading video page"
+msgstr "Gwall wrth lwytho'r dudalen fideo"
+
+msgid "Error loading videos:"
+msgstr "Gwall wrth lwytho fideos:"
+
+msgid "Error parsing content"
+msgstr "Gwall wrth ddosrannu cynnwys"
+
+msgid "Error parsing data"
+msgstr "Gwall wrth ddosrannu data"
+
+msgid "Error parsing video data: {}"
+msgstr "Gwall wrth ddosrannu data fideo: {}"
+
+msgid "Error playing file: {}"
+msgstr "Gwall wrth chwarae'r ffeil: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Gwall wrth chwarae'r ffrwd: {}"
+
+msgid "Error playing video:"
+msgstr "Gwall wrth chwarae fideo:"
+
+msgid "Error processing archive"
+msgstr "Gwall wrth brosesu'r archif"
+
+msgid "Error processing thematic content"
+msgstr "Gwall wrth brosesu cynnwys thematig"
+
+msgid "Error starting plugin"
+msgstr "Gwall wrth gychwyn yr ategyn"
+
+msgid "Error: Could not load news data"
+msgstr "Gwall: Methu llwytho data newyddion"
+
+msgid "Error: Download manager not available"
+msgstr "Gwall: Nid yw'r rheolwr lawrlwytho ar gael"
+
+msgid "Exclusive Programs"
+msgstr "Rhaglenni Unigryw"
+
+msgid "Extracting video URL..."
+msgstr "Wrthi'n tynnu URL fideo..."
+
+msgid "File not found: {}"
+msgstr "Heb ganfod y ffeil: {}"
+
+msgid "Films"
+msgstr "Ffilmiau"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Wedi dod o hyd i {0} rhaglen ar gyfer: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Gofod Rhydd: {am ddim} o {total}"
+
+msgid "Games & Quizzes"
+msgstr "Gemau a Chwisiau"
+
+msgid "HDD Drive"
+msgstr "Gyriant HDD"
+
+msgid "History & Art"
+msgstr "Hanes a Chelf"
+
+msgid "Initializing..."
+msgstr "Wrthi'n cychwyn..."
+
+msgid "International Series"
+msgstr "Cyfres Ryngwladol"
+
+msgid "Invalid video URL detected"
+msgstr "Wedi canfod URL fideo annilys"
+
+msgid "Italian Series"
+msgstr "Cyfres Eidalaidd"
+
+msgid "Kids"
+msgstr "Plant"
+
+msgid "Learning"
+msgstr "Dysgu"
+
+msgid "Lifestyle"
+msgstr "Ffordd o fyw"
+
+msgid "Live Radio"
+msgstr "Radio byw"
+
+msgid "Live TV"
+msgstr "Teledu byw"
+
+msgid "Loading all programs..."
+msgstr "Wrthi'n llwytho pob rhaglen..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Wrthi'n llwytho pob fideo... Arhoswch"
+
+msgid "Loading archive data..."
+msgstr "Wrthi'n llwytho data archif..."
+
+msgid "Loading archive..."
+msgstr "Wrthi'n llwytho archif..."
+
+msgid "Loading complete! Select an option"
+msgstr "Llwytho wedi'i gwblhau! Dewiswch opsiwn"
+
+msgid "Loading data... Please wait"
+msgstr "Wrthi'n llwytho data... Arhoswch"
+
+msgid "Loading news categories..."
+msgstr "Wrthi'n llwytho categorïau newyddion..."
+
+msgid "Loading news items..."
+msgstr "Wrthi'n llwytho eitemau newyddion..."
+
+msgid "Loading on-air programs..."
+msgstr "Wrthi'n llwytho rhaglenni ar yr awyr..."
+
+msgid "Loading program data"
+msgstr "Wrthi'n llwytho data rhaglen"
+
+msgid "Loading program details..."
+msgstr "Wrthi'n llwytho manylion y rhaglen..."
+
+msgid "Loading programs..."
+msgstr "Wrthi'n llwytho rhaglenni..."
+
+msgid "Loading videos..."
+msgstr "Wrthi'n llwytho fideos..."
+
+msgid "Music"
+msgstr "Cerddoriaeth"
+
+msgid "Music & Theater"
+msgstr "Cerddoriaeth a Theatr"
+
+msgid "Music Classic"
+msgstr "Clasur Cerddoriaeth"
+
+msgid "Network Storage"
+msgstr "Storio Rhwydwaith"
+
+msgid "News & Documentaries"
+msgstr "Newyddion a Rhaglenni Dogfen"
+
+msgid "News Categories"
+msgstr "Categorïau Newyddion"
+
+msgid "Next page"
+msgstr "Tudalen nesaf"
+
+msgid "No TV channels available"
+msgstr "Dim sianeli teledu ar gael"
+
+msgid "No archive data found"
+msgstr "Heb ganfod data archif"
+
+msgid "No categories available"
+msgstr "Dim categorïau ar gael"
+
+msgid "No content available"
+msgstr "Dim cynnwys ar gael"
+
+msgid "No content found in this program"
+msgstr "Ni chanfuwyd unrhyw gynnwys yn y rhaglen hon"
+
+msgid "No downloads"
+msgstr "Dim lawrlwythiadau"
+
+msgid "No downloads in queue"
+msgstr "Dim lawrlwythiadau yn y ciw"
+
+msgid "No editions available"
+msgstr "Dim rhifynnau ar gael"
+
+msgid "No episodes available"
+msgstr "Dim penodau ar gael"
+
+msgid "No items available"
+msgstr "Dim eitemau ar gael"
+
+msgid "No items found"
+msgstr "Ni chanfuwyd unrhyw eitemau"
+
+msgid "No items found in this archive"
+msgstr "Ni chanfuwyd unrhyw eitemau yn yr archif hon"
+
+msgid "No items found in this category"
+msgstr "Ni chanfuwyd unrhyw eitemau yn y categori hwn"
+
+msgid "No main theme found"
+msgstr "Heb ganfod prif thema"
+
+msgid "No program URL available"
+msgstr "Dim URL rhaglen ar gael"
+
+msgid "No program categories available"
+msgstr "Dim categorïau rhaglen ar gael"
+
+msgid "No programs available for this day"
+msgstr "Dim rhaglenni ar gael ar gyfer y diwrnod hwn"
+
+msgid "No programs currently on air"
+msgstr "Dim rhaglenni ar yr awyr ar hyn o bryd"
+
+msgid "No programs found for:"
+msgstr "Ni chanfuwyd unrhyw raglenni ar gyfer:"
+
+msgid "No programs found in A-Z list"
+msgstr "Ni chanfuwyd unrhyw raglenni yn y rhestr A-Z"
+
+msgid "No sports categories available"
+msgstr "Dim categorïau chwaraeon ar gael"
+
+msgid "No stream URL available"
+msgstr "Dim URL ffrwd ar gael"
+
+msgid "No video URL available"
+msgstr "Dim URL fideo ar gael"
+
+msgid "No video URL found in the response"
+msgstr "Ni chanfuwyd URL fideo yn yr ymateb"
+
+msgid "No videos available"
+msgstr "Dim fideos ar gael"
+
+msgid "No videos found"
+msgstr "Heb ganfod fideos"
+
+msgid "No videos found in archive"
+msgstr "Dim fideos wedi'u canfod yn yr archif"
+
+msgid "On Air Programs"
+msgstr "Ar Raglenni Awyr"
+
+msgid "On Demand"
+msgstr "Ar Alw"
+
+msgid "Originals"
+msgstr "Gwreiddiol"
+
+msgid "Page"
+msgstr "Tudalen"
+
+msgid "Page with duplicate"
+msgstr "Tudalen gyda dyblyg"
+
+msgid "Pagination not supported for this archive"
+msgstr "Ni chefnogir tudaleniad ar gyfer yr archif hon"
+
+msgid "Play"
+msgstr "Chwarae"
+
+msgid "Play & Download"
+msgstr "Chwarae a Lawrlwytho"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Ni chefnogir chwarae/saib ar gyfer y ffrwd hon"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Mae rhestr y rhaglen yn dal i lwytho. Arhoswch os gwelwch yn dda..."
+
+msgid "Programs"
+msgstr "Rhaglenni"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Ymholiad yn rhy fyr (lleiafswm o 3 nod)"
+
+msgid "Radio Programs A-Z"
+msgstr "Rhaglenni Radio A-Z"
+
+msgid "Rai News"
+msgstr "Newyddion Rai"
+
+msgid "Rai Play Live"
+msgstr "Rai Chwarae'n Fyw"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Chwarae Radio Byw"
+
+msgid "Rai Play Main"
+msgstr "Rai Chwarae Prif"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Chwarae Ar Alw"
+
+msgid "Rai Play Programs"
+msgstr "Rhaglenni Chwarae Rai"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Chwarae Teledu Ailchwarae"
+
+msgid "Rai Play Replay:"
+msgstr "Ailchwarae Chwarae Rai:"
+
+msgid "Rai Play Search"
+msgstr "Chwiliad Chwarae Rai"
+
+msgid "Rai Sport"
+msgstr "Chwaraeon Rai"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Chwaraeon - Categorïau"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Chwaraeon - Is-gategorïau"
+
+msgid "RaiPlay Settings"
+msgstr "Gosodiadau RaiPlay"
+
+msgid "Remove"
+msgstr "Dileu"
+
+msgid "Remove download: {}?"
+msgstr "Dileu llwytho i lawr: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Wedi'i dynnu o'r ciw: {}"
+
+msgid "Replay TV"
+msgstr "Teledu ailchwarae"
+
+msgid "Search"
+msgstr "Chwiliwch"
+
+msgid "Search error. Please try again."
+msgstr "Gwall chwilio. Ceisiwch eto."
+
+msgid "Searching through programs..."
+msgstr "Chwilio trwy raglenni..."
+
+msgid "Select a category"
+msgstr "Dewiswch gategori"
+
+msgid "Select a video"
+msgstr "Dewiswch fideo"
+
+msgid "Select block"
+msgstr "Dewiswch bloc"
+
+msgid "Select category"
+msgstr "Dewiswch gategori"
+
+msgid "Select channel"
+msgstr "Dewiswch sianel"
+
+msgid "Select content set"
+msgstr "Dewiswch set cynnwys"
+
+msgid "Select date"
+msgstr "Dewiswch ddyddiad"
+
+msgid "Select edition"
+msgstr "Dewiswch argraffiad"
+
+msgid "Select episode"
+msgstr "Dewiswch bennod"
+
+msgid "Select item"
+msgstr "Dewiswch eitem"
+
+msgid "Select letter"
+msgstr "Dewiswch lythyren"
+
+msgid "Select program"
+msgstr "Dewiswch raglen"
+
+msgid "Select program to watch"
+msgstr "Dewiswch raglen i'w gwylio"
+
+msgid "Select subcategory"
+msgstr "Dewiswch is-gategori"
+
+msgid "Select video"
+msgstr "Dewiswch fideo"
+
+msgid "Society & Culture"
+msgstr "Cymdeithas a Diwylliant"
+
+msgid "Sports"
+msgstr "Chwaraeon"
+
+msgid "Start"
+msgstr "Cychwyn"
+
+msgid "Stop"
+msgstr "Stopio"
+
+msgid "Stop the download first before removing"
+msgstr "Stopiwch y lawrlwythiad yn gyntaf cyn ei ddileu"
+
+msgid "Sustainability"
+msgstr "Cynaladwyedd"
+
+msgid "TGR and Special Programs"
+msgstr "TGR a Rhaglenni Arbennig"
+
+msgid "TV News"
+msgstr "Newyddion Teledu"
+
+msgid "TV Programs A-Z"
+msgstr "Rhaglenni Teledu A-Z"
+
+msgid "Talk Shows"
+msgstr "Sioeau Sgwrs"
+
+msgid "Tech & Learning"
+msgstr "Technoleg a Dysgu"
+
+msgid "Teens"
+msgstr "Arddegau"
+
+msgid "Temporary"
+msgstr "Dros Dro"
+
+msgid "Test download added to queue"
+msgstr "Ychwanegwyd lawrlwythiad prawf at y ciw"
+
+msgid "Test download failed"
+msgstr "Methodd lawrlwytho'r prawf"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Cyfanswm: {total} | Actif: {active} | Ciwio: {ciwed} | Cwblhawyd: {cwblhawyd} | Gwallau: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Teithio ac Antur"
+
+msgid "USB Drive"
+msgstr "Gyriant USB"
+
+msgid "Unknown content type"
+msgstr "Math o gynnwys anhysbys"
+
+msgid "Unknown data format"
+msgstr "Fformat data anhysbys"
+
+msgid "Unknown title"
+msgstr "Teitl anhysbys"
+
+msgid "Video URL not available"
+msgstr "URL fideo ddim ar gael"
+
+msgid "Video URL not found"
+msgstr "URL fideo heb ei ganfod"
+
+msgid "Video not available"
+msgstr "Fideo ddim ar gael"
+
+msgid "View Full Archive"
+msgstr "Gweld yr Archif Llawn"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "CROESO I RAI CHWARAE PLUGINS GAN LULULLA"

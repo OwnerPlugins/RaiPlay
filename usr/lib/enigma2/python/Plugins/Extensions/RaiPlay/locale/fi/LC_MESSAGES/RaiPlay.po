@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:52+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Kaikki ohjelmat"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z-radioohjelmat"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z TV-ohjelmat"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktivoi Debug for messages -kehittäjä."
+
+msgid "Active Debug"
+msgstr "Aktiivinen virheenkorjaus"
+
+msgid "Added to queue: {}"
+msgstr "Lisätty jonoon: {}"
+
+msgid "All Programs"
+msgstr "Kaikki ohjelmat"
+
+msgid "Archive URL not found"
+msgstr "Arkiston URL-osoitetta ei löydy"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Valitse toiminto: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Puhdista jono kaksoiskappaleista"
+
+msgid "Content type not recognized"
+msgstr "Sisältötyyppiä ei tunnisteta"
+
+msgid "Could not find video URL"
+msgstr "Videon URL-osoitetta ei löytynyt"
+
+msgid "Could not load program content"
+msgstr "Ohjelman sisältöä ei voitu ladata"
+
+msgid "Crime"
+msgstr "Rikollisuus"
+
+msgid "Crime Investigations"
+msgstr "Rikostutkinnat"
+
+msgid "Default Folder"
+msgstr "Oletuskansio"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Oletuskansio elokuvatiedostojen avaamiseen ja tallentamiseen"
+
+msgid "Documentaries"
+msgstr "Dokumentit"
+
+msgid "Download"
+msgstr "Lataa"
+
+msgid "Download Manager"
+msgstr ""
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Lataus poistettu: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Lataus aloitettu: {}"
+
+msgid "Download stopped: {}"
+msgstr "Lataus pysäytetty: {}"
+
+msgid "Enter search query"
+msgstr "Syötä hakukysely"
+
+msgid "Entertainment"
+msgstr "Viihde"
+
+msgid "Error adding download"
+msgstr "Virhe latauksen lisäämisessä"
+
+msgid "Error extracting video URL"
+msgstr "Virhe poimittaessa videon URL-osoitetta"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Virhe ladattaessa A–Z-ohjelmia: {}"
+
+msgid "Error loading archive data"
+msgstr "Virhe ladattaessa arkiston tietoja"
+
+msgid "Error loading archive data: {}"
+msgstr "Virhe ladattaessa arkiston tietoja: {}"
+
+msgid "Error loading content from API"
+msgstr "Virhe ladattaessa sisältöä API:sta"
+
+msgid "Error loading data"
+msgstr "Virhe ladattaessa tietoja"
+
+msgid "Error loading data: %s"
+msgstr "Virhe ladattaessa tietoja: %s"
+
+msgid "Error loading data: {}"
+msgstr "Virhe ladattaessa tietoja: {}"
+
+msgid "Error loading video data"
+msgstr "Virhe ladattaessa videodataa"
+
+msgid "Error loading video page"
+msgstr "Virhe ladattaessa videosivua"
+
+msgid "Error loading videos:"
+msgstr "Virhe ladattaessa videoita:"
+
+msgid "Error parsing content"
+msgstr "Virhe jäsennettäessä sisältöä"
+
+msgid "Error parsing data"
+msgstr "Virhe jäsennettäessä tietoja"
+
+msgid "Error parsing video data: {}"
+msgstr "Virhe jäsennettäessä videotietoja: {}"
+
+msgid "Error playing file: {}"
+msgstr "Virhe toistettaessa tiedostoa: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Virhe toistossa: {}"
+
+msgid "Error playing video:"
+msgstr "Virhe toistettaessa videota:"
+
+msgid "Error processing archive"
+msgstr "Arkiston käsittelyssä tapahtui virhe"
+
+msgid "Error processing thematic content"
+msgstr "Temaattisen sisällön käsittelyssä tapahtui virhe"
+
+msgid "Error starting plugin"
+msgstr "Virhe käynnistettäessä laajennusta"
+
+msgid "Error: Could not load news data"
+msgstr "Virhe: Uutistietoja ei voitu ladata"
+
+msgid "Error: Download manager not available"
+msgstr "Virhe: Lataushallinta ei ole käytettävissä"
+
+msgid "Exclusive Programs"
+msgstr "Eksklusiivisia ohjelmia"
+
+msgid "Extracting video URL..."
+msgstr "Poimitaan videon URL-osoitetta..."
+
+msgid "File not found: {}"
+msgstr "Tiedostoa ei löydy: {}"
+
+msgid "Films"
+msgstr "Elokuvat"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Löytyi {0} ohjelmaa: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Vapaa tila: {free}/{total}"
+
+msgid "Games & Quizzes"
+msgstr "Pelit ja tietokilpailut"
+
+msgid "HDD Drive"
+msgstr "HDD-asema"
+
+msgid "History & Art"
+msgstr "Historia ja taide"
+
+msgid "Initializing..."
+msgstr "Alustetaan..."
+
+msgid "International Series"
+msgstr "Kansainvälinen sarja"
+
+msgid "Invalid video URL detected"
+msgstr "Virheellinen videon URL-osoite havaittu"
+
+msgid "Italian Series"
+msgstr "Italialainen sarja"
+
+msgid "Kids"
+msgstr "Lapset"
+
+msgid "Learning"
+msgstr "Oppiminen"
+
+msgid "Lifestyle"
+msgstr "Elämäntapa"
+
+msgid "Live Radio"
+msgstr ""
+
+msgid "Live TV"
+msgstr "Live-TV"
+
+msgid "Loading all programs..."
+msgstr "Ladataan kaikkia ohjelmia..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Ladataan kaikkia videoita... Odota"
+
+msgid "Loading archive data..."
+msgstr "Ladataan arkiston tietoja..."
+
+msgid "Loading archive..."
+msgstr "Ladataan arkistoa..."
+
+msgid "Loading complete! Select an option"
+msgstr "Lataus valmis! Valitse vaihtoehto"
+
+msgid "Loading data... Please wait"
+msgstr "Ladataan tietoja... Odota"
+
+msgid "Loading news categories..."
+msgstr "Ladataan uutisluokkia..."
+
+msgid "Loading news items..."
+msgstr "Ladataan uutisia..."
+
+msgid "Loading on-air programs..."
+msgstr "Ladataan lähetyksiä..."
+
+msgid "Loading program data"
+msgstr "Ladataan ohjelmatietoja"
+
+msgid "Loading program details..."
+msgstr "Ladataan ohjelman tietoja..."
+
+msgid "Loading programs..."
+msgstr "Ladataan ohjelmia..."
+
+msgid "Loading videos..."
+msgstr "Ladataan videoita..."
+
+msgid "Music"
+msgstr "Musiikki"
+
+msgid "Music & Theater"
+msgstr "Musiikki & Teatteri"
+
+msgid "Music Classic"
+msgstr "Musiikin klassikko"
+
+msgid "Network Storage"
+msgstr "Verkkotallennus"
+
+msgid "News & Documentaries"
+msgstr "Uutiset ja dokumentit"
+
+msgid "News Categories"
+msgstr "Uutiset luokat"
+
+msgid "Next page"
+msgstr "Seuraava sivu"
+
+msgid "No TV channels available"
+msgstr "TV-kanavia ei ole saatavilla"
+
+msgid "No archive data found"
+msgstr "Arkistotietoja ei löytynyt"
+
+msgid "No categories available"
+msgstr "Luokkia ei ole saatavilla"
+
+msgid "No content available"
+msgstr "Sisältöä ei ole saatavilla"
+
+msgid "No content found in this program"
+msgstr "Tästä ohjelmasta ei löydy sisältöä"
+
+msgid "No downloads"
+msgstr "Ei latauksia"
+
+msgid "No downloads in queue"
+msgstr "Ei latauksia jonossa"
+
+msgid "No editions available"
+msgstr "Painoksia ei ole saatavilla"
+
+msgid "No episodes available"
+msgstr "Ei jaksoja saatavilla"
+
+msgid "No items available"
+msgstr "Ei tuotteita saatavilla"
+
+msgid "No items found"
+msgstr "Kohteita ei löytynyt"
+
+msgid "No items found in this archive"
+msgstr "Tästä arkistosta ei löytynyt kohteita"
+
+msgid "No items found in this category"
+msgstr "Tästä luokasta ei löytynyt tuotteita"
+
+msgid "No main theme found"
+msgstr "Pääteemaa ei löytynyt"
+
+msgid "No program URL available"
+msgstr "Ohjelman URL-osoitetta ei ole saatavilla"
+
+msgid "No program categories available"
+msgstr "Ohjelmaluokkia ei ole saatavilla"
+
+msgid "No programs available for this day"
+msgstr "Ei ohjelmaa tälle päivälle"
+
+msgid "No programs currently on air"
+msgstr "Ei ohjelmia tällä hetkellä"
+
+msgid "No programs found for:"
+msgstr "Ei ohjelmia haulle:"
+
+msgid "No programs found in A-Z list"
+msgstr "A–Z-luettelosta ei löytynyt ohjelmia"
+
+msgid "No sports categories available"
+msgstr "Urheiluluokkia ei ole saatavilla"
+
+msgid "No stream URL available"
+msgstr "Striimin URL-osoitetta ei ole saatavilla"
+
+msgid "No video URL available"
+msgstr "Videon URL-osoitetta ei ole saatavilla"
+
+msgid "No video URL found in the response"
+msgstr "Videon URL-osoitetta ei löytynyt vastauksesta"
+
+msgid "No videos available"
+msgstr "Ei videoita saatavilla"
+
+msgid "No videos found"
+msgstr "Videoita ei löytynyt"
+
+msgid "No videos found in archive"
+msgstr "Arkistosta ei löytynyt videoita"
+
+msgid "On Air Programs"
+msgstr "On Air-ohjelmat"
+
+msgid "On Demand"
+msgstr ""
+
+msgid "Originals"
+msgstr "Alkuperäiset"
+
+msgid "Page"
+msgstr "Sivu"
+
+msgid "Page with duplicate"
+msgstr "Sivu kopiolla"
+
+msgid "Pagination not supported for this archive"
+msgstr "Sivutusta ei tueta tälle arkistolle"
+
+msgid "Play"
+msgstr "Pelata"
+
+msgid "Play & Download"
+msgstr "Pelaa ja lataa"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Toistoa/taukoa ei tueta tässä suoratoistossa"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Ohjelmaluettelo latautuu edelleen. Odota..."
+
+msgid "Programs"
+msgstr "Ohjelmat"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Kysely liian lyhyt (vähintään 3 merkkiä)"
+
+msgid "Radio Programs A-Z"
+msgstr "Radio-ohjelmat A-Z"
+
+msgid "Rai News"
+msgstr "Rai uutiset"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Rai Play -ohjelmat"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr "Rai Play -haku"
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Luokat"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Alakategoriat"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay-asetukset"
+
+msgid "Remove"
+msgstr "Poistaa"
+
+msgid "Remove download: {}?"
+msgstr "Poistetaanko lataus: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Poistettu jonosta: {}"
+
+msgid "Replay TV"
+msgstr "Toista TV"
+
+msgid "Search"
+msgstr "Haku"
+
+msgid "Search error. Please try again."
+msgstr "Hakuvirhe. Yritä uudelleen."
+
+msgid "Searching through programs..."
+msgstr "Haetaan ohjelmista..."
+
+msgid "Select a category"
+msgstr "Valitse luokka"
+
+msgid "Select a video"
+msgstr "Valitse video"
+
+msgid "Select block"
+msgstr "Valitse lohko"
+
+msgid "Select category"
+msgstr "Valitse kategoria"
+
+msgid "Select channel"
+msgstr "Valitse kanava"
+
+msgid "Select content set"
+msgstr "Valitse sisältöjoukko"
+
+msgid "Select date"
+msgstr "Valitse päivämäärä"
+
+msgid "Select edition"
+msgstr "Valitse painos"
+
+msgid "Select episode"
+msgstr "Valitse jakso"
+
+msgid "Select item"
+msgstr "Valitse kohde"
+
+msgid "Select letter"
+msgstr "Valitse kirjain"
+
+msgid "Select program"
+msgstr "Valitse ohjelma"
+
+msgid "Select program to watch"
+msgstr "Valitse katsottava ohjelma"
+
+msgid "Select subcategory"
+msgstr "Valitse alaluokka"
+
+msgid "Select video"
+msgstr "Valitse video"
+
+msgid "Society & Culture"
+msgstr "Yhteiskunta & Kulttuuri"
+
+msgid "Sports"
+msgstr "Urheilu"
+
+msgid "Start"
+msgstr "Aloita"
+
+msgid "Stop"
+msgstr ""
+
+msgid "Stop the download first before removing"
+msgstr "Pysäytä lataus ensin ennen poistamista"
+
+msgid "Sustainability"
+msgstr "Kestävyys"
+
+msgid "TGR and Special Programs"
+msgstr "TGR ja erikoisohjelmat"
+
+msgid "TV News"
+msgstr "TV-uutiset"
+
+msgid "TV Programs A-Z"
+msgstr "TV-ohjelmat A-Z"
+
+msgid "Talk Shows"
+msgstr "Keskusteluohjelmat"
+
+msgid "Tech & Learning"
+msgstr "Tekniikka ja oppiminen"
+
+msgid "Teens"
+msgstr "Teinit"
+
+msgid "Temporary"
+msgstr "Väliaikainen"
+
+msgid "Test download added to queue"
+msgstr "Testilataus lisätty jonoon"
+
+msgid "Test download failed"
+msgstr "Testilataus epäonnistui"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Yhteensä: {yhteensä} | Aktiivinen: {aktiivinen} | Jonossa: {jonossa} | Valmiit: {completed} | Virheet: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Matkailu ja seikkailu"
+
+msgid "USB Drive"
+msgstr "USB-asema"
+
+msgid "Unknown content type"
+msgstr "Tuntematon sisältötyyppi"
+
+msgid "Unknown data format"
+msgstr "Tuntematon tietomuoto"
+
+msgid "Unknown title"
+msgstr "Tuntematon otsikko"
+
+msgid "Video URL not available"
+msgstr "Videon URL-osoite ei ole saatavilla"
+
+msgid "Video URL not found"
+msgstr "Videon URL-osoitetta ei löydy"
+
+msgid "Video not available"
+msgstr "Video ei ole saatavilla"
+
+msgid "View Full Archive"
+msgstr "Näytä koko arkisto"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "TERVETULOA LULULLAN RAI PLAY -laajennuksiin"

@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:04+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Scottish Gaelic <fios@foramnagaidhlig.net>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A h-uile prògraman AZ"
+
+msgid "A-Z Radio Shows"
+msgstr "Taisbeanaidhean rèidio AZ"
+
+msgid "A-Z TV Shows"
+msgstr "Taisbeanaidhean Tbh AZ"
+
+msgid "Activate Debug for messages developer."
+msgstr "Cuir an gnìomh Debug airson leasaiche teachdaireachdan."
+
+msgid "Active Debug"
+msgstr "Debug gnìomhach"
+
+msgid "Added to queue: {}"
+msgstr "Air a chur ris a' chiudha: {}"
+
+msgid "All Programs"
+msgstr "A h-uile prògraman"
+
+msgid "Archive URL not found"
+msgstr "Cha deach URL an tasgaidh a lorg"
+
+msgid "Back"
+msgstr "Air ais"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Tagh gnìomh airson: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Glan ciudha bho dhùblaidhean"
+
+msgid "Content type not recognized"
+msgstr "Chan eil an seòrsa susbaint aithnichte"
+
+msgid "Could not find video URL"
+msgstr "Cha b' urrainn dhuinn URL a' bhidio a lorg"
+
+msgid "Could not load program content"
+msgstr "Cha b' urrainn dhuinn susbaint a' phrògram a luchdadh"
+
+msgid "Crime"
+msgstr "Eucoir"
+
+msgid "Crime Investigations"
+msgstr "Sgrùdaidhean Eucoir"
+
+msgid "Default Folder"
+msgstr "Folder Default"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Pasgan bunaiteach airson faidhlichean Movie fhosgladh agus a shàbhaladh"
+
+msgid "Documentaries"
+msgstr "Prògraman aithriseach"
+
+msgid "Download"
+msgstr "Luchdaich sìos"
+
+msgid "Download Manager"
+msgstr "Luchdaich sìos Manaidsear"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Chaidh an luchdachadh sìos a thoirt air falbh: {str (nì ['tiotal'])}"
+
+msgid "Download started: {}"
+msgstr "Thòisich an luchdachadh sìos: {}"
+
+msgid "Download stopped: {}"
+msgstr "Sguir an luchdachadh sìos: {}"
+
+msgid "Enter search query"
+msgstr "Cuir a-steach iarrtas rannsachaidh"
+
+msgid "Entertainment"
+msgstr "Cur-seachad"
+
+msgid "Error adding download"
+msgstr "Thachair mearachd leis an luchdachadh sìos"
+
+msgid "Error extracting video URL"
+msgstr "Thachair mearachd le toirt a-mach URL bhidio"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Thachair mearachd a' luchdadh prògraman A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Thachair mearachd le luchdachadh dàta tasglann"
+
+msgid "Error loading archive data: {}"
+msgstr "Mearachd a' luchdadh dàta tasglainn: {}"
+
+msgid "Error loading content from API"
+msgstr "Thachair mearachd le luchdachadh susbaint bho API"
+
+msgid "Error loading data"
+msgstr "Thachair mearachd le luchdachadh an dàta"
+
+msgid "Error loading data: %s"
+msgstr "Mearachd a' luchdadh an dàta: %s"
+
+msgid "Error loading data: {}"
+msgstr "Thachair mearachd le luchdachadh an dàta: {}"
+
+msgid "Error loading video data"
+msgstr "Thachair mearachd le luchdachadh dàta bhidio"
+
+msgid "Error loading video page"
+msgstr "Thachair mearachd le luchdachadh na duilleige bhidio"
+
+msgid "Error loading videos:"
+msgstr "Thachair mearachd le luchdachadh bhideothan:"
+
+msgid "Error parsing content"
+msgstr "Thachair mearachd le parsadh susbaint"
+
+msgid "Error parsing data"
+msgstr "Thachair mearachd le parsadh an dàta"
+
+msgid "Error parsing video data: {}"
+msgstr "Thachair mearachd le parsadh dàta bhidio: {}"
+
+msgid "Error playing file: {}"
+msgstr "Mearachd a' cluich an fhaidhle: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Mearachd a' cluich an t-srutha: {}"
+
+msgid "Error playing video:"
+msgstr "Mearachd a' cluich bhidio:"
+
+msgid "Error processing archive"
+msgstr "Thachair mearachd le làimhseachadh tasglann"
+
+msgid "Error processing thematic content"
+msgstr "Mearachd a' làimhseachadh susbaint cuspaireil"
+
+msgid "Error starting plugin"
+msgstr "Thachair mearachd le tòiseachadh plugan"
+
+msgid "Error: Could not load news data"
+msgstr "Mearachd: Cha b' urrainn dhuinn dàta naidheachdan a luchdadh"
+
+msgid "Error: Download manager not available"
+msgstr "Mearachd: Chan eil am manaidsear luchdachadh sìos ri fhaighinn"
+
+msgid "Exclusive Programs"
+msgstr "Prògraman sònraichte"
+
+msgid "Extracting video URL..."
+msgstr "A’ toirt a-mach URL bhidio..."
+
+msgid "File not found: {}"
+msgstr "Cha deach am faidhle a lorg: {}"
+
+msgid "Films"
+msgstr "Filmichean"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Lorg {0} prògraman airson: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Àite an-asgaidh: {saor} de {iomlan}"
+
+msgid "Games & Quizzes"
+msgstr "Geamannan & Quizzes"
+
+msgid "HDD Drive"
+msgstr "Dràibheadh ​​​​HDD"
+
+msgid "History & Art"
+msgstr "Eachdraidh & Ealain"
+
+msgid "Initializing..."
+msgstr "A' tòiseachadh..."
+
+msgid "International Series"
+msgstr "Sreath eadar-nàiseanta"
+
+msgid "Invalid video URL detected"
+msgstr "Chaidh URL bhidio mì-dhligheach a lorg"
+
+msgid "Italian Series"
+msgstr "Sreath Eadailtis"
+
+msgid "Kids"
+msgstr "Clann"
+
+msgid "Learning"
+msgstr "Ag ionnsachadh"
+
+msgid "Lifestyle"
+msgstr "Dòigh-beatha"
+
+msgid "Live Radio"
+msgstr "Radio beò"
+
+msgid "Live TV"
+msgstr "Tbh beò"
+
+msgid "Loading all programs..."
+msgstr "A luchdadh a-nuas a h-uile prògraman.. ."
+
+msgid "Loading all videos... Please wait"
+msgstr "A luchdadh a-nuas a h-uile bhidiothan.."
+
+msgid "Loading archive data..."
+msgstr "A’ luchdachadh suas dàta archive..."
+
+msgid "Loading archive..."
+msgstr "A 'luchdachadh an tasglann..."
+
+msgid "Loading complete! Select an option"
+msgstr "A ’luchdachadh gu crìch! Tagh roghainn"
+
+msgid "Loading data... Please wait"
+msgstr "A' luchdachadh dàta... Fuirich ort"
+
+msgid "Loading news categories..."
+msgstr "A luchdachadh a-nuas roinn-seòrsa de naidheachdan. ."
+
+msgid "Loading news items..."
+msgstr "A luchdadh a-nuas òran naidheachdan.. ."
+
+msgid "Loading on-air programs..."
+msgstr "A luchdaich a-nuas am prògram air-loidhne rèidio. . ."
+
+msgid "Loading program data"
+msgstr "A luchdadh a-nuas a ' phrògram airson dàta"
+
+msgid "Loading program details..."
+msgstr "A luchdadh a-nuas a ' phrògram airson mion-fhiosrachadh. ."
+
+msgid "Loading programs..."
+msgstr "A’ luchdachadh sìos prògraman..."
+
+msgid "Loading videos..."
+msgstr "A luchdadh a-nuas bhidiothan.. ."
+
+msgid "Music"
+msgstr "Ceol"
+
+msgid "Music & Theater"
+msgstr "Ceòl & Taigh-cluiche"
+
+msgid "Music Classic"
+msgstr "Ceòl clasaigeach"
+
+msgid "Network Storage"
+msgstr "Stòradh lìonra"
+
+msgid "News & Documentaries"
+msgstr "Naidheachdan & Prògraman aithriseach"
+
+msgid "News Categories"
+msgstr "Roinnean-naidheachd"
+
+msgid "Next page"
+msgstr "An ath dhuilleig"
+
+msgid "No TV channels available"
+msgstr "Chan eil seanalan Tbh rim faighinn"
+
+msgid "No archive data found"
+msgstr "Cha deach dàta tasglann a lorg"
+
+msgid "No categories available"
+msgstr "Chan eil roinnean ri fhaighinn"
+
+msgid "No content available"
+msgstr "Chan eil susbaint ri fhaighinn"
+
+msgid "No content found in this program"
+msgstr "Cha deach susbaint a lorg sa phrògram seo"
+
+msgid "No downloads"
+msgstr "Gun luchdachadh sìos"
+
+msgid "No downloads in queue"
+msgstr "Gun luchdachadh sìos ann an ciudha"
+
+msgid "No editions available"
+msgstr "Chan eil deasachaidhean ri fhaighinn"
+
+msgid "No episodes available"
+msgstr "Chan eil episodes ri fhaighinn"
+
+msgid "No items available"
+msgstr "Chan eil stuthan ri fhaighinn"
+
+msgid "No items found"
+msgstr "Cha deach stuthan a lorg"
+
+msgid "No items found in this archive"
+msgstr "Cha deach stuth a lorg san tasglann seo"
+
+msgid "No items found in this category"
+msgstr "Cha deach stuth sam bith a lorg san roinn seo"
+
+msgid "No main theme found"
+msgstr "Cha deach prìomh chuspair a lorg"
+
+msgid "No program URL available"
+msgstr "Chan eil URL prògram ri fhaighinn"
+
+msgid "No program categories available"
+msgstr "Chan eil roinnean phrògraman rim faighinn"
+
+msgid "No programs available for this day"
+msgstr "Chan eil prògraman rim faighinn airson an latha an-diugh"
+
+msgid "No programs currently on air"
+msgstr "Chan eil prògraman air an èadhar an-dràsta"
+
+msgid "No programs found for:"
+msgstr "Cha deach prògraman a lorg airson:"
+
+msgid "No programs found in A-Z list"
+msgstr "Cha deach prògraman a lorg air an liosta A-Z"
+
+msgid "No sports categories available"
+msgstr "Chan eil roinnean spòrs rim faighinn"
+
+msgid "No stream URL available"
+msgstr "Chan eil URL srutha ri fhaighinn"
+
+msgid "No video URL available"
+msgstr "Chan eil URL bhidio ri fhaighinn"
+
+msgid "No video URL found in the response"
+msgstr "Cha deach URL bhidio a lorg san fhreagairt"
+
+msgid "No videos available"
+msgstr "Chan eil bhidiothan ri fhaighinn"
+
+msgid "No videos found"
+msgstr "Cha deach bhidiothan a lorg"
+
+msgid "No videos found in archive"
+msgstr "Cha deach bhidiothan a lorg san tasglann"
+
+msgid "On Air Programs"
+msgstr "Air prògraman adhair"
+
+msgid "On Demand"
+msgstr "Air iarrtas"
+
+msgid "Originals"
+msgstr "Tùsan"
+
+msgid "Page"
+msgstr "Duilleag"
+
+msgid "Page with duplicate"
+msgstr "Duilleag le dùblachadh"
+
+msgid "Pagination not supported for this archive"
+msgstr "Chan eil taic ri duilleag airson an tasglann seo"
+
+msgid "Play"
+msgstr "Seinn"
+
+msgid "Play & Download"
+msgstr "Cluich & Luchdaich sìos"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Chan eil taic ri cluich/stad airson an t-srutha seo"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Tha liosta nam prògraman fhathast a’ luchdachadh. Feuch an fuirich thu..."
+
+msgid "Programs"
+msgstr "Prògraman"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Ceist ro ghoirid (3 caractaran as lugha)"
+
+msgid "Radio Programs A-Z"
+msgstr "Prògraman rèidio AZ"
+
+msgid "Rai News"
+msgstr "Naidheachdan Rai"
+
+msgid "Rai Play Live"
+msgstr "Rai Cluich beò"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Cluich Live Radio"
+
+msgid "Rai Play Main"
+msgstr "Rai Cluich Prìomh"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Cluich air iarrtas"
+
+msgid "Rai Play Programs"
+msgstr "Prògraman cluich Rai"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Cluich Replay TV"
+
+msgid "Rai Play Replay:"
+msgstr "Ath-chluich cluiche Rai:"
+
+msgid "Rai Play Search"
+msgstr "Rannsachadh Cluich Rai"
+
+msgid "Rai Sport"
+msgstr "Rai Spòrs"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Spòrs - Roinnean-seòrsa"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Spòrs - fo-roinnean"
+
+msgid "RaiPlay Settings"
+msgstr "Roghainnean RaiPlay"
+
+msgid "Remove"
+msgstr "Thoir air falbh"
+
+msgid "Remove download: {}?"
+msgstr "Thoir air falbh luchdachadh sìos: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Air a thoirt às a' chiudha: {}"
+
+msgid "Replay TV"
+msgstr "Ath-chluich telebhisean"
+
+msgid "Search"
+msgstr "Rannsaich"
+
+msgid "Search error. Please try again."
+msgstr "Mearachd rannsachaidh. Feuch ris a-rithist."
+
+msgid "Searching through programs..."
+msgstr "A’ lorg tro phrògraman..."
+
+msgid "Select a category"
+msgstr "Tagh roinn-seòrsa"
+
+msgid "Select a video"
+msgstr "Tagh bhidio"
+
+msgid "Select block"
+msgstr "Tagh bloc"
+
+msgid "Select category"
+msgstr "Tagh roinn-seòrsa"
+
+msgid "Select channel"
+msgstr "Tagh sianal"
+
+msgid "Select content set"
+msgstr "Tagh seata susbaint"
+
+msgid "Select date"
+msgstr "Tagh ceann-latha"
+
+msgid "Select edition"
+msgstr "Tagh deasachadh"
+
+msgid "Select episode"
+msgstr "Tagh prògram"
+
+msgid "Select item"
+msgstr "Tagh nì"
+
+msgid "Select letter"
+msgstr "Tagh litir"
+
+msgid "Select program"
+msgstr "Tagh prògram"
+
+msgid "Select program to watch"
+msgstr "Tagh prògram airson coimhead"
+
+msgid "Select subcategory"
+msgstr "Tagh fo-roinn"
+
+msgid "Select video"
+msgstr "Tagh bhidio"
+
+msgid "Society & Culture"
+msgstr "Comann & Cultar"
+
+msgid "Sports"
+msgstr "Spòrs"
+
+msgid "Start"
+msgstr "Tòisich"
+
+msgid "Stop"
+msgstr "Stad"
+
+msgid "Stop the download first before removing"
+msgstr "Stad an luchdachadh sìos an-toiseach mus toir thu air falbh e"
+
+msgid "Sustainability"
+msgstr "Seasmhachd"
+
+msgid "TGR and Special Programs"
+msgstr "TGR agus Prògraman Sònraichte"
+
+msgid "TV News"
+msgstr "Naidheachdan Tbh"
+
+msgid "TV Programs A-Z"
+msgstr "Prògraman Tbh AZ"
+
+msgid "Talk Shows"
+msgstr "Taisbeanaidhean Còmhraidh"
+
+msgid "Tech & Learning"
+msgstr "Teicneòlas & Ionnsachadh"
+
+msgid "Teens"
+msgstr "Deugairean"
+
+msgid "Temporary"
+msgstr "Sealach"
+
+msgid "Test download added to queue"
+msgstr "Luchdaich a-nuas deuchainn air a chur ris an ciudha"
+
+msgid "Test download failed"
+msgstr "Dh'fhàillig an luchdachadh sìos deuchainn"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Iomlan: {total} | Gnìomhach: {active} | ciudha: {queued} | Crìochnaichte: {crìochnaichte} | Mearachdan: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Siubhal & Dàn-thuras"
+
+msgid "USB Drive"
+msgstr "Dràibhear USB"
+
+msgid "Unknown content type"
+msgstr "Seòrsa susbaint neo-aithnichte"
+
+msgid "Unknown data format"
+msgstr "Cruth dàta neo-aithnichte"
+
+msgid "Unknown title"
+msgstr "Tiotal neo-aithnichte"
+
+msgid "Video URL not available"
+msgstr "URL bhidio nach eil ri fhaighinn"
+
+msgid "Video URL not found"
+msgstr "URL bhidio cha deach a lorg"
+
+msgid "Video not available"
+msgstr "Chan eil bhidio ri fhaighinn"
+
+msgid "View Full Archive"
+msgstr "Faic an Tasglann Làn"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "FÀILTE GU RAI PLAY PLUGINS LE LULULLA"

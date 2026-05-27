@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:07+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Swahili <(nothing)>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Programu Zote"
+
+msgid "A-Z Radio Shows"
+msgstr "Vipindi vya Redio vya A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Vipindi vya TV vya A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Washa Utatuzi kwa msanidi wa ujumbe."
+
+msgid "Active Debug"
+msgstr "Utatuzi Unaotumika"
+
+msgid "Added to queue: {}"
+msgstr "Imeongezwa kwenye foleni: {}"
+
+msgid "All Programs"
+msgstr "Mipango Yote"
+
+msgid "Archive URL not found"
+msgstr "URL ya kumbukumbu haijapatikana"
+
+msgid "Back"
+msgstr "Nyuma"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Chagua kitendo cha: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Safisha foleni kutoka kwa nakala"
+
+msgid "Content type not recognized"
+msgstr "Aina ya maudhui haitambuliki"
+
+msgid "Could not find video URL"
+msgstr "Haikuweza kupata URL ya video"
+
+msgid "Could not load program content"
+msgstr "Haikuweza kupakia maudhui ya programu"
+
+msgid "Crime"
+msgstr "Uhalifu"
+
+msgid "Crime Investigations"
+msgstr "Uchunguzi wa uhalifu"
+
+msgid "Default Folder"
+msgstr "Folda Chaguomsingi"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Folda chaguo-msingi ya kufungua na kuhifadhi faili za Filamu"
+
+msgid "Documentaries"
+msgstr "Nyaraka"
+
+msgid "Download"
+msgstr "Pakua"
+
+msgid "Download Manager"
+msgstr "Kidhibiti cha Upakuaji"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Upakuaji umeondolewa: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Upakuaji umeanza: {}"
+
+msgid "Download stopped: {}"
+msgstr "Upakuaji umesimamishwa: {}"
+
+msgid "Enter search query"
+msgstr "Ingiza hoja ya utafutaji"
+
+msgid "Entertainment"
+msgstr "Burudani"
+
+msgid "Error adding download"
+msgstr "Hitilafu katika kuongeza upakuaji"
+
+msgid "Error extracting video URL"
+msgstr "Hitilafu katika kutoa URL ya video"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Hitilafu katika kupakia programu za A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Hitilafu katika kupakia data ya kumbukumbu"
+
+msgid "Error loading archive data: {}"
+msgstr "Hitilafu katika kupakia data ya kumbukumbu: {}"
+
+msgid "Error loading content from API"
+msgstr "Hitilafu ya kupakia maudhui kutoka kwa API"
+
+msgid "Error loading data"
+msgstr "Hitilafu katika kupakia data"
+
+msgid "Error loading data: %s"
+msgstr "Hitilafu katika kupakia data: %s"
+
+msgid "Error loading data: {}"
+msgstr "Hitilafu katika kupakia data: {}"
+
+msgid "Error loading video data"
+msgstr "Hitilafu katika kupakia data ya video"
+
+msgid "Error loading video page"
+msgstr "Hitilafu katika kupakia ukurasa wa video"
+
+msgid "Error loading videos:"
+msgstr "Hitilafu katika kupakia video:"
+
+msgid "Error parsing content"
+msgstr "Hitilafu katika kuchanganua maudhui"
+
+msgid "Error parsing data"
+msgstr "Hitilafu katika kuchanganua data"
+
+msgid "Error parsing video data: {}"
+msgstr "Hitilafu katika kuchanganua data ya video: {}"
+
+msgid "Error playing file: {}"
+msgstr "Hitilafu katika kucheza faili: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Hitilafu katika kucheza mtiririko: {}"
+
+msgid "Error playing video:"
+msgstr "Hitilafu katika kucheza video:"
+
+msgid "Error processing archive"
+msgstr "Hitilafu katika kuchakata kumbukumbu"
+
+msgid "Error processing thematic content"
+msgstr "Hitilafu katika kuchakata maudhui ya mada"
+
+msgid "Error starting plugin"
+msgstr "Hitilafu ya kuanzisha programu-jalizi"
+
+msgid "Error: Could not load news data"
+msgstr "Hitilafu: Haikuweza kupakia data ya habari"
+
+msgid "Error: Download manager not available"
+msgstr "Hitilafu: Kidhibiti cha upakuaji hakipatikani"
+
+msgid "Exclusive Programs"
+msgstr "Programu za Kipekee"
+
+msgid "Extracting video URL..."
+msgstr "Inatoa URL ya video..."
+
+msgid "File not found: {}"
+msgstr "Faili haijapatikana: {}"
+
+msgid "Films"
+msgstr "Filamu"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Imepata programu {0} za: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Nafasi Huru: {free} kati ya {total}"
+
+msgid "Games & Quizzes"
+msgstr "Michezo na Maswali"
+
+msgid "HDD Drive"
+msgstr "Hifadhi ya HDD"
+
+msgid "History & Art"
+msgstr "Historia na Sanaa"
+
+msgid "Initializing..."
+msgstr "Inaanzisha..."
+
+msgid "International Series"
+msgstr "Mfululizo wa Kimataifa"
+
+msgid "Invalid video URL detected"
+msgstr "URL ya video batili imegunduliwa"
+
+msgid "Italian Series"
+msgstr "Mfululizo wa Italia"
+
+msgid "Kids"
+msgstr "Watoto"
+
+msgid "Learning"
+msgstr "Kujifunza"
+
+msgid "Lifestyle"
+msgstr "Mtindo wa maisha"
+
+msgid "Live Radio"
+msgstr "Redio ya moja kwa moja"
+
+msgid "Live TV"
+msgstr "TV ya moja kwa moja"
+
+msgid "Loading all programs..."
+msgstr "Inapakia programu zote..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Inapakia video zote... Tafadhali subiri"
+
+msgid "Loading archive data..."
+msgstr "Inapakia data ya kumbukumbu..."
+
+msgid "Loading archive..."
+msgstr "Inapakia kumbukumbu..."
+
+msgid "Loading complete! Select an option"
+msgstr "Upakiaji umekamilika! Chagua chaguo"
+
+msgid "Loading data... Please wait"
+msgstr "Inapakia data... Tafadhali subiri"
+
+msgid "Loading news categories..."
+msgstr "Inapakia kategoria za habari..."
+
+msgid "Loading news items..."
+msgstr "Inapakia vipengee vya habari..."
+
+msgid "Loading on-air programs..."
+msgstr "Inapakia programu za hewani..."
+
+msgid "Loading program data"
+msgstr "Inapakia data ya programu"
+
+msgid "Loading program details..."
+msgstr "Inapakia maelezo ya mpango..."
+
+msgid "Loading programs..."
+msgstr "Inapakia programu..."
+
+msgid "Loading videos..."
+msgstr "Inapakia video..."
+
+msgid "Music"
+msgstr "Muziki"
+
+msgid "Music & Theater"
+msgstr "Muziki na ukumbi wa michezo"
+
+msgid "Music Classic"
+msgstr "Muziki wa Kawaida"
+
+msgid "Network Storage"
+msgstr "Hifadhi ya Mtandao"
+
+msgid "News & Documentaries"
+msgstr "Habari & Nyaraka"
+
+msgid "News Categories"
+msgstr "Jamii za Habari"
+
+msgid "Next page"
+msgstr "Ukurasa unaofuata"
+
+msgid "No TV channels available"
+msgstr "Hakuna vituo vya televisheni vinavyopatikana"
+
+msgid "No archive data found"
+msgstr "Hakuna data ya kumbukumbu iliyopatikana"
+
+msgid "No categories available"
+msgstr "Hakuna kategoria zinazopatikana"
+
+msgid "No content available"
+msgstr "Hakuna maudhui yanayopatikana"
+
+msgid "No content found in this program"
+msgstr "Hakuna maudhui yaliyopatikana katika programu hii"
+
+msgid "No downloads"
+msgstr "Hakuna vipakuliwa"
+
+msgid "No downloads in queue"
+msgstr "Hakuna vipakuliwa kwenye foleni"
+
+msgid "No editions available"
+msgstr "Hakuna matoleo yanayopatikana"
+
+msgid "No episodes available"
+msgstr "Hakuna vipindi vinavyopatikana"
+
+msgid "No items available"
+msgstr "Hakuna vipengee vinavyopatikana"
+
+msgid "No items found"
+msgstr "Hakuna vipengee vilivyopatikana"
+
+msgid "No items found in this archive"
+msgstr "Hakuna vipengee vilivyopatikana katika kumbukumbu hii"
+
+msgid "No items found in this category"
+msgstr "Hakuna vipengee vilivyopatikana katika kategoria hii"
+
+msgid "No main theme found"
+msgstr "Hakuna mandhari kuu iliyopatikana"
+
+msgid "No program URL available"
+msgstr "Hakuna URL ya programu inayopatikana"
+
+msgid "No program categories available"
+msgstr "Hakuna kategoria za programu zinazopatikana"
+
+msgid "No programs available for this day"
+msgstr "Hakuna programu zinazopatikana kwa siku hii"
+
+msgid "No programs currently on air"
+msgstr "Hakuna programu hewani kwa sasa"
+
+msgid "No programs found for:"
+msgstr "Hakuna programu zilizopatikana za:"
+
+msgid "No programs found in A-Z list"
+msgstr "Hakuna programu zilizopatikana katika orodha ya A-Z"
+
+msgid "No sports categories available"
+msgstr "Hakuna kategoria za michezo zinazopatikana"
+
+msgid "No stream URL available"
+msgstr "Hakuna URL ya mtiririko inayopatikana"
+
+msgid "No video URL available"
+msgstr "Hakuna URL ya video inayopatikana"
+
+msgid "No video URL found in the response"
+msgstr "Hakuna URL ya video iliyopatikana kwenye jibu"
+
+msgid "No videos available"
+msgstr "Hakuna video zinazopatikana"
+
+msgid "No videos found"
+msgstr "Hakuna video zilizopatikana"
+
+msgid "No videos found in archive"
+msgstr "Hakuna video zilizopatikana kwenye kumbukumbu"
+
+msgid "On Air Programs"
+msgstr "Mipango hewani"
+
+msgid "On Demand"
+msgstr "Juu ya Mahitaji"
+
+msgid "Originals"
+msgstr "Asili"
+
+msgid "Page"
+msgstr "Ukurasa"
+
+msgid "Page with duplicate"
+msgstr "Ukurasa ulio na nakala"
+
+msgid "Pagination not supported for this archive"
+msgstr "Uwekaji kurasa hautumiki kwa kumbukumbu hii"
+
+msgid "Play"
+msgstr "Cheza"
+
+msgid "Play & Download"
+msgstr "Cheza na Upakue"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Cheza/sitisha haitumiki kwa mtiririko huu"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Orodha ya programu bado inapakia. Tafadhali subiri..."
+
+msgid "Programs"
+msgstr "Mipango"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Hoja fupi mno (dakika 3 herufi)"
+
+msgid "Radio Programs A-Z"
+msgstr "Vipindi vya Redio A-Z"
+
+msgid "Rai News"
+msgstr "Habari za Rai"
+
+msgid "Rai Play Live"
+msgstr "Rai Cheza Moja kwa Moja"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Cheza Redio ya Moja kwa Moja"
+
+msgid "Rai Play Main"
+msgstr "Rai Cheza Kuu"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Cheza Kwa Mahitaji"
+
+msgid "Rai Play Programs"
+msgstr "Programu za Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Cheza Rudia TV"
+
+msgid "Rai Play Replay:"
+msgstr "Cheza Marudio ya Rai:"
+
+msgid "Rai Play Search"
+msgstr "Utafutaji wa Rai Play"
+
+msgid "Rai Sport"
+msgstr "Michezo ya Rai"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Jamii"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Vijamii"
+
+msgid "RaiPlay Settings"
+msgstr "Mipangilio ya RaiPlay"
+
+msgid "Remove"
+msgstr "Ondoa"
+
+msgid "Remove download: {}?"
+msgstr "Ungependa kuondoa upakuaji: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Imeondolewa kwenye foleni: {}"
+
+msgid "Replay TV"
+msgstr "Cheza tena TV"
+
+msgid "Search"
+msgstr "Tafuta"
+
+msgid "Search error. Please try again."
+msgstr "Hitilafu ya utafutaji. Tafadhali jaribu tena."
+
+msgid "Searching through programs..."
+msgstr "Inatafuta kupitia programu..."
+
+msgid "Select a category"
+msgstr "Chagua kategoria"
+
+msgid "Select a video"
+msgstr "Chagua video"
+
+msgid "Select block"
+msgstr "Chagua block"
+
+msgid "Select category"
+msgstr "Chagua kategoria"
+
+msgid "Select channel"
+msgstr "Chagua kituo"
+
+msgid "Select content set"
+msgstr "Chagua seti ya maudhui"
+
+msgid "Select date"
+msgstr "Chagua tarehe"
+
+msgid "Select edition"
+msgstr "Chagua toleo"
+
+msgid "Select episode"
+msgstr "Chagua kipindi"
+
+msgid "Select item"
+msgstr "Chagua kipengee"
+
+msgid "Select letter"
+msgstr "Chagua barua"
+
+msgid "Select program"
+msgstr "Chagua programu"
+
+msgid "Select program to watch"
+msgstr "Chagua programu ya kutazama"
+
+msgid "Select subcategory"
+msgstr "Chagua kategoria ndogo"
+
+msgid "Select video"
+msgstr "Chagua video"
+
+msgid "Society & Culture"
+msgstr "Jamii na Utamaduni"
+
+msgid "Sports"
+msgstr "Michezo"
+
+msgid "Start"
+msgstr "Anza"
+
+msgid "Stop"
+msgstr "Acha"
+
+msgid "Stop the download first before removing"
+msgstr "Simamisha upakuaji kwanza kabla ya kuondoa"
+
+msgid "Sustainability"
+msgstr "Uendelevu"
+
+msgid "TGR and Special Programs"
+msgstr "TGR na Programu Maalum"
+
+msgid "TV News"
+msgstr "Habari za TV"
+
+msgid "TV Programs A-Z"
+msgstr "Vipindi vya Televisheni A-Z"
+
+msgid "Talk Shows"
+msgstr "Maonyesho ya Maongezi"
+
+msgid "Tech & Learning"
+msgstr ""
+
+msgid "Teens"
+msgstr "Vijana"
+
+msgid "Temporary"
+msgstr "Muda"
+
+msgid "Test download added to queue"
+msgstr "Upakuaji wa majaribio umeongezwa kwenye foleni"
+
+msgid "Test download failed"
+msgstr "Upakuaji wa majaribio haukufaulu"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Jumla: {jumla} | Inayotumika: {active} | Zilizowekwa kwenye foleni: {foleni} | Imekamilishwa: {imekamilika} | Makosa: {makosa}"
+
+msgid "Travel & Adventure"
+msgstr "Usafiri na Vituko"
+
+msgid "USB Drive"
+msgstr "Hifadhi ya USB"
+
+msgid "Unknown content type"
+msgstr "Aina ya maudhui isiyojulikana"
+
+msgid "Unknown data format"
+msgstr "Umbizo la data lisilojulikana"
+
+msgid "Unknown title"
+msgstr "Kichwa kisichojulikana"
+
+msgid "Video URL not available"
+msgstr "URL ya video haipatikani"
+
+msgid "Video URL not found"
+msgstr "URL ya video haijapatikana"
+
+msgid "Video not available"
+msgstr "Video haipatikani"
+
+msgid "View Full Archive"
+msgstr "Tazama Kumbukumbu Kamili"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "KARIBU KWENYE plugins za RAI PLAY BY LULULLA"

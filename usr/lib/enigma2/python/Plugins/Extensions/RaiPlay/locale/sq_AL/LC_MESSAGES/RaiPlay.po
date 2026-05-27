@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:00+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language sq-AL\n"
+"Language: sq-AL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Të gjitha programet"
+
+msgid "A-Z Radio Shows"
+msgstr "Emisionet radio A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Shfaqje televizive A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktivizo Debug për zhvilluesin e mesazheve."
+
+msgid "Active Debug"
+msgstr "Korrigjimi aktiv"
+
+msgid "Added to queue: {}"
+msgstr "Shtuar në radhë: {}"
+
+msgid "All Programs"
+msgstr "Të gjitha programet"
+
+msgid "Archive URL not found"
+msgstr "URL-ja e arkivit nuk u gjet"
+
+msgid "Back"
+msgstr "Mbrapa"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Zgjidh veprimin për: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Pastroni radhën nga dublikatat"
+
+msgid "Content type not recognized"
+msgstr "Lloji i përmbajtjes nuk njihet"
+
+msgid "Could not find video URL"
+msgstr "URL-ja e videos nuk u gjet"
+
+msgid "Could not load program content"
+msgstr "Përmbajtja e programit nuk mund të ngarkohej"
+
+msgid "Crime"
+msgstr "Krimi"
+
+msgid "Crime Investigations"
+msgstr "Hetimet e Krimit"
+
+msgid "Default Folder"
+msgstr "Dosja e parazgjedhur"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Dosja e parazgjedhur për hapjen dhe ruajtjen e skedarëve të filmit"
+
+msgid "Documentaries"
+msgstr "Dokumentarët"
+
+msgid "Download"
+msgstr "Shkarkoni"
+
+msgid "Download Manager"
+msgstr "Menaxheri i Shkarkimit"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Shkarkimi u hoq: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Shkarkimi filloi: {}"
+
+msgid "Download stopped: {}"
+msgstr "Shkarkimi u ndal: {}"
+
+msgid "Enter search query"
+msgstr "Futni pyetjen e kërkimit"
+
+msgid "Entertainment"
+msgstr "Argëtim"
+
+msgid "Error adding download"
+msgstr "Gabim gjatë shtimit të shkarkimit"
+
+msgid "Error extracting video URL"
+msgstr "Gabim gjatë nxjerrjes së URL-së së videos"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Gabim gjatë ngarkimit të programeve A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Gabim gjatë ngarkimit të të dhënave të arkivit"
+
+msgid "Error loading archive data: {}"
+msgstr "Gabim gjatë ngarkimit të të dhënave të arkivit: {}"
+
+msgid "Error loading content from API"
+msgstr "Gabim gjatë ngarkimit të përmbajtjes nga API"
+
+msgid "Error loading data"
+msgstr "Gabim gjatë ngarkimit të të dhënave"
+
+msgid "Error loading data: %s"
+msgstr "Gabim gjatë ngarkimit të të dhënave: %s"
+
+msgid "Error loading data: {}"
+msgstr "Gabim gjatë ngarkimit të të dhënave: {}"
+
+msgid "Error loading video data"
+msgstr "Gabim gjatë ngarkimit të të dhënave të videos"
+
+msgid "Error loading video page"
+msgstr "Gabim gjatë ngarkimit të faqes së videos"
+
+msgid "Error loading videos:"
+msgstr "Gabim gjatë ngarkimit të videove:"
+
+msgid "Error parsing content"
+msgstr "Gabim në analizimin e përmbajtjes"
+
+msgid "Error parsing data"
+msgstr "Gabim në analizimin e të dhënave"
+
+msgid "Error parsing video data: {}"
+msgstr "Gabim në analizimin e të dhënave të videos: {}"
+
+msgid "Error playing file: {}"
+msgstr "Gabim gjatë luajtjes së skedarit: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Gabim gjatë luajtjes së transmetimit: {}"
+
+msgid "Error playing video:"
+msgstr "Gabim gjatë luajtjes së videos:"
+
+msgid "Error processing archive"
+msgstr "Gabim gjatë përpunimit të arkivit"
+
+msgid "Error processing thematic content"
+msgstr "Gabim gjatë përpunimit të përmbajtjes tematike"
+
+msgid "Error starting plugin"
+msgstr "Gabim në nisjen e shtojcës"
+
+msgid "Error: Could not load news data"
+msgstr "Gabim: të dhënat e lajmeve nuk mund të ngarkoheshin"
+
+msgid "Error: Download manager not available"
+msgstr "Gabim: Menaxheri i shkarkimit nuk disponohet"
+
+msgid "Exclusive Programs"
+msgstr "Programet ekskluzive"
+
+msgid "Extracting video URL..."
+msgstr "URL-ja e videos po nxirret..."
+
+msgid "File not found: {}"
+msgstr "Skedari nuk u gjet: {}"
+
+msgid "Films"
+msgstr "Filmat"
+
+msgid "Found {0} programs for: {1}"
+msgstr "U gjetën {0} programe për: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Hapësirë ​​e lirë: {falas} nga {total}"
+
+msgid "Games & Quizzes"
+msgstr "Lojëra & Kuize"
+
+msgid "HDD Drive"
+msgstr "Disku HDD"
+
+msgid "History & Art"
+msgstr "Histori & Art"
+
+msgid "Initializing..."
+msgstr "Po inicializohet..."
+
+msgid "International Series"
+msgstr "Seria Ndërkombëtare"
+
+msgid "Invalid video URL detected"
+msgstr "U zbulua URL e pavlefshme e videos"
+
+msgid "Italian Series"
+msgstr "Seri Italiane"
+
+msgid "Kids"
+msgstr "Fëmijët"
+
+msgid "Learning"
+msgstr "Të mësuarit"
+
+msgid "Lifestyle"
+msgstr "Mënyra e jetesës"
+
+msgid "Live Radio"
+msgstr "Radio drejtpërdrejt"
+
+msgid "Live TV"
+msgstr "TV drejtpërdrejt"
+
+msgid "Loading all programs..."
+msgstr "Po ngarkon të gjitha programet..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Po ngarkohen të gjitha videot... Ju lutemi prisni"
+
+msgid "Loading archive data..."
+msgstr "Po ngarkon të dhënat e arkivit..."
+
+msgid "Loading archive..."
+msgstr "Po ngarkohet arkivi..."
+
+msgid "Loading complete! Select an option"
+msgstr "Ngarkimi përfundoi! Zgjidhni një opsion"
+
+msgid "Loading data... Please wait"
+msgstr "Të dhënat po ngarkohen... Ju lutemi prisni"
+
+msgid "Loading news categories..."
+msgstr "Po ngarkon kategoritë e lajmeve..."
+
+msgid "Loading news items..."
+msgstr "Po ngarkohen artikujt e lajmeve..."
+
+msgid "Loading on-air programs..."
+msgstr "Po ngarkon programet në transmetim..."
+
+msgid "Loading program data"
+msgstr "Ngarkimi i të dhënave të programit"
+
+msgid "Loading program details..."
+msgstr "Detajet e programit po ngarkohen..."
+
+msgid "Loading programs..."
+msgstr "Po ngarkon programet..."
+
+msgid "Loading videos..."
+msgstr "Po ngarkon videot..."
+
+msgid "Music"
+msgstr "Muzikë"
+
+msgid "Music & Theater"
+msgstr "Muzikë dhe Teatër"
+
+msgid "Music Classic"
+msgstr "Muzikë klasike"
+
+msgid "Network Storage"
+msgstr "Ruajtja e rrjetit"
+
+msgid "News & Documentaries"
+msgstr "Lajme & Dokumentarë"
+
+msgid "News Categories"
+msgstr "Kategoritë e lajmeve"
+
+msgid "Next page"
+msgstr "Faqja tjetër"
+
+msgid "No TV channels available"
+msgstr "Nuk disponohen kanale televizive"
+
+msgid "No archive data found"
+msgstr "Nuk u gjetën të dhëna arkivi"
+
+msgid "No categories available"
+msgstr "Nuk ka kategori të disponueshme"
+
+msgid "No content available"
+msgstr "Nuk ka përmbajtje të disponueshme"
+
+msgid "No content found in this program"
+msgstr "Nuk u gjet asnjë përmbajtje në këtë program"
+
+msgid "No downloads"
+msgstr "Nuk ka shkarkime"
+
+msgid "No downloads in queue"
+msgstr "Nuk ka shkarkime në radhë"
+
+msgid "No editions available"
+msgstr "Nuk ka botime të disponueshme"
+
+msgid "No episodes available"
+msgstr "Nuk ka episode të disponueshme"
+
+msgid "No items available"
+msgstr "Nuk ka artikuj të disponueshëm"
+
+msgid "No items found"
+msgstr "Nuk u gjet asnjë artikull"
+
+msgid "No items found in this archive"
+msgstr "Nuk u gjet asnjë artikull në këtë arkiv"
+
+msgid "No items found in this category"
+msgstr "Nuk u gjet asnjë artikull në këtë kategori"
+
+msgid "No main theme found"
+msgstr "Nuk u gjet asnjë temë kryesore"
+
+msgid "No program URL available"
+msgstr "Nuk disponohet URL e programit"
+
+msgid "No program categories available"
+msgstr "Nuk ka kategori programesh të disponueshme"
+
+msgid "No programs available for this day"
+msgstr "Nuk ka programe të disponueshme për këtë ditë"
+
+msgid "No programs currently on air"
+msgstr "Aktualisht nuk ka programe në transmetim"
+
+msgid "No programs found for:"
+msgstr "Nuk u gjet asnjë program për:"
+
+msgid "No programs found in A-Z list"
+msgstr "Nuk u gjet asnjë program në listën A-Z"
+
+msgid "No sports categories available"
+msgstr "Nuk ka kategori sportive të disponueshme"
+
+msgid "No stream URL available"
+msgstr "Nuk disponohet URL e transmetimit"
+
+msgid "No video URL available"
+msgstr "Nuk disponohet URL e videos"
+
+msgid "No video URL found in the response"
+msgstr "Nuk u gjet asnjë URL e videos në përgjigje"
+
+msgid "No videos available"
+msgstr "Nuk ka video të disponueshme"
+
+msgid "No videos found"
+msgstr "Nuk u gjet asnjë video"
+
+msgid "No videos found in archive"
+msgstr "Nuk u gjet asnjë video në arkiv"
+
+msgid "On Air Programs"
+msgstr "Programet në transmetim"
+
+msgid "On Demand"
+msgstr "Sipas kërkesës"
+
+msgid "Originals"
+msgstr "Origjinale"
+
+msgid "Page"
+msgstr "Faqe"
+
+msgid "Page with duplicate"
+msgstr "Faqe me dublikatë"
+
+msgid "Pagination not supported for this archive"
+msgstr "Faqja nuk mbështetet për këtë arkiv"
+
+msgid "Play"
+msgstr "Luaj"
+
+msgid "Play & Download"
+msgstr "Luaj & Shkarko"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Luajtja/ndërprerja nuk mbështetet për këtë transmetim"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Lista e programeve është ende duke u ngarkuar. Ju lutem prisni..."
+
+msgid "Programs"
+msgstr "Programet"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Kërkesa shumë e shkurtër (min 3 karaktere)"
+
+msgid "Radio Programs A-Z"
+msgstr "Programet radiofonike A-Z"
+
+msgid "Rai News"
+msgstr ""
+
+msgid "Rai Play Live"
+msgstr "Rai Luaj Live"
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr "Rai Play kryesore"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Luaj sipas kërkesës"
+
+msgid "Rai Play Programs"
+msgstr "Programet Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "Riprodhimi i Rai Play:"
+
+msgid "Rai Play Search"
+msgstr "Kërko Rai Play"
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategoritë"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Nënkategoritë"
+
+msgid "RaiPlay Settings"
+msgstr "Cilësimet e RaiPlay"
+
+msgid "Remove"
+msgstr "Hiq"
+
+msgid "Remove download: {}?"
+msgstr "Të hiqet shkarkimi: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "U hoq nga radha: {}"
+
+msgid "Replay TV"
+msgstr "Rishikoni TV"
+
+msgid "Search"
+msgstr "Kërko"
+
+msgid "Search error. Please try again."
+msgstr "Gabim kërkimi. Ju lutemi provoni përsëri."
+
+msgid "Searching through programs..."
+msgstr "Duke kërkuar nëpër programe..."
+
+msgid "Select a category"
+msgstr "Zgjidhni një kategori"
+
+msgid "Select a video"
+msgstr "Zgjidhni një video"
+
+msgid "Select block"
+msgstr "Zgjidhni bllokun"
+
+msgid "Select category"
+msgstr "Zgjidhni kategorinë"
+
+msgid "Select channel"
+msgstr "Zgjidhni kanalin"
+
+msgid "Select content set"
+msgstr "Zgjidhni grupin e përmbajtjes"
+
+msgid "Select date"
+msgstr "Zgjidhni datën"
+
+msgid "Select edition"
+msgstr "Zgjidhni botimin"
+
+msgid "Select episode"
+msgstr "Zgjidh episodin"
+
+msgid "Select item"
+msgstr "Zgjidhni artikullin"
+
+msgid "Select letter"
+msgstr "Zgjidhni shkronjën"
+
+msgid "Select program"
+msgstr "Zgjidhni programin"
+
+msgid "Select program to watch"
+msgstr "Zgjidhni programin për të parë"
+
+msgid "Select subcategory"
+msgstr "Zgjidhni nënkategori"
+
+msgid "Select video"
+msgstr "Zgjidhni videon"
+
+msgid "Society & Culture"
+msgstr "Shoqëria & Kultura"
+
+msgid "Sports"
+msgstr "Sportive"
+
+msgid "Start"
+msgstr "Filloni"
+
+msgid "Stop"
+msgstr "Ndalo"
+
+msgid "Stop the download first before removing"
+msgstr "Ndaloni fillimisht shkarkimin përpara se ta hiqni"
+
+msgid "Sustainability"
+msgstr "Qëndrueshmëria"
+
+msgid "TGR and Special Programs"
+msgstr "TGR dhe Programet Speciale"
+
+msgid "TV News"
+msgstr "Lajmet televizive"
+
+msgid "TV Programs A-Z"
+msgstr "Programet televizive A-Z"
+
+msgid "Talk Shows"
+msgstr ""
+
+msgid "Tech & Learning"
+msgstr "Teknika & Mësimi"
+
+msgid "Teens"
+msgstr "Adoleshencë"
+
+msgid "Temporary"
+msgstr "E përkohshme"
+
+msgid "Test download added to queue"
+msgstr "Shkarkimi i testit u shtua në radhë"
+
+msgid "Test download failed"
+msgstr "Shkarkimi i testit dështoi"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Gjithsej: {gjithsej} | Aktive: {aktive} | Në radhë: {në radhë} | E përfunduar: {përfunduar} | Gabimet: {gabime}"
+
+msgid "Travel & Adventure"
+msgstr "Udhëtim & Aventurë"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "Lloji i panjohur i përmbajtjes"
+
+msgid "Unknown data format"
+msgstr "Format i panjohur i të dhënave"
+
+msgid "Unknown title"
+msgstr "Titulli i panjohur"
+
+msgid "Video URL not available"
+msgstr "URL-ja e videos nuk disponohet"
+
+msgid "Video URL not found"
+msgstr "URL-ja e videos nuk u gjet"
+
+msgid "Video not available"
+msgstr "Videoja nuk disponohet"
+
+msgid "View Full Archive"
+msgstr "Shikoni arkivin e plotë"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "MIRË SE VINI NË RAI PLAY PLUGINS BY LULULLA"

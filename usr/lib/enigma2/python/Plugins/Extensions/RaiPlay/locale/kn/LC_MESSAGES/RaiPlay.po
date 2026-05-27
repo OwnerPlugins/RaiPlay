@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:47+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kannada <debian-l10n-kannada@lists.debian.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z ಎಲ್ಲಾ ಕಾರ್ಯಕ್ರಮಗಳು"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z ರೇಡಿಯೋ ಕಾರ್ಯಕ್ರಮಗಳು"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z ಟಿವಿ ಶೋಗಳು"
+
+msgid "Activate Debug for messages developer."
+msgstr "ಸಂದೇಶಗಳ ಡೆವಲಪರ್‌ಗಾಗಿ ಡೀಬಗ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ."
+
+msgid "Active Debug"
+msgstr "ಸಕ್ರಿಯ ಡೀಬಗ್"
+
+msgid "Added to queue: {}"
+msgstr "ಸರದಿಯಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ: {}"
+
+msgid "All Programs"
+msgstr "ಎಲ್ಲಾ ಕಾರ್ಯಕ್ರಮಗಳು"
+
+msgid "Archive URL not found"
+msgstr "ಆರ್ಕೈವ್ URL ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "Back"
+msgstr "ಹಿಂದೆ"
+
+msgid "Barry Allen"
+msgstr "ಬ್ಯಾರಿ ಅಲೆನ್"
+
+msgid "Choose action for: {}"
+msgstr "ಇದಕ್ಕಾಗಿ ಕ್ರಿಯೆಯನ್ನು ಆರಿಸಿ: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "ನಕಲುಗಳಿಂದ ಕ್ಯೂ ಅನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ"
+
+msgid "Content type not recognized"
+msgstr "ವಿಷಯ ಪ್ರಕಾರವನ್ನು ಗುರುತಿಸಲಾಗಿಲ್ಲ"
+
+msgid "Could not find video URL"
+msgstr "ವೀಡಿಯೊ URL ಅನ್ನು ಹುಡುಕಲಾಗಲಿಲ್ಲ"
+
+msgid "Could not load program content"
+msgstr "ಪ್ರೋಗ್ರಾಂ ವಿಷಯವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"
+
+msgid "Crime"
+msgstr "ಅಪರಾಧ"
+
+msgid "Crime Investigations"
+msgstr "ಅಪರಾಧ ತನಿಖೆಗಳು"
+
+msgid "Default Folder"
+msgstr "ಡೀಫಾಲ್ಟ್ ಫೋಲ್ಡರ್"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "ಚಲನಚಿತ್ರ ಫೈಲ್‌ಗಳನ್ನು ತೆರೆಯಲು ಮತ್ತು ಉಳಿಸಲು ಡೀಫಾಲ್ಟ್ ಫೋಲ್ಡರ್"
+
+msgid "Documentaries"
+msgstr "ಸಾಕ್ಷ್ಯಚಿತ್ರಗಳು"
+
+msgid "Download"
+msgstr "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+
+msgid "Download Manager"
+msgstr "ಡೌನ್‌ಲೋಡ್ ಮ್ಯಾನೇಜರ್"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ಡೌನ್‌ಲೋಡ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ: {str(ಐಟಂ['ಶೀರ್ಷಿಕೆ'])}"
+
+msgid "Download started: {}"
+msgstr "ಡೌನ್‌ಲೋಡ್ ಪ್ರಾರಂಭವಾಗಿದೆ: {}"
+
+msgid "Download stopped: {}"
+msgstr "ಡೌನ್‌ಲೋಡ್ ನಿಲ್ಲಿಸಲಾಗಿದೆ: {}"
+
+msgid "Enter search query"
+msgstr "ಹುಡುಕಾಟ ಪ್ರಶ್ನೆಯನ್ನು ನಮೂದಿಸಿ"
+
+msgid "Entertainment"
+msgstr "ಮನರಂಜನೆ"
+
+msgid "Error adding download"
+msgstr "ಡೌನ್‌ಲೋಡ್ ಸೇರಿಸುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error extracting video URL"
+msgstr "ವೀಡಿಯೊ URL ಅನ್ನು ಹೊರತೆಗೆಯುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A-Z ಪ್ರೋಗ್ರಾಂಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ: {}"
+
+msgid "Error loading archive data"
+msgstr "ಆರ್ಕೈವ್ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error loading archive data: {}"
+msgstr "ಆರ್ಕೈವ್ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ: {}"
+
+msgid "Error loading content from API"
+msgstr "API ನಿಂದ ವಿಷಯವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error loading data"
+msgstr "ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error loading data: %s"
+msgstr "ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ: %s"
+
+msgid "Error loading data: {}"
+msgstr "ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ: {}"
+
+msgid "Error loading video data"
+msgstr "ವೀಡಿಯೊ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error loading video page"
+msgstr "ವೀಡಿಯೊ ಪುಟವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error loading videos:"
+msgstr "ವೀಡಿಯೊಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ:"
+
+msgid "Error parsing content"
+msgstr "ವಿಷಯವನ್ನು ಪಾರ್ಸ್ ಮಾಡುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error parsing data"
+msgstr "ಡೇಟಾವನ್ನು ಪಾರ್ಸ್ ಮಾಡುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error parsing video data: {}"
+msgstr "ವೀಡಿಯೊ ಡೇಟಾವನ್ನು ಪಾರ್ಸ್ ಮಾಡುವಲ್ಲಿ ದೋಷ: {}"
+
+msgid "Error playing file: {}"
+msgstr "ಫೈಲ್ ಪ್ಲೇ ಮಾಡುವಲ್ಲಿ ದೋಷ: {}"
+
+msgid "Error playing stream: {}"
+msgstr "ಸ್ಟ್ರೀಮ್ ಪ್ಲೇ ಮಾಡುವಲ್ಲಿ ದೋಷ: {}"
+
+msgid "Error playing video:"
+msgstr "ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡುವಲ್ಲಿ ದೋಷ:"
+
+msgid "Error processing archive"
+msgstr "ಆರ್ಕೈವ್ ಅನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error processing thematic content"
+msgstr "ವಿಷಯಾಧಾರಿತ ವಿಷಯವನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error starting plugin"
+msgstr "ಪ್ಲಗಿನ್ ಪ್ರಾರಂಭಿಸುವಲ್ಲಿ ದೋಷ"
+
+msgid "Error: Could not load news data"
+msgstr "ದೋಷ: ಸುದ್ದಿ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"
+
+msgid "Error: Download manager not available"
+msgstr "ದೋಷ: ಡೌನ್‌ಲೋಡ್ ಮ್ಯಾನೇಜರ್ ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "Exclusive Programs"
+msgstr "ವಿಶೇಷ ಕಾರ್ಯಕ್ರಮಗಳು"
+
+msgid "Extracting video URL..."
+msgstr "ವೀಡಿಯೊ URL ಅನ್ನು ಹೊರತೆಗೆಯಲಾಗುತ್ತಿದೆ..."
+
+msgid "File not found: {}"
+msgstr "ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ: {}"
+
+msgid "Films"
+msgstr "ಚಲನಚಿತ್ರಗಳು"
+
+msgid "Found {0} programs for: {1}"
+msgstr "ಇದಕ್ಕಾಗಿ {0} ಕಾರ್ಯಕ್ರಮಗಳು ಕಂಡುಬಂದಿವೆ: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "ಉಚಿತ ಸ್ಥಳ: {total} ರಲ್ಲಿ {free}"
+
+msgid "Games & Quizzes"
+msgstr "ಆಟಗಳು ಮತ್ತು ರಸಪ್ರಶ್ನೆಗಳು"
+
+msgid "HDD Drive"
+msgstr "HDD ಡ್ರೈವ್"
+
+msgid "History & Art"
+msgstr "ಇತಿಹಾಸ ಮತ್ತು ಕಲೆ"
+
+msgid "Initializing..."
+msgstr "ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ..."
+
+msgid "International Series"
+msgstr "ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸರಣಿ"
+
+msgid "Invalid video URL detected"
+msgstr "ಅಮಾನ್ಯ ವೀಡಿಯೊ URL ಪತ್ತೆಯಾಗಿದೆ"
+
+msgid "Italian Series"
+msgstr "ಇಟಾಲಿಯನ್ ಸರಣಿ"
+
+msgid "Kids"
+msgstr "ಮಕ್ಕಳು"
+
+msgid "Learning"
+msgstr "ಕಲಿಕೆ"
+
+msgid "Lifestyle"
+msgstr "ಜೀವನಶೈಲಿ"
+
+msgid "Live Radio"
+msgstr "ಲೈವ್ ರೇಡಿಯೋ"
+
+msgid "Live TV"
+msgstr "ಲೈವ್ ಟಿವಿ"
+
+msgid "Loading all programs..."
+msgstr "ಎಲ್ಲಾ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "Loading all videos... Please wait"
+msgstr "ಎಲ್ಲಾ ವೀಡಿಯೊಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ... ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ"
+
+msgid "Loading archive data..."
+msgstr "ಆರ್ಕೈವ್ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "Loading archive..."
+msgstr "ಆರ್ಕೈವ್ ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
+
+msgid "Loading complete! Select an option"
+msgstr "ಲೋಡ್ ಆಗುತ್ತಿದೆ! ಒಂದು ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ"
+
+msgid "Loading data... Please wait"
+msgstr "ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ... ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ"
+
+msgid "Loading news categories..."
+msgstr "ಸುದ್ದಿ ವರ್ಗಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "Loading news items..."
+msgstr "ಸುದ್ದಿ ಐಟಂಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "Loading on-air programs..."
+msgstr "ಪ್ರಸಾರ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "Loading program data"
+msgstr "ಪ್ರೋಗ್ರಾಂ ಡೇಟಾವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"
+
+msgid "Loading program details..."
+msgstr "ಕಾರ್ಯಕ್ರಮದ ವಿವರಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "Loading programs..."
+msgstr "ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "Loading videos..."
+msgstr "ವೀಡಿಯೊಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "Music"
+msgstr "ಸಂಗೀತ"
+
+msgid "Music & Theater"
+msgstr "ಸಂಗೀತ ಮತ್ತು ರಂಗಭೂಮಿ"
+
+msgid "Music Classic"
+msgstr "ಸಂಗೀತ ಶಾಸ್ತ್ರೀಯ"
+
+msgid "Network Storage"
+msgstr "ನೆಟ್ವರ್ಕ್ ಸಂಗ್ರಹಣೆ"
+
+msgid "News & Documentaries"
+msgstr "ಸುದ್ದಿ ಮತ್ತು ಸಾಕ್ಷ್ಯಚಿತ್ರಗಳು"
+
+msgid "News Categories"
+msgstr "ಸುದ್ದಿ ವರ್ಗಗಳು"
+
+msgid "Next page"
+msgstr "ಮುಂದಿನ ಪುಟ"
+
+msgid "No TV channels available"
+msgstr "ಯಾವುದೇ ಟಿವಿ ಚಾನೆಲ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No archive data found"
+msgstr "ಯಾವುದೇ ಆರ್ಕೈವ್ ಡೇಟಾ ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No categories available"
+msgstr "ಯಾವುದೇ ವರ್ಗಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No content available"
+msgstr "ಯಾವುದೇ ವಿಷಯ ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No content found in this program"
+msgstr "ಈ ಪ್ರೋಗ್ರಾಂನಲ್ಲಿ ಯಾವುದೇ ವಿಷಯ ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No downloads"
+msgstr "ಯಾವುದೇ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಲ್ಲ"
+
+msgid "No downloads in queue"
+msgstr "ಸರದಿಯಲ್ಲಿ ಯಾವುದೇ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಲ್ಲ"
+
+msgid "No editions available"
+msgstr "ಯಾವುದೇ ಆವೃತ್ತಿಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No episodes available"
+msgstr "ಯಾವುದೇ ಸಂಚಿಕೆಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No items available"
+msgstr "ಯಾವುದೇ ಐಟಂಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No items found"
+msgstr "ಯಾವುದೇ ಐಟಂಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No items found in this archive"
+msgstr "ಈ ಆರ್ಕೈವ್‌ನಲ್ಲಿ ಯಾವುದೇ ಐಟಂಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No items found in this category"
+msgstr "ಈ ವರ್ಗದಲ್ಲಿ ಯಾವುದೇ ಐಟಂಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No main theme found"
+msgstr "ಯಾವುದೇ ಮುಖ್ಯ ಥೀಮ್ ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No program URL available"
+msgstr "ಯಾವುದೇ ಪ್ರೋಗ್ರಾಂ URL ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No program categories available"
+msgstr "ಯಾವುದೇ ಪ್ರೋಗ್ರಾಂ ವರ್ಗಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No programs available for this day"
+msgstr "ಈ ದಿನಕ್ಕೆ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No programs currently on air"
+msgstr "ಪ್ರಸ್ತುತ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮಗಳು ಪ್ರಸಾರವಾಗುತ್ತಿಲ್ಲ"
+
+msgid "No programs found for:"
+msgstr "ಇದಕ್ಕಾಗಿ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮಗಳು ಕಂಡುಬಂದಿಲ್ಲ:"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದೇ ಪ್ರೋಗ್ರಾಂಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No sports categories available"
+msgstr "ಯಾವುದೇ ಕ್ರೀಡಾ ವಿಭಾಗಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No stream URL available"
+msgstr "ಯಾವುದೇ ಸ್ಟ್ರೀಮ್ URL ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No video URL available"
+msgstr "ಯಾವುದೇ ವೀಡಿಯೊ URL ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No video URL found in the response"
+msgstr "ಪ್ರತಿಕ್ರಿಯೆಯಲ್ಲಿ ಯಾವುದೇ ವೀಡಿಯೊ URL ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No videos available"
+msgstr "ಯಾವುದೇ ವೀಡಿಯೊಗಳು ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "No videos found"
+msgstr "ಯಾವುದೇ ವೀಡಿಯೊಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "No videos found in archive"
+msgstr "ಆರ್ಕೈವ್‌ನಲ್ಲಿ ಯಾವುದೇ ವೀಡಿಯೊಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "On Air Programs"
+msgstr "ಪ್ರಸಾರ ಕಾರ್ಯಕ್ರಮಗಳು"
+
+msgid "On Demand"
+msgstr "ಬೇಡಿಕೆಯ ಮೇರೆಗೆ"
+
+msgid "Originals"
+msgstr "ಮೂಲಗಳು"
+
+msgid "Page"
+msgstr "ಪುಟ"
+
+msgid "Page with duplicate"
+msgstr "ನಕಲಿನೊಂದಿಗೆ ಪುಟ"
+
+msgid "Pagination not supported for this archive"
+msgstr "ಈ ಆರ್ಕೈವ್‌ಗೆ ಪುಟ ವಿನ್ಯಾಸವು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"
+
+msgid "Play"
+msgstr "ಪ್ಲೇ ಮಾಡಿ"
+
+msgid "Play & Download"
+msgstr "ಪ್ಲೇ ಮಾಡಿ ಮತ್ತು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+
+msgid "Play/pause not supported for this stream"
+msgstr "ಈ ಸ್ಟ್ರೀಮ್‌ಗೆ ಪ್ಲೇ/ವಿರಾಮ ಬೆಂಬಲವಿಲ್ಲ"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "ಕಾರ್ಯಕ್ರಮ ಪಟ್ಟಿ ಇನ್ನೂ ಲೋಡ್ ಆಗುತ್ತಿದೆ. ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ..."
+
+msgid "Programs"
+msgstr "ಕಾರ್ಯಕ್ರಮಗಳು"
+
+msgid "Query too short (min 3 characters)"
+msgstr "ಪ್ರಶ್ನೆ ತುಂಬಾ ಚಿಕ್ಕದಾಗಿದೆ (ನಿಮಿಷ 3 ಅಕ್ಷರಗಳು)"
+
+msgid "Radio Programs A-Z"
+msgstr "ರೇಡಿಯೋ ಕಾರ್ಯಕ್ರಮಗಳು A-Z"
+
+msgid "Rai News"
+msgstr "ರೈ ನ್ಯೂಸ್"
+
+msgid "Rai Play Live"
+msgstr "ರೈ ಲೈವ್ ಪ್ಲೇ ಮಾಡಿ"
+
+msgid "Rai Play Live Radio"
+msgstr "ರೈ ಲೈವ್ ರೇಡಿಯೋ ಪ್ಲೇ ಮಾಡಿ"
+
+msgid "Rai Play Main"
+msgstr "ರೈ ಪ್ಲೇ ಮುಖ್ಯ"
+
+msgid "Rai Play On Demand"
+msgstr "ರೈ ಪ್ಲೇ ಆನ್ ಡಿಮ್ಯಾಂಡ್"
+
+msgid "Rai Play Programs"
+msgstr "ರೈ ಪ್ಲೇ ಕಾರ್ಯಕ್ರಮಗಳು"
+
+msgid "Rai Play Replay TV"
+msgstr "ರೈ ಪ್ಲೇ ರಿಪ್ಲೇ ಟಿವಿ"
+
+msgid "Rai Play Replay:"
+msgstr "ರೈ ಪ್ಲೇ ರಿಪ್ಲೇ:"
+
+msgid "Rai Play Search"
+msgstr "ರೈ ಪ್ಲೇ ಹುಡುಕಾಟ"
+
+msgid "Rai Sport"
+msgstr "ರೈ ಸ್ಪೋರ್ಟ್ಸ್"
+
+msgid "Rai Sport - Categories"
+msgstr "ರೈ ಸ್ಪೋರ್ಟ್ - ವರ್ಗಗಳು"
+
+msgid "Rai Sport - Subcategories"
+msgstr "ರೈ ಸ್ಪೋರ್ಟ್ - ಉಪವರ್ಗಗಳು"
+
+msgid "RaiPlay Settings"
+msgstr "ರೈಪ್ಲೇ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+
+msgid "Remove"
+msgstr "ತೆಗೆದುಹಾಕಿ"
+
+msgid "Remove download: {}?"
+msgstr "ಡೌನ್‌ಲೋಡ್ ತೆಗೆದುಹಾಕಿ: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "ಸರದಿಯಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ: {}"
+
+msgid "Replay TV"
+msgstr "ಟಿವಿ ರಿಪ್ಲೇ ಮಾಡಿ"
+
+msgid "Search"
+msgstr "ಹುಡುಕು"
+
+msgid "Search error. Please try again."
+msgstr "ಹುಡುಕಾಟ ದೋಷ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+
+msgid "Searching through programs..."
+msgstr "ಕಾರ್ಯಕ್ರಮಗಳ ಮೂಲಕ ಹುಡುಕಲಾಗುತ್ತಿದೆ..."
+
+msgid "Select a category"
+msgstr "ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select a video"
+msgstr "ವೀಡಿಯೊವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select block"
+msgstr "ಬ್ಲಾಕ್ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select category"
+msgstr "ವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select channel"
+msgstr "ಚಾನಲ್ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select content set"
+msgstr "ವಿಷಯ ಸೆಟ್ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select date"
+msgstr "ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select edition"
+msgstr "ಆವೃತ್ತಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select episode"
+msgstr "ಸಂಚಿಕೆ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select item"
+msgstr "ಐಟಂ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select letter"
+msgstr "ಅಕ್ಷರವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select program"
+msgstr "ಪ್ರೋಗ್ರಾಂ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select program to watch"
+msgstr "ವೀಕ್ಷಿಸಲು ಪ್ರೋಗ್ರಾಂ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select subcategory"
+msgstr "ಉಪವರ್ಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Select video"
+msgstr "ವೀಡಿಯೊ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Society & Culture"
+msgstr "ಸಮಾಜ ಮತ್ತು ಸಂಸ್ಕೃತಿ"
+
+msgid "Sports"
+msgstr "ಕ್ರೀಡೆಗಳು"
+
+msgid "Start"
+msgstr "ಪ್ರಾರಂಭಿಸಿ"
+
+msgid "Stop"
+msgstr "ನಿಲ್ಲಿಸು"
+
+msgid "Stop the download first before removing"
+msgstr "ತೆಗೆದುಹಾಕುವ ಮೊದಲು ಡೌನ್‌ಲೋಡ್ ಅನ್ನು ಮೊದಲು ನಿಲ್ಲಿಸಿ"
+
+msgid "Sustainability"
+msgstr "ಸಮರ್ಥನೀಯತೆ"
+
+msgid "TGR and Special Programs"
+msgstr "ಟಿಜಿಆರ್ ಮತ್ತು ವಿಶೇಷ ಕಾರ್ಯಕ್ರಮಗಳು"
+
+msgid "TV News"
+msgstr "ಟಿವಿ ಸುದ್ದಿ"
+
+msgid "TV Programs A-Z"
+msgstr "ಟಿವಿ ಕಾರ್ಯಕ್ರಮಗಳು A-Z"
+
+msgid "Talk Shows"
+msgstr "ಟಾಕ್ ಶೋಗಳು"
+
+msgid "Tech & Learning"
+msgstr "ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಕಲಿಕೆ"
+
+msgid "Teens"
+msgstr "ಹದಿಹರೆಯದವರು"
+
+msgid "Temporary"
+msgstr "ತಾತ್ಕಾಲಿಕ"
+
+msgid "Test download added to queue"
+msgstr "ಪರೀಕ್ಷಾ ಡೌನ್‌ಲೋಡ್ ಅನ್ನು ಸರದಿಯಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ"
+
+msgid "Test download failed"
+msgstr "ಪರೀಕ್ಷಾ ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "ಒಟ್ಟು: {ಒಟ್ಟು} | ಸಕ್ರಿಯ: {ಸಕ್ರಿಯ} | ಸರತಿಯಲ್ಲಿದೆ: {ಸರಣಿಯಲ್ಲಿ} | ಪೂರ್ಣಗೊಂಡಿದೆ: {ಪೂರ್ಣಗೊಂಡಿದೆ} | ದೋಷಗಳು: {ದೋಷಗಳು}"
+
+msgid "Travel & Adventure"
+msgstr "ಪ್ರಯಾಣ ಮತ್ತು ಸಾಹಸ"
+
+msgid "USB Drive"
+msgstr "USB ಡ್ರೈವ್"
+
+msgid "Unknown content type"
+msgstr "ಅಜ್ಞಾತ ವಿಷಯ ಪ್ರಕಾರ"
+
+msgid "Unknown data format"
+msgstr "ಅಜ್ಞಾತ ಡೇಟಾ ಸ್ವರೂಪ"
+
+msgid "Unknown title"
+msgstr "ಅಜ್ಞಾತ ಶೀರ್ಷಿಕೆ"
+
+msgid "Video URL not available"
+msgstr "ವೀಡಿಯೊ URL ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "Video URL not found"
+msgstr "ವೀಡಿಯೊ URL ಕಂಡುಬಂದಿಲ್ಲ"
+
+msgid "Video not available"
+msgstr "ವೀಡಿಯೊ ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "View Full Archive"
+msgstr "ಪೂರ್ಣ ಆರ್ಕೈವ್ ವೀಕ್ಷಿಸಿ"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "ಲುಲುಲ್ಲಾ ಅವರ ರೈ ಪ್ಲೇ ಪ್ಲಗಿನ್‌ಗಳಿಗೆ ಸ್ವಾಗತ"

@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:04+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic <(nothing)>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "جميع البرامج من الألف إلى الياء"
+
+msgid "A-Z Radio Shows"
+msgstr "البرامج الإذاعية من الألف إلى الياء"
+
+msgid "A-Z TV Shows"
+msgstr "البرامج التلفزيونية من الألف إلى الياء"
+
+msgid "Activate Debug for messages developer."
+msgstr "تفعيل تصحيح الأخطاء لمطور الرسائل."
+
+msgid "Active Debug"
+msgstr "التصحيح النشط"
+
+msgid "Added to queue: {}"
+msgstr "تمت الإضافة إلى قائمة الانتظار: {}"
+
+msgid "All Programs"
+msgstr "جميع البرامج"
+
+msgid "Archive URL not found"
+msgstr "لم يتم العثور على عنوان URL للأرشيف"
+
+msgid "Back"
+msgstr "خلف"
+
+msgid "Barry Allen"
+msgstr "باري ألين"
+
+msgid "Choose action for: {}"
+msgstr "اختر إجراءً لـ: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "قائمة الانتظار نظيفة من التكرارات"
+
+msgid "Content type not recognized"
+msgstr "لم يتم التعرف على نوع المحتوى"
+
+msgid "Could not find video URL"
+msgstr "تعذر العثور على عنوان URL للفيديو"
+
+msgid "Could not load program content"
+msgstr "لا يمكن تحميل محتوى البرنامج"
+
+msgid "Crime"
+msgstr "جريمة"
+
+msgid "Crime Investigations"
+msgstr "تحقيقات الجريمة"
+
+msgid "Default Folder"
+msgstr "المجلد الافتراضي"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "المجلد الافتراضي لفتح وحفظ ملفات الأفلام"
+
+msgid "Documentaries"
+msgstr "أفلام وثائقية"
+
+msgid "Download"
+msgstr "تحميل"
+
+msgid "Download Manager"
+msgstr "مدير التحميل"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "تمت إزالة التنزيل: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "بدأ التنزيل: {}"
+
+msgid "Download stopped: {}"
+msgstr "توقف التنزيل: {}"
+
+msgid "Enter search query"
+msgstr "أدخل استعلام البحث"
+
+msgid "Entertainment"
+msgstr "ترفيه"
+
+msgid "Error adding download"
+msgstr "حدث خطأ أثناء إضافة التنزيل"
+
+msgid "Error extracting video URL"
+msgstr "حدث خطأ أثناء استخراج عنوان URL للفيديو"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "خطأ في تحميل البرامج من الألف إلى الياء: {}"
+
+msgid "Error loading archive data"
+msgstr "حدث خطأ أثناء تحميل بيانات الأرشيف"
+
+msgid "Error loading archive data: {}"
+msgstr "خطأ في تحميل بيانات الأرشيف: {}"
+
+msgid "Error loading content from API"
+msgstr "حدث خطأ أثناء تحميل المحتوى من واجهة برمجة التطبيقات"
+
+msgid "Error loading data"
+msgstr "حدث خطأ أثناء تحميل البيانات"
+
+msgid "Error loading data: %s"
+msgstr "خطأ في تحميل البيانات: %s"
+
+msgid "Error loading data: {}"
+msgstr "خطأ في تحميل البيانات: {}"
+
+msgid "Error loading video data"
+msgstr "حدث خطأ أثناء تحميل بيانات الفيديو"
+
+msgid "Error loading video page"
+msgstr "حدث خطأ أثناء تحميل صفحة الفيديو"
+
+msgid "Error loading videos:"
+msgstr "حدث خطأ أثناء تحميل مقاطع الفيديو:"
+
+msgid "Error parsing content"
+msgstr "خطأ في تحليل المحتوى"
+
+msgid "Error parsing data"
+msgstr "خطأ في تحليل البيانات"
+
+msgid "Error parsing video data: {}"
+msgstr "خطأ في تحليل بيانات الفيديو: {}"
+
+msgid "Error playing file: {}"
+msgstr "خطأ في تشغيل الملف: {}"
+
+msgid "Error playing stream: {}"
+msgstr "حدث خطأ أثناء تشغيل البث: {}"
+
+msgid "Error playing video:"
+msgstr "خطأ في تشغيل الفيديو:"
+
+msgid "Error processing archive"
+msgstr "خطأ في معالجة الأرشيف"
+
+msgid "Error processing thematic content"
+msgstr "حدث خطأ أثناء معالجة المحتوى الموضوعي"
+
+msgid "Error starting plugin"
+msgstr "خطأ في بدء البرنامج المساعد"
+
+msgid "Error: Could not load news data"
+msgstr "خطأ: تعذر تحميل بيانات الأخبار"
+
+msgid "Error: Download manager not available"
+msgstr "خطأ: مدير التنزيل غير متوفر"
+
+msgid "Exclusive Programs"
+msgstr "برامج حصرية"
+
+msgid "Extracting video URL..."
+msgstr "جارٍ استخراج عنوان URL للفيديو..."
+
+msgid "File not found: {}"
+msgstr "لم يتم العثور على الملف: {}"
+
+msgid "Films"
+msgstr "أفلام"
+
+msgid "Found {0} programs for: {1}"
+msgstr "تم العثور على {0} برامج لـ: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "المساحة الحرة: {free} من {total}"
+
+msgid "Games & Quizzes"
+msgstr "الألعاب والاختبارات"
+
+msgid "HDD Drive"
+msgstr "محرك الأقراص الصلبة"
+
+msgid "History & Art"
+msgstr "التاريخ والفن"
+
+msgid "Initializing..."
+msgstr "جارٍ التهيئة..."
+
+msgid "International Series"
+msgstr "سلسلة عالمية"
+
+msgid "Invalid video URL detected"
+msgstr "تم اكتشاف عنوان URL للفيديو غير صالح"
+
+msgid "Italian Series"
+msgstr "مسلسل ايطالي"
+
+msgid "Kids"
+msgstr "أطفال"
+
+msgid "Learning"
+msgstr "تعلُّم"
+
+msgid "Lifestyle"
+msgstr "نمط الحياة"
+
+msgid "Live Radio"
+msgstr "راديو مباشر"
+
+msgid "Live TV"
+msgstr "البث التلفزيوني المباشر"
+
+msgid "Loading all programs..."
+msgstr "جاري تحميل كافة البرامج..."
+
+msgid "Loading all videos... Please wait"
+msgstr "جارٍ تحميل جميع مقاطع الفيديو... يرجى الانتظار"
+
+msgid "Loading archive data..."
+msgstr "جارٍ تحميل بيانات الأرشيف..."
+
+msgid "Loading archive..."
+msgstr "جارٍ تحميل الأرشيف..."
+
+msgid "Loading complete! Select an option"
+msgstr "اكتمل التحميل! حدد خيارًا"
+
+msgid "Loading data... Please wait"
+msgstr "جارٍ تحميل البيانات... الرجاء الانتظار"
+
+msgid "Loading news categories..."
+msgstr "جارٍ تحميل فئات الأخبار..."
+
+msgid "Loading news items..."
+msgstr "جارٍ تحميل عناصر الأخبار..."
+
+msgid "Loading on-air programs..."
+msgstr "جاري تحميل البرامج على الهواء..."
+
+msgid "Loading program data"
+msgstr "تحميل بيانات البرنامج"
+
+msgid "Loading program details..."
+msgstr "جارٍ تحميل تفاصيل البرنامج..."
+
+msgid "Loading programs..."
+msgstr "جارٍ تحميل البرامج..."
+
+msgid "Loading videos..."
+msgstr "جارٍ تحميل مقاطع الفيديو..."
+
+msgid "Music"
+msgstr "موسيقى"
+
+msgid "Music & Theater"
+msgstr "الموسيقى والمسرح"
+
+msgid "Music Classic"
+msgstr "الموسيقى الكلاسيكية"
+
+msgid "Network Storage"
+msgstr "تخزين الشبكة"
+
+msgid "News & Documentaries"
+msgstr "الأخبار والأفلام الوثائقية"
+
+msgid "News Categories"
+msgstr "فئات الأخبار"
+
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+msgid "No TV channels available"
+msgstr "لا توجد قنوات تلفزيونية متاحة"
+
+msgid "No archive data found"
+msgstr "لم يتم العثور على بيانات الأرشيف"
+
+msgid "No categories available"
+msgstr "لا توجد فئات متاحة"
+
+msgid "No content available"
+msgstr "لا يوجد محتوى متاح"
+
+msgid "No content found in this program"
+msgstr "لم يتم العثور على محتوى في هذا البرنامج"
+
+msgid "No downloads"
+msgstr "لا التنزيلات"
+
+msgid "No downloads in queue"
+msgstr "لا التنزيلات في قائمة الانتظار"
+
+msgid "No editions available"
+msgstr "لا توجد طبعات متاحة"
+
+msgid "No episodes available"
+msgstr "لا توجد حلقات متاحة"
+
+msgid "No items available"
+msgstr "لا توجد عناصر متاحة"
+
+msgid "No items found"
+msgstr "لم يتم العثور على أي عناصر"
+
+msgid "No items found in this archive"
+msgstr "لم يتم العثور على عناصر في هذا الأرشيف"
+
+msgid "No items found in this category"
+msgstr "لم يتم العثور على عناصر في هذه الفئة"
+
+msgid "No main theme found"
+msgstr "لم يتم العثور على موضوع رئيسي"
+
+msgid "No program URL available"
+msgstr "لا يتوفر عنوان URL للبرنامج"
+
+msgid "No program categories available"
+msgstr "لا توجد فئات البرامج المتاحة"
+
+msgid "No programs available for this day"
+msgstr "لا توجد برامج متاحة لهذا اليوم"
+
+msgid "No programs currently on air"
+msgstr "لا توجد برامج على الهواء حاليا"
+
+msgid "No programs found for:"
+msgstr "لم يتم العثور على برامج لـ:"
+
+msgid "No programs found in A-Z list"
+msgstr "لم يتم العثور على برامج في قائمة A-Z"
+
+msgid "No sports categories available"
+msgstr "لا توجد فئات رياضية متاحة"
+
+msgid "No stream URL available"
+msgstr "لا يتوفر عنوان URL للبث"
+
+msgid "No video URL available"
+msgstr "لا يتوفر عنوان URL للفيديو"
+
+msgid "No video URL found in the response"
+msgstr "لم يتم العثور على عنوان URL للفيديو في الرد"
+
+msgid "No videos available"
+msgstr "لا توجد مقاطع فيديو متاحة"
+
+msgid "No videos found"
+msgstr "لم يتم العثور على مقاطع فيديو"
+
+msgid "No videos found in archive"
+msgstr "لم يتم العثور على مقاطع فيديو في الأرشيف"
+
+msgid "On Air Programs"
+msgstr "برامج على الهواء"
+
+msgid "On Demand"
+msgstr "عند الطلب"
+
+msgid "Originals"
+msgstr "أصول"
+
+msgid "Page"
+msgstr "صفحة"
+
+msgid "Page with duplicate"
+msgstr "صفحة بها نسخ مكررة"
+
+msgid "Pagination not supported for this archive"
+msgstr "ترقيم الصفحات غير مدعوم لهذا الأرشيف"
+
+msgid "Play"
+msgstr "يلعب"
+
+msgid "Play & Download"
+msgstr "لعب وتنزيل"
+
+msgid "Play/pause not supported for this stream"
+msgstr "التشغيل/الإيقاف المؤقت غير مدعوم لهذا الدفق"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "قائمة البرامج لا تزال قيد التحميل. انتظر من فضلك..."
+
+msgid "Programs"
+msgstr "البرامج"
+
+msgid "Query too short (min 3 characters)"
+msgstr "الاستعلام قصير جدًا (3 أحرف على الأقل)"
+
+msgid "Radio Programs A-Z"
+msgstr "البرامج الإذاعية من الألف إلى الياء"
+
+msgid "Rai News"
+msgstr "أخبار الراي"
+
+msgid "Rai Play Live"
+msgstr "راي تلعب لايف"
+
+msgid "Rai Play Live Radio"
+msgstr "راي تلعب راديو مباشر"
+
+msgid "Rai Play Main"
+msgstr "راي تلعب الرئيسية"
+
+msgid "Rai Play On Demand"
+msgstr "راي اللعب على الطلب"
+
+msgid "Rai Play Programs"
+msgstr "برامج تشغيل الراي"
+
+msgid "Rai Play Replay TV"
+msgstr "راي بلاي ريبلاي تي في"
+
+msgid "Rai Play Replay:"
+msgstr "إعادة تشغيل لعبة الراي:"
+
+msgid "Rai Play Search"
+msgstr "بحث لعب الراي"
+
+msgid "Rai Sport"
+msgstr "الراي سبورتس"
+
+msgid "Rai Sport - Categories"
+msgstr "راي سبورت - الفئات"
+
+msgid "Rai Sport - Subcategories"
+msgstr "راي سبورت - الفئات الفرعية"
+
+msgid "RaiPlay Settings"
+msgstr "إعدادات رايبلاي"
+
+msgid "Remove"
+msgstr "يزيل"
+
+msgid "Remove download: {}?"
+msgstr "إزالة التنزيل: {}؟"
+
+msgid "Removed from queue: {}"
+msgstr "تمت الإزالة من قائمة الانتظار: {}"
+
+msgid "Replay TV"
+msgstr "إعادة تشغيل التلفاز"
+
+msgid "Search"
+msgstr "يبحث"
+
+msgid "Search error. Please try again."
+msgstr "خطأ في البحث. يرجى المحاولة مرة أخرى."
+
+msgid "Searching through programs..."
+msgstr "البحث في البرامج..."
+
+msgid "Select a category"
+msgstr "حدد فئة"
+
+msgid "Select a video"
+msgstr "حدد مقطع فيديو"
+
+msgid "Select block"
+msgstr "حدد الكتلة"
+
+msgid "Select category"
+msgstr "اختر الفئة"
+
+msgid "Select channel"
+msgstr "اختر القناة"
+
+msgid "Select content set"
+msgstr "حدد مجموعة المحتوى"
+
+msgid "Select date"
+msgstr "اختر التاريخ"
+
+msgid "Select edition"
+msgstr "حدد الطبعة"
+
+msgid "Select episode"
+msgstr "اختر الحلقة"
+
+msgid "Select item"
+msgstr "حدد العنصر"
+
+msgid "Select letter"
+msgstr "حدد الحرف"
+
+msgid "Select program"
+msgstr "حدد البرنامج"
+
+msgid "Select program to watch"
+msgstr "حدد البرنامج للمشاهدة"
+
+msgid "Select subcategory"
+msgstr "حدد فئة فرعية"
+
+msgid "Select video"
+msgstr "حدد الفيديو"
+
+msgid "Society & Culture"
+msgstr "المجتمع والثقافة"
+
+msgid "Sports"
+msgstr "الرياضة"
+
+msgid "Start"
+msgstr "يبدأ"
+
+msgid "Stop"
+msgstr "قف"
+
+msgid "Stop the download first before removing"
+msgstr "أوقف التنزيل أولاً قبل الإزالة"
+
+msgid "Sustainability"
+msgstr "الاستدامة"
+
+msgid "TGR and Special Programs"
+msgstr "TGR والبرامج الخاصة"
+
+msgid "TV News"
+msgstr "أخبار التلفزيون"
+
+msgid "TV Programs A-Z"
+msgstr "البرامج التلفزيونية من الألف إلى الياء"
+
+msgid "Talk Shows"
+msgstr "البرامج الحوارية"
+
+msgid "Tech & Learning"
+msgstr "التكنولوجيا والتعلم"
+
+msgid "Teens"
+msgstr "مراهقون"
+
+msgid "Temporary"
+msgstr "مؤقت"
+
+msgid "Test download added to queue"
+msgstr "تمت إضافة التنزيل التجريبي إلى قائمة الانتظار"
+
+msgid "Test download failed"
+msgstr "فشل التنزيل التجريبي"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "الإجمالي: {المجموع} | نشط: {نشط} | في قائمة الانتظار: {في قائمة الانتظار} | اكتملت: {اكتملت} | الأخطاء: {أخطاء}"
+
+msgid "Travel & Adventure"
+msgstr "السفر والمغامرة"
+
+msgid "USB Drive"
+msgstr "محرك USB"
+
+msgid "Unknown content type"
+msgstr "نوع محتوى غير معروف"
+
+msgid "Unknown data format"
+msgstr "تنسيق بيانات غير معروف"
+
+msgid "Unknown title"
+msgstr "عنوان غير معروف"
+
+msgid "Video URL not available"
+msgstr "عنوان URL للفيديو غير متوفر"
+
+msgid "Video URL not found"
+msgstr "لم يتم العثور على عنوان URL للفيديو"
+
+msgid "Video not available"
+msgstr "الفيديو غير متوفر"
+
+msgid "View Full Archive"
+msgstr "عرض الأرشيف الكامل"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "مرحبًا بك في مكونات RAI PLAY الإضافية من LULULLA"

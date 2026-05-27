@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:12+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hebrew <heb-bugzap@hamakor.org.il>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A-Z All Programs"
+msgstr "א-ז כל התוכניות"
+
+msgid "A-Z Radio Shows"
+msgstr "תוכניות רדיו א-ז"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z תוכניות טלוויזיה"
+
+msgid "Activate Debug for messages developer."
+msgstr "הפעל ניפוי באגים עבור מפתח הודעות."
+
+msgid "Active Debug"
+msgstr "ניפוי באגים פעיל"
+
+msgid "Added to queue: {}"
+msgstr "נוסף לתור: {}"
+
+msgid "All Programs"
+msgstr "כל התוכניות"
+
+msgid "Archive URL not found"
+msgstr "כתובת האתר לארכיון לא נמצאה"
+
+msgid "Back"
+msgstr "בְּחֲזָרָה"
+
+msgid "Barry Allen"
+msgstr "בארי אלן"
+
+msgid "Choose action for: {}"
+msgstr "בחר פעולה עבור: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "נקה תור מכפילויות"
+
+msgid "Content type not recognized"
+msgstr "סוג התוכן לא מזוהה"
+
+msgid "Could not find video URL"
+msgstr "לא ניתן למצוא את כתובת האתר של הסרטון"
+
+msgid "Could not load program content"
+msgstr "לא ניתן היה לטעון את תוכן התוכנית"
+
+msgid "Crime"
+msgstr "פֶּשַׁע"
+
+msgid "Crime Investigations"
+msgstr "חקירות פשע"
+
+msgid "Default Folder"
+msgstr "תיקיית ברירת מחדל"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "תיקיית ברירת מחדל לפתיחה ושמירה של קבצי סרטים"
+
+msgid "Documentaries"
+msgstr "סרטים תיעודיים"
+
+msgid "Download"
+msgstr "הורד"
+
+msgid "Download Manager"
+msgstr "מנהל הורדות"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ההורדה הוסרה: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "ההורדה החלה: {}"
+
+msgid "Download stopped: {}"
+msgstr "ההורדה הופסקה: {}"
+
+msgid "Enter search query"
+msgstr "הזן שאילתת חיפוש"
+
+msgid "Entertainment"
+msgstr "בידור"
+
+msgid "Error adding download"
+msgstr "שגיאה בהוספת הורדה"
+
+msgid "Error extracting video URL"
+msgstr "שגיאה בחילוץ כתובת האתר של הסרטון"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "שגיאה בטעינת תוכניות A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "שגיאה בטעינת נתוני ארכיון"
+
+msgid "Error loading archive data: {}"
+msgstr "שגיאה בטעינת נתוני ארכיון: {}"
+
+msgid "Error loading content from API"
+msgstr "שגיאה בטעינת תוכן מ-API"
+
+msgid "Error loading data"
+msgstr "שגיאה בטעינת נתונים"
+
+msgid "Error loading data: %s"
+msgstr "שגיאה בטעינת נתונים: %s"
+
+msgid "Error loading data: {}"
+msgstr "שגיאה בטעינת נתונים: {}"
+
+msgid "Error loading video data"
+msgstr "שגיאה בטעינת נתוני וידאו"
+
+msgid "Error loading video page"
+msgstr "שגיאה בטעינת דף הסרטון"
+
+msgid "Error loading videos:"
+msgstr "שגיאה בטעינת סרטונים:"
+
+msgid "Error parsing content"
+msgstr "שגיאה בניתוח תוכן"
+
+msgid "Error parsing data"
+msgstr "שגיאה בניתוח נתונים"
+
+msgid "Error parsing video data: {}"
+msgstr "שגיאה בניתוח נתוני וידאו: {}"
+
+msgid "Error playing file: {}"
+msgstr "שגיאה בהפעלת הקובץ: {}"
+
+msgid "Error playing stream: {}"
+msgstr "שגיאה בהפעלת זרם: {}"
+
+msgid "Error playing video:"
+msgstr "שגיאה בהפעלת הסרטון:"
+
+msgid "Error processing archive"
+msgstr "שגיאה בעיבוד הארכיון"
+
+msgid "Error processing thematic content"
+msgstr "שגיאה בעיבוד תוכן נושאי"
+
+msgid "Error starting plugin"
+msgstr "שגיאה בהפעלת הפלאגין"
+
+msgid "Error: Could not load news data"
+msgstr "שגיאה: לא ניתן היה לטעון נתוני חדשות"
+
+msgid "Error: Download manager not available"
+msgstr "שגיאה: מנהל ההורדות אינו זמין"
+
+msgid "Exclusive Programs"
+msgstr "תוכניות בלעדיות"
+
+msgid "Extracting video URL..."
+msgstr "מחלץ את כתובת האתר של הסרטון..."
+
+msgid "File not found: {}"
+msgstr "הקובץ לא נמצא: {}"
+
+msgid "Films"
+msgstr "סרטים"
+
+msgid "Found {0} programs for: {1}"
+msgstr "נמצאו {0} תוכניות עבור: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "מקום פנוי: {free} מתוך {total}"
+
+msgid "Games & Quizzes"
+msgstr "משחקים וחידונים"
+
+msgid "HDD Drive"
+msgstr "כונן HDD"
+
+msgid "History & Art"
+msgstr "היסטוריה ואמנות"
+
+msgid "Initializing..."
+msgstr "מאתחל..."
+
+msgid "International Series"
+msgstr "סדרה בינלאומית"
+
+msgid "Invalid video URL detected"
+msgstr "זוהתה כתובת אתר לא חוקית של סרטון"
+
+msgid "Italian Series"
+msgstr "סדרה איטלקית"
+
+msgid "Kids"
+msgstr "ילדים"
+
+msgid "Learning"
+msgstr "לְמִידָה"
+
+msgid "Lifestyle"
+msgstr "אורח חיים"
+
+msgid "Live Radio"
+msgstr "רדיו חי"
+
+msgid "Live TV"
+msgstr "טלוויזיה בשידור חי"
+
+msgid "Loading all programs..."
+msgstr "טוען את כל התוכניות..."
+
+msgid "Loading all videos... Please wait"
+msgstr "טוען את כל הסרטונים... אנא המתן"
+
+msgid "Loading archive data..."
+msgstr "טוען נתוני ארכיון..."
+
+msgid "Loading archive..."
+msgstr "טוען ארכיון..."
+
+msgid "Loading complete! Select an option"
+msgstr "הטעינה הושלמה! בחר אפשרות"
+
+msgid "Loading data... Please wait"
+msgstr "טוען נתונים... אנא המתן"
+
+msgid "Loading news categories..."
+msgstr "טוען קטגוריות חדשות..."
+
+msgid "Loading news items..."
+msgstr "טוען ידיעות..."
+
+msgid "Loading on-air programs..."
+msgstr "טוען תוכניות באוויר..."
+
+msgid "Loading program data"
+msgstr "טוען נתוני תוכנית"
+
+msgid "Loading program details..."
+msgstr "טוען את פרטי התוכנית..."
+
+msgid "Loading programs..."
+msgstr "טוען תוכניות..."
+
+msgid "Loading videos..."
+msgstr "טוען סרטונים..."
+
+msgid "Music"
+msgstr "מוּסִיקָה"
+
+msgid "Music & Theater"
+msgstr "מוזיקה ותיאטרון"
+
+msgid "Music Classic"
+msgstr "מוזיקה קלאסית"
+
+msgid "Network Storage"
+msgstr "אחסון רשת"
+
+msgid "News & Documentaries"
+msgstr "חדשות וסרטים דוקומנטריים"
+
+msgid "News Categories"
+msgstr "קטגוריות חדשות"
+
+msgid "Next page"
+msgstr "העמוד הבא"
+
+msgid "No TV channels available"
+msgstr "אין ערוצי טלוויזיה זמינים"
+
+msgid "No archive data found"
+msgstr "לא נמצאו נתוני ארכיון"
+
+msgid "No categories available"
+msgstr "אין קטגוריות זמינות"
+
+msgid "No content available"
+msgstr "אין תוכן זמין"
+
+msgid "No content found in this program"
+msgstr "לא נמצא תוכן בתוכנית זו"
+
+msgid "No downloads"
+msgstr "אין הורדות"
+
+msgid "No downloads in queue"
+msgstr "אין הורדות בתור"
+
+msgid "No editions available"
+msgstr "אין מהדורות זמינות"
+
+msgid "No episodes available"
+msgstr "אין פרקים זמינים"
+
+msgid "No items available"
+msgstr "אין פריטים זמינים"
+
+msgid "No items found"
+msgstr "לא נמצאו פריטים"
+
+msgid "No items found in this archive"
+msgstr "לא נמצאו פריטים בארכיון זה"
+
+msgid "No items found in this category"
+msgstr "לא נמצאו פריטים בקטגוריה זו"
+
+msgid "No main theme found"
+msgstr "לא נמצא נושא ראשי"
+
+msgid "No program URL available"
+msgstr "אין כתובת אתר זמינה של התוכנית"
+
+msgid "No program categories available"
+msgstr "אין קטגוריות תוכניות זמינות"
+
+msgid "No programs available for this day"
+msgstr "אין תוכניות זמינות ליום זה"
+
+msgid "No programs currently on air"
+msgstr "כרגע אין תוכניות משודרות"
+
+msgid "No programs found for:"
+msgstr "לא נמצאו תוכניות עבור:"
+
+msgid "No programs found in A-Z list"
+msgstr "לא נמצאו תוכניות ברשימת A-Z"
+
+msgid "No sports categories available"
+msgstr "אין קטגוריות ספורט זמינות"
+
+msgid "No stream URL available"
+msgstr "אין כתובת אתר זמינה לסטרימינג"
+
+msgid "No video URL available"
+msgstr "אין כתובת אתר זמינה של סרטון"
+
+msgid "No video URL found in the response"
+msgstr "לא נמצאה כתובת אתר של סרטון בתגובה"
+
+msgid "No videos available"
+msgstr "אין סרטונים זמינים"
+
+msgid "No videos found"
+msgstr "לא נמצאו סרטונים"
+
+msgid "No videos found in archive"
+msgstr "לא נמצאו סרטונים בארכיון"
+
+msgid "On Air Programs"
+msgstr "תוכניות בשידור"
+
+msgid "On Demand"
+msgstr "לפי דרישה"
+
+msgid "Originals"
+msgstr "מקוריים"
+
+msgid "Page"
+msgstr "עַמוּד"
+
+msgid "Page with duplicate"
+msgstr "עמוד עם שכפול"
+
+msgid "Pagination not supported for this archive"
+msgstr "עימוד לא נתמך עבור ארכיון זה"
+
+msgid "Play"
+msgstr "לְשַׂחֵק"
+
+msgid "Play & Download"
+msgstr "הפעל והורד"
+
+msgid "Play/pause not supported for this stream"
+msgstr "הפעלה/השהיה לא נתמכת עבור הזרם הזה"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "רשימת התוכניות עדיין בטעינה. אנא המתן..."
+
+msgid "Programs"
+msgstr "תוכניות"
+
+msgid "Query too short (min 3 characters)"
+msgstr "שאילתה קצרה מדי (מינימום 3 תווים)"
+
+msgid "Radio Programs A-Z"
+msgstr "תוכניות רדיו א'-ת'"
+
+msgid "Rai News"
+msgstr "ראי חדשות"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play רדיו חי"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr "Rai Play לפי דרישה"
+
+msgid "Rai Play Programs"
+msgstr "Rai Play תוכניות"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "Rai Play שידור חוזר:"
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "ראי ספורט"
+
+msgid "Rai Sport - Categories"
+msgstr "ראי ספורט - קטגוריות"
+
+msgid "Rai Sport - Subcategories"
+msgstr "ראי ספורט - קטגוריות משנה"
+
+msgid "RaiPlay Settings"
+msgstr "הגדרות RaiPlay"
+
+msgid "Remove"
+msgstr "לְהַסִיר"
+
+msgid "Remove download: {}?"
+msgstr "להסיר את ההורדה: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "הוסר מהתור: {}"
+
+msgid "Replay TV"
+msgstr "הפעלה חוזרת של טלוויזיה"
+
+msgid "Search"
+msgstr "לְחַפֵּשׂ"
+
+msgid "Search error. Please try again."
+msgstr "שגיאת חיפוש. אנא נסה שוב."
+
+msgid "Searching through programs..."
+msgstr "חיפוש בתוכנות..."
+
+msgid "Select a category"
+msgstr "בחר קטגוריה"
+
+msgid "Select a video"
+msgstr "בחר סרטון"
+
+msgid "Select block"
+msgstr "בחר בלוק"
+
+msgid "Select category"
+msgstr "בחר קטגוריה"
+
+msgid "Select channel"
+msgstr "בחר ערוץ"
+
+msgid "Select content set"
+msgstr ""
+
+msgid "Select date"
+msgstr ""
+
+msgid "Select edition"
+msgstr "בחר מהדורה"
+
+msgid "Select episode"
+msgstr "בחר פרק"
+
+msgid "Select item"
+msgstr "בחר פריט"
+
+msgid "Select letter"
+msgstr "בחר אות"
+
+msgid "Select program"
+msgstr "בחר תוכנית"
+
+msgid "Select program to watch"
+msgstr "בחר תוכנית לצפייה"
+
+msgid "Select subcategory"
+msgstr "בחר קטגוריית משנה"
+
+msgid "Select video"
+msgstr "בחר סרטון"
+
+msgid "Society & Culture"
+msgstr "חברה ותרבות"
+
+msgid "Sports"
+msgstr "ספורט"
+
+msgid "Start"
+msgstr "הַתחָלָה"
+
+msgid "Stop"
+msgstr "לְהַפְסִיק"
+
+msgid "Stop the download first before removing"
+msgstr "עצור את ההורדה תחילה לפני ההסרה"
+
+msgid "Sustainability"
+msgstr "קיימות"
+
+msgid "TGR and Special Programs"
+msgstr "TGR ותוכניות מיוחדות"
+
+msgid "TV News"
+msgstr "חדשות טלוויזיה"
+
+msgid "TV Programs A-Z"
+msgstr "תוכניות טלוויזיה א'-ת'"
+
+msgid "Talk Shows"
+msgstr "תוכניות אירוח"
+
+msgid "Tech & Learning"
+msgstr "טכנולוגיה ולמידה"
+
+msgid "Teens"
+msgstr "שְׁנוֹת הָעֶשׂרֵה"
+
+msgid "Temporary"
+msgstr "זְמַנִי"
+
+msgid "Test download added to queue"
+msgstr "הורדת בדיקה נוספה לתור"
+
+msgid "Test download failed"
+msgstr "הורדת הבדיקה נכשלה"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "סה"כ: {סה"כ} | פעיל: {active} | בתור: {תור} | הושלם: {הושלם} | שגיאות: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "נסיעות והרפתקאות"
+
+msgid "USB Drive"
+msgstr "כונן USB"
+
+msgid "Unknown content type"
+msgstr "סוג תוכן לא ידוע"
+
+msgid "Unknown data format"
+msgstr "פורמט נתונים לא ידוע"
+
+msgid "Unknown title"
+msgstr "כותרת לא ידועה"
+
+msgid "Video URL not available"
+msgstr "כתובת האתר של הסרטון אינה זמינה"
+
+msgid "Video URL not found"
+msgstr "כתובת האתר של הסרטון לא נמצאה"
+
+msgid "Video not available"
+msgstr "הסרטון אינו זמין"
+
+msgid "View Full Archive"
+msgstr "צפה בארכיון המלא"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "ברוכים הבאים ל-RAI PLAY פלאגין מאת LULULLA"

@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:43+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Tất cả chương trình"
+
+msgid "A-Z Radio Shows"
+msgstr "Chương trình phát thanh A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "Chương trình truyền hình A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "Kích hoạt Gỡ lỗi cho nhà phát triển tin nhắn."
+
+msgid "Active Debug"
+msgstr "Gỡ lỗi hoạt động"
+
+msgid "Added to queue: {}"
+msgstr "Đã thêm vào hàng đợi: {}"
+
+msgid "All Programs"
+msgstr "Tất cả chương trình"
+
+msgid "Archive URL not found"
+msgstr "Không tìm thấy URL lưu trữ"
+
+msgid "Back"
+msgstr "Mặt sau"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Chọn hành động cho: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Làm sạch hàng đợi khỏi trùng lặp"
+
+msgid "Content type not recognized"
+msgstr "Loại nội dung không được công nhận"
+
+msgid "Could not find video URL"
+msgstr "Không thể tìm thấy URL video"
+
+msgid "Could not load program content"
+msgstr "Không thể tải nội dung chương trình"
+
+msgid "Crime"
+msgstr "Tội phạm"
+
+msgid "Crime Investigations"
+msgstr "Điều tra tội phạm"
+
+msgid "Default Folder"
+msgstr "Thư mục mặc định"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Thư mục mặc định để mở và lưu file Phim"
+
+msgid "Documentaries"
+msgstr "Phim tài liệu"
+
+msgid "Download"
+msgstr "Tải xuống"
+
+msgid "Download Manager"
+msgstr "Trình quản lý tải xuống"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Đã xóa tải xuống: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Đã bắt đầu tải xuống: {}"
+
+msgid "Download stopped: {}"
+msgstr "Đã ngừng tải xuống: {}"
+
+msgid "Enter search query"
+msgstr "Nhập truy vấn tìm kiếm"
+
+msgid "Entertainment"
+msgstr "Sự giải trí"
+
+msgid "Error adding download"
+msgstr "Lỗi khi thêm tải xuống"
+
+msgid "Error extracting video URL"
+msgstr "Lỗi trích xuất URL video"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Lỗi tải chương trình A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Lỗi tải dữ liệu lưu trữ"
+
+msgid "Error loading archive data: {}"
+msgstr "Lỗi tải dữ liệu lưu trữ: {}"
+
+msgid "Error loading content from API"
+msgstr "Lỗi tải nội dung từ API"
+
+msgid "Error loading data"
+msgstr "Lỗi tải dữ liệu"
+
+msgid "Error loading data: %s"
+msgstr "Lỗi tải dữ liệu: %s"
+
+msgid "Error loading data: {}"
+msgstr "Lỗi tải dữ liệu: {}"
+
+msgid "Error loading video data"
+msgstr "Lỗi tải dữ liệu video"
+
+msgid "Error loading video page"
+msgstr "Lỗi tải trang video"
+
+msgid "Error loading videos:"
+msgstr "Lỗi tải video:"
+
+msgid "Error parsing content"
+msgstr "Lỗi phân tích nội dung"
+
+msgid "Error parsing data"
+msgstr "Lỗi phân tích dữ liệu"
+
+msgid "Error parsing video data: {}"
+msgstr "Lỗi phân tích cú pháp dữ liệu video: {}"
+
+msgid "Error playing file: {}"
+msgstr "Lỗi khi phát tệp: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Lỗi phát luồng: {}"
+
+msgid "Error playing video:"
+msgstr "Lỗi phát video:"
+
+msgid "Error processing archive"
+msgstr "Lỗi xử lý kho lưu trữ"
+
+msgid "Error processing thematic content"
+msgstr "Lỗi xử lý nội dung chuyên đề"
+
+msgid "Error starting plugin"
+msgstr "Lỗi khởi động plugin"
+
+msgid "Error: Could not load news data"
+msgstr "Lỗi: Không thể tải dữ liệu tin tức"
+
+msgid "Error: Download manager not available"
+msgstr "Lỗi: Trình quản lý tải xuống không có sẵn"
+
+msgid "Exclusive Programs"
+msgstr "Chương trình độc quyền"
+
+msgid "Extracting video URL..."
+msgstr "Đang trích xuất URL video..."
+
+msgid "File not found: {}"
+msgstr "Không tìm thấy tệp: {}"
+
+msgid "Films"
+msgstr "Phim"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Đã tìm thấy {0} chương trình cho: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Dung lượng trống: {miễn phí} trong tổng số {total}"
+
+msgid "Games & Quizzes"
+msgstr "Trò chơi & Câu đố"
+
+msgid "HDD Drive"
+msgstr "Ổ đĩa cứng"
+
+msgid "History & Art"
+msgstr "Lịch sử & Nghệ thuật"
+
+msgid "Initializing..."
+msgstr "Đang khởi tạo..."
+
+msgid "International Series"
+msgstr "Dòng quốc tế"
+
+msgid "Invalid video URL detected"
+msgstr "Đã phát hiện URL video không hợp lệ"
+
+msgid "Italian Series"
+msgstr "Dòng Ý"
+
+msgid "Kids"
+msgstr "trẻ em"
+
+msgid "Learning"
+msgstr "Học hỏi"
+
+msgid "Lifestyle"
+msgstr "Phong cách sống"
+
+msgid "Live Radio"
+msgstr "Đài phát thanh trực tiếp"
+
+msgid "Live TV"
+msgstr "Truyền hình trực tiếp"
+
+msgid "Loading all programs..."
+msgstr "Đang tải tất cả các chương trình..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Đang tải tất cả video... Vui lòng đợi"
+
+msgid "Loading archive data..."
+msgstr "Đang tải dữ liệu lưu trữ..."
+
+msgid "Loading archive..."
+msgstr "Đang tải kho lưu trữ..."
+
+msgid "Loading complete! Select an option"
+msgstr "Đang tải hoàn tất! Chọn một tùy chọn"
+
+msgid "Loading data... Please wait"
+msgstr "Đang tải dữ liệu... Vui lòng đợi"
+
+msgid "Loading news categories..."
+msgstr "Đang tải danh mục tin tức..."
+
+msgid "Loading news items..."
+msgstr "Đang tải các mục tin tức..."
+
+msgid "Loading on-air programs..."
+msgstr "Đang tải các chương trình đang phát sóng..."
+
+msgid "Loading program data"
+msgstr "Đang tải dữ liệu chương trình"
+
+msgid "Loading program details..."
+msgstr "Đang tải chi tiết chương trình..."
+
+msgid "Loading programs..."
+msgstr "Đang tải chương trình..."
+
+msgid "Loading videos..."
+msgstr "Đang tải video..."
+
+msgid "Music"
+msgstr "Âm nhạc"
+
+msgid "Music & Theater"
+msgstr "Âm nhạc & Sân khấu"
+
+msgid "Music Classic"
+msgstr "Âm nhạc cổ điển"
+
+msgid "Network Storage"
+msgstr "Lưu trữ mạng"
+
+msgid "News & Documentaries"
+msgstr "Tin tức & Phim tài liệu"
+
+msgid "News Categories"
+msgstr "Danh mục tin tức"
+
+msgid "Next page"
+msgstr "Trang tiếp theo"
+
+msgid "No TV channels available"
+msgstr "Không có kênh truyền hình nào"
+
+msgid "No archive data found"
+msgstr "Không tìm thấy dữ liệu lưu trữ"
+
+msgid "No categories available"
+msgstr "Không có danh mục nào"
+
+msgid "No content available"
+msgstr "Không có nội dung có sẵn"
+
+msgid "No content found in this program"
+msgstr "Không tìm thấy nội dung trong chương trình này"
+
+msgid "No downloads"
+msgstr "Không tải xuống"
+
+msgid "No downloads in queue"
+msgstr "Không có lượt tải xuống nào trong hàng đợi"
+
+msgid "No editions available"
+msgstr "Không có phiên bản nào"
+
+msgid "No episodes available"
+msgstr "Không có tập nào"
+
+msgid "No items available"
+msgstr "Không có mặt hàng nào"
+
+msgid "No items found"
+msgstr "Không tìm thấy mục nào"
+
+msgid "No items found in this archive"
+msgstr "Không tìm thấy mục nào trong kho lưu trữ này"
+
+msgid "No items found in this category"
+msgstr "Không tìm thấy mục nào trong danh mục này"
+
+msgid "No main theme found"
+msgstr "Không tìm thấy chủ đề chính"
+
+msgid "No program URL available"
+msgstr "Không có sẵn URL chương trình"
+
+msgid "No program categories available"
+msgstr "Không có danh mục chương trình nào"
+
+msgid "No programs available for this day"
+msgstr "Không có chương trình nào cho ngày này"
+
+msgid "No programs currently on air"
+msgstr "Không có chương trình nào đang được phát sóng"
+
+msgid "No programs found for:"
+msgstr "Không tìm thấy chương trình nào cho:"
+
+msgid "No programs found in A-Z list"
+msgstr "Không tìm thấy chương trình nào trong danh sách A-Z"
+
+msgid "No sports categories available"
+msgstr "Không có danh mục thể thao nào"
+
+msgid "No stream URL available"
+msgstr "Không có URL luồng nào"
+
+msgid "No video URL available"
+msgstr "Không có sẵn URL video"
+
+msgid "No video URL found in the response"
+msgstr "Không tìm thấy URL video trong phản hồi"
+
+msgid "No videos available"
+msgstr "Không có video nào"
+
+msgid "No videos found"
+msgstr "Không tìm thấy video nào"
+
+msgid "No videos found in archive"
+msgstr "Không tìm thấy video nào trong kho lưu trữ"
+
+msgid "On Air Programs"
+msgstr "Chương trình trực tuyến"
+
+msgid "On Demand"
+msgstr "theo yêu cầu"
+
+msgid "Originals"
+msgstr "Bản gốc"
+
+msgid "Page"
+msgstr "Trang"
+
+msgid "Page with duplicate"
+msgstr "Trang có bản sao"
+
+msgid "Pagination not supported for this archive"
+msgstr "Phân trang không được hỗ trợ cho kho lưu trữ này"
+
+msgid "Play"
+msgstr "Chơi"
+
+msgid "Play & Download"
+msgstr "Chơi và tải xuống"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Phát/tạm dừng không được hỗ trợ cho luồng này"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Danh sách chương trình vẫn đang tải. Vui lòng chờ..."
+
+msgid "Programs"
+msgstr "Chương trình"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Truy vấn quá ngắn (tối thiểu 3 ký tự)"
+
+msgid "Radio Programs A-Z"
+msgstr "Chương trình phát thanh A-Z"
+
+msgid "Rai News"
+msgstr "Tin tức Rai"
+
+msgid "Rai Play Live"
+msgstr "Rai Chơi trực tiếp"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Chơi Đài Phát Thanh Trực Tiếp"
+
+msgid "Rai Play Main"
+msgstr "Rai Chơi Chính"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Chơi theo yêu cầu"
+
+msgid "Rai Play Programs"
+msgstr "Chương trình Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Play Phát lại TV"
+
+msgid "Rai Play Replay:"
+msgstr "Rai Chơi Phát lại:"
+
+msgid "Rai Play Search"
+msgstr "Rai Chơi Tìm Kiếm"
+
+msgid "Rai Sport"
+msgstr "Rai thể thao"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Thể loại"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Các danh mục phụ"
+
+msgid "RaiPlay Settings"
+msgstr "Cài đặt RaiPlay"
+
+msgid "Remove"
+msgstr "Di dời"
+
+msgid "Remove download: {}?"
+msgstr "Xóa nội dung tải xuống: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Đã xóa khỏi hàng đợi: {}"
+
+msgid "Replay TV"
+msgstr "Phát lại truyền hình"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "Search error. Please try again."
+msgstr "Lỗi tìm kiếm. Vui lòng thử lại."
+
+msgid "Searching through programs..."
+msgstr "Tìm kiếm thông qua các chương trình..."
+
+msgid "Select a category"
+msgstr "Chọn một danh mục"
+
+msgid "Select a video"
+msgstr "Chọn một video"
+
+msgid "Select block"
+msgstr "Chọn khối"
+
+msgid "Select category"
+msgstr "Chọn danh mục"
+
+msgid "Select channel"
+msgstr "Chọn kênh"
+
+msgid "Select content set"
+msgstr "Chọn bộ nội dung"
+
+msgid "Select date"
+msgstr "Chọn ngày"
+
+msgid "Select edition"
+msgstr "Chọn phiên bản"
+
+msgid "Select episode"
+msgstr "Chọn tập"
+
+msgid "Select item"
+msgstr "Chọn mục"
+
+msgid "Select letter"
+msgstr "Chọn chữ cái"
+
+msgid "Select program"
+msgstr "Chọn chương trình"
+
+msgid "Select program to watch"
+msgstr "Chọn chương trình để xem"
+
+msgid "Select subcategory"
+msgstr "Chọn danh mục phụ"
+
+msgid "Select video"
+msgstr "Chọn video"
+
+msgid "Society & Culture"
+msgstr "Xã hội & Văn hóa"
+
+msgid "Sports"
+msgstr "Thể thao"
+
+msgid "Start"
+msgstr "Bắt đầu"
+
+msgid "Stop"
+msgstr "Dừng lại"
+
+msgid "Stop the download first before removing"
+msgstr "Dừng tải xuống trước khi xóa"
+
+msgid "Sustainability"
+msgstr "Tính bền vững"
+
+msgid "TGR and Special Programs"
+msgstr "TGR và các chương trình đặc biệt"
+
+msgid "TV News"
+msgstr "Tin tức truyền hình"
+
+msgid "TV Programs A-Z"
+msgstr "Chương trình truyền hình A-Z"
+
+msgid "Talk Shows"
+msgstr "Chương trình trò chuyện"
+
+msgid "Tech & Learning"
+msgstr "Công nghệ & Học tập"
+
+msgid "Teens"
+msgstr "Thanh thiếu niên"
+
+msgid "Temporary"
+msgstr "Tạm thời"
+
+msgid "Test download added to queue"
+msgstr "Đã thêm bản tải xuống thử nghiệm vào hàng đợi"
+
+msgid "Test download failed"
+msgstr "Tải xuống thử nghiệm không thành công"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Tổng cộng: {total} | Đang hoạt động: {hoạt động} | Đã xếp hàng: {đã xếp hàng} | Đã hoàn thành: {đã hoàn thành} | Lỗi: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Du lịch & Phiêu lưu"
+
+msgid "USB Drive"
+msgstr "Ổ USB"
+
+msgid "Unknown content type"
+msgstr "Loại nội dung không xác định"
+
+msgid "Unknown data format"
+msgstr "Định dạng dữ liệu không xác định"
+
+msgid "Unknown title"
+msgstr "Tiêu đề không xác định"
+
+msgid "Video URL not available"
+msgstr "URL video không có sẵn"
+
+msgid "Video URL not found"
+msgstr "Không tìm thấy URL video"
+
+msgid "Video not available"
+msgstr "Video không có sẵn"
+
+msgid "View Full Archive"
+msgstr "Xem toàn bộ kho lưu trữ"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "CHÀO MỪNG ĐẾN VỚI RAI PLAY PLUGINS BỞI LULULLA"

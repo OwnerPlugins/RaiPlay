@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Thai <(nothing)>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z โปรแกรมทั้งหมด"
+
+msgid "A-Z Radio Shows"
+msgstr "รายการวิทยุ A-Z"
+
+msgid "A-Z TV Shows"
+msgstr "รายการทีวี A-Z"
+
+msgid "Activate Debug for messages developer."
+msgstr "เปิดใช้งาน Debug สำหรับนักพัฒนาข้อความ"
+
+msgid "Active Debug"
+msgstr "ดีบักที่ใช้งานอยู่"
+
+msgid "Added to queue: {}"
+msgstr "เพิ่มลงในคิว: {}"
+
+msgid "All Programs"
+msgstr "โปรแกรมทั้งหมด"
+
+msgid "Archive URL not found"
+msgstr "ไม่พบ URL ที่เก็บถาวร"
+
+msgid "Back"
+msgstr "กลับ"
+
+msgid "Barry Allen"
+msgstr "แบร์รี่ อัลเลน"
+
+msgid "Choose action for: {}"
+msgstr "เลือกการดำเนินการสำหรับ: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "ทำความสะอาดคิวจากรายการที่ซ้ำกัน"
+
+msgid "Content type not recognized"
+msgstr "ไม่รู้จักประเภทเนื้อหา"
+
+msgid "Could not find video URL"
+msgstr "ไม่พบ URL ของวิดีโอ"
+
+msgid "Could not load program content"
+msgstr "ไม่สามารถโหลดเนื้อหาของโปรแกรมได้"
+
+msgid "Crime"
+msgstr "อาชญากรรม"
+
+msgid "Crime Investigations"
+msgstr "การสืบสวนอาชญากรรม"
+
+msgid "Default Folder"
+msgstr "โฟลเดอร์เริ่มต้น"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "โฟลเดอร์เริ่มต้นสำหรับการเปิดและบันทึกไฟล์ภาพยนตร์"
+
+msgid "Documentaries"
+msgstr "สารคดี"
+
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+msgid "Download Manager"
+msgstr "ตัวจัดการการดาวน์โหลด"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ดาวน์โหลดที่ถูกลบ: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "เริ่มการดาวน์โหลด: {}"
+
+msgid "Download stopped: {}"
+msgstr "การดาวน์โหลดหยุดลง: {}"
+
+msgid "Enter search query"
+msgstr "ป้อนคำค้นหา"
+
+msgid "Entertainment"
+msgstr "ความบันเทิง"
+
+msgid "Error adding download"
+msgstr "เกิดข้อผิดพลาดในการเพิ่มการดาวน์โหลด"
+
+msgid "Error extracting video URL"
+msgstr "เกิดข้อผิดพลาดในการแยก URL ของวิดีโอ"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "เกิดข้อผิดพลาดในการโหลดโปรแกรม A-Z: {}"
+
+msgid "Error loading archive data"
+msgstr "เกิดข้อผิดพลาดในการโหลดข้อมูลที่เก็บถาวร"
+
+msgid "Error loading archive data: {}"
+msgstr "เกิดข้อผิดพลาดในการโหลดข้อมูลที่เก็บถาวร: {}"
+
+msgid "Error loading content from API"
+msgstr "เกิดข้อผิดพลาดในการโหลดเนื้อหาจาก API"
+
+msgid "Error loading data"
+msgstr "เกิดข้อผิดพลาดในการโหลดข้อมูล"
+
+msgid "Error loading data: %s"
+msgstr "เกิดข้อผิดพลาดในการโหลดข้อมูล: %s"
+
+msgid "Error loading data: {}"
+msgstr "เกิดข้อผิดพลาดในการโหลดข้อมูล: {}"
+
+msgid "Error loading video data"
+msgstr "เกิดข้อผิดพลาดในการโหลดข้อมูลวิดีโอ"
+
+msgid "Error loading video page"
+msgstr "เกิดข้อผิดพลาดในการโหลดหน้าวิดีโอ"
+
+msgid "Error loading videos:"
+msgstr "เกิดข้อผิดพลาดในการโหลดวิดีโอ:"
+
+msgid "Error parsing content"
+msgstr "เกิดข้อผิดพลาดในการแยกวิเคราะห์เนื้อหา"
+
+msgid "Error parsing data"
+msgstr "เกิดข้อผิดพลาดในการแยกวิเคราะห์ข้อมูล"
+
+msgid "Error parsing video data: {}"
+msgstr "เกิดข้อผิดพลาดในการแยกวิเคราะห์ข้อมูลวิดีโอ: {}"
+
+msgid "Error playing file: {}"
+msgstr "เกิดข้อผิดพลาดในการเล่นไฟล์: {}"
+
+msgid "Error playing stream: {}"
+msgstr "เกิดข้อผิดพลาดในการเล่นสตรีม: {}"
+
+msgid "Error playing video:"
+msgstr "เกิดข้อผิดพลาดในการเล่นวิดีโอ:"
+
+msgid "Error processing archive"
+msgstr "เกิดข้อผิดพลาดในการประมวลผลไฟล์เก็บถาวร"
+
+msgid "Error processing thematic content"
+msgstr "เกิดข้อผิดพลาดในการประมวลผลเนื้อหาเฉพาะเรื่อง"
+
+msgid "Error starting plugin"
+msgstr "เกิดข้อผิดพลาดในการเริ่มปลั๊กอิน"
+
+msgid "Error: Could not load news data"
+msgstr "ข้อผิดพลาด: ไม่สามารถโหลดข้อมูลข่าวสารได้"
+
+msgid "Error: Download manager not available"
+msgstr "ข้อผิดพลาด: ตัวจัดการดาวน์โหลดไม่พร้อมใช้งาน"
+
+msgid "Exclusive Programs"
+msgstr "โปรแกรมพิเศษ"
+
+msgid "Extracting video URL..."
+msgstr "กำลังแยก URL ของวิดีโอ..."
+
+msgid "File not found: {}"
+msgstr "ไม่พบไฟล์: {}"
+
+msgid "Films"
+msgstr "ภาพยนตร์"
+
+msgid "Found {0} programs for: {1}"
+msgstr "พบ {0} โปรแกรมสำหรับ: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "พื้นที่ว่าง: {free} จาก {total}"
+
+msgid "Games & Quizzes"
+msgstr "เกมและแบบทดสอบ"
+
+msgid "HDD Drive"
+msgstr "ฮาร์ดดิสไดรฟ์"
+
+msgid "History & Art"
+msgstr "ประวัติศาสตร์และศิลปะ"
+
+msgid "Initializing..."
+msgstr "กำลังเริ่มต้น..."
+
+msgid "International Series"
+msgstr "ซีรีส์นานาชาติ"
+
+msgid "Invalid video URL detected"
+msgstr "ตรวจพบ URL ของวิดีโอที่ไม่ถูกต้อง"
+
+msgid "Italian Series"
+msgstr "ซีรีส์อิตาลี"
+
+msgid "Kids"
+msgstr "เด็กๆ"
+
+msgid "Learning"
+msgstr "การเรียนรู้"
+
+msgid "Lifestyle"
+msgstr "ไลฟ์สไตล์"
+
+msgid "Live Radio"
+msgstr "วิทยุถ่ายทอดสด"
+
+msgid "Live TV"
+msgstr "รายการสดทางทีวี"
+
+msgid "Loading all programs..."
+msgstr "กำลังโหลดโปรแกรมทั้งหมด..."
+
+msgid "Loading all videos... Please wait"
+msgstr "กำลังโหลดวิดีโอทั้งหมด... กรุณารอสักครู่"
+
+msgid "Loading archive data..."
+msgstr "กำลังโหลดข้อมูลที่เก็บถาวร..."
+
+msgid "Loading archive..."
+msgstr "กำลังโหลดที่เก็บถาวร..."
+
+msgid "Loading complete! Select an option"
+msgstr "กำลังโหลดเสร็จสมบูรณ์! เลือกตัวเลือก"
+
+msgid "Loading data... Please wait"
+msgstr "กำลังโหลดข้อมูล... กรุณารอสักครู่"
+
+msgid "Loading news categories..."
+msgstr "กำลังโหลดหมวดหมู่ข่าว..."
+
+msgid "Loading news items..."
+msgstr "กำลังโหลดรายการข่าว..."
+
+msgid "Loading on-air programs..."
+msgstr "กำลังโหลดรายการออนแอร์..."
+
+msgid "Loading program data"
+msgstr "กำลังโหลดข้อมูลโปรแกรม"
+
+msgid "Loading program details..."
+msgstr "กำลังโหลดรายละเอียดโปรแกรม..."
+
+msgid "Loading programs..."
+msgstr "กำลังโหลดโปรแกรม..."
+
+msgid "Loading videos..."
+msgstr "กำลังโหลดวิดีโอ..."
+
+msgid "Music"
+msgstr "ดนตรี"
+
+msgid "Music & Theater"
+msgstr "ดนตรีและละคร"
+
+msgid "Music Classic"
+msgstr "ดนตรีคลาสสิก"
+
+msgid "Network Storage"
+msgstr "ที่เก็บข้อมูลเครือข่าย"
+
+msgid "News & Documentaries"
+msgstr "ข่าวและสารคดี"
+
+msgid "News Categories"
+msgstr "หมวดหมู่ข่าว"
+
+msgid "Next page"
+msgstr "หน้าถัดไป"
+
+msgid "No TV channels available"
+msgstr "ไม่มีช่องทีวีให้เลือก"
+
+msgid "No archive data found"
+msgstr "ไม่พบข้อมูลที่เก็บถาวร"
+
+msgid "No categories available"
+msgstr "ไม่มีหมวดหมู่ที่ใช้ได้"
+
+msgid "No content available"
+msgstr "ไม่มีเนื้อหาที่มีอยู่"
+
+msgid "No content found in this program"
+msgstr "ไม่พบเนื้อหาในโปรแกรมนี้"
+
+msgid "No downloads"
+msgstr "ไม่มีการดาวน์โหลด"
+
+msgid "No downloads in queue"
+msgstr "ไม่มีการดาวน์โหลดในคิว"
+
+msgid "No editions available"
+msgstr "ไม่มีฉบับที่มีจำหน่าย"
+
+msgid "No episodes available"
+msgstr "ไม่มีตอนที่มีอยู่"
+
+msgid "No items available"
+msgstr "ไม่มีรายการที่มีอยู่"
+
+msgid "No items found"
+msgstr "ไม่พบรายการ"
+
+msgid "No items found in this archive"
+msgstr "ไม่พบรายการในที่เก็บถาวรนี้"
+
+msgid "No items found in this category"
+msgstr "ไม่พบรายการในหมวดหมู่นี้"
+
+msgid "No main theme found"
+msgstr "ไม่พบธีมหลัก"
+
+msgid "No program URL available"
+msgstr "ไม่มี URL ของโปรแกรม"
+
+msgid "No program categories available"
+msgstr "ไม่มีหมวดหมู่โปรแกรมให้เลือก"
+
+msgid "No programs available for this day"
+msgstr "ไม่มีโปรแกรมสำหรับวันนี้"
+
+msgid "No programs currently on air"
+msgstr "ไม่มีรายการที่ออนแอร์อยู่ในขณะนี้"
+
+msgid "No programs found for:"
+msgstr "ไม่พบโปรแกรมสำหรับ:"
+
+msgid "No programs found in A-Z list"
+msgstr "ไม่พบโปรแกรมในรายการ A-Z"
+
+msgid "No sports categories available"
+msgstr "ไม่มีหมวดหมู่กีฬา"
+
+msgid "No stream URL available"
+msgstr "ไม่มี URL ของสตรีม"
+
+msgid "No video URL available"
+msgstr "ไม่มี URL ของวิดีโอ"
+
+msgid "No video URL found in the response"
+msgstr "ไม่พบ URL ของวิดีโอในการตอบกลับ"
+
+msgid "No videos available"
+msgstr "ไม่มีวิดีโอที่ใช้ได้"
+
+msgid "No videos found"
+msgstr "ไม่พบวิดีโอ"
+
+msgid "No videos found in archive"
+msgstr "ไม่พบวิดีโอในที่เก็บถาวร"
+
+msgid "On Air Programs"
+msgstr "รายการออนแอร์"
+
+msgid "On Demand"
+msgstr "ตามความต้องการ"
+
+msgid "Originals"
+msgstr "ต้นฉบับ"
+
+msgid "Page"
+msgstr "หน้าหนังสือ"
+
+msgid "Page with duplicate"
+msgstr "เพจที่ซ้ำกัน"
+
+msgid "Pagination not supported for this archive"
+msgstr "ไม่รองรับการแบ่งหน้าสำหรับไฟล์เก็บถาวรนี้"
+
+msgid "Play"
+msgstr "เล่น"
+
+msgid "Play & Download"
+msgstr "เล่นและดาวน์โหลด"
+
+msgid "Play/pause not supported for this stream"
+msgstr "ไม่รองรับการเล่น/หยุดชั่วคราวสำหรับสตรีมนี้"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "รายการโปรแกรมยังโหลดอยู่ โปรดรอ..."
+
+msgid "Programs"
+msgstr "โปรแกรม"
+
+msgid "Query too short (min 3 characters)"
+msgstr "ข้อความค้นหาสั้นเกินไป (ขั้นต่ำ 3 ตัวอักษร)"
+
+msgid "Radio Programs A-Z"
+msgstr "รายการวิทยุ ก-ฮ"
+
+msgid "Rai News"
+msgstr "ข่าวไร่"
+
+msgid "Rai Play Live"
+msgstr "ไร่เล่นสด"
+
+msgid "Rai Play Live Radio"
+msgstr "ไร่เล่นวิทยุสด"
+
+msgid "Rai Play Main"
+msgstr "ไร่เล่นหลัก"
+
+msgid "Rai Play On Demand"
+msgstr "ไร่เล่นออนดีมานด์"
+
+msgid "Rai Play Programs"
+msgstr "โปรแกรมไร่เพลย์"
+
+msgid "Rai Play Replay TV"
+msgstr "ไร่เล่นรีเพลย์ทีวี"
+
+msgid "Rai Play Replay:"
+msgstr "ไร่ เล่นซ้ำ:"
+
+msgid "Rai Play Search"
+msgstr "ไร่เล่นค้นหา"
+
+msgid "Rai Sport"
+msgstr "ไร่สปอร์ต"
+
+msgid "Rai Sport - Categories"
+msgstr "ไร่สปอร์ต - หมวดหมู่"
+
+msgid "Rai Sport - Subcategories"
+msgstr "ไร่สปอร์ต - หมวดย่อย"
+
+msgid "RaiPlay Settings"
+msgstr "การตั้งค่า RaiPlay"
+
+msgid "Remove"
+msgstr "ลบ"
+
+msgid "Remove download: {}?"
+msgstr "ลบการดาวน์โหลด: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "ลบออกจากคิว: {}"
+
+msgid "Replay TV"
+msgstr "เล่นซ้ำทีวี"
+
+msgid "Search"
+msgstr "ค้นหา"
+
+msgid "Search error. Please try again."
+msgstr "ข้อผิดพลาดในการค้นหา โปรดลองอีกครั้ง"
+
+msgid "Searching through programs..."
+msgstr "การค้นหาผ่านโปรแกรม..."
+
+msgid "Select a category"
+msgstr "เลือกหมวดหมู่"
+
+msgid "Select a video"
+msgstr "เลือกวิดีโอ"
+
+msgid "Select block"
+msgstr "เลือกบล็อก"
+
+msgid "Select category"
+msgstr "เลือกหมวดหมู่"
+
+msgid "Select channel"
+msgstr "เลือกช่อง"
+
+msgid "Select content set"
+msgstr "เลือกชุดเนื้อหา"
+
+msgid "Select date"
+msgstr "เลือกวันที่"
+
+msgid "Select edition"
+msgstr "เลือกฉบับ"
+
+msgid "Select episode"
+msgstr "เลือกตอน"
+
+msgid "Select item"
+msgstr "เลือกรายการ"
+
+msgid "Select letter"
+msgstr "เลือกตัวอักษร"
+
+msgid "Select program"
+msgstr "เลือกโปรแกรม"
+
+msgid "Select program to watch"
+msgstr "เลือกโปรแกรมที่จะรับชม"
+
+msgid "Select subcategory"
+msgstr "เลือกหมวดหมู่ย่อย"
+
+msgid "Select video"
+msgstr "เลือกวิดีโอ"
+
+msgid "Society & Culture"
+msgstr "สังคมและวัฒนธรรม"
+
+msgid "Sports"
+msgstr "กีฬา"
+
+msgid "Start"
+msgstr "เริ่ม"
+
+msgid "Stop"
+msgstr "หยุด"
+
+msgid "Stop the download first before removing"
+msgstr "หยุดการดาวน์โหลดก่อนจึงจะลบออก"
+
+msgid "Sustainability"
+msgstr "ความยั่งยืน"
+
+msgid "TGR and Special Programs"
+msgstr "TGR และโปรแกรมพิเศษ"
+
+msgid "TV News"
+msgstr "ข่าวทีวี"
+
+msgid "TV Programs A-Z"
+msgstr "รายการทีวี ก-ฮ"
+
+msgid "Talk Shows"
+msgstr "รายการทอล์คโชว์"
+
+msgid "Tech & Learning"
+msgstr "เทคโนโลยีและการเรียนรู้"
+
+msgid "Teens"
+msgstr "วัยรุ่น"
+
+msgid "Temporary"
+msgstr "ชั่วคราว"
+
+msgid "Test download added to queue"
+msgstr "ทดสอบการดาวน์โหลดที่เพิ่มลงในคิว"
+
+msgid "Test download failed"
+msgstr "ทดสอบการดาวน์โหลดล้มเหลว"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "รวมทั้งหมด: {รวม} | ใช้งานอยู่: {ใช้งานอยู่} | อยู่ในคิว: {อยู่ในคิว} | เสร็จสมบูรณ์: {เสร็จสมบูรณ์} | ข้อผิดพลาด: {ข้อผิดพลาด}"
+
+msgid "Travel & Adventure"
+msgstr "การเดินทางและการผจญภัย"
+
+msgid "USB Drive"
+msgstr "ไดรฟ์ USB"
+
+msgid "Unknown content type"
+msgstr "ประเภทเนื้อหาที่ไม่รู้จัก"
+
+msgid "Unknown data format"
+msgstr "รูปแบบข้อมูลที่ไม่รู้จัก"
+
+msgid "Unknown title"
+msgstr "ชื่อที่ไม่รู้จัก"
+
+msgid "Video URL not available"
+msgstr "URL ของวิดีโอไม่พร้อมใช้งาน"
+
+msgid "Video URL not found"
+msgstr "ไม่พบ URL ของวิดีโอ"
+
+msgid "Video not available"
+msgstr "วิดีโอไม่พร้อมใช้งาน"
+
+msgid "View Full Archive"
+msgstr "ดูเอกสารฉบับเต็ม"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "ยินดีต้อนรับสู่ RAI PLAY PLUGINS โดย LULULLA"

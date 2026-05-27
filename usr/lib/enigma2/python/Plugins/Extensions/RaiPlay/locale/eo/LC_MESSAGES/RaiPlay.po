@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Ĉiuj Programoj"
+
+msgid "A-Z Radio Shows"
+msgstr ""
+
+msgid "A-Z TV Shows"
+msgstr "A-Z Televidprogramoj"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktivigi Sencimigon por programisto de mesaĝoj."
+
+msgid "Active Debug"
+msgstr "Aktiva Sencimigo"
+
+msgid "Added to queue: {}"
+msgstr "Aldonita al vico: {}"
+
+msgid "All Programs"
+msgstr "Ĉiuj Programoj"
+
+msgid "Archive URL not found"
+msgstr "Arkivo URL ne trovita"
+
+msgid "Back"
+msgstr "Reen"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Elektu agon por: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Purigu voston de duplikatoj"
+
+msgid "Content type not recognized"
+msgstr "Enhavo-tipo ne rekonita"
+
+msgid "Could not find video URL"
+msgstr "Ne eblis trovi video URL"
+
+msgid "Could not load program content"
+msgstr "Ne eblis ŝargi programenhavon"
+
+msgid "Crime"
+msgstr "Krimo"
+
+msgid "Crime Investigations"
+msgstr "Krimaj Esploroj"
+
+msgid "Default Folder"
+msgstr "Defaŭlta Dosierujo"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Defaŭlta dosierujo por malfermi kaj konservi Filmdosierojn"
+
+msgid "Documentaries"
+msgstr "Dokumentarioj"
+
+msgid "Download"
+msgstr "Elŝutu"
+
+msgid "Download Manager"
+msgstr "Elŝuta Administranto"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Elŝuto forigita: {str(item['titolo'])}"
+
+msgid "Download started: {}"
+msgstr "Elŝuto komenciĝis: {}"
+
+msgid "Download stopped: {}"
+msgstr "Elŝuto ĉesis: {}"
+
+msgid "Enter search query"
+msgstr "Enigu serĉdemandon"
+
+msgid "Entertainment"
+msgstr "Distro"
+
+msgid "Error adding download"
+msgstr "Eraro aldonante elŝuton"
+
+msgid "Error extracting video URL"
+msgstr "Eraro ĉerpi la video URL"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Eraro dum ŝarĝo de A-Z-programoj: {}"
+
+msgid "Error loading archive data"
+msgstr "Eraro dum ŝarĝo de arkivaj datumoj"
+
+msgid "Error loading archive data: {}"
+msgstr "Eraro dum ŝarĝo de arkivaj datumoj: {}"
+
+msgid "Error loading content from API"
+msgstr "Eraro dum ŝarĝo de enhavo de API"
+
+msgid "Error loading data"
+msgstr "Eraro dum ŝarĝo de datumoj"
+
+msgid "Error loading data: %s"
+msgstr "Eraro dum ŝarĝo de datumoj: %s"
+
+msgid "Error loading data: {}"
+msgstr "Eraro dum ŝarĝo de datumoj: {}"
+
+msgid "Error loading video data"
+msgstr "Eraro dum ŝarĝo de videodatenoj"
+
+msgid "Error loading video page"
+msgstr "Eraro dum ŝarĝo de videopaĝo"
+
+msgid "Error loading videos:"
+msgstr "Eraro dum ŝarĝo de videoj:"
+
+msgid "Error parsing content"
+msgstr "Eraro dum analizo de enhavo"
+
+msgid "Error parsing data"
+msgstr "Eraro dum analizado de datumoj"
+
+msgid "Error parsing video data: {}"
+msgstr "Eraro dum analizo de videodatenoj: {}"
+
+msgid "Error playing file: {}"
+msgstr "Eraro en la ludado de dosiero: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Eraro dum ludado de rivereto: {}"
+
+msgid "Error playing video:"
+msgstr "Eraro en la ludado de video:"
+
+msgid "Error processing archive"
+msgstr "Eraro pri traktado de arkivo"
+
+msgid "Error processing thematic content"
+msgstr "Eraro pri prilaborado de tema enhavo"
+
+msgid "Error starting plugin"
+msgstr "Eraro dum lanĉado de kromaĵo"
+
+msgid "Error: Could not load news data"
+msgstr "Eraro: Ne eblis ŝargi novaĵdatumojn"
+
+msgid "Error: Download manager not available"
+msgstr "Eraro: Elŝuta administranto ne havebla"
+
+msgid "Exclusive Programs"
+msgstr "Ekskluzivaj Programoj"
+
+msgid "Extracting video URL..."
+msgstr "Ekstraktante video-URL..."
+
+msgid "File not found: {}"
+msgstr "Dosiero ne trovita: {}"
+
+msgid "Films"
+msgstr "Filmoj"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Trovis {0} programojn por: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Senpaga Spaco: {senpaga} el {totalo}"
+
+msgid "Games & Quizzes"
+msgstr "Ludoj kaj Kvizoj"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Historio & Arto"
+
+msgid "Initializing..."
+msgstr "Komencante..."
+
+msgid "International Series"
+msgstr "Internacia Serio"
+
+msgid "Invalid video URL detected"
+msgstr "Malvalida video URL detektita"
+
+msgid "Italian Series"
+msgstr "Itala Serio"
+
+msgid "Kids"
+msgstr "Infanoj"
+
+msgid "Learning"
+msgstr "Lernado"
+
+msgid "Lifestyle"
+msgstr "Vivstilo"
+
+msgid "Live Radio"
+msgstr "Viva Radio"
+
+msgid "Live TV"
+msgstr "Viva televido"
+
+msgid "Loading all programs..."
+msgstr "Ŝargante ĉiujn programojn..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Ŝarĝante ĉiujn filmetojn... Bonvolu atendi"
+
+msgid "Loading archive data..."
+msgstr "Ŝarĝante arkivajn datumojn..."
+
+msgid "Loading archive..."
+msgstr "Ŝarĝante arkivon..."
+
+msgid "Loading complete! Select an option"
+msgstr "Ŝarĝo finiĝis! Elektu opcion"
+
+msgid "Loading data... Please wait"
+msgstr "Ŝarĝante datumojn... Bonvolu atendi"
+
+msgid "Loading news categories..."
+msgstr "Ŝarĝante novaĵkategoriojn..."
+
+msgid "Loading news items..."
+msgstr "Ŝarĝante novaĵoj..."
+
+msgid "Loading on-air programs..."
+msgstr "Ŝarĝante sur-aerajn programojn..."
+
+msgid "Loading program data"
+msgstr "Ŝarĝante programajn datumojn"
+
+msgid "Loading program details..."
+msgstr "Ŝarĝante programdetalojn..."
+
+msgid "Loading programs..."
+msgstr "Ŝarĝante programojn..."
+
+msgid "Loading videos..."
+msgstr "Ŝarĝante videojn..."
+
+msgid "Music"
+msgstr "Muziko"
+
+msgid "Music & Theater"
+msgstr "Muziko & Teatro"
+
+msgid "Music Classic"
+msgstr "Muziko Klasika"
+
+msgid "Network Storage"
+msgstr "Reta Stokado"
+
+msgid "News & Documentaries"
+msgstr "Novaĵoj kaj Dokumentarioj"
+
+msgid "News Categories"
+msgstr "Novaĵoj Kategorioj"
+
+msgid "Next page"
+msgstr "Sekva paĝo"
+
+msgid "No TV channels available"
+msgstr "Neniuj televidkanaloj haveblaj"
+
+msgid "No archive data found"
+msgstr "Neniuj arkivaj datumoj trovitaj"
+
+msgid "No categories available"
+msgstr "Neniuj kategorioj haveblaj"
+
+msgid "No content available"
+msgstr "Neniu enhavo disponebla"
+
+msgid "No content found in this program"
+msgstr "Neniu enhavo trovita en ĉi tiu programo"
+
+msgid "No downloads"
+msgstr "Neniuj elŝutoj"
+
+msgid "No downloads in queue"
+msgstr "Neniuj elŝutoj en vosto"
+
+msgid "No editions available"
+msgstr "Neniuj eldonoj haveblaj"
+
+msgid "No episodes available"
+msgstr "Neniuj epizodoj haveblaj"
+
+msgid "No items available"
+msgstr "Neniuj eroj haveblaj"
+
+msgid "No items found"
+msgstr "Neniuj eroj trovitaj"
+
+msgid "No items found in this archive"
+msgstr "Neniuj eroj trovitaj en ĉi tiu arkivo"
+
+msgid "No items found in this category"
+msgstr "Neniuj eroj trovitaj en ĉi tiu kategorio"
+
+msgid "No main theme found"
+msgstr "Neniu ĉefa temo trovita"
+
+msgid "No program URL available"
+msgstr "Neniu programo URL havebla"
+
+msgid "No program categories available"
+msgstr "Neniuj programkategorioj haveblaj"
+
+msgid "No programs available for this day"
+msgstr "Neniuj programoj disponeblaj por ĉi tiu tago"
+
+msgid "No programs currently on air"
+msgstr "Neniuj programoj nuntempe en aero"
+
+msgid "No programs found for:"
+msgstr "Neniuj programoj trovitaj por:"
+
+msgid "No programs found in A-Z list"
+msgstr "Neniuj programoj trovitaj en A-Z-listo"
+
+msgid "No sports categories available"
+msgstr "Neniuj sportaj kategorioj haveblaj"
+
+msgid "No stream URL available"
+msgstr "Neniu fluo URL havebla"
+
+msgid "No video URL available"
+msgstr "Neniu video URL havebla"
+
+msgid "No video URL found in the response"
+msgstr "Neniu video URL trovita en la respondo"
+
+msgid "No videos available"
+msgstr "Neniuj videoj haveblaj"
+
+msgid "No videos found"
+msgstr "Neniuj videoj trovitaj"
+
+msgid "No videos found in archive"
+msgstr "Neniuj videoj trovitaj en arkivo"
+
+msgid "On Air Programs"
+msgstr "En Aeraj Programoj"
+
+msgid "On Demand"
+msgstr "Sur Postulo"
+
+msgid "Originals"
+msgstr "Originaloj"
+
+msgid "Page"
+msgstr "Paĝo"
+
+msgid "Page with duplicate"
+msgstr "Paĝo kun duplikato"
+
+msgid "Pagination not supported for this archive"
+msgstr "Paĝigo ne estas subtenata por ĉi tiu arkivo"
+
+msgid "Play"
+msgstr "Ludu"
+
+msgid "Play & Download"
+msgstr "Ludu kaj Elŝutu"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Ludo/paŭzo ne estas subtenata por ĉi tiu fluo"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Programlisto ankoraŭ ŝarĝas. Bonvolu atendi..."
+
+msgid "Programs"
+msgstr "Programoj"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Demando tro mallonga (min 3 signoj)"
+
+msgid "Radio Programs A-Z"
+msgstr "Radioprogramoj A-Z"
+
+msgid "Rai News"
+msgstr "Rai Novaĵoj"
+
+msgid "Rai Play Live"
+msgstr "Rai Ludu Viva"
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr "Rai Play Ĉefa"
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Rai Play Programoj"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "Ripeto de Rai Play:"
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai Sportoj"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategorioj"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Subkategorioj"
+
+msgid "RaiPlay Settings"
+msgstr "Agordoj de RaiPlay"
+
+msgid "Remove"
+msgstr "Forigi"
+
+msgid "Remove download: {}?"
+msgstr "Forigi elŝuton: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Forigita el atendovico: {}"
+
+msgid "Replay TV"
+msgstr "Reludi televidon"
+
+msgid "Search"
+msgstr "Serĉu"
+
+msgid "Search error. Please try again."
+msgstr "Serĉeraro. Bonvolu provi denove."
+
+msgid "Searching through programs..."
+msgstr "Serĉante tra programoj..."
+
+msgid "Select a category"
+msgstr "Elektu kategorion"
+
+msgid "Select a video"
+msgstr "Elektu videon"
+
+msgid "Select block"
+msgstr "Elektu blokon"
+
+msgid "Select category"
+msgstr "Elektu kategorion"
+
+msgid "Select channel"
+msgstr "Elektu kanalon"
+
+msgid "Select content set"
+msgstr "Elektu enhavo-aro"
+
+msgid "Select date"
+msgstr "Elektu daton"
+
+msgid "Select edition"
+msgstr "Elektu eldonon"
+
+msgid "Select episode"
+msgstr "Elektu epizodon"
+
+msgid "Select item"
+msgstr "Elektu eron"
+
+msgid "Select letter"
+msgstr "Elektu literon"
+
+msgid "Select program"
+msgstr "Elektu programon"
+
+msgid "Select program to watch"
+msgstr "Elektu programon por spekti"
+
+msgid "Select subcategory"
+msgstr "Elektu subkategorion"
+
+msgid "Select video"
+msgstr "Elektu videon"
+
+msgid "Society & Culture"
+msgstr "Socio & Kulturo"
+
+msgid "Sports"
+msgstr "Sportoj"
+
+msgid "Start"
+msgstr "Komencu"
+
+msgid "Stop"
+msgstr "Haltu"
+
+msgid "Stop the download first before removing"
+msgstr "Ĉesu la elŝuton unue antaŭ ol forigi"
+
+msgid "Sustainability"
+msgstr "Daŭripovo"
+
+msgid "TGR and Special Programs"
+msgstr "TGR kaj Specialaj Programoj"
+
+msgid "TV News"
+msgstr "Televidnovaĵoj"
+
+msgid "TV Programs A-Z"
+msgstr "Televidprogramoj A-Z"
+
+msgid "Talk Shows"
+msgstr "Intervjuspektakloj"
+
+msgid "Tech & Learning"
+msgstr "Tekniko kaj Lernado"
+
+msgid "Teens"
+msgstr "Adoleskantoj"
+
+msgid "Temporary"
+msgstr "Provizora"
+
+msgid "Test download added to queue"
+msgstr "Prova elŝuto aldonita al vosto"
+
+msgid "Test download failed"
+msgstr "Prova elŝuto malsukcesis"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Sumo: {total} | Aktiva: {aktiva} | Envico: {envico} | Kompletigita: {kompletigita} | Eraroj: {eraroj}"
+
+msgid "Travel & Adventure"
+msgstr "Vojaĝado & Aventuro"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "Nekonata enhavo-tipo"
+
+msgid "Unknown data format"
+msgstr "Nekonata datumformato"
+
+msgid "Unknown title"
+msgstr "Nekonata titolo"
+
+msgid "Video URL not available"
+msgstr "Video URL ne havebla"
+
+msgid "Video URL not found"
+msgstr "Video URL ne trovita"
+
+msgid "Video not available"
+msgstr "Video ne havebla"
+
+msgid "View Full Archive"
+msgstr "Rigardu Plenan Arkivon"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "BONVENON AL RAI PLAY PLUGINS DE LULULLA"

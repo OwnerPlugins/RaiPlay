@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 22:54+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-SG\n"
+"Language: zh-SG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z 所有程序"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z 广播节目"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z 电视节目"
+
+msgid "Activate Debug for messages developer."
+msgstr "为消息开发人员激活调试。"
+
+msgid "Active Debug"
+msgstr "主动调试"
+
+msgid "Added to queue: {}"
+msgstr "添加到队列：{}"
+
+msgid "All Programs"
+msgstr "所有节目"
+
+msgid "Archive URL not found"
+msgstr "找不到存档 URL"
+
+msgid "Back"
+msgstr "后退"
+
+msgid "Barry Allen"
+msgstr "巴里·艾伦"
+
+msgid "Choose action for: {}"
+msgstr "选择以下操作：{}"
+
+msgid "Clean queue from duplicates"
+msgstr "清理队列中的重复项"
+
+msgid "Content type not recognized"
+msgstr "内容类型无法识别"
+
+msgid "Could not find video URL"
+msgstr "找不到视频网址"
+
+msgid "Could not load program content"
+msgstr "无法加载程序内容"
+
+msgid "Crime"
+msgstr "犯罪"
+
+msgid "Crime Investigations"
+msgstr "犯罪调查"
+
+msgid "Default Folder"
+msgstr "默认文件夹"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "用于打开和保存电影文件的默认文件夹"
+
+msgid "Documentaries"
+msgstr "纪录片"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download Manager"
+msgstr "下载管理器"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "下载已删除：{str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "下载开始：{}"
+
+msgid "Download stopped: {}"
+msgstr "下载已停止：{}"
+
+msgid "Enter search query"
+msgstr "输入搜索查询"
+
+msgid "Entertainment"
+msgstr "娱乐"
+
+msgid "Error adding download"
+msgstr "添加下载时出错"
+
+msgid "Error extracting video URL"
+msgstr "提取视频 URL 时出错"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "加载 A-Z 程序时出错：{}"
+
+msgid "Error loading archive data"
+msgstr "加载存档数据时出错"
+
+msgid "Error loading archive data: {}"
+msgstr "加载存档数据时出错：{}"
+
+msgid "Error loading content from API"
+msgstr "从 API 加载内容时出错"
+
+msgid "Error loading data"
+msgstr "加载数据时出错"
+
+msgid "Error loading data: %s"
+msgstr "加载数据时出错：%s"
+
+msgid "Error loading data: {}"
+msgstr "加载数据时出错：{}"
+
+msgid "Error loading video data"
+msgstr "加载视频数据时出错"
+
+msgid "Error loading video page"
+msgstr "加载视频页面时出错"
+
+msgid "Error loading videos:"
+msgstr "加载视频时出错："
+
+msgid "Error parsing content"
+msgstr "解析内容时出错"
+
+msgid "Error parsing data"
+msgstr "解析数据时出错"
+
+msgid "Error parsing video data: {}"
+msgstr "解析视频数据时出错：{}"
+
+msgid "Error playing file: {}"
+msgstr "播放文件时出错：{}"
+
+msgid "Error playing stream: {}"
+msgstr "播放流时出错：{}"
+
+msgid "Error playing video:"
+msgstr "播放视频时出错："
+
+msgid "Error processing archive"
+msgstr "处理存档时出错"
+
+msgid "Error processing thematic content"
+msgstr "处理主题内容时出错"
+
+msgid "Error starting plugin"
+msgstr "启动插件时出错"
+
+msgid "Error: Could not load news data"
+msgstr "错误：无法加载新闻数据"
+
+msgid "Error: Download manager not available"
+msgstr "错误：下载管理器不可用"
+
+msgid "Exclusive Programs"
+msgstr "独家节目"
+
+msgid "Extracting video URL..."
+msgstr "正在提取视频 URL..."
+
+msgid "File not found: {}"
+msgstr "未找到文件：{}"
+
+msgid "Films"
+msgstr "电影"
+
+msgid "Found {0} programs for: {1}"
+msgstr "找到了 {0} 个程序：{1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "可用空间：{free}，共 {total}"
+
+msgid "Games & Quizzes"
+msgstr "游戏和测验"
+
+msgid "HDD Drive"
+msgstr "硬盘驱动器"
+
+msgid "History & Art"
+msgstr "历史与艺术"
+
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+msgid "International Series"
+msgstr "国际系列"
+
+msgid "Invalid video URL detected"
+msgstr "检测到无效的视频 URL"
+
+msgid "Italian Series"
+msgstr "意大利系列"
+
+msgid "Kids"
+msgstr "孩子们"
+
+msgid "Learning"
+msgstr "学习"
+
+msgid "Lifestyle"
+msgstr "生活方式"
+
+msgid "Live Radio"
+msgstr "现场广播"
+
+msgid "Live TV"
+msgstr "电视直播"
+
+msgid "Loading all programs..."
+msgstr "正在加载所有程序..."
+
+msgid "Loading all videos... Please wait"
+msgstr "正在加载所有视频...请稍候"
+
+msgid "Loading archive data..."
+msgstr "正在加载存档数据..."
+
+msgid "Loading archive..."
+msgstr "正在加载存档..."
+
+msgid "Loading complete! Select an option"
+msgstr "加载完成！选择一个选项"
+
+msgid "Loading data... Please wait"
+msgstr "正在加载数据...请稍候"
+
+msgid "Loading news categories..."
+msgstr "正在加载新闻类别..."
+
+msgid "Loading news items..."
+msgstr "正在加载新闻项目..."
+
+msgid "Loading on-air programs..."
+msgstr "正在加载直播节目..."
+
+msgid "Loading program data"
+msgstr "加载程序数据"
+
+msgid "Loading program details..."
+msgstr "正在加载程序详细信息..."
+
+msgid "Loading programs..."
+msgstr "正在加载程序..."
+
+msgid "Loading videos..."
+msgstr "正在加载视频..."
+
+msgid "Music"
+msgstr "音乐"
+
+msgid "Music & Theater"
+msgstr "音乐与戏剧"
+
+msgid "Music Classic"
+msgstr "音乐经典"
+
+msgid "Network Storage"
+msgstr "网络存储"
+
+msgid "News & Documentaries"
+msgstr "新闻与纪录片"
+
+msgid "News Categories"
+msgstr "新闻分类"
+
+msgid "Next page"
+msgstr "下一页"
+
+msgid "No TV channels available"
+msgstr "没有可用的电视频道"
+
+msgid "No archive data found"
+msgstr "未找到存档数据"
+
+msgid "No categories available"
+msgstr "没有可用的类别"
+
+msgid "No content available"
+msgstr "无可用内容"
+
+msgid "No content found in this program"
+msgstr "在此程序中找不到内容"
+
+msgid "No downloads"
+msgstr "没有下载"
+
+msgid "No downloads in queue"
+msgstr "队列中没有下载"
+
+msgid "No editions available"
+msgstr "无可用版本"
+
+msgid "No episodes available"
+msgstr "没有可用的剧集"
+
+msgid "No items available"
+msgstr "没有可用的项目"
+
+msgid "No items found"
+msgstr "没有找到物品"
+
+msgid "No items found in this archive"
+msgstr "在此档案中找不到任何项目"
+
+msgid "No items found in this category"
+msgstr "该类别中未找到任何项目"
+
+msgid "No main theme found"
+msgstr "没有找到主题"
+
+msgid "No program URL available"
+msgstr "没有可用的程序 URL"
+
+msgid "No program categories available"
+msgstr "没有可用的节目类别"
+
+msgid "No programs available for this day"
+msgstr "当天没有可用节目"
+
+msgid "No programs currently on air"
+msgstr "目前没有播出节目"
+
+msgid "No programs found for:"
+msgstr "未找到以下程序："
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z 列表中未找到程序"
+
+msgid "No sports categories available"
+msgstr "没有可用的运动类别"
+
+msgid "No stream URL available"
+msgstr "没有可用的流 URL"
+
+msgid "No video URL available"
+msgstr "没有可用的视频网址"
+
+msgid "No video URL found in the response"
+msgstr "响应中找不到视频 URL"
+
+msgid "No videos available"
+msgstr "没有可用的视频"
+
+msgid "No videos found"
+msgstr "没有找到视频"
+
+msgid "No videos found in archive"
+msgstr "存档中未找到视频"
+
+msgid "On Air Programs"
+msgstr "播出节目"
+
+msgid "On Demand"
+msgstr "一经请求"
+
+msgid "Originals"
+msgstr "原件"
+
+msgid "Page"
+msgstr "页"
+
+msgid "Page with duplicate"
+msgstr "页面重复"
+
+msgid "Pagination not supported for this archive"
+msgstr "此存档不支持分页"
+
+msgid "Play"
+msgstr "玩"
+
+msgid "Play & Download"
+msgstr "播放与下载"
+
+msgid "Play/pause not supported for this stream"
+msgstr "此流不支持播放/暂停"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "节目列表仍在加载中。请稍等..."
+
+msgid "Programs"
+msgstr "节目"
+
+msgid "Query too short (min 3 characters)"
+msgstr "查询太短（最少 3 个字符）"
+
+msgid "Radio Programs A-Z"
+msgstr "广播节目 A-Z"
+
+msgid "Rai News"
+msgstr "莱新闻"
+
+msgid "Rai Play Live"
+msgstr "莱演奏现场"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play 现场广播"
+
+msgid "Rai Play Main"
+msgstr "Rai Play 主要"
+
+msgid "Rai Play On Demand"
+msgstr "Rai 点播"
+
+msgid "Rai Play Programs"
+msgstr "莱玩节目"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Play 重播电视"
+
+msgid "Rai Play Replay:"
+msgstr "莱比赛回放："
+
+msgid "Rai Play Search"
+msgstr "莱玩搜索"
+
+msgid "Rai Sport"
+msgstr "莱体育"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai 运动 - 类别"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai 运动 - 子类别"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay 设置"
+
+msgid "Remove"
+msgstr "消除"
+
+msgid "Remove download: {}?"
+msgstr "删除下载：{}？"
+
+msgid "Removed from queue: {}"
+msgstr "从队列中删除：{}"
+
+msgid "Replay TV"
+msgstr "重播电视"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search error. Please try again."
+msgstr "搜索错误。请再试一次。"
+
+msgid "Searching through programs..."
+msgstr "正在搜索程序..."
+
+msgid "Select a category"
+msgstr "选择一个类别"
+
+msgid "Select a video"
+msgstr "选择视频"
+
+msgid "Select block"
+msgstr "选择区块"
+
+msgid "Select category"
+msgstr "选择类别"
+
+msgid "Select channel"
+msgstr "选择频道"
+
+msgid "Select content set"
+msgstr "选择内容集"
+
+msgid "Select date"
+msgstr "选择日期"
+
+msgid "Select edition"
+msgstr "选择版本"
+
+msgid "Select episode"
+msgstr "选择剧集"
+
+msgid "Select item"
+msgstr "选择项目"
+
+msgid "Select letter"
+msgstr "选择字母"
+
+msgid "Select program"
+msgstr "选择节目"
+
+msgid "Select program to watch"
+msgstr "选择要观看的节目"
+
+msgid "Select subcategory"
+msgstr "选择子类别"
+
+msgid "Select video"
+msgstr "选择视频"
+
+msgid "Society & Culture"
+msgstr "社会与文化"
+
+msgid "Sports"
+msgstr "运动的"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Stop the download first before removing"
+msgstr "删除之前先停止下载"
+
+msgid "Sustainability"
+msgstr "可持续发展"
+
+msgid "TGR and Special Programs"
+msgstr "TGR 和特别计划"
+
+msgid "TV News"
+msgstr "电视新闻"
+
+msgid "TV Programs A-Z"
+msgstr "电视节目A-Z"
+
+msgid "Talk Shows"
+msgstr "脱口秀"
+
+msgid "Tech & Learning"
+msgstr "技术与学习"
+
+msgid "Teens"
+msgstr "青少年"
+
+msgid "Temporary"
+msgstr "暂时的"
+
+msgid "Test download added to queue"
+msgstr "测试下载已添加到队列中"
+
+msgid "Test download failed"
+msgstr "测试下载失败"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "总计：{总计} |活动：{活动} |已排队：{已排队} |已完成：{已完成}|错误：{错误}"
+
+msgid "Travel & Adventure"
+msgstr "旅行与冒险"
+
+msgid "USB Drive"
+msgstr "USB 驱动器"
+
+msgid "Unknown content type"
+msgstr "未知的内容类型"
+
+msgid "Unknown data format"
+msgstr "未知的数据格式"
+
+msgid "Unknown title"
+msgstr "未知标题"
+
+msgid "Video URL not available"
+msgstr "视频网址不可用"
+
+msgid "Video URL not found"
+msgstr "找不到视频网址"
+
+msgid "Video not available"
+msgstr "视频不可用"
+
+msgid "View Full Archive"
+msgstr "查看完整档案"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "欢迎使用 LULULLA 的 RAI PLAY 插件"

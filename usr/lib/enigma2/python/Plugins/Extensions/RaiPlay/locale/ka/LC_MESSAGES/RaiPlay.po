@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:37+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z ყველა პროგრამა"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z რადიო შოუები"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z სატელევიზიო შოუები"
+
+msgid "Activate Debug for messages developer."
+msgstr "გააქტიურეთ გამართვა შეტყობინებების დეველოპერისთვის."
+
+msgid "Active Debug"
+msgstr "აქტიური გამართვა"
+
+msgid "Added to queue: {}"
+msgstr "დამატებულია რიგში: {}"
+
+msgid "All Programs"
+msgstr "ყველა პროგრამა"
+
+msgid "Archive URL not found"
+msgstr "არქივის URL ვერ მოიძებნა"
+
+msgid "Back"
+msgstr "უკან"
+
+msgid "Barry Allen"
+msgstr "ბარი ალენი"
+
+msgid "Choose action for: {}"
+msgstr "აირჩიეთ მოქმედება: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "გაწმინდეთ რიგი დუბლიკატებისაგან"
+
+msgid "Content type not recognized"
+msgstr "კონტენტის ტიპი არ არის აღიარებული"
+
+msgid "Could not find video URL"
+msgstr "ვიდეოს URL ვერ მოიძებნა"
+
+msgid "Could not load program content"
+msgstr "პროგრამის კონტენტის ჩატვირთვა ვერ მოხერხდა"
+
+msgid "Crime"
+msgstr "დანაშაული"
+
+msgid "Crime Investigations"
+msgstr "დანაშაულის გამოძიება"
+
+msgid "Default Folder"
+msgstr "ნაგულისხმევი საქაღალდე"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "ნაგულისხმევი საქაღალდე ფილმების ფაილების გასახსნელად და შესანახად"
+
+msgid "Documentaries"
+msgstr "დოკუმენტური ფილმები"
+
+msgid "Download"
+msgstr "ჩამოტვირთვა"
+
+msgid "Download Manager"
+msgstr "ჩამოტვირთვის მენეჯერი"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "ჩამოტვირთვა წაშლილია: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "ჩამოტვირთვა დაიწყო: {}"
+
+msgid "Download stopped: {}"
+msgstr "ჩამოტვირთვა შეწყდა: {}"
+
+msgid "Enter search query"
+msgstr "შეიყვანეთ საძიებო მოთხოვნა"
+
+msgid "Entertainment"
+msgstr "გასართობი"
+
+msgid "Error adding download"
+msgstr "შეცდომა ჩამოტვირთვის დამატებისას"
+
+msgid "Error extracting video URL"
+msgstr "შეცდომა ვიდეოს URL-ის ამოღებისას"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "შეცდომა A-Z პროგრამების ჩატვირთვისას: {}"
+
+msgid "Error loading archive data"
+msgstr "არქივის მონაცემების ჩატვირთვის შეცდომა"
+
+msgid "Error loading archive data: {}"
+msgstr "შეცდომა არქივის მონაცემების ჩატვირთვისას: {}"
+
+msgid "Error loading content from API"
+msgstr "API-დან კონტენტის ჩატვირთვის შეცდომა"
+
+msgid "Error loading data"
+msgstr "შეცდომა მონაცემთა ჩატვირთვისას"
+
+msgid "Error loading data: %s"
+msgstr "შეცდომა მონაცემთა ჩატვირთვისას: %s"
+
+msgid "Error loading data: {}"
+msgstr "შეცდომა მონაცემთა ჩატვირთვისას: {}"
+
+msgid "Error loading video data"
+msgstr "შეცდომა ვიდეო მონაცემების ჩატვირთვისას"
+
+msgid "Error loading video page"
+msgstr "შეცდომა ვიდეო გვერდის ჩატვირთვისას"
+
+msgid "Error loading videos:"
+msgstr "შეცდომა ვიდეოების ჩატვირთვისას:"
+
+msgid "Error parsing content"
+msgstr "შეცდომა შინაარსის გარჩევისას"
+
+msgid "Error parsing data"
+msgstr "შეცდომა მონაცემთა გაანალიზებისას"
+
+msgid "Error parsing video data: {}"
+msgstr "შეცდომა ვიდეო მონაცემების გაანალიზებისას: {}"
+
+msgid "Error playing file: {}"
+msgstr "შეცდომა ფაილის დაკვრისას: {}"
+
+msgid "Error playing stream: {}"
+msgstr "შეცდომა ნაკადის დაკვრისას: {}"
+
+msgid "Error playing video:"
+msgstr "ვიდეოს დაკვრის შეცდომა:"
+
+msgid "Error processing archive"
+msgstr "შეცდომა არქივის დამუშავებისას"
+
+msgid "Error processing thematic content"
+msgstr "შეცდომა თემატური შინაარსის დამუშავებისას"
+
+msgid "Error starting plugin"
+msgstr "შეცდომა მოდულის დაწყებისას"
+
+msgid "Error: Could not load news data"
+msgstr "შეცდომა: ახალი ამბების მონაცემების ჩატვირთვა ვერ მოხერხდა"
+
+msgid "Error: Download manager not available"
+msgstr "შეცდომა: ჩამოტვირთვის მენეჯერი მიუწვდომელია"
+
+msgid "Exclusive Programs"
+msgstr "ექსკლუზიური პროგრამები"
+
+msgid "Extracting video URL..."
+msgstr "მიმდინარეობს ვიდეოს URL-ის ამოღება..."
+
+msgid "File not found: {}"
+msgstr "ფაილი ვერ მოიძებნა: {}"
+
+msgid "Films"
+msgstr "ფილმები"
+
+msgid "Found {0} programs for: {1}"
+msgstr "ნაპოვნია {0} პროგრამა: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "თავისუფალი ადგილი: {უფასო} {სულ}-დან"
+
+msgid "Games & Quizzes"
+msgstr "თამაშები და ვიქტორინები"
+
+msgid "HDD Drive"
+msgstr "HDD დისკი"
+
+msgid "History & Art"
+msgstr "ისტორია და ხელოვნება"
+
+msgid "Initializing..."
+msgstr "მიმდინარეობს ინიცირება..."
+
+msgid "International Series"
+msgstr "საერთაშორისო სერიები"
+
+msgid "Invalid video URL detected"
+msgstr "აღმოჩენილია ვიდეოს არასწორი URL"
+
+msgid "Italian Series"
+msgstr "იტალიური სერია"
+
+msgid "Kids"
+msgstr "ბავშვები"
+
+msgid "Learning"
+msgstr "სწავლა"
+
+msgid "Lifestyle"
+msgstr "ცხოვრების წესი"
+
+msgid "Live Radio"
+msgstr "პირდაპირი რადიო"
+
+msgid "Live TV"
+msgstr "პირდაპირი ტელევიზია"
+
+msgid "Loading all programs..."
+msgstr "ყველა პროგრამის ჩატვირთვა..."
+
+msgid "Loading all videos... Please wait"
+msgstr "იტვირთება ყველა ვიდეო... გთხოვთ დაელოდოთ"
+
+msgid "Loading archive data..."
+msgstr "მიმდინარეობს არქივის მონაცემების ჩატვირთვა..."
+
+msgid "Loading archive..."
+msgstr "არქივის ჩატვირთვა..."
+
+msgid "Loading complete! Select an option"
+msgstr "ჩატვირთვა დასრულდა! აირჩიეთ ვარიანტი"
+
+msgid "Loading data... Please wait"
+msgstr "იტვირთება მონაცემები... გთხოვთ დაელოდოთ"
+
+msgid "Loading news categories..."
+msgstr "ახალი ამბების კატეგორიების ჩატვირთვა..."
+
+msgid "Loading news items..."
+msgstr "ახალი ამბების ჩატვირთვა..."
+
+msgid "Loading on-air programs..."
+msgstr "მიმდინარეობს საეთერო პროგრამების ჩატვირთვა..."
+
+msgid "Loading program data"
+msgstr "პროგრამის მონაცემების ჩატვირთვა"
+
+msgid "Loading program details..."
+msgstr "პროგრამის დეტალების ჩატვირთვა..."
+
+msgid "Loading programs..."
+msgstr "იტვირთება პროგრამები..."
+
+msgid "Loading videos..."
+msgstr "ვიდეოების ჩატვირთვა..."
+
+msgid "Music"
+msgstr "მუსიკა"
+
+msgid "Music & Theater"
+msgstr "მუსიკა და თეატრი"
+
+msgid "Music Classic"
+msgstr "მუსიკა კლასიკური"
+
+msgid "Network Storage"
+msgstr "ქსელის შენახვა"
+
+msgid "News & Documentaries"
+msgstr "ახალი ამბები და დოკუმენტური ფილმები"
+
+msgid "News Categories"
+msgstr "ახალი ამბების კატეგორიები"
+
+msgid "Next page"
+msgstr "შემდეგი გვერდი"
+
+msgid "No TV channels available"
+msgstr "არ არის ხელმისაწვდომი სატელევიზიო არხები"
+
+msgid "No archive data found"
+msgstr "არქივის მონაცემები ვერ მოიძებნა"
+
+msgid "No categories available"
+msgstr "კატეგორიები არ არის ხელმისაწვდომი"
+
+msgid "No content available"
+msgstr "კონტენტი ხელმისაწვდომი არ არის"
+
+msgid "No content found in this program"
+msgstr "ამ პროგრამაში კონტენტი ვერ მოიძებნა"
+
+msgid "No downloads"
+msgstr "ჩამოტვირთვები არ არის"
+
+msgid "No downloads in queue"
+msgstr "რიგში ჩამოტვირთვები არ არის"
+
+msgid "No editions available"
+msgstr "არ არის ხელმისაწვდომი გამოცემები"
+
+msgid "No episodes available"
+msgstr "ეპიზოდები არ არის ხელმისაწვდომი"
+
+msgid "No items available"
+msgstr "არ არის ხელმისაწვდომი ნივთები"
+
+msgid "No items found"
+msgstr "ელემენტი ვერ მოიძებნა"
+
+msgid "No items found in this archive"
+msgstr "ამ არქივში ელემენტი არ მოიძებნა"
+
+msgid "No items found in this category"
+msgstr "ამ კატეგორიაში ელემენტი არ მოიძებნა"
+
+msgid "No main theme found"
+msgstr "მთავარი თემა ვერ მოიძებნა"
+
+msgid "No program URL available"
+msgstr "პროგრამის URL ხელმისაწვდომი არ არის"
+
+msgid "No program categories available"
+msgstr "არ არის ხელმისაწვდომი პროგრამის კატეგორიები"
+
+msgid "No programs available for this day"
+msgstr "ამ დღისთვის არ არის ხელმისაწვდომი პროგრამები"
+
+msgid "No programs currently on air"
+msgstr "ამჟამად ეთერში არ არის გადაცემები"
+
+msgid "No programs found for:"
+msgstr "არ მოიძებნა პროგრამები:"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z სიაში პროგრამები ვერ მოიძებნა"
+
+msgid "No sports categories available"
+msgstr "არ არის ხელმისაწვდომი სპორტული კატეგორიები"
+
+msgid "No stream URL available"
+msgstr "ნაკადის URL ხელმისაწვდომი არ არის"
+
+msgid "No video URL available"
+msgstr "ვიდეოს URL ხელმისაწვდომი არ არის"
+
+msgid "No video URL found in the response"
+msgstr "პასუხში ვიდეოს URL ვერ მოიძებნა"
+
+msgid "No videos available"
+msgstr "ვიდეოები ხელმისაწვდომი არ არის"
+
+msgid "No videos found"
+msgstr "ვიდეოები ვერ მოიძებნა"
+
+msgid "No videos found in archive"
+msgstr "არქივში ვიდეოები არ მოიძებნა"
+
+msgid "On Air Programs"
+msgstr "ეთერში პროგრამები"
+
+msgid "On Demand"
+msgstr "მოთხოვნით"
+
+msgid "Originals"
+msgstr "ორიგინალები"
+
+msgid "Page"
+msgstr "გვერდი"
+
+msgid "Page with duplicate"
+msgstr "გვერდი დუბლიკატით"
+
+msgid "Pagination not supported for this archive"
+msgstr "ამ არქივის პაგინაცია არ არის მხარდაჭერილი"
+
+msgid "Play"
+msgstr "ითამაშეთ"
+
+msgid "Play & Download"
+msgstr "თამაში და ჩამოტვირთვა"
+
+msgid "Play/pause not supported for this stream"
+msgstr "დაკვრა/პაუზა არ არის მხარდაჭერილი ამ ნაკადისთვის"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "პროგრამების სია კვლავ იტვირთება. გთხოვთ დაელოდოთ..."
+
+msgid "Programs"
+msgstr "პროგრამები"
+
+msgid "Query too short (min 3 characters)"
+msgstr "მოთხოვნა ძალიან მოკლეა (მინიმუმ 3 სიმბოლო)"
+
+msgid "Radio Programs A-Z"
+msgstr "რადიო გადაცემები A-Z"
+
+msgid "Rai News"
+msgstr "რაი ამბები"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr "Rai Play მთავარი"
+
+msgid "Rai Play On Demand"
+msgstr "Rai თამაში მოთხოვნით"
+
+msgid "Rai Play Programs"
+msgstr "Rai Play პროგრამები"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr "Rai Play ძიება"
+
+msgid "Rai Sport"
+msgstr "რაი სპორტი"
+
+msgid "Rai Sport - Categories"
+msgstr "რაი სპორტი - კატეგორიები"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - ქვეკატეგორიები"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay პარამეტრები"
+
+msgid "Remove"
+msgstr "ამოღება"
+
+msgid "Remove download: {}?"
+msgstr "წაიშალოს ჩამოტვირთვა: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "ამოღებულია რიგიდან: {}"
+
+msgid "Replay TV"
+msgstr "ტელევიზორის გამეორება"
+
+msgid "Search"
+msgstr "ძიება"
+
+msgid "Search error. Please try again."
+msgstr "ძიების შეცდომა. გთხოვთ, სცადოთ ხელახლა."
+
+msgid "Searching through programs..."
+msgstr "პროგრამების ძიება..."
+
+msgid "Select a category"
+msgstr "აირჩიეთ კატეგორია"
+
+msgid "Select a video"
+msgstr "აირჩიეთ ვიდეო"
+
+msgid "Select block"
+msgstr "აირჩიეთ ბლოკი"
+
+msgid "Select category"
+msgstr "აირჩიეთ კატეგორია"
+
+msgid "Select channel"
+msgstr "აირჩიეთ არხი"
+
+msgid "Select content set"
+msgstr "აირჩიეთ შინაარსის ნაკრები"
+
+msgid "Select date"
+msgstr "აირჩიეთ თარიღი"
+
+msgid "Select edition"
+msgstr "აირჩიეთ გამოცემა"
+
+msgid "Select episode"
+msgstr "აირჩიეთ ეპიზოდი"
+
+msgid "Select item"
+msgstr "აირჩიეთ ელემენტი"
+
+msgid "Select letter"
+msgstr "აირჩიეთ ასო"
+
+msgid "Select program"
+msgstr "აირჩიეთ პროგრამა"
+
+msgid "Select program to watch"
+msgstr "აირჩიეთ პროგრამა საყურებლად"
+
+msgid "Select subcategory"
+msgstr "აირჩიეთ ქვეკატეგორია"
+
+msgid "Select video"
+msgstr "აირჩიეთ ვიდეო"
+
+msgid "Society & Culture"
+msgstr "საზოგადოება და კულტურა"
+
+msgid "Sports"
+msgstr "სპორტი"
+
+msgid "Start"
+msgstr "დაწყება"
+
+msgid "Stop"
+msgstr "გაჩერდი"
+
+msgid "Stop the download first before removing"
+msgstr "ჯერ შეაჩერეთ ჩამოტვირთვა წაშლამდე"
+
+msgid "Sustainability"
+msgstr "მდგრადობა"
+
+msgid "TGR and Special Programs"
+msgstr "TGR და სპეციალური პროგრამები"
+
+msgid "TV News"
+msgstr "სატელევიზიო ამბები"
+
+msgid "TV Programs A-Z"
+msgstr "სატელევიზიო გადაცემები A-Z"
+
+msgid "Talk Shows"
+msgstr "თოქ შოუები"
+
+msgid "Tech & Learning"
+msgstr ""
+
+msgid "Teens"
+msgstr "მოზარდები"
+
+msgid "Temporary"
+msgstr "დროებითი"
+
+msgid "Test download added to queue"
+msgstr "სატესტო ჩამოტვირთვა დაემატა რიგში"
+
+msgid "Test download failed"
+msgstr "ტესტის ჩამოტვირთვა ვერ მოხერხდა"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "სულ: {სულ} | აქტიური: {აქტიური} | რიგში: {რიგშია} | დასრულებული: {დასრულებულია} | შეცდომები: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "მოგზაურობა და თავგადასავალი"
+
+msgid "USB Drive"
+msgstr "USB დისკი"
+
+msgid "Unknown content type"
+msgstr "უცნობი კონტენტის ტიპი"
+
+msgid "Unknown data format"
+msgstr "მონაცემთა უცნობი ფორმატი"
+
+msgid "Unknown title"
+msgstr "უცნობი სათაური"
+
+msgid "Video URL not available"
+msgstr "ვიდეოს URL მიუწვდომელია"
+
+msgid "Video URL not found"
+msgstr "ვიდეოს URL ვერ მოიძებნა"
+
+msgid "Video not available"
+msgstr "ვიდეო მიუწვდომელია"
+
+msgid "View Full Archive"
+msgstr "სრული არქივის ნახვა"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "კეთილი იყოს თქვენი მობრძანება RAI PLAY PLUGINS BY LULULLA-ზე"

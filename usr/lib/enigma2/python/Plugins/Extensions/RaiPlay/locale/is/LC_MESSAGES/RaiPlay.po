@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:28+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Ö Öll forrit"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Ö útvarpsþættir"
+
+msgid "A-Z TV Shows"
+msgstr "A-Ö sjónvarpsþættir"
+
+msgid "Activate Debug for messages developer."
+msgstr "Virkjaðu villuleit fyrir skilaboðaforritara."
+
+msgid "Active Debug"
+msgstr "Virk kembiforrit"
+
+msgid "Added to queue: {}"
+msgstr "Bætt í biðröð: {}"
+
+msgid "All Programs"
+msgstr "Öll forrit"
+
+msgid "Archive URL not found"
+msgstr "Slóð skjalasafns fannst ekki"
+
+msgid "Back"
+msgstr "Til baka"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Veldu aðgerð fyrir: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Hreinsaðu biðröð frá afritum"
+
+msgid "Content type not recognized"
+msgstr "Efnistegund ekki þekkt"
+
+msgid "Could not find video URL"
+msgstr "Fann ekki vefslóð myndbandsins"
+
+msgid "Could not load program content"
+msgstr "Ekki tókst að hlaða efni forritsins"
+
+msgid "Crime"
+msgstr "Glæpur"
+
+msgid "Crime Investigations"
+msgstr "Glæparannsóknir"
+
+msgid "Default Folder"
+msgstr "Sjálfgefin mappa"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Sjálfgefin mappa til að opna og vista kvikmyndaskrár"
+
+msgid "Documentaries"
+msgstr "Heimildarmyndir"
+
+msgid "Download"
+msgstr "Sækja"
+
+msgid "Download Manager"
+msgstr "Niðurhalsstjóri"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Niðurhal fjarlægt: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Niðurhal hófst: {}"
+
+msgid "Download stopped: {}"
+msgstr "Niðurhali hætt: {}"
+
+msgid "Enter search query"
+msgstr "Sláðu inn leitarfyrirspurn"
+
+msgid "Entertainment"
+msgstr "Skemmtun"
+
+msgid "Error adding download"
+msgstr "Villa við að bæta við niðurhali"
+
+msgid "Error extracting video URL"
+msgstr "Villa við að draga út vefslóð myndbandsins"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Villa við að hlaða A-Ö forritum: {}"
+
+msgid "Error loading archive data"
+msgstr "Villa við að hlaða skjalasafnsgögnum"
+
+msgid "Error loading archive data: {}"
+msgstr "Villa við að hlaða safngögnum: {}"
+
+msgid "Error loading content from API"
+msgstr "Villa við að hlaða efni úr API"
+
+msgid "Error loading data"
+msgstr "Villa við að hlaða gögnum"
+
+msgid "Error loading data: %s"
+msgstr "Villa við að hlaða gögnum: %s"
+
+msgid "Error loading data: {}"
+msgstr "Villa við að hlaða gögnum: {}"
+
+msgid "Error loading video data"
+msgstr "Villa við að hlaða myndbandsgögnum"
+
+msgid "Error loading video page"
+msgstr "Villa við að hlaða myndbandssíðu"
+
+msgid "Error loading videos:"
+msgstr "Villa við að hlaða myndböndum:"
+
+msgid "Error parsing content"
+msgstr "Villa við að flokka efni"
+
+msgid "Error parsing data"
+msgstr "Villa við þáttun gagna"
+
+msgid "Error parsing video data: {}"
+msgstr "Villa við að flokka myndbandsgögn: {}"
+
+msgid "Error playing file: {}"
+msgstr "Villa við að spila skrá: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Villa við að spila straum: {}"
+
+msgid "Error playing video:"
+msgstr "Villa við að spila myndband:"
+
+msgid "Error processing archive"
+msgstr "Villa við að vinna úr skjalasafni"
+
+msgid "Error processing thematic content"
+msgstr "Villa við vinnslu þemaefnis"
+
+msgid "Error starting plugin"
+msgstr "Villa við að hefja viðbót"
+
+msgid "Error: Could not load news data"
+msgstr "Villa: Gat ekki hlaðið fréttagögnum"
+
+msgid "Error: Download manager not available"
+msgstr "Villa: Niðurhalsstjóri ekki í boði"
+
+msgid "Exclusive Programs"
+msgstr "Einkaforrit"
+
+msgid "Extracting video URL..."
+msgstr "Tekur út vefslóð myndbands..."
+
+msgid "File not found: {}"
+msgstr "Skrá fannst ekki: {}"
+
+msgid "Films"
+msgstr "Kvikmyndir"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Fann {0} forrit fyrir: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Laust pláss: {ókeypis} af {total}"
+
+msgid "Games & Quizzes"
+msgstr "Leikir og spurningakeppnir"
+
+msgid "HDD Drive"
+msgstr "HDD drif"
+
+msgid "History & Art"
+msgstr "Saga & list"
+
+msgid "Initializing..."
+msgstr "Frumstillir..."
+
+msgid "International Series"
+msgstr "Alþjóðleg þáttaröð"
+
+msgid "Invalid video URL detected"
+msgstr "Ógild vefslóð vídeós fannst"
+
+msgid "Italian Series"
+msgstr "Ítölsk þáttaröð"
+
+msgid "Kids"
+msgstr "Krakkar"
+
+msgid "Learning"
+msgstr "Að læra"
+
+msgid "Lifestyle"
+msgstr "Lífsstíll"
+
+msgid "Live Radio"
+msgstr "Útvarp í beinni"
+
+msgid "Live TV"
+msgstr "Sjónvarp í beinni"
+
+msgid "Loading all programs..."
+msgstr "Hleður öll forrit..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Hleður öllum myndböndum... Vinsamlegast bíddu"
+
+msgid "Loading archive data..."
+msgstr "Hleður safngögnum..."
+
+msgid "Loading archive..."
+msgstr "Hleður safnskrá..."
+
+msgid "Loading complete! Select an option"
+msgstr "Hleðslu lokið! Veldu valkost"
+
+msgid "Loading data... Please wait"
+msgstr "Hleður gögnum... Vinsamlegast bíddu"
+
+msgid "Loading news categories..."
+msgstr "Hleður fréttaflokkum..."
+
+msgid "Loading news items..."
+msgstr "Hleður fréttum..."
+
+msgid "Loading on-air programs..."
+msgstr "Hleður inn dagskrárliði..."
+
+msgid "Loading program data"
+msgstr "Hleður forritsgögnum"
+
+msgid "Loading program details..."
+msgstr "Hleður upplýsingar um forrit..."
+
+msgid "Loading programs..."
+msgstr "Hleður forritum..."
+
+msgid "Loading videos..."
+msgstr "Hleður myndskeiðum..."
+
+msgid "Music"
+msgstr "Tónlist"
+
+msgid "Music & Theater"
+msgstr "Tónlist og leikhús"
+
+msgid "Music Classic"
+msgstr "Klassísk tónlist"
+
+msgid "Network Storage"
+msgstr "Netgeymsla"
+
+msgid "News & Documentaries"
+msgstr "Fréttir og heimildarmyndir"
+
+msgid "News Categories"
+msgstr "Fréttir Flokkar"
+
+msgid "Next page"
+msgstr "Næsta síða"
+
+msgid "No TV channels available"
+msgstr "Engar sjónvarpsstöðvar í boði"
+
+msgid "No archive data found"
+msgstr "Engin skjalasafnsgögn fundust"
+
+msgid "No categories available"
+msgstr "Engir flokkar í boði"
+
+msgid "No content available"
+msgstr "Ekkert efni í boði"
+
+msgid "No content found in this program"
+msgstr "Ekkert efni fannst í þessu forriti"
+
+msgid "No downloads"
+msgstr "Ekkert niðurhal"
+
+msgid "No downloads in queue"
+msgstr "Ekkert niðurhal í biðröð"
+
+msgid "No editions available"
+msgstr "Engar útgáfur í boði"
+
+msgid "No episodes available"
+msgstr "Engir þættir í boði"
+
+msgid "No items available"
+msgstr "Engir hlutir í boði"
+
+msgid "No items found"
+msgstr "Engir hlutir fundust"
+
+msgid "No items found in this archive"
+msgstr "Engin atriði fundust í þessu skjalasafni"
+
+msgid "No items found in this category"
+msgstr "Engir hlutir fundust í þessum flokki"
+
+msgid "No main theme found"
+msgstr "Ekkert aðalþema fannst"
+
+msgid "No program URL available"
+msgstr "Engin vefslóð forrits tiltæk"
+
+msgid "No program categories available"
+msgstr "Engir dagskrárflokkar í boði"
+
+msgid "No programs available for this day"
+msgstr "Engin dagskrá í boði þennan dag"
+
+msgid "No programs currently on air"
+msgstr "Engin dagskrá í loftinu eins og er"
+
+msgid "No programs found for:"
+msgstr "Engin forrit fundust fyrir:"
+
+msgid "No programs found in A-Z list"
+msgstr "Engin forrit fundust í A-Ö lista"
+
+msgid "No sports categories available"
+msgstr "Engir íþróttaflokkar í boði"
+
+msgid "No stream URL available"
+msgstr "Engin vefslóð straums tiltæk"
+
+msgid "No video URL available"
+msgstr "Engin vefslóð myndbands tiltæk"
+
+msgid "No video URL found in the response"
+msgstr "Engin vefslóð myndbands fannst í svarinu"
+
+msgid "No videos available"
+msgstr "Engin myndskeið í boði"
+
+msgid "No videos found"
+msgstr "Engin myndbönd fundust"
+
+msgid "No videos found in archive"
+msgstr "Engin myndskeið fundust í skjalasafni"
+
+msgid "On Air Programs"
+msgstr "On Air forrit"
+
+msgid "On Demand"
+msgstr "Á eftirspurn"
+
+msgid "Originals"
+msgstr "Frumrit"
+
+msgid "Page"
+msgstr "Bls"
+
+msgid "Page with duplicate"
+msgstr "Síða með afriti"
+
+msgid "Pagination not supported for this archive"
+msgstr "Síðun ekki studd fyrir þetta skjalasafn"
+
+msgid "Play"
+msgstr "Spila"
+
+msgid "Play & Download"
+msgstr "Spila og hlaða niður"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Spilun/hlé er ekki stutt fyrir þennan straum"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Dagskrárlisti er enn að hlaðast. Vinsamlegast bíddu..."
+
+msgid "Programs"
+msgstr "Forrit"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Of stutt fyrirspurn (lágmark 3 stafir)"
+
+msgid "Radio Programs A-Z"
+msgstr "Útvarpsþættir A-Ö"
+
+msgid "Rai News"
+msgstr "Rai fréttir"
+
+msgid "Rai Play Live"
+msgstr "Rai spila í beinni"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Spilaðu útvarp í beinni"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Rai Play forrit"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr "Rai Play Leit"
+
+msgid "Rai Sport"
+msgstr "Rai íþróttir"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Flokkar"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Undirflokkar"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay stillingar"
+
+msgid "Remove"
+msgstr "Fjarlægja"
+
+msgid "Remove download: {}?"
+msgstr "Fjarlægja niðurhal: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Fjarlægt úr biðröð: {}"
+
+msgid "Replay TV"
+msgstr "Endurspilaðu sjónvarpið"
+
+msgid "Search"
+msgstr "Leita"
+
+msgid "Search error. Please try again."
+msgstr "Leitarvilla. Vinsamlegast reyndu aftur."
+
+msgid "Searching through programs..."
+msgstr "Leitar í gegnum forrit..."
+
+msgid "Select a category"
+msgstr "Veldu flokk"
+
+msgid "Select a video"
+msgstr "Veldu myndband"
+
+msgid "Select block"
+msgstr "Veldu blokk"
+
+msgid "Select category"
+msgstr "Veldu flokk"
+
+msgid "Select channel"
+msgstr "Veldu rás"
+
+msgid "Select content set"
+msgstr "Veldu efnissett"
+
+msgid "Select date"
+msgstr "Veldu dagsetningu"
+
+msgid "Select edition"
+msgstr "Veldu útgáfu"
+
+msgid "Select episode"
+msgstr "Veldu þátt"
+
+msgid "Select item"
+msgstr "Veldu hlut"
+
+msgid "Select letter"
+msgstr "Veldu staf"
+
+msgid "Select program"
+msgstr "Veldu forrit"
+
+msgid "Select program to watch"
+msgstr "Veldu dagskrá til að horfa á"
+
+msgid "Select subcategory"
+msgstr "Veldu undirflokk"
+
+msgid "Select video"
+msgstr "Veldu myndband"
+
+msgid "Society & Culture"
+msgstr "Samfélag og menning"
+
+msgid "Sports"
+msgstr "Íþróttir"
+
+msgid "Start"
+msgstr "Byrjaðu"
+
+msgid "Stop"
+msgstr "Hættu"
+
+msgid "Stop the download first before removing"
+msgstr "Stöðvaðu niðurhalið fyrst áður en þú fjarlægir"
+
+msgid "Sustainability"
+msgstr "Sjálfbærni"
+
+msgid "TGR and Special Programs"
+msgstr "TGR og sérstök forrit"
+
+msgid "TV News"
+msgstr "Sjónvarpsfréttir"
+
+msgid "TV Programs A-Z"
+msgstr "Sjónvarpsþættir A-Ö"
+
+msgid "Talk Shows"
+msgstr "Spjallþættir"
+
+msgid "Tech & Learning"
+msgstr "Tækni og nám"
+
+msgid "Teens"
+msgstr "Unglingar"
+
+msgid "Temporary"
+msgstr "Tímabundið"
+
+msgid "Test download added to queue"
+msgstr "Prófunarniðurhal bætt við biðröð"
+
+msgid "Test download failed"
+msgstr "Próf niðurhal mistókst"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Samtals: {total} | Virkur: {virk} | Biðröð: {biðröð} | Lokið: {completed} | Villur: {villur}"
+
+msgid "Travel & Adventure"
+msgstr "Ferðalög og ævintýri"
+
+msgid "USB Drive"
+msgstr "USB drif"
+
+msgid "Unknown content type"
+msgstr "Óþekkt efnistegund"
+
+msgid "Unknown data format"
+msgstr "Óþekkt gagnasnið"
+
+msgid "Unknown title"
+msgstr "Óþekktur titill"
+
+msgid "Video URL not available"
+msgstr "Vídeóslóð ekki tiltæk"
+
+msgid "Video URL not found"
+msgstr "Vídeóslóð fannst ekki"
+
+msgid "Video not available"
+msgstr "Myndband ekki tiltækt"
+
+msgid "View Full Archive"
+msgstr "Skoða allt skjalasafn"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "VELKOMIN Í RAI PLAY PLUGINS BY LULULLA"

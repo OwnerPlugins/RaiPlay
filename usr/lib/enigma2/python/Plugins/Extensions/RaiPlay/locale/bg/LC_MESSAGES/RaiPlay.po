@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:13+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bulgarian <dict@ludost.net>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Всички програми"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z радио предавания"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z телевизионни предавания"
+
+msgid "Activate Debug for messages developer."
+msgstr "Активирайте Debug за програмист на съобщения."
+
+msgid "Active Debug"
+msgstr "Активно отстраняване на грешки"
+
+msgid "Added to queue: {}"
+msgstr "Добавено към опашката: {}"
+
+msgid "All Programs"
+msgstr "Всички програми"
+
+msgid "Archive URL not found"
+msgstr "URL адресът на архива не е намерен"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Barry Allen"
+msgstr "Бари Алън"
+
+msgid "Choose action for: {}"
+msgstr "Изберете действие за: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Почистете опашката от дубликати"
+
+msgid "Content type not recognized"
+msgstr "Типът съдържание не е разпознат"
+
+msgid "Could not find video URL"
+msgstr "URL адресът на видеоклипа не можа да бъде намерен"
+
+msgid "Could not load program content"
+msgstr "Съдържанието на програмата не можа да се зареди"
+
+msgid "Crime"
+msgstr "престъпление"
+
+msgid "Crime Investigations"
+msgstr "Разследвания на престъпления"
+
+msgid "Default Folder"
+msgstr "Папка по подразбиране"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Папка по подразбиране за отваряне и запазване на филмови файлове"
+
+msgid "Documentaries"
+msgstr "Документални филми"
+
+msgid "Download"
+msgstr "Изтегляне"
+
+msgid "Download Manager"
+msgstr "Мениджър за изтегляне"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Премахнато изтегляне: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Изтеглянето започна: {}"
+
+msgid "Download stopped: {}"
+msgstr "Изтеглянето е спряно: {}"
+
+msgid "Enter search query"
+msgstr "Въведете заявка за търсене"
+
+msgid "Entertainment"
+msgstr "Развлечение"
+
+msgid "Error adding download"
+msgstr "Грешка при добавяне на изтегляне"
+
+msgid "Error extracting video URL"
+msgstr "Грешка при извличане на URL адреса на видеоклипа"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Грешка при зареждане на програми от A до Z: {}"
+
+msgid "Error loading archive data"
+msgstr "Грешка при зареждане на архивни данни"
+
+msgid "Error loading archive data: {}"
+msgstr "Грешка при зареждане на архивни данни: {}"
+
+msgid "Error loading content from API"
+msgstr "Грешка при зареждане на съдържание от API"
+
+msgid "Error loading data"
+msgstr "Грешка при зареждане на данни"
+
+msgid "Error loading data: %s"
+msgstr "Грешка при зареждане на данни: %s"
+
+msgid "Error loading data: {}"
+msgstr "Грешка при зареждане на данни: {}"
+
+msgid "Error loading video data"
+msgstr "Грешка при зареждане на видеоданните"
+
+msgid "Error loading video page"
+msgstr "Грешка при зареждането на видео страницата"
+
+msgid "Error loading videos:"
+msgstr "Грешка при зареждане на видеоклипове:"
+
+msgid "Error parsing content"
+msgstr "Грешка при синтактичния анализ на съдържанието"
+
+msgid "Error parsing data"
+msgstr "Грешка при анализа на данните"
+
+msgid "Error parsing video data: {}"
+msgstr "Грешка при синтактичния анализ на видеоданните: {}"
+
+msgid "Error playing file: {}"
+msgstr "Грешка при възпроизвеждане на файл: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Грешка при възпроизвеждане на потока: {}"
+
+msgid "Error playing video:"
+msgstr "Грешка при възпроизвеждане на видео:"
+
+msgid "Error processing archive"
+msgstr "Грешка при обработката на архива"
+
+msgid "Error processing thematic content"
+msgstr "Грешка при обработката на тематично съдържание"
+
+msgid "Error starting plugin"
+msgstr "Грешка при стартиране на приставката"
+
+msgid "Error: Could not load news data"
+msgstr "Грешка: Неуспешно зареждане на новинарски данни"
+
+msgid "Error: Download manager not available"
+msgstr "Грешка: Мениджърът за изтегляне не е наличен"
+
+msgid "Exclusive Programs"
+msgstr "Изключителни програми"
+
+msgid "Extracting video URL..."
+msgstr "URL адресът на видеоклипа се извлича..."
+
+msgid "File not found: {}"
+msgstr "Файлът не е намерен: {}"
+
+msgid "Films"
+msgstr "филми"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Намерени са {0} програми за: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Свободно пространство: {free} от {total}"
+
+msgid "Games & Quizzes"
+msgstr "Игри и викторини"
+
+msgid "HDD Drive"
+msgstr "HDD устройство"
+
+msgid "History & Art"
+msgstr "История и изкуство"
+
+msgid "Initializing..."
+msgstr "Инициализира се..."
+
+msgid "International Series"
+msgstr "Международна поредица"
+
+msgid "Invalid video URL detected"
+msgstr "Открит е невалиден URL адрес на видеоклипа"
+
+msgid "Italian Series"
+msgstr "италиански сериал"
+
+msgid "Kids"
+msgstr "деца"
+
+msgid "Learning"
+msgstr "учене"
+
+msgid "Lifestyle"
+msgstr "начин на живот"
+
+msgid "Live Radio"
+msgstr "Радио на живо"
+
+msgid "Live TV"
+msgstr "Телевизия на живо"
+
+msgid "Loading all programs..."
+msgstr "Всички програми се зареждат..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Всички видеоклипове се зареждат... Моля, изчакайте"
+
+msgid "Loading archive data..."
+msgstr "Архивните данни се зареждат..."
+
+msgid "Loading archive..."
+msgstr "Архивът се зарежда..."
+
+msgid "Loading complete! Select an option"
+msgstr "Зареждането приключи! Изберете опция"
+
+msgid "Loading data... Please wait"
+msgstr "Данните се зареждат... Моля, изчакайте"
+
+msgid "Loading news categories..."
+msgstr "Категориите с новини се зареждат..."
+
+msgid "Loading news items..."
+msgstr "Новините се зареждат..."
+
+msgid "Loading on-air programs..."
+msgstr "Програмите в ефир се зареждат..."
+
+msgid "Loading program data"
+msgstr "Данните за програмата се зареждат"
+
+msgid "Loading program details..."
+msgstr "Подробностите за програмата се зареждат..."
+
+msgid "Loading programs..."
+msgstr "Програмите се зареждат..."
+
+msgid "Loading videos..."
+msgstr "Видеоклиповете се зареждат..."
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "Music & Theater"
+msgstr "Музика и театър"
+
+msgid "Music Classic"
+msgstr "Класическа музика"
+
+msgid "Network Storage"
+msgstr "Мрежово съхранение"
+
+msgid "News & Documentaries"
+msgstr "Новини и документални филми"
+
+msgid "News Categories"
+msgstr "Категории новини"
+
+msgid "Next page"
+msgstr "Следваща страница"
+
+msgid "No TV channels available"
+msgstr "Няма налични телевизионни канали"
+
+msgid "No archive data found"
+msgstr "Няма намерени архивни данни"
+
+msgid "No categories available"
+msgstr "Няма налични категории"
+
+msgid "No content available"
+msgstr "Няма налично съдържание"
+
+msgid "No content found in this program"
+msgstr "Няма намерено съдържание в тази програма"
+
+msgid "No downloads"
+msgstr "Няма изтегляния"
+
+msgid "No downloads in queue"
+msgstr "Няма изтегляния в опашката"
+
+msgid "No editions available"
+msgstr "Няма налични издания"
+
+msgid "No episodes available"
+msgstr "Няма налични епизоди"
+
+msgid "No items available"
+msgstr "Няма налични артикули"
+
+msgid "No items found"
+msgstr "Няма намерени елементи"
+
+msgid "No items found in this archive"
+msgstr "Няма намерени елементи в този архив"
+
+msgid "No items found in this category"
+msgstr "Няма намерени артикули в тази категория"
+
+msgid "No main theme found"
+msgstr "Не е намерена основна тема"
+
+msgid "No program URL available"
+msgstr "Няма наличен URL адрес на програмата"
+
+msgid "No program categories available"
+msgstr "Няма налични категории програми"
+
+msgid "No programs available for this day"
+msgstr "Няма налични програми за този ден"
+
+msgid "No programs currently on air"
+msgstr "В момента няма излъчвани програми"
+
+msgid "No programs found for:"
+msgstr "Няма намерени програми за:"
+
+msgid "No programs found in A-Z list"
+msgstr "Няма намерени програми в списъка A-Z"
+
+msgid "No sports categories available"
+msgstr "Няма налични спортни категории"
+
+msgid "No stream URL available"
+msgstr "Няма наличен URL адрес на поток"
+
+msgid "No video URL available"
+msgstr "Няма наличен URL адрес на видеоклип"
+
+msgid "No video URL found in the response"
+msgstr "В отговора не е намерен URL адрес на видеоклип"
+
+msgid "No videos available"
+msgstr "Няма налични видеоклипове"
+
+msgid "No videos found"
+msgstr "Няма намерени видеоклипове"
+
+msgid "No videos found in archive"
+msgstr "Няма намерени видеоклипове в архива"
+
+msgid "On Air Programs"
+msgstr "Ефирни програми"
+
+msgid "On Demand"
+msgstr "При поискване"
+
+msgid "Originals"
+msgstr "оригинали"
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Page with duplicate"
+msgstr "Страница с дубликат"
+
+msgid "Pagination not supported for this archive"
+msgstr "Пагинирането не се поддържа за този архив"
+
+msgid "Play"
+msgstr "Играйте"
+
+msgid "Play & Download"
+msgstr "Възпроизвеждане и изтегляне"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Пускане/пауза не се поддържа за този поток"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Списъкът с програми все още се зарежда. моля изчакайте..."
+
+msgid "Programs"
+msgstr "програми"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Заявката е твърде кратка (мин. 3 знака)"
+
+msgid "Radio Programs A-Z"
+msgstr "Радио програми A-Z"
+
+msgid "Rai News"
+msgstr "Рай новини"
+
+msgid "Rai Play Live"
+msgstr "Rai Игра на живо"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Play Radio на живо"
+
+msgid "Rai Play Main"
+msgstr "Rai Play Основен"
+
+msgid "Rai Play On Demand"
+msgstr "Rai Игра при поискване"
+
+msgid "Rai Play Programs"
+msgstr "Програми Rai Play"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "Повторение на Rai Play:"
+
+msgid "Rai Play Search"
+msgstr "Търсене на Rai Play"
+
+msgid "Rai Sport"
+msgstr "Рай Спорт"
+
+msgid "Rai Sport - Categories"
+msgstr "Рай Спорт - Категории"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Рай Спорт - Подкатегории"
+
+msgid "RaiPlay Settings"
+msgstr "Настройки на RaiPlay"
+
+msgid "Remove"
+msgstr "Премахнете"
+
+msgid "Remove download: {}?"
+msgstr "Премахване на изтеглянето: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Премахнато от опашката: {}"
+
+msgid "Replay TV"
+msgstr "Възпроизвеждане на телевизия"
+
+msgid "Search"
+msgstr "Търсене"
+
+msgid "Search error. Please try again."
+msgstr "Грешка при търсене. Моля, опитайте отново."
+
+msgid "Searching through programs..."
+msgstr "Търсене в програми..."
+
+msgid "Select a category"
+msgstr "Изберете категория"
+
+msgid "Select a video"
+msgstr "Изберете видеоклип"
+
+msgid "Select block"
+msgstr "Изберете блок"
+
+msgid "Select category"
+msgstr "Изберете категория"
+
+msgid "Select channel"
+msgstr "Изберете канал"
+
+msgid "Select content set"
+msgstr "Изберете набор от съдържание"
+
+msgid "Select date"
+msgstr "Изберете дата"
+
+msgid "Select edition"
+msgstr "Изберете издание"
+
+msgid "Select episode"
+msgstr "Изберете епизод"
+
+msgid "Select item"
+msgstr "Изберете елемент"
+
+msgid "Select letter"
+msgstr "Изберете буква"
+
+msgid "Select program"
+msgstr "Изберете програма"
+
+msgid "Select program to watch"
+msgstr "Изберете програма за гледане"
+
+msgid "Select subcategory"
+msgstr "Изберете подкатегория"
+
+msgid "Select video"
+msgstr "Изберете видео"
+
+msgid "Society & Culture"
+msgstr "Общество и култура"
+
+msgid "Sports"
+msgstr "Спорт"
+
+msgid "Start"
+msgstr "Започнете"
+
+msgid "Stop"
+msgstr "Спрете"
+
+msgid "Stop the download first before removing"
+msgstr "Първо спрете изтеглянето, преди да премахнете"
+
+msgid "Sustainability"
+msgstr "Устойчивост"
+
+msgid "TGR and Special Programs"
+msgstr "TGR и специални програми"
+
+msgid "TV News"
+msgstr "ТВ новини"
+
+msgid "TV Programs A-Z"
+msgstr "ТВ програми A-Z"
+
+msgid "Talk Shows"
+msgstr "Токшоута"
+
+msgid "Tech & Learning"
+msgstr "Технология и обучение"
+
+msgid "Teens"
+msgstr "Тийнейджъри"
+
+msgid "Temporary"
+msgstr "Временно"
+
+msgid "Test download added to queue"
+msgstr "Тестовото изтегляне е добавено към опашката"
+
+msgid "Test download failed"
+msgstr "Тестовото изтегляне не бе успешно"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Общо: {общо} | Активен: {активен} | На опашка: {на опашка} | Завършено: {завършено} | Грешки: {грешки}"
+
+msgid "Travel & Adventure"
+msgstr "Пътуване и приключения"
+
+msgid "USB Drive"
+msgstr "USB устройство"
+
+msgid "Unknown content type"
+msgstr "Неизвестен тип съдържание"
+
+msgid "Unknown data format"
+msgstr "Неизвестен формат на данните"
+
+msgid "Unknown title"
+msgstr "Неизвестно заглавие"
+
+msgid "Video URL not available"
+msgstr "URL адресът на видеоклипа не е наличен"
+
+msgid "Video URL not found"
+msgstr "URL адресът на видеоклипа не е намерен"
+
+msgid "Video not available"
+msgstr "Видеото не е налично"
+
+msgid "View Full Archive"
+msgstr "Вижте пълния архив"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "ДОБРЕ ДОШЛИ В RAI PLAY PLUGINS ОТ LULULLA"

@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:53+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kirghiz <(nothing)>\n"
+"Language: ky\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Бардык программалар"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z радиошоулору"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z телешоулору"
+
+msgid "Activate Debug for messages developer."
+msgstr "Билдирүүлөрдү иштеп чыгуучу үчүн мүчүлүштүктөрдү оңдоону жандырыңыз."
+
+msgid "Active Debug"
+msgstr ""
+
+msgid "Added to queue: {}"
+msgstr "Кезекке кошулду: {}"
+
+msgid "All Programs"
+msgstr "Бардык программалар"
+
+msgid "Archive URL not found"
+msgstr "Архив URL табылган жок"
+
+msgid "Back"
+msgstr "Артка"
+
+msgid "Barry Allen"
+msgstr "Барри Аллен"
+
+msgid "Choose action for: {}"
+msgstr "Төмөнкү үчүн аракет тандаңыз: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Кезекти кайталанмалардан тазалоо"
+
+msgid "Content type not recognized"
+msgstr "Мазмун түрү таанылган жок"
+
+msgid "Could not find video URL"
+msgstr "Видеонун URL дареги табылган жок"
+
+msgid "Could not load program content"
+msgstr "Программанын мазмуну жүктөлгөн жок"
+
+msgid "Crime"
+msgstr "Кылмыш"
+
+msgid "Crime Investigations"
+msgstr "Кылмыш иликтөө"
+
+msgid "Default Folder"
+msgstr "Демейки папка"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Тасма файлдарын ачуу жана сактоо үчүн демейки папка"
+
+msgid "Documentaries"
+msgstr "Документалдуу фильмдер"
+
+msgid "Download"
+msgstr "Жүктөп алуу"
+
+msgid "Download Manager"
+msgstr "Жүктөө менеджери"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Жүктөп алуу алынып салынды: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Жүктөп алуу башталды: {}"
+
+msgid "Download stopped: {}"
+msgstr "Жүктөп алуу токтотулду: {}"
+
+msgid "Enter search query"
+msgstr "Издөө сурамын киргизиңиз"
+
+msgid "Entertainment"
+msgstr "Көңүл ачуу"
+
+msgid "Error adding download"
+msgstr "Жүктөп алуу кошууда ката кетти"
+
+msgid "Error extracting video URL"
+msgstr "Видеонун URL'ин чыгарууда ката кетти"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "A-Z программаларын жүктөө катасы: {}"
+
+msgid "Error loading archive data"
+msgstr "Архив дайындарын жүктөө катасы"
+
+msgid "Error loading archive data: {}"
+msgstr "Архивдик дайындарды жүктөө катасы: {}"
+
+msgid "Error loading content from API"
+msgstr "API'ден мазмунду жүктөө катасы"
+
+msgid "Error loading data"
+msgstr "Дайындарды жүктөө катасы"
+
+msgid "Error loading data: %s"
+msgstr "Дайындарды жүктөө катасы: %s"
+
+msgid "Error loading data: {}"
+msgstr "Дайындарды жүктөө катасы: {}"
+
+msgid "Error loading video data"
+msgstr "Видео дайындарын жүктөө катасы"
+
+msgid "Error loading video page"
+msgstr "Видео барагын жүктөө катасы"
+
+msgid "Error loading videos:"
+msgstr "Видеолорду жүктөө катасы:"
+
+msgid "Error parsing content"
+msgstr "Мазмунду талдоо катасы"
+
+msgid "Error parsing data"
+msgstr "Дайындарды талдоо катасы"
+
+msgid "Error parsing video data: {}"
+msgstr "Видео дайындарын талдоо катасы: {}"
+
+msgid "Error playing file: {}"
+msgstr "Файлды ойнотуудагы ката: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Агымды ойнотуудагы ката: {}"
+
+msgid "Error playing video:"
+msgstr "Видеону ойнотуудагы ката:"
+
+msgid "Error processing archive"
+msgstr "Архивди иштетүүдө ката кетти"
+
+msgid "Error processing thematic content"
+msgstr "Тематикалык мазмунду иштетүүдө ката кетти"
+
+msgid "Error starting plugin"
+msgstr "Плагинди баштоодо ката кетти"
+
+msgid "Error: Could not load news data"
+msgstr "Ката: Жаңылыктар дайындары жүктөлгөн жок"
+
+msgid "Error: Download manager not available"
+msgstr "Ката: Жүктөө менеджери жеткиликтүү эмес"
+
+msgid "Exclusive Programs"
+msgstr "Эксклюзивдүү программалар"
+
+msgid "Extracting video URL..."
+msgstr "Видеонун URL'и чыгарылууда..."
+
+msgid "File not found: {}"
+msgstr "Файл табылган жок: {}"
+
+msgid "Films"
+msgstr "Фильмдер"
+
+msgid "Found {0} programs for: {1}"
+msgstr "{1} үчүн {0} программа табылды"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Бош орун: {total} ичинен {бошу}"
+
+msgid "Games & Quizzes"
+msgstr "Оюндар жана викториналар"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Тарых жана искусство"
+
+msgid "Initializing..."
+msgstr "Башталууда..."
+
+msgid "International Series"
+msgstr "Эл аралык серия"
+
+msgid "Invalid video URL detected"
+msgstr "Жараксыз видео URL аныкталды"
+
+msgid "Italian Series"
+msgstr "Италиялык серия"
+
+msgid "Kids"
+msgstr "Балдар"
+
+msgid "Learning"
+msgstr "Үйрөнүү"
+
+msgid "Lifestyle"
+msgstr "Жашоо образы"
+
+msgid "Live Radio"
+msgstr "Түз радио"
+
+msgid "Live TV"
+msgstr "Түз ТВ"
+
+msgid "Loading all programs..."
+msgstr "Бардык программалар жүктөлүүдө..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Бардык видеолор жүктөлүүдө... Күтө туруңуз"
+
+msgid "Loading archive data..."
+msgstr "Архив дайындары жүктөлүүдө..."
+
+msgid "Loading archive..."
+msgstr "Архив жүктөлүүдө..."
+
+msgid "Loading complete! Select an option"
+msgstr "Жүктөө аяктады! Опцияны тандаңыз"
+
+msgid "Loading data... Please wait"
+msgstr "Дайындар жүктөлүүдө... Күтө туруңуз"
+
+msgid "Loading news categories..."
+msgstr "Жаңылыктар категориялары жүктөлүүдө..."
+
+msgid "Loading news items..."
+msgstr "Жаңылыктар жүктөлүүдө..."
+
+msgid "Loading on-air programs..."
+msgstr "Эфирдеги программалар жүктөлүүдө..."
+
+msgid "Loading program data"
+msgstr "Программа дайындары жүктөлүүдө"
+
+msgid "Loading program details..."
+msgstr "Программанын чоо-жайы жүктөлүүдө..."
+
+msgid "Loading programs..."
+msgstr "Программалар жүктөлүүдө..."
+
+msgid "Loading videos..."
+msgstr "Видеолор жүктөлүүдө..."
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Music & Theater"
+msgstr "Музыка жана театр"
+
+msgid "Music Classic"
+msgstr "Музыка классикалык"
+
+msgid "Network Storage"
+msgstr ""
+
+msgid "News & Documentaries"
+msgstr "Жаңылыктар жана даректүү тасмалар"
+
+msgid "News Categories"
+msgstr "Жаңылыктар категориялары"
+
+msgid "Next page"
+msgstr "Кийинки бет"
+
+msgid "No TV channels available"
+msgstr "Телеканалдар жеткиликтүү эмес"
+
+msgid "No archive data found"
+msgstr "Архив дайындары табылган жок"
+
+msgid "No categories available"
+msgstr "Категориялар жок"
+
+msgid "No content available"
+msgstr "Эч кандай мазмун жок"
+
+msgid "No content found in this program"
+msgstr "Бул программада эч кандай мазмун табылган жок"
+
+msgid "No downloads"
+msgstr "Жүктөлүп алынгандар жок"
+
+msgid "No downloads in queue"
+msgstr "Кезекте жүктөөлөр жок"
+
+msgid "No editions available"
+msgstr "Басылмалар жок"
+
+msgid "No episodes available"
+msgstr "Эч кандай эпизоддор жок"
+
+msgid "No items available"
+msgstr "Эч нерсе жок"
+
+msgid "No items found"
+msgstr "Эч нерсе табылган жок"
+
+msgid "No items found in this archive"
+msgstr "Бул архивде эч нерсе табылган жок"
+
+msgid "No items found in this category"
+msgstr "Бул категорияда эч нерсе табылган жок"
+
+msgid "No main theme found"
+msgstr "Негизги тема табылган жок"
+
+msgid "No program URL available"
+msgstr "Программанын URL дареги жок"
+
+msgid "No program categories available"
+msgstr "Программа категориялары жок"
+
+msgid "No programs available for this day"
+msgstr "Бул күн үчүн программалар жок"
+
+msgid "No programs currently on air"
+msgstr "Учурда эфирде эч кандай программа жок"
+
+msgid "No programs found for:"
+msgstr "Төмөнкү үчүн программалар табылган жок:"
+
+msgid "No programs found in A-Z list"
+msgstr "A-Z тизмесинде эч кандай программа табылган жок"
+
+msgid "No sports categories available"
+msgstr "Спорт категориялары жок"
+
+msgid "No stream URL available"
+msgstr "Агым URL жок"
+
+msgid "No video URL available"
+msgstr "Видео URL жок"
+
+msgid "No video URL found in the response"
+msgstr "Жоопто видеонун URL дареги табылган жок"
+
+msgid "No videos available"
+msgstr "Видеолор жеткиликсиз"
+
+msgid "No videos found"
+msgstr "Эч видео табылган жок"
+
+msgid "No videos found in archive"
+msgstr "Архивден видеолор табылган жок"
+
+msgid "On Air Programs"
+msgstr "Эфирдеги программалар"
+
+msgid "On Demand"
+msgstr "Талап боюнча"
+
+msgid "Originals"
+msgstr "Оригиналдар"
+
+msgid "Page"
+msgstr ""
+
+msgid "Page with duplicate"
+msgstr "Дубликаты бар баракча"
+
+msgid "Pagination not supported for this archive"
+msgstr "Бул архив үчүн баракчалар колдоого алынбайт"
+
+msgid "Play"
+msgstr ""
+
+msgid "Play & Download"
+msgstr ""
+
+msgid "Play/pause not supported for this stream"
+msgstr "Бул агым үчүн ойнотуу/тындыруу колдоого алынбайт"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Программа тизмеси дагы эле жүктөлүүдө. Күтө туруңуз..."
+
+msgid "Programs"
+msgstr "Программалар"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Суроо өтө кыска (кеминде 3 белги)"
+
+msgid "Radio Programs A-Z"
+msgstr "Радиопрограммалар А-З"
+
+msgid "Rai News"
+msgstr ""
+
+msgid "Rai Play Live"
+msgstr "Rai Live Play"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Live Radio Play"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr "Rai Талап боюнча ойнойт"
+
+msgid "Rai Play Programs"
+msgstr "Rai Play программалары"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Play TV Replay"
+
+msgid "Rai Play Replay:"
+msgstr "Rai ойноо кайталоо:"
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr "Rai Sports"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Категориялар"
+
+msgid "Rai Sport - Subcategories"
+msgstr ""
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay Орнотуулары"
+
+msgid "Remove"
+msgstr "Алып салуу"
+
+msgid "Remove download: {}?"
+msgstr "Жүктөөнү алып салуу: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Кезектен алынып салынды: {}"
+
+msgid "Replay TV"
+msgstr "Телевизорду кайра ойнотуу"
+
+msgid "Search"
+msgstr "Издөө"
+
+msgid "Search error. Please try again."
+msgstr "Издөө катасы. Сураныч, кайра аракет кылыңыз."
+
+msgid "Searching through programs..."
+msgstr "Программалар аркылуу издөө..."
+
+msgid "Select a category"
+msgstr "Категория тандаңыз"
+
+msgid "Select a video"
+msgstr "Видеону тандаңыз"
+
+msgid "Select block"
+msgstr "Блок тандоо"
+
+msgid "Select category"
+msgstr "Категория тандаңыз"
+
+msgid "Select channel"
+msgstr "Каналды тандоо"
+
+msgid "Select content set"
+msgstr "Мазмун топтомун тандаңыз"
+
+msgid "Select date"
+msgstr "Датаны тандаңыз"
+
+msgid "Select edition"
+msgstr "Чыгарууну тандаңыз"
+
+msgid "Select episode"
+msgstr "Эпизод тандаңыз"
+
+msgid "Select item"
+msgstr "Нерсени тандаңыз"
+
+msgid "Select letter"
+msgstr "тамга тандоо"
+
+msgid "Select program"
+msgstr "Программаны тандоо"
+
+msgid "Select program to watch"
+msgstr "Көрө турган программаны тандаңыз"
+
+msgid "Select subcategory"
+msgstr "Субкатегорияны тандаңыз"
+
+msgid "Select video"
+msgstr "Видеону тандаңыз"
+
+msgid "Society & Culture"
+msgstr "Коом жана маданият"
+
+msgid "Sports"
+msgstr "Спорт"
+
+msgid "Start"
+msgstr "Баштоо"
+
+msgid "Stop"
+msgstr "Токто"
+
+msgid "Stop the download first before removing"
+msgstr "Алып салуудан мурун жүктөөнү токтотуңуз"
+
+msgid "Sustainability"
+msgstr "Туруктуулук"
+
+msgid "TGR and Special Programs"
+msgstr "TGR жана атайын программалар"
+
+msgid "TV News"
+msgstr "ТВ жаңылыктары"
+
+msgid "TV Programs A-Z"
+msgstr "Телевизиондук программалар А—З"
+
+msgid "Talk Shows"
+msgstr "Ток-шоулар"
+
+msgid "Tech & Learning"
+msgstr ""
+
+msgid "Teens"
+msgstr "Өспүрүмдөр"
+
+msgid "Temporary"
+msgstr "Убактылуу"
+
+msgid "Test download added to queue"
+msgstr "Сыноо жүктөө кезекке кошулду"
+
+msgid "Test download failed"
+msgstr "Сыноо жүктөө ишке ашкан жок"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Бардыгы: {бардыгы} | Активдүү: {активдүү} | Кезекте: {кезекте} | Аякталды: {аякталды} | Каталар: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Саякат жана укмуштуу окуялар"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "Белгисиз мазмун түрү"
+
+msgid "Unknown data format"
+msgstr "Белгисиз маалымат форматы"
+
+msgid "Unknown title"
+msgstr "Белгисиз аталыш"
+
+msgid "Video URL not available"
+msgstr "Видео URL жеткиликтүү эмес"
+
+msgid "Video URL not found"
+msgstr "Видео URL табылган жок"
+
+msgid "Video not available"
+msgstr "Видео жеткиликтүү эмес"
+
+msgid "View Full Archive"
+msgstr "Толук архивди көрүү"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "LULULLA RAI PLAY ПЛАГИНДЕРИНЕ КОШ КЕЛИҢИЗ"

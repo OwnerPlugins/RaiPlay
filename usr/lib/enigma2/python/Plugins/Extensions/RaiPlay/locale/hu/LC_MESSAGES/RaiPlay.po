@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Minden program"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z rádióműsorok"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z tévéműsorok"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktiválja a Debug for messages fejlesztőt."
+
+msgid "Active Debug"
+msgstr "Aktív hibakeresés"
+
+msgid "Added to queue: {}"
+msgstr "Hozzáadva a sorhoz: {}"
+
+msgid "All Programs"
+msgstr "Minden program"
+
+msgid "Archive URL not found"
+msgstr "Az archívum URL-je nem található"
+
+msgid "Back"
+msgstr "Vissza"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Válasszon műveletet a következőhöz: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Tisztítsa meg a sort a duplikátumoktól"
+
+msgid "Content type not recognized"
+msgstr "A tartalomtípus nem ismerhető fel"
+
+msgid "Could not find video URL"
+msgstr "A videó URL-je nem található"
+
+msgid "Could not load program content"
+msgstr "Nem sikerült betölteni a program tartalmát"
+
+msgid "Crime"
+msgstr "Bűncselekmény"
+
+msgid "Crime Investigations"
+msgstr "Bűnügyi nyomozások"
+
+msgid "Default Folder"
+msgstr "Alapértelmezett mappa"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Alapértelmezett mappa a filmfájlok megnyitásához és mentéséhez"
+
+msgid "Documentaries"
+msgstr "Dokumentumfilmek"
+
+msgid "Download"
+msgstr "Letöltés"
+
+msgid "Download Manager"
+msgstr "Letöltéskezelő"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Letöltés eltávolítva: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Letöltés megkezdődött: {}"
+
+msgid "Download stopped: {}"
+msgstr "Letöltés leállt: {}"
+
+msgid "Enter search query"
+msgstr "Írja be a keresési lekérdezést"
+
+msgid "Entertainment"
+msgstr "Szórakozás"
+
+msgid "Error adding download"
+msgstr "Hiba a letöltés hozzáadásakor"
+
+msgid "Error extracting video URL"
+msgstr "Hiba a videó URL-jének kibontásakor"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Hiba az A-Z programok betöltésekor: {}"
+
+msgid "Error loading archive data"
+msgstr "Hiba az archív adatok betöltésekor"
+
+msgid "Error loading archive data: {}"
+msgstr "Hiba az archívum adatok betöltésekor: {}"
+
+msgid "Error loading content from API"
+msgstr "Hiba történt a tartalom API-ból való betöltésekor"
+
+msgid "Error loading data"
+msgstr "Hiba az adatok betöltésekor"
+
+msgid "Error loading data: %s"
+msgstr "Hiba az adatok betöltésekor: %s"
+
+msgid "Error loading data: {}"
+msgstr "Hiba az adatok betöltésekor: {}"
+
+msgid "Error loading video data"
+msgstr "Hiba a videoadatok betöltésekor"
+
+msgid "Error loading video page"
+msgstr "Hiba a videóoldal betöltésekor"
+
+msgid "Error loading videos:"
+msgstr "Hiba a videók betöltésekor:"
+
+msgid "Error parsing content"
+msgstr "Hiba a tartalom elemzésekor"
+
+msgid "Error parsing data"
+msgstr "Hiba az adatok elemzése során"
+
+msgid "Error parsing video data: {}"
+msgstr "Hiba a videoadatok elemzése során: {}"
+
+msgid "Error playing file: {}"
+msgstr "Hiba a következő fájl lejátszásában: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Hiba a stream lejátszása közben: {}"
+
+msgid "Error playing video:"
+msgstr "Hiba a videó lejátszása közben:"
+
+msgid "Error processing archive"
+msgstr "Hiba történt az archívum feldolgozása során"
+
+msgid "Error processing thematic content"
+msgstr "Hiba a tematikus tartalom feldolgozásakor"
+
+msgid "Error starting plugin"
+msgstr "Hiba a plugin indításakor"
+
+msgid "Error: Could not load news data"
+msgstr "Hiba: Nem sikerült betölteni a híradatokat"
+
+msgid "Error: Download manager not available"
+msgstr "Hiba: A letöltéskezelő nem érhető el"
+
+msgid "Exclusive Programs"
+msgstr "Exkluzív programok"
+
+msgid "Extracting video URL..."
+msgstr "Videó URL-jének kibontása..."
+
+msgid "File not found: {}"
+msgstr "A fájl nem található: {}"
+
+msgid "Films"
+msgstr "Filmek"
+
+msgid "Found {0} programs for: {1}"
+msgstr "{0} programot találtunk a következőhöz: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Szabad hely: {szabad}/{total}"
+
+msgid "Games & Quizzes"
+msgstr "Játékok és kvízek"
+
+msgid "HDD Drive"
+msgstr "HDD meghajtó"
+
+msgid "History & Art"
+msgstr "Történelem és Művészet"
+
+msgid "Initializing..."
+msgstr "Inicializálás..."
+
+msgid "International Series"
+msgstr "Nemzetközi sorozat"
+
+msgid "Invalid video URL detected"
+msgstr "Érvénytelen videó URL-t észleltünk"
+
+msgid "Italian Series"
+msgstr "Olasz sorozat"
+
+msgid "Kids"
+msgstr "Gyerekek"
+
+msgid "Learning"
+msgstr "Tanulás"
+
+msgid "Lifestyle"
+msgstr "Életmód"
+
+msgid "Live Radio"
+msgstr "Élő rádió"
+
+msgid "Live TV"
+msgstr "Élő TV"
+
+msgid "Loading all programs..."
+msgstr "Minden program betöltése..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Az összes videó betöltése... Kérjük, várjon"
+
+msgid "Loading archive data..."
+msgstr "Archív adatok betöltése..."
+
+msgid "Loading archive..."
+msgstr "Archívum betöltése..."
+
+msgid "Loading complete! Select an option"
+msgstr "Betöltés kész! Válasszon egy lehetőséget"
+
+msgid "Loading data... Please wait"
+msgstr "Adatok betöltése... Kérjük, várjon"
+
+msgid "Loading news categories..."
+msgstr "Hírkategóriák betöltése..."
+
+msgid "Loading news items..."
+msgstr "Hírek betöltése..."
+
+msgid "Loading on-air programs..."
+msgstr "Közvetített műsorok betöltése..."
+
+msgid "Loading program data"
+msgstr "Programadatok betöltése"
+
+msgid "Loading program details..."
+msgstr "Program részleteinek betöltése..."
+
+msgid "Loading programs..."
+msgstr "Programok betöltése..."
+
+msgid "Loading videos..."
+msgstr "Videók betöltése..."
+
+msgid "Music"
+msgstr "Zene"
+
+msgid "Music & Theater"
+msgstr "Zene és Színház"
+
+msgid "Music Classic"
+msgstr "Zenei klasszikus"
+
+msgid "Network Storage"
+msgstr "Hálózati tárolás"
+
+msgid "News & Documentaries"
+msgstr "Hírek és dokumentumfilmek"
+
+msgid "News Categories"
+msgstr "Hírek kategóriák"
+
+msgid "Next page"
+msgstr "Következő oldal"
+
+msgid "No TV channels available"
+msgstr "Nincs elérhető TV-csatorna"
+
+msgid "No archive data found"
+msgstr "Nem találhatók archív adatok"
+
+msgid "No categories available"
+msgstr "Nincs elérhető kategória"
+
+msgid "No content available"
+msgstr "Nincs elérhető tartalom"
+
+msgid "No content found in this program"
+msgstr "Nem található tartalom ebben a programban"
+
+msgid "No downloads"
+msgstr "Nincs letöltés"
+
+msgid "No downloads in queue"
+msgstr "Nincs letöltés a sorban"
+
+msgid "No editions available"
+msgstr "Nincsenek kiadások"
+
+msgid "No episodes available"
+msgstr "Nincs elérhető epizód"
+
+msgid "No items available"
+msgstr "Nincsenek elérhető tételek"
+
+msgid "No items found"
+msgstr "Nem található elemek"
+
+msgid "No items found in this archive"
+msgstr ""
+
+msgid "No items found in this category"
+msgstr "Nem találhatók tételek ebben a kategóriában"
+
+msgid "No main theme found"
+msgstr "Nem található fő téma"
+
+msgid "No program URL available"
+msgstr "Nincs elérhető program URL"
+
+msgid "No program categories available"
+msgstr "Nincs elérhető programkategória"
+
+msgid "No programs available for this day"
+msgstr "Erre a napra nincs program"
+
+msgid "No programs currently on air"
+msgstr "Jelenleg nincsenek műsorok"
+
+msgid "No programs found for:"
+msgstr "Nem találhatók programok ehhez:"
+
+msgid "No programs found in A-Z list"
+msgstr "Nem találhatók programok az A-Z listában"
+
+msgid "No sports categories available"
+msgstr "Nincs elérhető sportkategória"
+
+msgid "No stream URL available"
+msgstr "Nem érhető el az adatfolyam URL-je"
+
+msgid "No video URL available"
+msgstr "Nem érhető el a videó URL-je"
+
+msgid "No video URL found in the response"
+msgstr "Nem található videó URL a válaszban"
+
+msgid "No videos available"
+msgstr "Nincsenek elérhető videók"
+
+msgid "No videos found"
+msgstr "Nem találhatók videók"
+
+msgid "No videos found in archive"
+msgstr "Nem találhatók videók az archívumban"
+
+msgid "On Air Programs"
+msgstr "On Air programok"
+
+msgid "On Demand"
+msgstr "Igény szerint"
+
+msgid "Originals"
+msgstr "Eredetiek"
+
+msgid "Page"
+msgstr "oldal"
+
+msgid "Page with duplicate"
+msgstr "Oldal duplikátummal"
+
+msgid "Pagination not supported for this archive"
+msgstr "A lapozás nem támogatott ebben az archívumban"
+
+msgid "Play"
+msgstr "Játék"
+
+msgid "Play & Download"
+msgstr "Lejátszás és letöltés"
+
+msgid "Play/pause not supported for this stream"
+msgstr "A lejátszás/szünet nem támogatott ennél az adatfolyamnál"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "A programlista még mindig töltődik. Kérem, várjon..."
+
+msgid "Programs"
+msgstr "Programok"
+
+msgid "Query too short (min 3 characters)"
+msgstr "A lekérdezés túl rövid (minimum 3 karakter)"
+
+msgid "Radio Programs A-Z"
+msgstr "Rádióműsorok A-Z"
+
+msgid "Rai News"
+msgstr ""
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Rai Play programok"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr ""
+
+msgid "Rai Play Search"
+msgstr ""
+
+msgid "Rai Sport"
+msgstr ""
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategóriák"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Alkategóriák"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay beállítások"
+
+msgid "Remove"
+msgstr "Távolítsa el"
+
+msgid "Remove download: {}?"
+msgstr "Eltávolítja a letöltést: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Eltávolítva a sorból: {}"
+
+msgid "Replay TV"
+msgstr "TV visszajátszása"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Search error. Please try again."
+msgstr "Keresési hiba. Kérjük, próbálja újra."
+
+msgid "Searching through programs..."
+msgstr "Keresés a programok között..."
+
+msgid "Select a category"
+msgstr "Válasszon egy kategóriát"
+
+msgid "Select a video"
+msgstr "Válasszon ki egy videót"
+
+msgid "Select block"
+msgstr "Válassza ki a blokkot"
+
+msgid "Select category"
+msgstr "Válasszon kategóriát"
+
+msgid "Select channel"
+msgstr "Válassza ki a csatornát"
+
+msgid "Select content set"
+msgstr "Válassza ki a tartalomkészletet"
+
+msgid "Select date"
+msgstr "Válassza ki a dátumot"
+
+msgid "Select edition"
+msgstr "Kiadás kiválasztása"
+
+msgid "Select episode"
+msgstr "Válassza ki az epizódot"
+
+msgid "Select item"
+msgstr "Válassza ki az elemet"
+
+msgid "Select letter"
+msgstr "Válasszon betűt"
+
+msgid "Select program"
+msgstr "Válassza ki a programot"
+
+msgid "Select program to watch"
+msgstr "Válassza ki a nézni kívánt programot"
+
+msgid "Select subcategory"
+msgstr "Válasszon alkategóriát"
+
+msgid "Select video"
+msgstr "Válassza ki a videót"
+
+msgid "Society & Culture"
+msgstr "Társadalom és kultúra"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Start"
+msgstr "Indul"
+
+msgid "Stop"
+msgstr ""
+
+msgid "Stop the download first before removing"
+msgstr "Az eltávolítás előtt állítsa le a letöltést"
+
+msgid "Sustainability"
+msgstr "Fenntarthatóság"
+
+msgid "TGR and Special Programs"
+msgstr "TGR és speciális programok"
+
+msgid "TV News"
+msgstr "TV Hírek"
+
+msgid "TV Programs A-Z"
+msgstr "TV-műsorok A-Z"
+
+msgid "Talk Shows"
+msgstr "Beszélgetős műsorok"
+
+msgid "Tech & Learning"
+msgstr ""
+
+msgid "Teens"
+msgstr "Tinik"
+
+msgid "Temporary"
+msgstr "Ideiglenes"
+
+msgid "Test download added to queue"
+msgstr "A tesztletöltés hozzáadva a várólistához"
+
+msgid "Test download failed"
+msgstr "A tesztletöltés sikertelen"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Összesen: {összesen} | Aktív: {aktív} | Sorban: {queued} | Befejezve: {completed} | Hibák: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Utazás és kaland"
+
+msgid "USB Drive"
+msgstr "USB meghajtó"
+
+msgid "Unknown content type"
+msgstr "Ismeretlen tartalomtípus"
+
+msgid "Unknown data format"
+msgstr "Ismeretlen adatformátum"
+
+msgid "Unknown title"
+msgstr "Ismeretlen cím"
+
+msgid "Video URL not available"
+msgstr "A videó URL-je nem érhető el"
+
+msgid "Video URL not found"
+msgstr "A videó URL-je nem található"
+
+msgid "Video not available"
+msgstr "A videó nem érhető el"
+
+msgid "View Full Archive"
+msgstr "Teljes archívum megtekintése"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "ÜDVÖZÖLJÜK A LULULLA RAI PLAY Bővítményein"

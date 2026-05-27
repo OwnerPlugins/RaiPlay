@@ -1,0 +1,584 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 18:58+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Afrikaans <i18n@af.org.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Alle programme"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z Radioprogramme"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z TV-programme"
+
+msgid "Activate Debug for messages developer."
+msgstr "Aktiveer Ontfouting vir boodskapontwikkelaar."
+
+msgid "Active Debug"
+msgstr "Aktiewe ontfouting"
+
+msgid "Added to queue: {}"
+msgstr "By tou gevoeg: {}"
+
+msgid "All Programs"
+msgstr "Alle programme"
+
+msgid "Archive URL not found"
+msgstr "Argief-URL nie gevind nie"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Barry Allen"
+msgstr ""
+
+msgid "Choose action for: {}"
+msgstr "Kies handeling vir: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Maak tou skoon van duplikate"
+
+msgid "Content type not recognized"
+msgstr "Inhoudtipe word nie herken nie"
+
+msgid "Could not find video URL"
+msgstr "Kon nie video-URL vind nie"
+
+msgid "Could not load program content"
+msgstr "Kon nie programinhoud laai nie"
+
+msgid "Crime"
+msgstr "Misdaad"
+
+msgid "Crime Investigations"
+msgstr "Misdaad Ondersoeke"
+
+msgid "Default Folder"
+msgstr "Verstek gids"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Verstekgids vir die oopmaak en stoor van filmlêers"
+
+msgid "Documentaries"
+msgstr "Dokumentêre"
+
+msgid "Download"
+msgstr "Laai af"
+
+msgid "Download Manager"
+msgstr "Aflaai Bestuurder"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Aflaai verwyder: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Aflaai het begin: {}"
+
+msgid "Download stopped: {}"
+msgstr "Aflaai gestop: {}"
+
+msgid "Enter search query"
+msgstr "Voer soeknavraag in"
+
+msgid "Entertainment"
+msgstr "Vermaak"
+
+msgid "Error adding download"
+msgstr "Kon nie aflaai byvoeg nie"
+
+msgid "Error extracting video URL"
+msgstr "Kon nie video-URL onttrek nie"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Kon nie A-Z-programme laai nie: {}"
+
+msgid "Error loading archive data"
+msgstr "Kon nie argiefdata laai nie"
+
+msgid "Error loading archive data: {}"
+msgstr "Kon nie argiefdata laai nie: {}"
+
+msgid "Error loading content from API"
+msgstr "Kon nie inhoud vanaf API laai nie"
+
+msgid "Error loading data"
+msgstr "Kon nie data laai nie"
+
+msgid "Error loading data: %s"
+msgstr "Kon nie data laai nie: %s"
+
+msgid "Error loading data: {}"
+msgstr "Kon nie data laai nie: {}"
+
+msgid "Error loading video data"
+msgstr "Kon nie videodata laai nie"
+
+msgid "Error loading video page"
+msgstr "Kon nie videobladsy laai nie"
+
+msgid "Error loading videos:"
+msgstr "Kon nie video's laai nie:"
+
+msgid "Error parsing content"
+msgstr "Kon nie inhoud ontleed nie"
+
+msgid "Error parsing data"
+msgstr "Kon nie data ontleed nie"
+
+msgid "Error parsing video data: {}"
+msgstr "Kon nie videodata ontleed nie: {}"
+
+msgid "Error playing file: {}"
+msgstr "Kon nie lêer speel nie: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Kon nie stroom speel nie: {}"
+
+msgid "Error playing video:"
+msgstr "Kon nie video speel nie:"
+
+msgid "Error processing archive"
+msgstr "Kon nie argief verwerk nie"
+
+msgid "Error processing thematic content"
+msgstr "Kon nie tematiese inhoud verwerk nie"
+
+msgid "Error starting plugin"
+msgstr "Kon nie inprop begin nie"
+
+msgid "Error: Could not load news data"
+msgstr "Fout: Kon nie nuusdata laai nie"
+
+msgid "Error: Download manager not available"
+msgstr "Fout: Aflaaibestuurder nie beskikbaar nie"
+
+msgid "Exclusive Programs"
+msgstr "Eksklusiewe programme"
+
+msgid "Extracting video URL..."
+msgstr "Onttrek tans video-URL …"
+
+msgid "File not found: {}"
+msgstr "Lêer nie gevind nie: {}"
+
+msgid "Films"
+msgstr ""
+
+msgid "Found {0} programs for: {1}"
+msgstr "Het {0} programme gevind vir: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Vrye spasie: {gratis} van {totaal}"
+
+msgid "Games & Quizzes"
+msgstr "Speletjies en vasvrae"
+
+msgid "HDD Drive"
+msgstr ""
+
+msgid "History & Art"
+msgstr "Geskiedenis & Kuns"
+
+msgid "Initializing..."
+msgstr "Inisialiseer tans …"
+
+msgid "International Series"
+msgstr "Internasionale Reeks"
+
+msgid "Invalid video URL detected"
+msgstr "Ongeldige video-URL bespeur"
+
+msgid "Italian Series"
+msgstr "Italiaanse reeks"
+
+msgid "Kids"
+msgstr "Kinders"
+
+msgid "Learning"
+msgstr "Leer"
+
+msgid "Lifestyle"
+msgstr "Leefstyl"
+
+msgid "Live Radio"
+msgstr "Regstreekse radio"
+
+msgid "Live TV"
+msgstr "Regstreekse TV"
+
+msgid "Loading all programs..."
+msgstr "Laai tans alle programme..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Laai tans alle video's... Wag asseblief"
+
+msgid "Loading archive data..."
+msgstr "Laai tans argiefdata..."
+
+msgid "Loading archive..."
+msgstr "Laai tans argief …"
+
+msgid "Loading complete! Select an option"
+msgstr "Laai voltooi! Kies 'n opsie"
+
+msgid "Loading data... Please wait"
+msgstr "Laai tans data... Wag asseblief"
+
+msgid "Loading news categories..."
+msgstr "Laai tans nuuskategorieë..."
+
+msgid "Loading news items..."
+msgstr "Laai tans nuusitems..."
+
+msgid "Loading on-air programs..."
+msgstr "Laai tans lugprogramme..."
+
+msgid "Loading program data"
+msgstr "Laai programdata"
+
+msgid "Loading program details..."
+msgstr "Laai tans programbesonderhede..."
+
+msgid "Loading programs..."
+msgstr "Laai tans programme..."
+
+msgid "Loading videos..."
+msgstr "Laai tans video's..."
+
+msgid "Music"
+msgstr "Musiek"
+
+msgid "Music & Theater"
+msgstr "Musiek & Teater"
+
+msgid "Music Classic"
+msgstr "Musiek Klassiek"
+
+msgid "Network Storage"
+msgstr "Netwerkberging"
+
+msgid "News & Documentaries"
+msgstr "Nuus en dokumentêre"
+
+msgid "News Categories"
+msgstr "Nuus Kategorieë"
+
+msgid "Next page"
+msgstr "Volgende bladsy"
+
+msgid "No TV channels available"
+msgstr "Geen TV-kanale beskikbaar nie"
+
+msgid "No archive data found"
+msgstr "Geen argiefdata gevind nie"
+
+msgid "No categories available"
+msgstr "Geen kategorieë beskikbaar nie"
+
+msgid "No content available"
+msgstr "Geen inhoud beskikbaar nie"
+
+msgid "No content found in this program"
+msgstr "Geen inhoud in hierdie program gevind nie"
+
+msgid "No downloads"
+msgstr "Geen aflaaie nie"
+
+msgid "No downloads in queue"
+msgstr "Geen aflaaie in tou nie"
+
+msgid "No editions available"
+msgstr "Geen uitgawes beskikbaar nie"
+
+msgid "No episodes available"
+msgstr "Geen episodes beskikbaar nie"
+
+msgid "No items available"
+msgstr "Geen items beskikbaar nie"
+
+msgid "No items found"
+msgstr "Geen items gevind nie"
+
+msgid "No items found in this archive"
+msgstr "Geen items in hierdie argief gevind nie"
+
+msgid "No items found in this category"
+msgstr "Geen items in hierdie kategorie gevind nie"
+
+msgid "No main theme found"
+msgstr "Geen hooftema gevind nie"
+
+msgid "No program URL available"
+msgstr "Geen program-URL beskikbaar nie"
+
+msgid "No program categories available"
+msgstr "Geen programkategorieë beskikbaar nie"
+
+msgid "No programs available for this day"
+msgstr "Geen programme beskikbaar vir hierdie dag nie"
+
+msgid "No programs currently on air"
+msgstr "Geen programme tans op die lug nie"
+
+msgid "No programs found for:"
+msgstr "Geen programme gevind vir:"
+
+msgid "No programs found in A-Z list"
+msgstr "Geen programme gevind in A-Z lys nie"
+
+msgid "No sports categories available"
+msgstr "Geen sportkategorieë beskikbaar nie"
+
+msgid "No stream URL available"
+msgstr "Geen stroom-URL beskikbaar nie"
+
+msgid "No video URL available"
+msgstr "Geen video-URL beskikbaar nie"
+
+msgid "No video URL found in the response"
+msgstr "Geen video-URL in die antwoord gevind nie"
+
+msgid "No videos available"
+msgstr "Geen video's beskikbaar nie"
+
+msgid "No videos found"
+msgstr "Geen video's gevind nie"
+
+msgid "No videos found in archive"
+msgstr "Geen video's in argief gevind nie"
+
+msgid "On Air Programs"
+msgstr "Op die lug programme"
+
+msgid "On Demand"
+msgstr "Op aanvraag"
+
+msgid "Originals"
+msgstr "Oorspronklikes"
+
+msgid "Page"
+msgstr "Bladsy"
+
+msgid "Page with duplicate"
+msgstr "Bladsy met duplikaat"
+
+msgid "Pagination not supported for this archive"
+msgstr "Paginering word nie vir hierdie argief gesteun nie"
+
+msgid "Play"
+msgstr "Speel"
+
+msgid "Play & Download"
+msgstr "Speel en laai af"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Speel/onderbreek word nie vir hierdie stroom gesteun nie"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Programlys laai nog steeds. Wag asseblief..."
+
+msgid "Programs"
+msgstr "Programme"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Navraag te kort (min 3 karakters)"
+
+msgid "Radio Programs A-Z"
+msgstr "Radioprogramme A-Z"
+
+msgid "Rai News"
+msgstr "Rai Nuus"
+
+msgid "Rai Play Live"
+msgstr "Rai Speel Regstreeks"
+
+msgid "Rai Play Live Radio"
+msgstr "Rai Speel Regstreekse Radio"
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr "Rai speel op aanvraag"
+
+msgid "Rai Play Programs"
+msgstr "Rai Speel Programme"
+
+msgid "Rai Play Replay TV"
+msgstr "Rai Speel Replay TV"
+
+msgid "Rai Play Replay:"
+msgstr "Rai Speel Herhaling:"
+
+msgid "Rai Play Search"
+msgstr "Rai Speel Soek"
+
+msgid "Rai Sport"
+msgstr ""
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport - Kategorieë"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport - Subkategorieë"
+
+msgid "RaiPlay Settings"
+msgstr "RaiPlay-instellings"
+
+msgid "Remove"
+msgstr "Verwyder"
+
+msgid "Remove download: {}?"
+msgstr "Verwyder aflaai: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Uit tou verwyder: {}"
+
+msgid "Replay TV"
+msgstr "Herspeel TV"
+
+msgid "Search"
+msgstr "Soek"
+
+msgid "Search error. Please try again."
+msgstr "Soek fout. Probeer asseblief weer."
+
+msgid "Searching through programs..."
+msgstr "Soek tans deur programme..."
+
+msgid "Select a category"
+msgstr "Kies 'n kategorie"
+
+msgid "Select a video"
+msgstr "Kies 'n video"
+
+msgid "Select block"
+msgstr "Kies blok"
+
+msgid "Select category"
+msgstr "Kies kategorie"
+
+msgid "Select channel"
+msgstr "Kies kanaal"
+
+msgid "Select content set"
+msgstr "Kies inhoudstel"
+
+msgid "Select date"
+msgstr "Kies datum"
+
+msgid "Select edition"
+msgstr "Kies uitgawe"
+
+msgid "Select episode"
+msgstr "Kies episode"
+
+msgid "Select item"
+msgstr "Kies item"
+
+msgid "Select letter"
+msgstr "Kies letter"
+
+msgid "Select program"
+msgstr "Kies program"
+
+msgid "Select program to watch"
+msgstr "Kies program om te kyk"
+
+msgid "Select subcategory"
+msgstr "Kies subkategorie"
+
+msgid "Select video"
+msgstr "Kies video"
+
+msgid "Society & Culture"
+msgstr "Samelewing & Kultuur"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Start"
+msgstr "Begin"
+
+msgid "Stop"
+msgstr ""
+
+msgid "Stop the download first before removing"
+msgstr "Stop eers die aflaai voordat dit verwyder word"
+
+msgid "Sustainability"
+msgstr "Volhoubaarheid"
+
+msgid "TGR and Special Programs"
+msgstr "TGR en spesiale programme"
+
+msgid "TV News"
+msgstr "TV Nuus"
+
+msgid "TV Programs A-Z"
+msgstr "TV-programme A-Z"
+
+msgid "Talk Shows"
+msgstr "Geselsprogramme"
+
+msgid "Tech & Learning"
+msgstr "Tegnologie en leer"
+
+msgid "Teens"
+msgstr "Tieners"
+
+msgid "Temporary"
+msgstr "Tydelik"
+
+msgid "Test download added to queue"
+msgstr "Toetsaflaai is by tou gevoeg"
+
+msgid "Test download failed"
+msgstr "Toetsaflaai het misluk"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Totaal: {totaal} | Aktief: {aktief} | In tou gestaan: {toue} | Voltooi: {voltooi} | Foute: {foute}"
+
+msgid "Travel & Adventure"
+msgstr "Reis & Avontuur"
+
+msgid "USB Drive"
+msgstr ""
+
+msgid "Unknown content type"
+msgstr "Onbekende inhoudtipe"
+
+msgid "Unknown data format"
+msgstr "Onbekende dataformaat"
+
+msgid "Unknown title"
+msgstr "Onbekende titel"
+
+msgid "Video URL not available"
+msgstr "Video-URL nie beskikbaar nie"
+
+msgid "Video URL not found"
+msgstr "Video-URL nie gevind nie"
+
+msgid "Video not available"
+msgstr "Video nie beskikbaar nie"
+
+msgid "View Full Archive"
+msgstr "Bekyk volledige argief"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "WELKOM BY RAI PLAY PLUGINS DEUR LULULLA"

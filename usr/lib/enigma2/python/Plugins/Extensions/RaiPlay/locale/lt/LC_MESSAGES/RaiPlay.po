@@ -1,0 +1,585 @@
+# RaiPlay translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:57+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "A-Z All Programs"
+msgstr "A-Z Visos programos"
+
+msgid "A-Z Radio Shows"
+msgstr "A-Z radijo laidos"
+
+msgid "A-Z TV Shows"
+msgstr "A-Z televizijos laidos"
+
+msgid "Activate Debug for messages developer."
+msgstr "Suaktyvinkite pranešimų kūrėjo derinimo funkciją."
+
+msgid "Active Debug"
+msgstr "Aktyvus derinimas"
+
+msgid "Added to queue: {}"
+msgstr "Įtraukta į eilę: {}"
+
+msgid "All Programs"
+msgstr "Visos programos"
+
+msgid "Archive URL not found"
+msgstr "Archyvo URL nerastas"
+
+msgid "Back"
+msgstr "Atgal"
+
+msgid "Barry Allen"
+msgstr "Baris Alenas"
+
+msgid "Choose action for: {}"
+msgstr "Pasirinkite veiksmą: {}"
+
+msgid "Clean queue from duplicates"
+msgstr "Išvalykite eilę nuo dublikatų"
+
+msgid "Content type not recognized"
+msgstr "Turinio tipas neatpažintas"
+
+msgid "Could not find video URL"
+msgstr "Nepavyko rasti vaizdo įrašo URL"
+
+msgid "Could not load program content"
+msgstr "Nepavyko įkelti programos turinio"
+
+msgid "Crime"
+msgstr "Nusikaltimas"
+
+msgid "Crime Investigations"
+msgstr "Nusikaltimų tyrimai"
+
+msgid "Default Folder"
+msgstr "Numatytasis aplankas"
+
+msgid "Default folder for opening and saving Movie files"
+msgstr "Numatytasis aplankas, skirtas atidaryti ir išsaugoti filmų failus"
+
+msgid "Documentaries"
+msgstr "Dokumentiniai filmai"
+
+msgid "Download"
+msgstr "Atsisiųsti"
+
+msgid "Download Manager"
+msgstr "Atsisiuntimų tvarkyklė"
+
+msgid "Download removed: {str(item['title'])}"
+msgstr "Atsisiuntimas pašalintas: {str(item['title'])}"
+
+msgid "Download started: {}"
+msgstr "Atsisiuntimas pradėtas: {}"
+
+msgid "Download stopped: {}"
+msgstr "Atsisiuntimas sustabdytas: {}"
+
+msgid "Enter search query"
+msgstr "Įveskite paieškos užklausą"
+
+msgid "Entertainment"
+msgstr "Pramogos"
+
+msgid "Error adding download"
+msgstr "Pridedant atsisiuntimą įvyko klaida"
+
+msgid "Error extracting video URL"
+msgstr "Išskleidžiant vaizdo įrašo URL įvyko klaida"
+
+msgid "Error loading A-Z programs: {}"
+msgstr "Klaida įkeliant A–Z programas: {}"
+
+msgid "Error loading archive data"
+msgstr "Įkeliant archyvo duomenis įvyko klaida"
+
+msgid "Error loading archive data: {}"
+msgstr "Klaida įkeliant archyvo duomenis: {}"
+
+msgid "Error loading content from API"
+msgstr "Įkeliant turinį iš API įvyko klaida"
+
+msgid "Error loading data"
+msgstr "Įkeliant duomenis įvyko klaida"
+
+msgid "Error loading data: %s"
+msgstr "Klaida įkeliant duomenis: %s"
+
+msgid "Error loading data: {}"
+msgstr "Klaida įkeliant duomenis: {}"
+
+msgid "Error loading video data"
+msgstr "Įkeliant vaizdo įrašo duomenis įvyko klaida"
+
+msgid "Error loading video page"
+msgstr "Įkeliant vaizdo įrašo puslapį įvyko klaida"
+
+msgid "Error loading videos:"
+msgstr "Klaida įkeliant vaizdo įrašus:"
+
+msgid "Error parsing content"
+msgstr "Klaida analizuojant turinį"
+
+msgid "Error parsing data"
+msgstr "Klaida analizuojant duomenis"
+
+msgid "Error parsing video data: {}"
+msgstr "Klaida analizuojant vaizdo įrašo duomenis: {}"
+
+msgid "Error playing file: {}"
+msgstr "Klaida atkuriant failą: {}"
+
+msgid "Error playing stream: {}"
+msgstr "Atkuriant srautą įvyko klaida: {}"
+
+msgid "Error playing video:"
+msgstr "Klaida leidžiant vaizdo įrašą:"
+
+msgid "Error processing archive"
+msgstr "Apdorojant archyvą įvyko klaida"
+
+msgid "Error processing thematic content"
+msgstr "Apdorojant teminį turinį įvyko klaida"
+
+msgid "Error starting plugin"
+msgstr "Klaida paleidžiant papildinį"
+
+msgid "Error: Could not load news data"
+msgstr "Klaida: nepavyko įkelti naujienų duomenų"
+
+msgid "Error: Download manager not available"
+msgstr "Klaida: atsisiuntimo tvarkyklė nepasiekiama"
+
+msgid "Exclusive Programs"
+msgstr "Išskirtinės programos"
+
+msgid "Extracting video URL..."
+msgstr "Išskleidžiamas vaizdo įrašo URL..."
+
+msgid "File not found: {}"
+msgstr "Failas nerastas: {}"
+
+msgid "Films"
+msgstr "Filmai"
+
+msgid "Found {0} programs for: {1}"
+msgstr "Rasta {0} programų, skirtų: {1}"
+
+msgid "Free Space: {free} of {total}"
+msgstr "Laisva vieta: {free} iš {total}"
+
+msgid "Games & Quizzes"
+msgstr "Žaidimai ir viktorinos"
+
+msgid "HDD Drive"
+msgstr "HDD diskas"
+
+msgid "History & Art"
+msgstr "Istorija ir menas"
+
+msgid "Initializing..."
+msgstr "Inicijuojama..."
+
+msgid "International Series"
+msgstr "Tarptautinė serija"
+
+msgid "Invalid video URL detected"
+msgstr "Aptiktas netinkamas vaizdo įrašo URL"
+
+msgid "Italian Series"
+msgstr "Itališkas serialas"
+
+msgid "Kids"
+msgstr "Vaikai"
+
+msgid "Learning"
+msgstr "Mokymasis"
+
+msgid "Lifestyle"
+msgstr "Gyvenimo būdas"
+
+msgid "Live Radio"
+msgstr "Tiesioginis radijas"
+
+msgid "Live TV"
+msgstr "Tiesioginė televizija"
+
+msgid "Loading all programs..."
+msgstr "Įkeliamos visos programos..."
+
+msgid "Loading all videos... Please wait"
+msgstr "Įkeliami visi vaizdo įrašai... Palaukite"
+
+msgid "Loading archive data..."
+msgstr "Įkeliami archyvo duomenys..."
+
+msgid "Loading archive..."
+msgstr "Įkeliamas archyvas..."
+
+msgid "Loading complete! Select an option"
+msgstr "Įkėlimas baigtas! Pasirinkite parinktį"
+
+msgid "Loading data... Please wait"
+msgstr "Įkeliami duomenys... Palaukite"
+
+msgid "Loading news categories..."
+msgstr "Įkeliamos naujienų kategorijos..."
+
+msgid "Loading news items..."
+msgstr "Įkeliamos naujienos..."
+
+msgid "Loading on-air programs..."
+msgstr "Įkeliamos tiesioginės programos..."
+
+msgid "Loading program data"
+msgstr "Įkeliami programos duomenys"
+
+msgid "Loading program details..."
+msgstr "Įkeliama išsami programos informacija..."
+
+msgid "Loading programs..."
+msgstr "Įkeliamos programos..."
+
+msgid "Loading videos..."
+msgstr "Įkeliami vaizdo įrašai..."
+
+msgid "Music"
+msgstr "Muzika"
+
+msgid "Music & Theater"
+msgstr "Muzika ir teatras"
+
+msgid "Music Classic"
+msgstr "Muzikos klasika"
+
+msgid "Network Storage"
+msgstr "Tinklo saugykla"
+
+msgid "News & Documentaries"
+msgstr "Naujienos ir dokumentiniai filmai"
+
+msgid "News Categories"
+msgstr "Naujienų kategorijos"
+
+msgid "Next page"
+msgstr "Kitas puslapis"
+
+msgid "No TV channels available"
+msgstr "TV kanalų nėra"
+
+msgid "No archive data found"
+msgstr "Archyvo duomenų nerasta"
+
+msgid "No categories available"
+msgstr "Nėra kategorijų"
+
+msgid "No content available"
+msgstr "Nėra turinio"
+
+msgid "No content found in this program"
+msgstr "Šioje programoje turinio nerasta"
+
+msgid "No downloads"
+msgstr "Atsisiuntimų nėra"
+
+msgid "No downloads in queue"
+msgstr "Atsisiuntimų eilėje nėra"
+
+msgid "No editions available"
+msgstr "Nėra leidimų"
+
+msgid "No episodes available"
+msgstr "Nėra pasiekiamų serijų"
+
+msgid "No items available"
+msgstr "Prekių nėra"
+
+msgid "No items found"
+msgstr "Elementų nerasta"
+
+msgid "No items found in this archive"
+msgstr "Šiame archyve elementų nerasta"
+
+msgid "No items found in this category"
+msgstr "Šioje kategorijoje prekių nerasta"
+
+msgid "No main theme found"
+msgstr "Pagrindinės temos nerasta"
+
+msgid "No program URL available"
+msgstr "Nėra programos URL"
+
+msgid "No program categories available"
+msgstr "Nėra programų kategorijų"
+
+msgid "No programs available for this day"
+msgstr "Šiai dienai nėra jokių programų"
+
+msgid "No programs currently on air"
+msgstr "Šiuo metu eteryje nėra jokių programų"
+
+msgid "No programs found for:"
+msgstr "Nerasta jokių programų, skirtų:"
+
+msgid "No programs found in A-Z list"
+msgstr "A–Z sąraše nerasta jokių programų"
+
+msgid "No sports categories available"
+msgstr "Nėra jokių sporto kategorijų"
+
+msgid "No stream URL available"
+msgstr "Nėra pasiekiamo srauto URL"
+
+msgid "No video URL available"
+msgstr "Nėra vaizdo įrašo URL"
+
+msgid "No video URL found in the response"
+msgstr "Atsakyme nerasta vaizdo įrašo URL"
+
+msgid "No videos available"
+msgstr "Nėra pasiekiamų vaizdo įrašų"
+
+msgid "No videos found"
+msgstr "Vaizdo įrašų nerasta"
+
+msgid "No videos found in archive"
+msgstr "Archyve vaizdo įrašų nerasta"
+
+msgid "On Air Programs"
+msgstr "Oro programos"
+
+msgid "On Demand"
+msgstr "Pagal pareikalavimą"
+
+msgid "Originals"
+msgstr "Originalai"
+
+msgid "Page"
+msgstr "Puslapis"
+
+msgid "Page with duplicate"
+msgstr "Puslapis su dublikatu"
+
+msgid "Pagination not supported for this archive"
+msgstr "Šiame archyve puslapių spausdinimas nepalaikomas"
+
+msgid "Play"
+msgstr "Žaisti"
+
+msgid "Play & Download"
+msgstr "Žaisti ir atsisiųsti"
+
+msgid "Play/pause not supported for this stream"
+msgstr "Paleisti / pristabdyti šiame sraute nepalaikoma"
+
+msgid "Program list is still loading. Please wait..."
+msgstr "Programų sąrašas vis dar įkeliamas. Prašome palaukti..."
+
+msgid "Programs"
+msgstr "Programos"
+
+msgid "Query too short (min 3 characters)"
+msgstr "Užklausa per trumpa (mažiausiai 3 simboliai)"
+
+msgid "Radio Programs A-Z"
+msgstr "Radijo programos A-Z"
+
+msgid "Rai News"
+msgstr "Rai naujienos"
+
+msgid "Rai Play Live"
+msgstr ""
+
+msgid "Rai Play Live Radio"
+msgstr ""
+
+msgid "Rai Play Main"
+msgstr ""
+
+msgid "Rai Play On Demand"
+msgstr ""
+
+msgid "Rai Play Programs"
+msgstr "Rai Play programos"
+
+msgid "Rai Play Replay TV"
+msgstr ""
+
+msgid "Rai Play Replay:"
+msgstr "„Rai Play“ pakartojimas:"
+
+msgid "Rai Play Search"
+msgstr "Rai Play paieška"
+
+msgid "Rai Sport"
+msgstr "Rai Sportas"
+
+msgid "Rai Sport - Categories"
+msgstr "Rai Sport – Kategorijos"
+
+msgid "Rai Sport - Subcategories"
+msgstr "Rai Sport – subkategorijos"
+
+msgid "RaiPlay Settings"
+msgstr "„RaiPlay“ nustatymai"
+
+msgid "Remove"
+msgstr "Pašalinti"
+
+msgid "Remove download: {}?"
+msgstr "Pašalinti atsisiuntimą: {}?"
+
+msgid "Removed from queue: {}"
+msgstr "Pašalinta iš eilės: {}"
+
+msgid "Replay TV"
+msgstr "Pakartoti TV"
+
+msgid "Search"
+msgstr "Ieškoti"
+
+msgid "Search error. Please try again."
+msgstr "Paieškos klaida. Bandykite dar kartą."
+
+msgid "Searching through programs..."
+msgstr "Ieškoma per programas..."
+
+msgid "Select a category"
+msgstr "Pasirinkite kategoriją"
+
+msgid "Select a video"
+msgstr "Pasirinkite vaizdo įrašą"
+
+msgid "Select block"
+msgstr "Pasirinkite bloką"
+
+msgid "Select category"
+msgstr "Pasirinkite kategoriją"
+
+msgid "Select channel"
+msgstr "Pasirinkite kanalą"
+
+msgid "Select content set"
+msgstr "Pasirinkite turinio rinkinį"
+
+msgid "Select date"
+msgstr "Pasirinkite datą"
+
+msgid "Select edition"
+msgstr "Pasirinkite leidimą"
+
+msgid "Select episode"
+msgstr "Pasirinkite epizodą"
+
+msgid "Select item"
+msgstr "Pasirinkite elementą"
+
+msgid "Select letter"
+msgstr "Pasirinkite raidę"
+
+msgid "Select program"
+msgstr "Pasirinkite programą"
+
+msgid "Select program to watch"
+msgstr "Pasirinkite programą, kurią norite žiūrėti"
+
+msgid "Select subcategory"
+msgstr "Pasirinkite subkategoriją"
+
+msgid "Select video"
+msgstr "Pasirinkite vaizdo įrašą"
+
+msgid "Society & Culture"
+msgstr "Visuomenė ir kultūra"
+
+msgid "Sports"
+msgstr "Sportas"
+
+msgid "Start"
+msgstr "Pradėti"
+
+msgid "Stop"
+msgstr "Sustok"
+
+msgid "Stop the download first before removing"
+msgstr "Prieš pašalindami pirmiausia sustabdykite atsisiuntimą"
+
+msgid "Sustainability"
+msgstr "Tvarumas"
+
+msgid "TGR and Special Programs"
+msgstr "TGR ir specialiosios programos"
+
+msgid "TV News"
+msgstr "TV žinios"
+
+msgid "TV Programs A-Z"
+msgstr "TV programos A-Z"
+
+msgid "Talk Shows"
+msgstr "Pokalbių laidos"
+
+msgid "Tech & Learning"
+msgstr "Technika ir mokymasis"
+
+msgid "Teens"
+msgstr "Paaugliai"
+
+msgid "Temporary"
+msgstr "Laikinas"
+
+msgid "Test download added to queue"
+msgstr "Bandomasis atsisiuntimas įtrauktas į eilę"
+
+msgid "Test download failed"
+msgstr "Bandomasis atsisiuntimas nepavyko"
+
+msgid "Total: {total} | Active: {active} | Queued: {queued} | Completed: {completed} | Errors: {errors}"
+msgstr "Iš viso: {iš viso} | Aktyvus: {aktyvus} | Eilėje: {queued} | Užbaigta: {baigta} | Klaidos: {errors}"
+
+msgid "Travel & Adventure"
+msgstr "Kelionės ir nuotykiai"
+
+msgid "USB Drive"
+msgstr "USB diskas"
+
+msgid "Unknown content type"
+msgstr "Nežinomas turinio tipas"
+
+msgid "Unknown data format"
+msgstr "Nežinomas duomenų formatas"
+
+msgid "Unknown title"
+msgstr "Nežinomas pavadinimas"
+
+msgid "Video URL not available"
+msgstr "Vaizdo įrašo URL negalimas"
+
+msgid "Video URL not found"
+msgstr "Vaizdo įrašo URL nerastas"
+
+msgid "Video not available"
+msgstr "Vaizdo įrašas nepasiekiamas"
+
+msgid "View Full Archive"
+msgstr "Žiūrėti visą archyvą"
+
+msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
+msgstr "SVEIKI ATVYKITE LULULLA RAI PLAY Papildinius"
