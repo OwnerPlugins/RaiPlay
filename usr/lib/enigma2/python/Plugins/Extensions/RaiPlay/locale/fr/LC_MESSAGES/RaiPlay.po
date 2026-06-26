@@ -237,7 +237,7 @@ msgid "Loading complete! Select an option"
 msgstr "Chargement terminé ! Sélectionnez une option"
 
 msgid "Loading data... Please wait"
-msgstr ""
+msgstr "Chargement des données... Veuillez patienter"
 
 msgid "Loading news categories..."
 msgstr "Chargement des catégories d'actualités..."
@@ -300,7 +300,7 @@ msgid "No downloads"
 msgstr "Aucun téléchargement"
 
 msgid "No downloads in queue"
-msgstr ""
+msgstr "Aucun téléchargement en file d'attente"
 
 msgid "No editions available"
 msgstr "Aucune édition disponible"

@@ -245,7 +245,7 @@ msgid "Loading news items..."
 msgstr "正在加载新闻项目..."
 
 msgid "Loading on-air programs..."
-msgstr ""
+msgstr "正在加载直播节目..."
 
 msgid "Loading program data"
 msgstr "加载程序数据"

@@ -351,7 +351,7 @@ msgid "No video URL available"
 msgstr "Video URL pole saadaval"
 
 msgid "No video URL found in the response"
-msgstr ""
+msgstr "Vastusest ei leitud ühtegi video URL-i"
 
 msgid "No videos available"
 msgstr "Saadaval pole ühtegi videot"

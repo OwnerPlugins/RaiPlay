@@ -315,7 +315,7 @@ msgid "No items found"
 msgstr "Nem található elemek"
 
 msgid "No items found in this archive"
-msgstr ""
+msgstr "Nem található elemek ebben az archívumban"
 
 msgid "No items found in this category"
 msgstr "Nem találhatók tételek ebben a kategóriában"

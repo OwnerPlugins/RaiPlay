@@ -182,7 +182,7 @@ msgid "Found {0} programs for: {1}"
 msgstr "找到了 {0} 個程式：{1}"
 
 msgid "Free Space: {free} of {total}"
-msgstr ""
+msgstr "可用空間：{free}，共 {total}"
 
 msgid "Games & Quizzes"
 msgstr "遊戲和測驗"

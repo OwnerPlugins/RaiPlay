@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "A-Z All Programs"
-msgstr ""
+msgstr "A-Z Il-Programmi Kollha"
 
 msgid "A-Z Radio Shows"
 msgstr "Wirjiet tar-Radju A-Z"
@@ -56,7 +56,7 @@ msgid "Content type not recognized"
 msgstr "Tip ta' kontenut mhux rikonoxxut"
 
 msgid "Could not find video URL"
-msgstr ""
+msgstr "Ma setgħetx issib URL tal-vidjo"
 
 msgid "Could not load program content"
 msgstr "Ma setax jgħabbi l-kontenut tal-programm"
@@ -65,7 +65,7 @@ msgid "Crime"
 msgstr "Kriminalità"
 
 msgid "Crime Investigations"
-msgstr ""
+msgstr "Investigazzjonijiet tal-Kriminalità"
 
 msgid "Default Folder"
 msgstr "Folder Default"
@@ -101,7 +101,7 @@ msgid "Error adding download"
 msgstr "Żball li żżid it-tniżżil"
 
 msgid "Error extracting video URL"
-msgstr ""
+msgstr "Żball fl-estrazzjoni tal-URL tal-vidjo"
 
 msgid "Error loading A-Z programs: {}"
 msgstr "Żball fit-tagħbija tal-programmi A-Z: {}"

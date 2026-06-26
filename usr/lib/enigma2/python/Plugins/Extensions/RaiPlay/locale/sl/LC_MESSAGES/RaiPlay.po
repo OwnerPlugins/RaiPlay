@@ -315,7 +315,7 @@ msgid "No items found"
 msgstr "Ni elementov"
 
 msgid "No items found in this archive"
-msgstr ""
+msgstr "V tem arhivu ni bilo najdenih elementov"
 
 msgid "No items found in this category"
 msgstr "V tej kategoriji ni najdenih elementov"
@@ -561,7 +561,7 @@ msgid "USB Drive"
 msgstr "pogon USB"
 
 msgid "Unknown content type"
-msgstr ""
+msgstr "Neznana vrsta vsebine"
 
 msgid "Unknown data format"
 msgstr "Neznana oblika podatkov"

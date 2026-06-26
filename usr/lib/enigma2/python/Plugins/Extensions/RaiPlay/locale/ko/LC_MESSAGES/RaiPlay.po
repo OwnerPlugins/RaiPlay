@@ -150,7 +150,7 @@ msgid "Error playing stream: {}"
 msgstr "스트림 재생 오류: {}"
 
 msgid "Error playing video:"
-msgstr ""
+msgstr "동영상 재생 오류:"
 
 msgid "Error processing archive"
 msgstr "아카이브 처리 중 오류가 발생했습니다."
@@ -528,16 +528,16 @@ msgid "TGR and Special Programs"
 msgstr "TGR 및 특별 프로그램"
 
 msgid "TV News"
-msgstr ""
+msgstr "TV 뉴스"
 
 msgid "TV Programs A-Z"
-msgstr ""
+msgstr "TV 프로그램 A-Z"
 
 msgid "Talk Shows"
-msgstr ""
+msgstr "토크쇼"
 
 msgid "Tech & Learning"
-msgstr ""
+msgstr "기술 및 학습"
 
 msgid "Teens"
 msgstr "열대"
@@ -582,4 +582,4 @@ msgid "View Full Archive"
 msgstr "전체 아카이브 보기"
 
 msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
-msgstr ""
+msgstr "LULULLA의 RAI PLAY 플러그인에 오신 것을 환영합니다."

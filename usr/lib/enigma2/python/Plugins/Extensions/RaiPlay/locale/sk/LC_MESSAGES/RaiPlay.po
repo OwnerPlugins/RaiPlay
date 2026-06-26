@@ -510,7 +510,7 @@ msgid "Society & Culture"
 msgstr "Spoločnosť a kultúra"
 
 msgid "Sports"
-msgstr ""
+msgstr "Šport"
 
 msgid "Start"
 msgstr "Štart"

@@ -141,7 +141,7 @@ msgid "Error parsing data"
 msgstr "Errore durante l'analisi dei dati"
 
 msgid "Error parsing video data: {}"
-msgstr ""
+msgstr "Errore durante l'analisi dei dati video: {}"
 
 msgid "Error playing file: {}"
 msgstr "Errore durante la riproduzione del file: {}"
