@@ -82,9 +82,6 @@ msgstr "دانلود کنید"
 msgid "Download Manager"
 msgstr "دانلود منیجر"
 
-msgid "Download removed: {str(item['title'])}"
-msgstr "دانلود حذف شد: {str(item['title'])}"
-
 msgid "Download started: {}"
 msgstr "دانلود شروع شد: {}"
 
@@ -582,3 +579,6 @@ msgstr "مشاهده آرشیو کامل"
 
 msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
 msgstr "به پلاگین های RAI PLAY BY LULULLA خوش آمدید"
+
+#~ msgid "Download removed: {str(item['title'])}"
+#~ msgstr "دانلود حذف شد: {str(item['title'])}"

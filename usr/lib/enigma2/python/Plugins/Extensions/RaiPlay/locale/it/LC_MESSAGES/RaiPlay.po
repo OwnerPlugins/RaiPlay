@@ -83,9 +83,6 @@ msgstr "Scaricamento"
 msgid "Download Manager"
 msgstr "Scarica Gestore"
 
-msgid "Download removed: {str(item['title'])}"
-msgstr "Download rimosso: {str(item['title'])}"
-
 msgid "Download started: {}"
 msgstr "Download iniziato: {}"
 
@@ -583,3 +580,6 @@ msgstr "Visualizza l'archivio completo"
 
 msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
 msgstr "BENVENUTI SU RAI PLAY PLUGIN BY LULULLA"
+
+#~ msgid "Download removed: {str(item['title'])}"
+#~ msgstr "Download rimosso: {str(item['title'])}"

@@ -83,9 +83,6 @@ msgstr "Tải xuống"
 msgid "Download Manager"
 msgstr "Trình quản lý tải xuống"
 
-msgid "Download removed: {str(item['title'])}"
-msgstr "Đã xóa tải xuống: {str(item['title'])}"
-
 msgid "Download started: {}"
 msgstr "Đã bắt đầu tải xuống: {}"
 
@@ -583,3 +580,6 @@ msgstr "Xem toàn bộ kho lưu trữ"
 
 msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
 msgstr "CHÀO MỪNG ĐẾN VỚI RAI PLAY PLUGINS BỞI LULULLA"
+
+#~ msgid "Download removed: {str(item['title'])}"
+#~ msgstr "Đã xóa tải xuống: {str(item['title'])}"

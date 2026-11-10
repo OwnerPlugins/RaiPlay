@@ -83,9 +83,6 @@ msgstr "다운로드"
 msgid "Download Manager"
 msgstr "다운로드 관리자"
 
-msgid "Download removed: {str(item['title'])}"
-msgstr "다운로드가 삭제됨: {str(item['title'])}"
-
 msgid "Download started: {}"
 msgstr "다운로드 시작됨: {}"
 
@@ -583,3 +580,6 @@ msgstr "전체 아카이브 보기"
 
 msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
 msgstr "LULULLA의 RAI PLAY 플러그인에 오신 것을 환영합니다."
+
+#~ msgid "Download removed: {str(item['title'])}"
+#~ msgstr "다운로드가 삭제됨: {str(item['title'])}"

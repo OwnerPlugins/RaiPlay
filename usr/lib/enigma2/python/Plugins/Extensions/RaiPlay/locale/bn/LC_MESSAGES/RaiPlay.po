@@ -82,9 +82,6 @@ msgstr "ডাউনলোড করুন"
 msgid "Download Manager"
 msgstr "ডাউনলোড ম্যানেজার"
 
-msgid "Download removed: {str(item['title'])}"
-msgstr "ডাউনলোড সরানো হয়েছে: {str(item['title'])}"
-
 msgid "Download started: {}"
 msgstr "ডাউনলোড শুরু হয়েছে: {}"
 
@@ -582,3 +579,6 @@ msgstr "সম্পূর্ণ আর্কাইভ দেখুন"
 
 msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
 msgstr "লুলুল্লার রাই প্লে প্লাগইনগুলিতে স্বাগতম৷"
+
+#~ msgid "Download removed: {str(item['title'])}"
+#~ msgstr "ডাউনলোড সরানো হয়েছে: {str(item['title'])}"

@@ -70,9 +70,6 @@ msgstr ""
 msgid "Download Manager"
 msgstr ""
 
-msgid "Download removed: {str(item['title'])}"
-msgstr ""
-
 msgid "Download started: {}"
 msgstr ""
 

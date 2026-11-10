@@ -83,9 +83,6 @@ msgstr "İndirmek"
 msgid "Download Manager"
 msgstr "İndirme Yöneticisi"
 
-msgid "Download removed: {str(item['title'])}"
-msgstr "İndirme kaldırıldı: {str(item['title'])}"
-
 msgid "Download started: {}"
 msgstr "İndirme başladı: {}"
 
@@ -583,3 +580,6 @@ msgstr "Arşivin Tamamını Görüntüle"
 
 msgid "WELCOME TO RAI PLAY PLUGINS BY LULULLA"
 msgstr "LULULLA TARAFINDAN RAI PLAY EKLENTİLERİNE HOŞGELDİNİZ"
+
+#~ msgid "Download removed: {str(item['title'])}"
+#~ msgstr "İndirme kaldırıldı: {str(item['title'])}"
